@@ -67,10 +67,10 @@ def main():
     chap_ids = {c["id"] for c in chapitres}
     warnings = []
     for v in vocabulaire:
-        if v.get("chapitre_id") not in chap_ids:
+        if v.get("chapitre_id") is not None and v.get("chapitre_id") not in chap_ids:
             warnings.append(f"vocabulaire {v.get('id')} : chapitre_id inconnu ({v.get('chapitre_id')!r})")
     for e in expressions:
-        if e.get("chapitre_id") not in chap_ids:
+        if e.get("chapitre_id") is not None and e.get("chapitre_id") not in chap_ids:
             warnings.append(f"expressions {e.get('id')} : chapitre_id inconnu ({e.get('chapitre_id')!r})")
     for a in actualite:
         if a.get("chapitre_id") not in chap_ids:
