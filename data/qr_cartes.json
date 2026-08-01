@@ -1,22 +1,770 @@
 [
-  { "id": "qr-voc-001", "type": "vocabulaire", "ref_id": "voc-fin-001", "chapitre_id": "finance",
-    "question": "credit crunch", "reponse": "crise du crédit, resserrement du crédit" },
-  { "id": "qr-voc-002", "type": "vocabulaire", "ref_id": "voc-fin-002", "chapitre_id": "finance",
-    "question": "collateral", "reponse": "garantie, nantissement" },
-  { "id": "qr-voc-003", "type": "vocabulaire", "ref_id": "voc-ca-001", "chapitre_id": "compta-audit",
-    "question": "going concern", "reponse": "continuité d'exploitation" },
-  { "id": "qr-voc-004", "type": "vocabulaire", "ref_id": "voc-rse-001", "chapitre_id": "rse-gouvernance",
-    "question": "greenwashing", "reponse": "écoblanchiment" },
-  { "id": "qr-voc-005", "type": "vocabulaire", "ref_id": "voc-si-001", "chapitre_id": "si-technologies",
-    "question": "data breach", "reponse": "violation de données, fuite de données" },
-  { "id": "qr-exp-001", "type": "expression", "ref_id": "exp-001", "chapitre_id": "finance",
-    "question": "to be in the red", "reponse": "être en déficit, être dans le rouge" },
-  { "id": "qr-exp-002", "type": "expression", "ref_id": "exp-002", "chapitre_id": "management-rh",
-    "question": "to think outside the box", "reponse": "sortir des sentiers battus, faire preuve de créativité" },
-  { "id": "qr-ph-001", "type": "phrase", "ref_id": "ph-001", "chapitre_id": null,
+  {
+    "id": "qr-voc-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-fin-001",
+    "chapitre_id": "finance",
+    "question": "credit crunch",
+    "reponse": "crise du crédit, resserrement du crédit"
+  },
+  {
+    "id": "qr-voc-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-fin-002",
+    "chapitre_id": "finance",
+    "question": "collateral",
+    "reponse": "garantie, nantissement"
+  },
+  {
+    "id": "qr-voc-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-ca-001",
+    "chapitre_id": "compta-audit",
+    "question": "going concern",
+    "reponse": "continuité d'exploitation"
+  },
+  {
+    "id": "qr-voc-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-001",
+    "chapitre_id": "rse-gouvernance",
+    "question": "greenwashing",
+    "reponse": "écoblanchiment"
+  },
+  {
+    "id": "qr-voc-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-si-001",
+    "chapitre_id": "si-technologies",
+    "question": "data breach",
+    "reponse": "violation de données, fuite de données"
+  },
+  {
+    "id": "qr-exp-001",
+    "type": "expression",
+    "ref_id": "exp-001",
+    "chapitre_id": "finance",
+    "question": "to be in the red",
+    "reponse": "être en déficit, être dans le rouge"
+  },
+  {
+    "id": "qr-exp-002",
+    "type": "expression",
+    "ref_id": "exp-002",
+    "chapitre_id": "management-rh",
+    "question": "to think outside the box",
+    "reponse": "sortir des sentiers battus, faire preuve de créativité"
+  },
+  {
+    "id": "qr-ph-001",
+    "type": "phrase",
+    "ref_id": "ph-001",
+    "chapitre_id": null,
     "question": "Transition : synthèse → argumentation",
-    "reponse": "Having outlined the author's main points, I would now like to offer my own perspective on this issue." },
-  { "id": "qr-ph-002", "type": "phrase", "ref_id": "ph-004", "chapitre_id": null,
+    "reponse": "Having outlined the author's main points, I would now like to offer my own perspective on this issue."
+  },
+  {
+    "id": "qr-ph-002",
+    "type": "phrase",
+    "ref_id": "ph-004",
+    "chapitre_id": null,
     "question": "Conclure",
-    "reponse": "To conclude, I would say that... though this remains a complex and evolving issue." }
+    "reponse": "To conclude, I would say that... though this remains a complex and evolving issue."
+  },
+  {
+    "id": "qr-ph-003",
+    "type": "phrase",
+    "ref_id": "ph-006",
+    "chapitre_id": null,
+    "question": "Faire une prévision (à partir d'une tendance)",
+    "reponse": "If present trends continue, industrial output should increase."
+  },
+  {
+    "id": "qr-ph-004",
+    "type": "phrase",
+    "ref_id": "ph-007",
+    "chapitre_id": null,
+    "question": "Faire une prévision (citer une estimation)",
+    "reponse": "According to current estimates, growth is expected to slow down next year."
+  },
+  {
+    "id": "qr-ph-005",
+    "type": "phrase",
+    "ref_id": "ph-008",
+    "chapitre_id": null,
+    "question": "Demander poliment",
+    "reponse": "We would be grateful if you could provide more details on this point."
+  },
+  {
+    "id": "qr-ph-006",
+    "type": "phrase",
+    "ref_id": "ph-009",
+    "chapitre_id": null,
+    "question": "Remercier",
+    "reponse": "Thank you for raising this point — we really appreciate your input."
+  },
+  {
+    "id": "qr-ph-007",
+    "type": "phrase",
+    "ref_id": "ph-010",
+    "chapitre_id": null,
+    "question": "Nuancer un désaccord",
+    "reponse": "We regret that this hasn't been fully addressed, but we remain open to further discussion."
+  },
+  {
+    "id": "qr-voc-rse-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-002",
+    "chapitre_id": "rse-gouvernance",
+    "question": "activist",
+    "reponse": "militant(e)"
+  },
+  {
+    "id": "qr-voc-rse-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-003",
+    "chapitre_id": "rse-gouvernance",
+    "question": "alternative currency",
+    "reponse": "devise alternative"
+  },
+  {
+    "id": "qr-voc-rse-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-004",
+    "chapitre_id": "rse-gouvernance",
+    "question": "access to health care",
+    "reponse": "accès aux soins de santé"
+  },
+  {
+    "id": "qr-voc-rse-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-005",
+    "chapitre_id": "rse-gouvernance",
+    "question": "barter system",
+    "reponse": "système de troc"
+  },
+  {
+    "id": "qr-voc-rse-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-006",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to benefit society",
+    "reponse": "profiter à la société"
+  },
+  {
+    "id": "qr-voc-rse-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-007",
+    "chapitre_id": "rse-gouvernance",
+    "question": "boycott campaign",
+    "reponse": "campagne de boycott"
+  },
+  {
+    "id": "qr-voc-rse-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-008",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to bridge a gap",
+    "reponse": "combler un fossé"
+  },
+  {
+    "id": "qr-voc-rse-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-009",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to call into question",
+    "reponse": "remettre en question"
+  },
+  {
+    "id": "qr-voc-rse-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-010",
+    "chapitre_id": "rse-gouvernance",
+    "question": "cause marketing",
+    "reponse": "marketing de cause sociale ou humanitaire"
+  },
+  {
+    "id": "qr-voc-rse-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-011",
+    "chapitre_id": "rse-gouvernance",
+    "question": "charity",
+    "reponse": "organisme caritatif"
+  },
+  {
+    "id": "qr-voc-rse-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-012",
+    "chapitre_id": "rse-gouvernance",
+    "question": "consumer pressure",
+    "reponse": "pression des consommateurs"
+  },
+  {
+    "id": "qr-voc-rse-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-013",
+    "chapitre_id": "rse-gouvernance",
+    "question": "commitment",
+    "reponse": "engagement"
+  },
+  {
+    "id": "qr-voc-rse-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-014",
+    "chapitre_id": "rse-gouvernance",
+    "question": "crowdfunding",
+    "reponse": "financement participatif"
+  },
+  {
+    "id": "qr-voc-rse-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-015",
+    "chapitre_id": "rse-gouvernance",
+    "question": "CSR (Corporate Social Responsibility)",
+    "reponse": "RSE (responsabilité sociale des entreprises)"
+  },
+  {
+    "id": "qr-voc-rse-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-016",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to donate money",
+    "reponse": "faire un don d'argent"
+  },
+  {
+    "id": "qr-voc-rse-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-017",
+    "chapitre_id": "rse-gouvernance",
+    "question": "egalitarian",
+    "reponse": "égalitaire"
+  },
+  {
+    "id": "qr-voc-rse-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-018",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to empower",
+    "reponse": "autonomiser, émanciper"
+  },
+  {
+    "id": "qr-voc-rse-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-019",
+    "chapitre_id": "rse-gouvernance",
+    "question": "empowerment",
+    "reponse": "autonomisation"
+  },
+  {
+    "id": "qr-voc-rse-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-020",
+    "chapitre_id": "rse-gouvernance",
+    "question": "environmental awareness",
+    "reponse": "conscience écologique"
+  },
+  {
+    "id": "qr-voc-rse-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-021",
+    "chapitre_id": "rse-gouvernance",
+    "question": "environmental footprint",
+    "reponse": "empreinte écologique"
+  },
+  {
+    "id": "qr-voc-rse-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-022",
+    "chapitre_id": "rse-gouvernance",
+    "question": "equal in rights",
+    "reponse": "égaux en droits"
+  },
+  {
+    "id": "qr-voc-rse-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-023",
+    "chapitre_id": "rse-gouvernance",
+    "question": "ethical investment",
+    "reponse": "investissement éthique"
+  },
+  {
+    "id": "qr-voc-rse-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-024",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to foster solidarity",
+    "reponse": "favoriser la solidarité"
+  },
+  {
+    "id": "qr-voc-rse-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-025",
+    "chapitre_id": "rse-gouvernance",
+    "question": "fundraising",
+    "reponse": "collecte de fonds"
+  },
+  {
+    "id": "qr-voc-rse-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-026",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to involve local actors",
+    "reponse": "impliquer des acteurs locaux"
+  },
+  {
+    "id": "qr-voc-rse-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-027",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to lend money to sb",
+    "reponse": "prêter de l'argent à quelqu'un"
+  },
+  {
+    "id": "qr-voc-rse-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-028",
+    "chapitre_id": "rse-gouvernance",
+    "question": "moneyless trading",
+    "reponse": "commerce sans argent"
+  },
+  {
+    "id": "qr-voc-rse-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-029",
+    "chapitre_id": "rse-gouvernance",
+    "question": "NGO (non-governmental organization)",
+    "reponse": "ONG (organisation non gouvernementale)"
+  },
+  {
+    "id": "qr-voc-rse-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-030",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to overcome inequalities",
+    "reponse": "surmonter les inégalités"
+  },
+  {
+    "id": "qr-voc-rse-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-031",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to pool skills",
+    "reponse": "mutualiser des compétences"
+  },
+  {
+    "id": "qr-voc-rse-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-032",
+    "chapitre_id": "rse-gouvernance",
+    "question": "peer lending",
+    "reponse": "prêt entre pairs"
+  },
+  {
+    "id": "qr-voc-rse-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-033",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to reduce inequalities",
+    "reponse": "réduire les inégalités"
+  },
+  {
+    "id": "qr-voc-rse-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-034",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to raise awareness",
+    "reponse": "faire prendre conscience"
+  },
+  {
+    "id": "qr-voc-rse-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-035",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to raise funds",
+    "reponse": "lever des fonds"
+  },
+  {
+    "id": "qr-voc-rse-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-036",
+    "chapitre_id": "rse-gouvernance",
+    "question": "self-help group",
+    "reponse": "groupe d'entraide"
+  },
+  {
+    "id": "qr-voc-rse-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-037",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to set up a cooperative",
+    "reponse": "monter une coopérative"
+  },
+  {
+    "id": "qr-voc-rse-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-038",
+    "chapitre_id": "rse-gouvernance",
+    "question": "social entrepreneurship",
+    "reponse": "entreprenariat social"
+  },
+  {
+    "id": "qr-voc-rse-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-039",
+    "chapitre_id": "rse-gouvernance",
+    "question": "social benefit",
+    "reponse": "prestation sociale"
+  },
+  {
+    "id": "qr-voc-rse-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-040",
+    "chapitre_id": "rse-gouvernance",
+    "question": "social businesses",
+    "reponse": "entreprises sociales"
+  },
+  {
+    "id": "qr-voc-rse-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-041",
+    "chapitre_id": "rse-gouvernance",
+    "question": "sustainability",
+    "reponse": "durabilité"
+  },
+  {
+    "id": "qr-voc-rse-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-042",
+    "chapitre_id": "rse-gouvernance",
+    "question": "sustainable economy",
+    "reponse": "économie durable"
+  },
+  {
+    "id": "qr-voc-rse-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-rse-043",
+    "chapitre_id": "rse-gouvernance",
+    "question": "stakeholder",
+    "reponse": "partie prenante"
+  },
+  {
+    "id": "qr-voc-pm-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-001",
+    "chapitre_id": "production-marketing",
+    "question": "brand image",
+    "reponse": "image de marque"
+  },
+  {
+    "id": "qr-voc-pm-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-002",
+    "chapitre_id": "production-marketing",
+    "question": "brand name",
+    "reponse": "nom de marque"
+  },
+  {
+    "id": "qr-voc-pm-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-003",
+    "chapitre_id": "production-marketing",
+    "question": "branding",
+    "reponse": "stratégie de marque"
+  },
+  {
+    "id": "qr-voc-pm-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-004",
+    "chapitre_id": "production-marketing",
+    "question": "to build a relationship",
+    "reponse": "construire une relation"
+  },
+  {
+    "id": "qr-voc-pm-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-005",
+    "chapitre_id": "production-marketing",
+    "question": "consumer",
+    "reponse": "consommateur"
+  },
+  {
+    "id": "qr-voc-pm-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-006",
+    "chapitre_id": "production-marketing",
+    "question": "to convey",
+    "reponse": "transmettre, véhiculer (une image)"
+  },
+  {
+    "id": "qr-voc-pm-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-007",
+    "chapitre_id": "production-marketing",
+    "question": "corporate behaviour",
+    "reponse": "comportement d'entreprise"
+  },
+  {
+    "id": "qr-voc-pm-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-008",
+    "chapitre_id": "production-marketing",
+    "question": "crisis management",
+    "reponse": "gestion de crise"
+  },
+  {
+    "id": "qr-voc-pm-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-009",
+    "chapitre_id": "production-marketing",
+    "question": "to damage",
+    "reponse": "nuire à, endommager"
+  },
+  {
+    "id": "qr-voc-pm-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-010",
+    "chapitre_id": "production-marketing",
+    "question": "damage control",
+    "reponse": "limitation des dégâts"
+  },
+  {
+    "id": "qr-voc-pm-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-011",
+    "chapitre_id": "production-marketing",
+    "question": "to deceive",
+    "reponse": "tromper"
+  },
+  {
+    "id": "qr-voc-pm-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-012",
+    "chapitre_id": "production-marketing",
+    "question": "deception",
+    "reponse": "tromperie"
+  },
+  {
+    "id": "qr-voc-pm-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-013",
+    "chapitre_id": "production-marketing",
+    "question": "to emphasize / to highlight",
+    "reponse": "souligner, mettre en avant"
+  },
+  {
+    "id": "qr-voc-pm-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-014",
+    "chapitre_id": "production-marketing",
+    "question": "to ensure",
+    "reponse": "garantir, s'assurer que"
+  },
+  {
+    "id": "qr-voc-pm-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-015",
+    "chapitre_id": "production-marketing",
+    "question": "feedback",
+    "reponse": "retour, avis"
+  },
+  {
+    "id": "qr-voc-pm-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-016",
+    "chapitre_id": "production-marketing",
+    "question": "to get in touch with",
+    "reponse": "prendre contact avec"
+  },
+  {
+    "id": "qr-voc-pm-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-017",
+    "chapitre_id": "production-marketing",
+    "question": "guideline",
+    "reponse": "directive, ligne directrice"
+  },
+  {
+    "id": "qr-voc-pm-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-018",
+    "chapitre_id": "production-marketing",
+    "question": "to handle a crisis",
+    "reponse": "gérer une crise"
+  },
+  {
+    "id": "qr-voc-pm-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-019",
+    "chapitre_id": "production-marketing",
+    "question": "to harm",
+    "reponse": "nuire à"
+  },
+  {
+    "id": "qr-voc-pm-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-020",
+    "chapitre_id": "production-marketing",
+    "question": "influencer marketing",
+    "reponse": "marketing d'influence"
+  },
+  {
+    "id": "qr-voc-pm-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-021",
+    "chapitre_id": "production-marketing",
+    "question": "to lobby",
+    "reponse": "faire pression, faire du lobbying"
+  },
+  {
+    "id": "qr-voc-pm-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-022",
+    "chapitre_id": "production-marketing",
+    "question": "to lose control over",
+    "reponse": "perdre le contrôle de"
+  },
+  {
+    "id": "qr-voc-pm-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-023",
+    "chapitre_id": "production-marketing",
+    "question": "loyalty",
+    "reponse": "fidélité"
+  },
+  {
+    "id": "qr-voc-pm-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-024",
+    "chapitre_id": "production-marketing",
+    "question": "the media",
+    "reponse": "les médias"
+  },
+  {
+    "id": "qr-voc-pm-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-025",
+    "chapitre_id": "production-marketing",
+    "question": "misleading",
+    "reponse": "trompeur"
+  },
+  {
+    "id": "qr-voc-pm-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-026",
+    "chapitre_id": "production-marketing",
+    "question": "to monitor content",
+    "reponse": "surveiller le contenu"
+  },
+  {
+    "id": "qr-voc-pm-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-027",
+    "chapitre_id": "production-marketing",
+    "question": "opinion survey",
+    "reponse": "sondage d'opinion"
+  },
+  {
+    "id": "qr-voc-pm-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-028",
+    "chapitre_id": "production-marketing",
+    "question": "publicity",
+    "reponse": "publicité, retentissement médiatique"
+  },
+  {
+    "id": "qr-voc-pm-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-029",
+    "chapitre_id": "production-marketing",
+    "question": "reliable",
+    "reponse": "fiable"
+  },
+  {
+    "id": "qr-voc-pm-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-030",
+    "chapitre_id": "production-marketing",
+    "question": "to smear",
+    "reponse": "salir la réputation de"
+  },
+  {
+    "id": "qr-voc-pm-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-031",
+    "chapitre_id": "production-marketing",
+    "question": "spin doctor",
+    "reponse": "communicant chargé de l'image"
+  },
+  {
+    "id": "qr-voc-pm-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-032",
+    "chapitre_id": "production-marketing",
+    "question": "spokesperson",
+    "reponse": "porte-parole"
+  },
+  {
+    "id": "qr-voc-pm-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-033",
+    "chapitre_id": "production-marketing",
+    "question": "to spread word of mouth",
+    "reponse": "faire du bouche-à-oreille"
+  },
+  {
+    "id": "qr-voc-pm-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-034",
+    "chapitre_id": "production-marketing",
+    "question": "to target",
+    "reponse": "cibler"
+  },
+  {
+    "id": "qr-voc-pm-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-035",
+    "chapitre_id": "production-marketing",
+    "question": "to tarnish",
+    "reponse": "ternir"
+  },
+  {
+    "id": "qr-voc-pm-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-036",
+    "chapitre_id": "production-marketing",
+    "question": "to trust",
+    "reponse": "faire confiance à"
+  },
+  {
+    "id": "qr-voc-pm-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-037",
+    "chapitre_id": "production-marketing",
+    "question": "to walk the talk",
+    "reponse": "joindre les actes à la parole"
+  },
+  {
+    "id": "qr-voc-pm-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-038",
+    "chapitre_id": "production-marketing",
+    "question": "clickbait",
+    "reponse": "piège à clics"
+  },
+  {
+    "id": "qr-voc-pm-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-039",
+    "chapitre_id": "production-marketing",
+    "question": "after-sales service",
+    "reponse": "service après-vente"
+  },
+  {
+    "id": "qr-voc-pm-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-pm-040",
+    "chapitre_id": "production-marketing",
+    "question": "advertiser",
+    "reponse": "annonceur"
+  }
 ]
