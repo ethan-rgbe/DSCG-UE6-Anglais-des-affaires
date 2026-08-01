@@ -1,0 +1,36 @@
+name: Veille d'actualité
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # tous les jours à 06:00 UTC (~08:00 heure de Paris en été)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Mettre à jour data/actualite.json
+        run: python scripts/veille.py
+
+      - name: Committer si changement (déclenche le déploiement)
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet -- data/actualite.json; then
+            git add data/actualite.json
+            git commit -m "Veille : mise à jour automatique de l'actualité"
+            git push
+          else
+            echo "Aucun changement dans data/actualite.json."
+          fi
