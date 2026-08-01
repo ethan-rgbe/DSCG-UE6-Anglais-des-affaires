@@ -1,0 +1,9 @@
+{
+  "finance": ["bank", "banks", "banking", "credit", "loan", "loans", "interest rate", "interest rates", "bond", "bonds", "equity", "equities", "stock market", "shares", "ipo", "financial crisis", "central bank", "federal reserve", "european central bank", "inflation", "hedge fund", "investment", "investor", "lender", "borrowing", "mortgage"],
+  "compta-audit": ["audit", "auditor", "auditors", "accounting", "accountant", "ifrs", "us gaap", "financial statement", "financial statements", "balance sheet", "esg reporting", "annual report", "going concern", "earnings report"],
+  "rse-gouvernance": ["esg", "sustainability", "sustainable", "csr", "corporate social responsibility", "greenwashing", "stakeholder", "stakeholders", "governance", "carbon emissions", "climate target", "diversity report", "board of directors"],
+  "si-technologies": ["artificial intelligence", "ai model", "cybersecurity", "cyberattack", "data breach", "big data", "digital transformation", "chatgpt", "machine learning", "cloud computing", "tech company", "software", "algorithm", "openai"],
+  "management-rh": ["human resources", "leadership", "hybrid work", "remote work", "talent management", "workforce", "diversity and inclusion", "employees", "staff cuts", "layoffs", "recruitment", "workplace", "employee"],
+  "production-marketing": ["supply chain", "marketing", "brand", "branding", "advertising", "e-commerce", "retail", "product launch", "consumer", "manufacturing", "logistics"],
+  "relations-internationales": ["trade deal", "tariff", "tariffs", "globalization", "export", "exports", "import", "imports", "free trade", "international market", "world trade", "eurozone", "brexit", "trade war"]
+}
