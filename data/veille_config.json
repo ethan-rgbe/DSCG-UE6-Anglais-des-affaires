@@ -6,7 +6,7 @@
     { "source": "The Guardian — Business", "url": "https://www.theguardian.com/uk/business/rss", "mode": "classify" },
     { "source": "Financial Times", "url": "https://www.ft.com/rss/home/international", "mode": "classify" },
 
-    { "source": "Google Alerts — Finance", "url": "VOTRE_URL_ALERTE_FINANCE", "mode": "fixed", "chapitre_id": "finance" },
+    { "source": "Google Alerts — Finance", "url": "https://www.google.fr/alerts?hl=fr&gl=fr&q=banking+crisis&pli=1#2:10", "mode": "fixed", "chapitre_id": "finance" },
     { "source": "Google Alerts — Comptabilité et audit", "url": "VOTRE_URL_ALERTE_COMPTA_AUDIT", "mode": "fixed", "chapitre_id": "compta-audit" },
     { "source": "Google Alerts — RSE et gouvernance", "url": "VOTRE_URL_ALERTE_RSE_GOUVERNANCE", "mode": "fixed", "chapitre_id": "rse-gouvernance" },
     { "source": "Google Alerts — Systèmes d'information", "url": "VOTRE_URL_ALERTE_SI_TECHNOLOGIES", "mode": "fixed", "chapitre_id": "si-technologies" },
