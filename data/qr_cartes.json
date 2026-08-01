@@ -766,5 +766,4389 @@
     "chapitre_id": "production-marketing",
     "question": "advertiser",
     "reponse": "annonceur"
+  },
+  {
+    "id": "qr-irrverb-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-001",
+    "chapitre_id": null,
+    "question": "abide – abode/abided – abode/abided",
+    "reponse": "respecter, se conformer à"
+  },
+  {
+    "id": "qr-irrverb-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-002",
+    "chapitre_id": null,
+    "question": "arise – arose – arisen",
+    "reponse": "survenir, se présenter"
+  },
+  {
+    "id": "qr-irrverb-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-003",
+    "chapitre_id": null,
+    "question": "awake – awoke – awoken",
+    "reponse": "se réveiller"
+  },
+  {
+    "id": "qr-irrverb-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-004",
+    "chapitre_id": null,
+    "question": "bear – bore – borne",
+    "reponse": "porter, supporter"
+  },
+  {
+    "id": "qr-irrverb-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-005",
+    "chapitre_id": null,
+    "question": "beat – beat – beaten",
+    "reponse": "battre"
+  },
+  {
+    "id": "qr-irrverb-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-006",
+    "chapitre_id": null,
+    "question": "become – became – become",
+    "reponse": "devenir"
+  },
+  {
+    "id": "qr-irrverb-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-007",
+    "chapitre_id": null,
+    "question": "begin – began – begun",
+    "reponse": "commencer"
+  },
+  {
+    "id": "qr-irrverb-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-008",
+    "chapitre_id": null,
+    "question": "bend – bent – bent",
+    "reponse": "plier, courber"
+  },
+  {
+    "id": "qr-irrverb-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-009",
+    "chapitre_id": null,
+    "question": "bet – bet – bet",
+    "reponse": "parier"
+  },
+  {
+    "id": "qr-irrverb-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-010",
+    "chapitre_id": null,
+    "question": "bid – bid – bid",
+    "reponse": "offrir un prix, enchérir"
+  },
+  {
+    "id": "qr-irrverb-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-011",
+    "chapitre_id": null,
+    "question": "bind – bound – bound",
+    "reponse": "lier, attacher"
+  },
+  {
+    "id": "qr-irrverb-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-012",
+    "chapitre_id": null,
+    "question": "bite – bit – bitten",
+    "reponse": "mordre"
+  },
+  {
+    "id": "qr-irrverb-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-013",
+    "chapitre_id": null,
+    "question": "bleed – bled – bled",
+    "reponse": "saigner"
+  },
+  {
+    "id": "qr-irrverb-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-014",
+    "chapitre_id": null,
+    "question": "blow – blew – blown",
+    "reponse": "souffler"
+  },
+  {
+    "id": "qr-irrverb-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-015",
+    "chapitre_id": null,
+    "question": "break – broke – broken",
+    "reponse": "casser, rompre"
+  },
+  {
+    "id": "qr-irrverb-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-016",
+    "chapitre_id": null,
+    "question": "breed – bred – bred",
+    "reponse": "élever (des animaux), engendrer"
+  },
+  {
+    "id": "qr-irrverb-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-017",
+    "chapitre_id": null,
+    "question": "bring – brought – brought",
+    "reponse": "apporter"
+  },
+  {
+    "id": "qr-irrverb-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-018",
+    "chapitre_id": null,
+    "question": "broadcast – broadcast – broadcast",
+    "reponse": "diffuser"
+  },
+  {
+    "id": "qr-irrverb-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-019",
+    "chapitre_id": null,
+    "question": "build – built – built",
+    "reponse": "construire"
+  },
+  {
+    "id": "qr-irrverb-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-020",
+    "chapitre_id": null,
+    "question": "burn – burnt/burned – burnt/burned",
+    "reponse": "brûler"
+  },
+  {
+    "id": "qr-irrverb-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-021",
+    "chapitre_id": null,
+    "question": "burst – burst – burst",
+    "reponse": "éclater"
+  },
+  {
+    "id": "qr-irrverb-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-022",
+    "chapitre_id": null,
+    "question": "buy – bought – bought",
+    "reponse": "acheter"
+  },
+  {
+    "id": "qr-irrverb-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-023",
+    "chapitre_id": null,
+    "question": "cast – cast – cast",
+    "reponse": "jeter, distribuer un rôle"
+  },
+  {
+    "id": "qr-irrverb-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-024",
+    "chapitre_id": null,
+    "question": "catch – caught – caught",
+    "reponse": "attraper"
+  },
+  {
+    "id": "qr-irrverb-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-025",
+    "chapitre_id": null,
+    "question": "choose – chose – chosen",
+    "reponse": "choisir"
+  },
+  {
+    "id": "qr-irrverb-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-026",
+    "chapitre_id": null,
+    "question": "cling – clung – clung",
+    "reponse": "s'accrocher"
+  },
+  {
+    "id": "qr-irrverb-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-027",
+    "chapitre_id": null,
+    "question": "come – came – come",
+    "reponse": "venir"
+  },
+  {
+    "id": "qr-irrverb-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-028",
+    "chapitre_id": null,
+    "question": "cost – cost – cost",
+    "reponse": "coûter"
+  },
+  {
+    "id": "qr-irrverb-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-029",
+    "chapitre_id": null,
+    "question": "creep – crept – crept",
+    "reponse": "ramper"
+  },
+  {
+    "id": "qr-irrverb-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-030",
+    "chapitre_id": null,
+    "question": "cut – cut – cut",
+    "reponse": "couper"
+  },
+  {
+    "id": "qr-irrverb-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-031",
+    "chapitre_id": null,
+    "question": "deal – dealt – dealt",
+    "reponse": "traiter une affaire, distribuer"
+  },
+  {
+    "id": "qr-irrverb-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-032",
+    "chapitre_id": null,
+    "question": "dig – dug – dug",
+    "reponse": "creuser"
+  },
+  {
+    "id": "qr-irrverb-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-033",
+    "chapitre_id": null,
+    "question": "do – did – done",
+    "reponse": "faire"
+  },
+  {
+    "id": "qr-irrverb-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-034",
+    "chapitre_id": null,
+    "question": "draw – drew – drawn",
+    "reponse": "dessiner, tirer"
+  },
+  {
+    "id": "qr-irrverb-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-035",
+    "chapitre_id": null,
+    "question": "dream – dreamt/dreamed – dreamt/dreamed",
+    "reponse": "rêver"
+  },
+  {
+    "id": "qr-irrverb-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-036",
+    "chapitre_id": null,
+    "question": "drink – drank – drunk",
+    "reponse": "boire"
+  },
+  {
+    "id": "qr-irrverb-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-037",
+    "chapitre_id": null,
+    "question": "drive – drove – driven",
+    "reponse": "conduire"
+  },
+  {
+    "id": "qr-irrverb-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-038",
+    "chapitre_id": null,
+    "question": "eat – ate – eaten",
+    "reponse": "manger"
+  },
+  {
+    "id": "qr-irrverb-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-039",
+    "chapitre_id": null,
+    "question": "fall – fell – fallen",
+    "reponse": "tomber"
+  },
+  {
+    "id": "qr-irrverb-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-040",
+    "chapitre_id": null,
+    "question": "feed – fed – fed",
+    "reponse": "nourrir"
+  },
+  {
+    "id": "qr-irrverb-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-041",
+    "chapitre_id": null,
+    "question": "feel – felt – felt",
+    "reponse": "ressentir"
+  },
+  {
+    "id": "qr-irrverb-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-042",
+    "chapitre_id": null,
+    "question": "fight – fought – fought",
+    "reponse": "se battre"
+  },
+  {
+    "id": "qr-irrverb-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-043",
+    "chapitre_id": null,
+    "question": "find – found – found",
+    "reponse": "trouver"
+  },
+  {
+    "id": "qr-irrverb-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-044",
+    "chapitre_id": null,
+    "question": "flee – fled – fled",
+    "reponse": "fuir"
+  },
+  {
+    "id": "qr-irrverb-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-045",
+    "chapitre_id": null,
+    "question": "fly – flew – flown",
+    "reponse": "voler"
+  },
+  {
+    "id": "qr-irrverb-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-046",
+    "chapitre_id": null,
+    "question": "forbid – forbade – forbidden",
+    "reponse": "interdire"
+  },
+  {
+    "id": "qr-irrverb-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-047",
+    "chapitre_id": null,
+    "question": "forecast – forecast – forecast",
+    "reponse": "prévoir"
+  },
+  {
+    "id": "qr-irrverb-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-048",
+    "chapitre_id": null,
+    "question": "foresee – foresaw – foreseen",
+    "reponse": "prévoir, anticiper"
+  },
+  {
+    "id": "qr-irrverb-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-049",
+    "chapitre_id": null,
+    "question": "forget – forgot – forgotten",
+    "reponse": "oublier"
+  },
+  {
+    "id": "qr-irrverb-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-050",
+    "chapitre_id": null,
+    "question": "forgive – forgave – forgiven",
+    "reponse": "pardonner"
+  },
+  {
+    "id": "qr-irrverb-051",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-051",
+    "chapitre_id": null,
+    "question": "freeze – froze – frozen",
+    "reponse": "geler"
+  },
+  {
+    "id": "qr-irrverb-052",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-052",
+    "chapitre_id": null,
+    "question": "get – got – got/gotten",
+    "reponse": "obtenir"
+  },
+  {
+    "id": "qr-irrverb-053",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-053",
+    "chapitre_id": null,
+    "question": "give – gave – given",
+    "reponse": "donner"
+  },
+  {
+    "id": "qr-irrverb-054",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-054",
+    "chapitre_id": null,
+    "question": "go – went – gone",
+    "reponse": "aller"
+  },
+  {
+    "id": "qr-irrverb-055",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-055",
+    "chapitre_id": null,
+    "question": "grind – ground – ground",
+    "reponse": "moudre, broyer"
+  },
+  {
+    "id": "qr-irrverb-056",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-056",
+    "chapitre_id": null,
+    "question": "grow – grew – grown",
+    "reponse": "grandir, croître"
+  },
+  {
+    "id": "qr-irrverb-057",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-057",
+    "chapitre_id": null,
+    "question": "hang – hung – hung",
+    "reponse": "suspendre, accrocher"
+  },
+  {
+    "id": "qr-irrverb-058",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-058",
+    "chapitre_id": null,
+    "question": "have – had – had",
+    "reponse": "avoir"
+  },
+  {
+    "id": "qr-irrverb-059",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-059",
+    "chapitre_id": null,
+    "question": "hear – heard – heard",
+    "reponse": "entendre"
+  },
+  {
+    "id": "qr-irrverb-060",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-060",
+    "chapitre_id": null,
+    "question": "hide – hid – hidden",
+    "reponse": "cacher"
+  },
+  {
+    "id": "qr-irrverb-061",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-061",
+    "chapitre_id": null,
+    "question": "hit – hit – hit",
+    "reponse": "frapper"
+  },
+  {
+    "id": "qr-irrverb-062",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-062",
+    "chapitre_id": null,
+    "question": "hold – held – held",
+    "reponse": "tenir"
+  },
+  {
+    "id": "qr-irrverb-063",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-063",
+    "chapitre_id": null,
+    "question": "hurt – hurt – hurt",
+    "reponse": "blesser"
+  },
+  {
+    "id": "qr-irrverb-064",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-064",
+    "chapitre_id": null,
+    "question": "keep – kept – kept",
+    "reponse": "garder"
+  },
+  {
+    "id": "qr-irrverb-065",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-065",
+    "chapitre_id": null,
+    "question": "kneel – knelt – knelt",
+    "reponse": "s'agenouiller"
+  },
+  {
+    "id": "qr-irrverb-066",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-066",
+    "chapitre_id": null,
+    "question": "know – knew – known",
+    "reponse": "savoir, connaître"
+  },
+  {
+    "id": "qr-irrverb-067",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-067",
+    "chapitre_id": null,
+    "question": "lay – laid – laid",
+    "reponse": "poser, déposer"
+  },
+  {
+    "id": "qr-irrverb-068",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-068",
+    "chapitre_id": null,
+    "question": "lead – led – led",
+    "reponse": "diriger, mener"
+  },
+  {
+    "id": "qr-irrverb-069",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-069",
+    "chapitre_id": null,
+    "question": "lean – leant/leaned – leant/leaned",
+    "reponse": "s'appuyer, pencher"
+  },
+  {
+    "id": "qr-irrverb-070",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-070",
+    "chapitre_id": null,
+    "question": "leap – leapt/leaped – leapt/leaped",
+    "reponse": "sauter, bondir"
+  },
+  {
+    "id": "qr-irrverb-071",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-071",
+    "chapitre_id": null,
+    "question": "learn – learnt/learned – learnt/learned",
+    "reponse": "apprendre"
+  },
+  {
+    "id": "qr-irrverb-072",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-072",
+    "chapitre_id": null,
+    "question": "leave – left – left",
+    "reponse": "partir, laisser"
+  },
+  {
+    "id": "qr-irrverb-073",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-073",
+    "chapitre_id": null,
+    "question": "lend – lent – lent",
+    "reponse": "prêter"
+  },
+  {
+    "id": "qr-irrverb-074",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-074",
+    "chapitre_id": null,
+    "question": "let – let – let",
+    "reponse": "laisser, permettre"
+  },
+  {
+    "id": "qr-irrverb-075",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-075",
+    "chapitre_id": null,
+    "question": "lie – lay – lain",
+    "reponse": "être allongé (≠ to lie/lied/lied = mentir)"
+  },
+  {
+    "id": "qr-irrverb-076",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-076",
+    "chapitre_id": null,
+    "question": "light – lit/lighted – lit/lighted",
+    "reponse": "allumer"
+  },
+  {
+    "id": "qr-irrverb-077",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-077",
+    "chapitre_id": null,
+    "question": "lose – lost – lost",
+    "reponse": "perdre"
+  },
+  {
+    "id": "qr-irrverb-078",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-078",
+    "chapitre_id": null,
+    "question": "make – made – made",
+    "reponse": "faire, fabriquer"
+  },
+  {
+    "id": "qr-irrverb-079",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-079",
+    "chapitre_id": null,
+    "question": "mean – meant – meant",
+    "reponse": "signifier, vouloir dire"
+  },
+  {
+    "id": "qr-irrverb-080",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-080",
+    "chapitre_id": null,
+    "question": "meet – met – met",
+    "reponse": "rencontrer"
+  },
+  {
+    "id": "qr-irrverb-081",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-081",
+    "chapitre_id": null,
+    "question": "mistake – mistook – mistaken",
+    "reponse": "se tromper"
+  },
+  {
+    "id": "qr-irrverb-082",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-082",
+    "chapitre_id": null,
+    "question": "overcome – overcame – overcome",
+    "reponse": "surmonter"
+  },
+  {
+    "id": "qr-irrverb-083",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-083",
+    "chapitre_id": null,
+    "question": "pay – paid – paid",
+    "reponse": "payer"
+  },
+  {
+    "id": "qr-irrverb-084",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-084",
+    "chapitre_id": null,
+    "question": "put – put – put",
+    "reponse": "mettre, poser"
+  },
+  {
+    "id": "qr-irrverb-085",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-085",
+    "chapitre_id": null,
+    "question": "quit – quit – quit",
+    "reponse": "quitter, arrêter"
+  },
+  {
+    "id": "qr-irrverb-086",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-086",
+    "chapitre_id": null,
+    "question": "read – read – read",
+    "reponse": "lire"
+  },
+  {
+    "id": "qr-irrverb-087",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-087",
+    "chapitre_id": null,
+    "question": "rid – rid – rid",
+    "reponse": "débarrasser"
+  },
+  {
+    "id": "qr-irrverb-088",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-088",
+    "chapitre_id": null,
+    "question": "ride – rode – ridden",
+    "reponse": "monter (à cheval, en vélo)"
+  },
+  {
+    "id": "qr-irrverb-089",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-089",
+    "chapitre_id": null,
+    "question": "ring – rang – rung",
+    "reponse": "sonner"
+  },
+  {
+    "id": "qr-irrverb-090",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-090",
+    "chapitre_id": null,
+    "question": "rise – rose – risen",
+    "reponse": "s'élever, augmenter"
+  },
+  {
+    "id": "qr-irrverb-091",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-091",
+    "chapitre_id": null,
+    "question": "run – ran – run",
+    "reponse": "courir"
+  },
+  {
+    "id": "qr-irrverb-092",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-092",
+    "chapitre_id": null,
+    "question": "saw – sawed – sawn",
+    "reponse": "scier"
+  },
+  {
+    "id": "qr-irrverb-093",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-093",
+    "chapitre_id": null,
+    "question": "say – said – said",
+    "reponse": "dire"
+  },
+  {
+    "id": "qr-irrverb-094",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-094",
+    "chapitre_id": null,
+    "question": "see – saw – seen",
+    "reponse": "voir"
+  },
+  {
+    "id": "qr-irrverb-095",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-095",
+    "chapitre_id": null,
+    "question": "seek – sought – sought",
+    "reponse": "chercher, rechercher"
+  },
+  {
+    "id": "qr-irrverb-096",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-096",
+    "chapitre_id": null,
+    "question": "sell – sold – sold",
+    "reponse": "vendre"
+  },
+  {
+    "id": "qr-irrverb-097",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-097",
+    "chapitre_id": null,
+    "question": "send – sent – sent",
+    "reponse": "envoyer"
+  },
+  {
+    "id": "qr-irrverb-098",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-098",
+    "chapitre_id": null,
+    "question": "set – set – set",
+    "reponse": "fixer, établir, régler"
+  },
+  {
+    "id": "qr-irrverb-099",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-099",
+    "chapitre_id": null,
+    "question": "sew – sewed – sewn",
+    "reponse": "coudre"
+  },
+  {
+    "id": "qr-irrverb-100",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-100",
+    "chapitre_id": null,
+    "question": "shake – shook – shaken",
+    "reponse": "secouer, ébranler"
+  },
+  {
+    "id": "qr-irrverb-101",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-101",
+    "chapitre_id": null,
+    "question": "shed – shed – shed",
+    "reponse": "verser une larme, supprimer des emplois"
+  },
+  {
+    "id": "qr-irrverb-102",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-102",
+    "chapitre_id": null,
+    "question": "shine – shone – shone",
+    "reponse": "briller"
+  },
+  {
+    "id": "qr-irrverb-103",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-103",
+    "chapitre_id": null,
+    "question": "shoot – shot – shot",
+    "reponse": "tirer (une arme)"
+  },
+  {
+    "id": "qr-irrverb-104",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-104",
+    "chapitre_id": null,
+    "question": "show – showed – shown",
+    "reponse": "montrer"
+  },
+  {
+    "id": "qr-irrverb-105",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-105",
+    "chapitre_id": null,
+    "question": "shrink – shrank – shrunk",
+    "reponse": "rétrécir, se réduire"
+  },
+  {
+    "id": "qr-irrverb-106",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-106",
+    "chapitre_id": null,
+    "question": "shut – shut – shut",
+    "reponse": "fermer"
+  },
+  {
+    "id": "qr-irrverb-107",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-107",
+    "chapitre_id": null,
+    "question": "sing – sang – sung",
+    "reponse": "chanter"
+  },
+  {
+    "id": "qr-irrverb-108",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-108",
+    "chapitre_id": null,
+    "question": "sink – sank – sunk",
+    "reponse": "couler, sombrer"
+  },
+  {
+    "id": "qr-irrverb-109",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-109",
+    "chapitre_id": null,
+    "question": "sit – sat – sat",
+    "reponse": "être assis, s'asseoir"
+  },
+  {
+    "id": "qr-irrverb-110",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-110",
+    "chapitre_id": null,
+    "question": "sleep – slept – slept",
+    "reponse": "dormir"
+  },
+  {
+    "id": "qr-irrverb-111",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-111",
+    "chapitre_id": null,
+    "question": "slide – slid – slid",
+    "reponse": "glisser"
+  },
+  {
+    "id": "qr-irrverb-112",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-112",
+    "chapitre_id": null,
+    "question": "sow – sowed – sown",
+    "reponse": "semer"
+  },
+  {
+    "id": "qr-irrverb-113",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-113",
+    "chapitre_id": null,
+    "question": "speak – spoke – spoken",
+    "reponse": "parler"
+  },
+  {
+    "id": "qr-irrverb-114",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-114",
+    "chapitre_id": null,
+    "question": "speed – sped/speeded – sped/speeded",
+    "reponse": "accélérer"
+  },
+  {
+    "id": "qr-irrverb-115",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-115",
+    "chapitre_id": null,
+    "question": "spell – spelt/spelled – spelt/spelled",
+    "reponse": "épeler"
+  },
+  {
+    "id": "qr-irrverb-116",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-116",
+    "chapitre_id": null,
+    "question": "spend – spent – spent",
+    "reponse": "dépenser"
+  },
+  {
+    "id": "qr-irrverb-117",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-117",
+    "chapitre_id": null,
+    "question": "spill – spilt/spilled – spilt/spilled",
+    "reponse": "renverser"
+  },
+  {
+    "id": "qr-irrverb-118",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-118",
+    "chapitre_id": null,
+    "question": "spin – spun – spun",
+    "reponse": "filer, tourner"
+  },
+  {
+    "id": "qr-irrverb-119",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-119",
+    "chapitre_id": null,
+    "question": "spit – spat – spat",
+    "reponse": "cracher"
+  },
+  {
+    "id": "qr-irrverb-120",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-120",
+    "chapitre_id": null,
+    "question": "split – split – split",
+    "reponse": "diviser, scinder"
+  },
+  {
+    "id": "qr-irrverb-121",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-121",
+    "chapitre_id": null,
+    "question": "spoil – spoilt/spoiled – spoilt/spoiled",
+    "reponse": "gâter, gâcher"
+  },
+  {
+    "id": "qr-irrverb-122",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-122",
+    "chapitre_id": null,
+    "question": "spread – spread – spread",
+    "reponse": "étendre, répandre"
+  },
+  {
+    "id": "qr-irrverb-123",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-123",
+    "chapitre_id": null,
+    "question": "spring – sprang – sprung",
+    "reponse": "bondir, jaillir"
+  },
+  {
+    "id": "qr-irrverb-124",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-124",
+    "chapitre_id": null,
+    "question": "stand – stood – stood",
+    "reponse": "se tenir debout, supporter"
+  },
+  {
+    "id": "qr-irrverb-125",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-125",
+    "chapitre_id": null,
+    "question": "steal – stole – stolen",
+    "reponse": "voler, dérober"
+  },
+  {
+    "id": "qr-irrverb-126",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-126",
+    "chapitre_id": null,
+    "question": "stick – stuck – stuck",
+    "reponse": "coller, se coincer"
+  },
+  {
+    "id": "qr-irrverb-127",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-127",
+    "chapitre_id": null,
+    "question": "sting – stung – stung",
+    "reponse": "piquer"
+  },
+  {
+    "id": "qr-irrverb-128",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-128",
+    "chapitre_id": null,
+    "question": "stink – stank – stunk",
+    "reponse": "puer"
+  },
+  {
+    "id": "qr-irrverb-129",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-129",
+    "chapitre_id": null,
+    "question": "strike – struck – struck",
+    "reponse": "frapper, faire grève"
+  },
+  {
+    "id": "qr-irrverb-130",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-130",
+    "chapitre_id": null,
+    "question": "strive – strove – striven",
+    "reponse": "s'efforcer"
+  },
+  {
+    "id": "qr-irrverb-131",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-131",
+    "chapitre_id": null,
+    "question": "swear – swore – sworn",
+    "reponse": "jurer"
+  },
+  {
+    "id": "qr-irrverb-132",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-132",
+    "chapitre_id": null,
+    "question": "sweep – swept – swept",
+    "reponse": "balayer"
+  },
+  {
+    "id": "qr-irrverb-133",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-133",
+    "chapitre_id": null,
+    "question": "swell – swelled – swollen",
+    "reponse": "gonfler, augmenter"
+  },
+  {
+    "id": "qr-irrverb-134",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-134",
+    "chapitre_id": null,
+    "question": "swim – swam – swum",
+    "reponse": "nager"
+  },
+  {
+    "id": "qr-irrverb-135",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-135",
+    "chapitre_id": null,
+    "question": "swing – swung – swung",
+    "reponse": "balancer"
+  },
+  {
+    "id": "qr-irrverb-136",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-136",
+    "chapitre_id": null,
+    "question": "take – took – taken",
+    "reponse": "prendre"
+  },
+  {
+    "id": "qr-irrverb-137",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-137",
+    "chapitre_id": null,
+    "question": "teach – taught – taught",
+    "reponse": "enseigner"
+  },
+  {
+    "id": "qr-irrverb-138",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-138",
+    "chapitre_id": null,
+    "question": "tear – tore – torn",
+    "reponse": "déchirer"
+  },
+  {
+    "id": "qr-irrverb-139",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-139",
+    "chapitre_id": null,
+    "question": "tell – told – told",
+    "reponse": "dire, raconter"
+  },
+  {
+    "id": "qr-irrverb-140",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-140",
+    "chapitre_id": null,
+    "question": "think – thought – thought",
+    "reponse": "penser"
+  },
+  {
+    "id": "qr-irrverb-141",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-141",
+    "chapitre_id": null,
+    "question": "throw – threw – thrown",
+    "reponse": "jeter, lancer"
+  },
+  {
+    "id": "qr-irrverb-142",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-142",
+    "chapitre_id": null,
+    "question": "thrust – thrust – thrust",
+    "reponse": "pousser brusquement"
+  },
+  {
+    "id": "qr-irrverb-143",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-143",
+    "chapitre_id": null,
+    "question": "tread – trod – trodden",
+    "reponse": "marcher (sur)"
+  },
+  {
+    "id": "qr-irrverb-144",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-144",
+    "chapitre_id": null,
+    "question": "undergo – underwent – undergone",
+    "reponse": "subir"
+  },
+  {
+    "id": "qr-irrverb-145",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-145",
+    "chapitre_id": null,
+    "question": "understand – understood – understood",
+    "reponse": "comprendre"
+  },
+  {
+    "id": "qr-irrverb-146",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-146",
+    "chapitre_id": null,
+    "question": "undertake – undertook – undertaken",
+    "reponse": "entreprendre"
+  },
+  {
+    "id": "qr-irrverb-147",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-147",
+    "chapitre_id": null,
+    "question": "upset – upset – upset",
+    "reponse": "contrarier, bouleverser"
+  },
+  {
+    "id": "qr-irrverb-148",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-148",
+    "chapitre_id": null,
+    "question": "wake – woke – woken",
+    "reponse": "se réveiller"
+  },
+  {
+    "id": "qr-irrverb-149",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-149",
+    "chapitre_id": null,
+    "question": "wear – wore – worn",
+    "reponse": "porter (un vêtement)"
+  },
+  {
+    "id": "qr-irrverb-150",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-150",
+    "chapitre_id": null,
+    "question": "weave – wove – woven",
+    "reponse": "tisser"
+  },
+  {
+    "id": "qr-irrverb-151",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-151",
+    "chapitre_id": null,
+    "question": "weep – wept – wept",
+    "reponse": "pleurer"
+  },
+  {
+    "id": "qr-irrverb-152",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-152",
+    "chapitre_id": null,
+    "question": "win – won – won",
+    "reponse": "gagner"
+  },
+  {
+    "id": "qr-irrverb-153",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-153",
+    "chapitre_id": null,
+    "question": "wind – wound – wound",
+    "reponse": "enrouler"
+  },
+  {
+    "id": "qr-irrverb-154",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-154",
+    "chapitre_id": null,
+    "question": "withdraw – withdrew – withdrawn",
+    "reponse": "retirer"
+  },
+  {
+    "id": "qr-irrverb-155",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-155",
+    "chapitre_id": null,
+    "question": "withhold – withheld – withheld",
+    "reponse": "retenir"
+  },
+  {
+    "id": "qr-irrverb-156",
+    "type": "vocabulaire",
+    "ref_id": "voc-irrverb-156",
+    "chapitre_id": null,
+    "question": "write – wrote – written",
+    "reponse": "écrire"
+  },
+  {
+    "id": "qr-corr-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-001",
+    "chapitre_id": "management-rh",
+    "question": "enquiry",
+    "reponse": "demande de renseignements"
+  },
+  {
+    "id": "qr-corr-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-002",
+    "chapitre_id": "finance",
+    "question": "to settle the bill",
+    "reponse": "régler la facture"
+  },
+  {
+    "id": "qr-corr-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-003",
+    "chapitre_id": "finance",
+    "question": "terms are attractive",
+    "reponse": "les conditions sont intéressantes"
+  },
+  {
+    "id": "qr-corr-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-004",
+    "chapitre_id": "production-marketing",
+    "question": "discount",
+    "reponse": "remise, rabais"
+  },
+  {
+    "id": "qr-corr-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-005",
+    "chapitre_id": "production-marketing",
+    "question": "exhibition",
+    "reponse": "salon professionnel, exposition"
+  },
+  {
+    "id": "qr-corr-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-006",
+    "chapitre_id": "management-rh",
+    "question": "appointment (rendez-vous)",
+    "reponse": "rendez-vous"
+  },
+  {
+    "id": "qr-corr-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-007",
+    "chapitre_id": "management-rh",
+    "question": "no vacancies",
+    "reponse": "complet (pas de disponibilité)"
+  },
+  {
+    "id": "qr-corr-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-008",
+    "chapitre_id": "finance",
+    "question": "refund",
+    "reponse": "remboursement"
+  },
+  {
+    "id": "qr-corr-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-009",
+    "chapitre_id": "production-marketing",
+    "question": "hidden defect",
+    "reponse": "vice caché"
+  },
+  {
+    "id": "qr-corr-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-010",
+    "chapitre_id": "management-rh",
+    "question": "enrolment / enrollment",
+    "reponse": "inscription"
+  },
+  {
+    "id": "qr-corr-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-011",
+    "chapitre_id": "management-rh",
+    "question": "application form",
+    "reponse": "formulaire de candidature"
+  },
+  {
+    "id": "qr-corr-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-012",
+    "chapitre_id": "production-marketing",
+    "question": "regular customer",
+    "reponse": "client régulier, habitué"
+  },
+  {
+    "id": "qr-corr-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-013",
+    "chapitre_id": "finance",
+    "question": "an estimate",
+    "reponse": "un devis"
+  },
+  {
+    "id": "qr-corr-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-014",
+    "chapitre_id": "finance",
+    "question": "invoice",
+    "reponse": "facture"
+  },
+  {
+    "id": "qr-corr-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-015",
+    "chapitre_id": "finance",
+    "question": "quotation",
+    "reponse": "devis, cotation"
+  },
+  {
+    "id": "qr-corr-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-016",
+    "chapitre_id": "production-marketing",
+    "question": "order form",
+    "reponse": "bon de commande"
+  },
+  {
+    "id": "qr-corr-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-017",
+    "chapitre_id": "production-marketing",
+    "question": "delivery date",
+    "reponse": "date de livraison"
+  },
+  {
+    "id": "qr-corr-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-018",
+    "chapitre_id": "production-marketing",
+    "question": "to place an order",
+    "reponse": "passer une commande"
+  },
+  {
+    "id": "qr-corr-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-019",
+    "chapitre_id": "finance",
+    "question": "outstanding payment",
+    "reponse": "paiement en attente, impayé"
+  },
+  {
+    "id": "qr-corr-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-020",
+    "chapitre_id": "production-marketing",
+    "question": "to be out of stock",
+    "reponse": "être en rupture de stock"
+  },
+  {
+    "id": "qr-corr-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-021",
+    "chapitre_id": "production-marketing",
+    "question": "supplier",
+    "reponse": "fournisseur"
+  },
+  {
+    "id": "qr-corr-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-022",
+    "chapitre_id": "production-marketing",
+    "question": "consignment",
+    "reponse": "envoi de marchandises"
+  },
+  {
+    "id": "qr-corr-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-023",
+    "chapitre_id": "production-marketing",
+    "question": "packaging",
+    "reponse": "emballage"
+  },
+  {
+    "id": "qr-corr-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-024",
+    "chapitre_id": "production-marketing",
+    "question": "to complain",
+    "reponse": "se plaindre, réclamer"
+  },
+  {
+    "id": "qr-corr-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-025",
+    "chapitre_id": "production-marketing",
+    "question": "complaint",
+    "reponse": "réclamation"
+  },
+  {
+    "id": "qr-corr-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-026",
+    "chapitre_id": "production-marketing",
+    "question": "warranty / guarantee",
+    "reponse": "garantie"
+  },
+  {
+    "id": "qr-corr-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-027",
+    "chapitre_id": "production-marketing",
+    "question": "faulty goods",
+    "reponse": "marchandises défectueuses"
+  },
+  {
+    "id": "qr-corr-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-028",
+    "chapitre_id": "finance",
+    "question": "to reimburse",
+    "reponse": "rembourser"
+  },
+  {
+    "id": "qr-corr-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-029",
+    "chapitre_id": "finance",
+    "question": "terms of payment",
+    "reponse": "conditions de paiement"
+  },
+  {
+    "id": "qr-corr-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-030",
+    "chapitre_id": "finance",
+    "question": "cash on delivery",
+    "reponse": "paiement à la livraison"
+  },
+  {
+    "id": "qr-corr-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-corr-031",
+    "chapitre_id": "finance",
+    "question": "to be entitled to a refund",
+    "reponse": "avoir droit à un remboursement"
+  },
+  {
+    "id": "qr-soc-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-001",
+    "chapitre_id": "management-rh",
+    "question": "to age",
+    "reponse": "vieillir"
+  },
+  {
+    "id": "qr-soc-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-002",
+    "chapitre_id": "management-rh",
+    "question": "ageism",
+    "reponse": "âgisme"
+  },
+  {
+    "id": "qr-soc-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-003",
+    "chapitre_id": "management-rh",
+    "question": "benefit",
+    "reponse": "allocation, prestation"
+  },
+  {
+    "id": "qr-soc-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-004",
+    "chapitre_id": "management-rh",
+    "question": "birthrate",
+    "reponse": "taux de natalité"
+  },
+  {
+    "id": "qr-soc-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-005",
+    "chapitre_id": "management-rh",
+    "question": "to be well off",
+    "reponse": "être aisé, avoir des moyens"
+  },
+  {
+    "id": "qr-soc-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-006",
+    "chapitre_id": "management-rh",
+    "question": "to be badly off",
+    "reponse": "être dans le besoin"
+  },
+  {
+    "id": "qr-soc-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-007",
+    "chapitre_id": "management-rh",
+    "question": "to be entitled to",
+    "reponse": "avoir droit à"
+  },
+  {
+    "id": "qr-soc-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-008",
+    "chapitre_id": "management-rh",
+    "question": "dole",
+    "reponse": "allocation chômage (familier, GB)"
+  },
+  {
+    "id": "qr-soc-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-009",
+    "chapitre_id": "rse-gouvernance",
+    "question": "welfare",
+    "reponse": "aide sociale"
+  },
+  {
+    "id": "qr-soc-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-010",
+    "chapitre_id": "management-rh",
+    "question": "burden",
+    "reponse": "charge, fardeau"
+  },
+  {
+    "id": "qr-soc-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-011",
+    "chapitre_id": "management-rh",
+    "question": "census",
+    "reponse": "recensement"
+  },
+  {
+    "id": "qr-soc-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-012",
+    "chapitre_id": "management-rh",
+    "question": "claimant",
+    "reponse": "demandeur (d'allocation)"
+  },
+  {
+    "id": "qr-soc-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-013",
+    "chapitre_id": "management-rh",
+    "question": "compensation",
+    "reponse": "indemnisation"
+  },
+  {
+    "id": "qr-soc-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-014",
+    "chapitre_id": "management-rh",
+    "question": "to contribute",
+    "reponse": "cotiser, contribuer"
+  },
+  {
+    "id": "qr-soc-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-015",
+    "chapitre_id": "management-rh",
+    "question": "cost of living",
+    "reponse": "coût de la vie"
+  },
+  {
+    "id": "qr-soc-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-016",
+    "chapitre_id": "management-rh",
+    "question": "death rate",
+    "reponse": "taux de mortalité"
+  },
+  {
+    "id": "qr-soc-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-017",
+    "chapitre_id": "rse-gouvernance",
+    "question": "destitution",
+    "reponse": "dénuement, indigence"
+  },
+  {
+    "id": "qr-soc-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-018",
+    "chapitre_id": "management-rh",
+    "question": "pension",
+    "reponse": "retraite, pension"
+  },
+  {
+    "id": "qr-soc-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-019",
+    "chapitre_id": "management-rh",
+    "question": "elderly people",
+    "reponse": "personnes âgées"
+  },
+  {
+    "id": "qr-soc-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-020",
+    "chapitre_id": "management-rh",
+    "question": "family allowance",
+    "reponse": "allocations familiales"
+  },
+  {
+    "id": "qr-soc-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-021",
+    "chapitre_id": "management-rh",
+    "question": "GP (General Practitioner)",
+    "reponse": "médecin généraliste"
+  },
+  {
+    "id": "qr-soc-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-022",
+    "chapitre_id": "management-rh",
+    "question": "holiday with pay",
+    "reponse": "congés payés"
+  },
+  {
+    "id": "qr-soc-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-023",
+    "chapitre_id": "management-rh",
+    "question": "income tax",
+    "reponse": "impôt sur le revenu"
+  },
+  {
+    "id": "qr-soc-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-024",
+    "chapitre_id": "management-rh",
+    "question": "labour shortage",
+    "reponse": "pénurie de main-d'œuvre"
+  },
+  {
+    "id": "qr-soc-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-025",
+    "chapitre_id": "management-rh",
+    "question": "life expectancy",
+    "reponse": "espérance de vie"
+  },
+  {
+    "id": "qr-soc-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-026",
+    "chapitre_id": "management-rh",
+    "question": "maternity leave",
+    "reponse": "congé maternité"
+  },
+  {
+    "id": "qr-soc-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-027",
+    "chapitre_id": "management-rh",
+    "question": "paternity leave",
+    "reponse": "congé paternité"
+  },
+  {
+    "id": "qr-soc-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-028",
+    "chapitre_id": "management-rh",
+    "question": "sick leave",
+    "reponse": "congé maladie"
+  },
+  {
+    "id": "qr-soc-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-029",
+    "chapitre_id": "management-rh",
+    "question": "means-tested",
+    "reponse": "soumis à conditions de ressources"
+  },
+  {
+    "id": "qr-soc-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-030",
+    "chapitre_id": "management-rh",
+    "question": "minimum wage",
+    "reponse": "salaire minimum"
+  },
+  {
+    "id": "qr-soc-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-031",
+    "chapitre_id": "management-rh",
+    "question": "nursing home",
+    "reponse": "maison de retraite médicalisée"
+  },
+  {
+    "id": "qr-soc-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-032",
+    "chapitre_id": "rse-gouvernance",
+    "question": "overpopulation",
+    "reponse": "surpopulation"
+  },
+  {
+    "id": "qr-soc-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-033",
+    "chapitre_id": "rse-gouvernance",
+    "question": "poverty",
+    "reponse": "pauvreté"
+  },
+  {
+    "id": "qr-soc-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-034",
+    "chapitre_id": "management-rh",
+    "question": "purchasing power",
+    "reponse": "pouvoir d'achat"
+  },
+  {
+    "id": "qr-soc-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-035",
+    "chapitre_id": "management-rh",
+    "question": "to retire",
+    "reponse": "prendre sa retraite"
+  },
+  {
+    "id": "qr-soc-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-036",
+    "chapitre_id": "management-rh",
+    "question": "retirement age",
+    "reponse": "âge de la retraite"
+  },
+  {
+    "id": "qr-soc-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-037",
+    "chapitre_id": "finance",
+    "question": "savings",
+    "reponse": "épargne"
+  },
+  {
+    "id": "qr-soc-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-038",
+    "chapitre_id": "management-rh",
+    "question": "senior citizen",
+    "reponse": "personne âgée, senior"
+  },
+  {
+    "id": "qr-soc-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-039",
+    "chapitre_id": "management-rh",
+    "question": "sickness benefit",
+    "reponse": "indemnités journalières maladie"
+  },
+  {
+    "id": "qr-soc-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-040",
+    "chapitre_id": "management-rh",
+    "question": "social worker",
+    "reponse": "travailleur social"
+  },
+  {
+    "id": "qr-soc-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-041",
+    "chapitre_id": "management-rh",
+    "question": "standard of living",
+    "reponse": "niveau de vie"
+  },
+  {
+    "id": "qr-soc-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-042",
+    "chapitre_id": "management-rh",
+    "question": "to take early retirement",
+    "reponse": "partir en retraite anticipée"
+  },
+  {
+    "id": "qr-soc-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-043",
+    "chapitre_id": "finance",
+    "question": "tax allowance",
+    "reponse": "abattement fiscal"
+  },
+  {
+    "id": "qr-soc-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-044",
+    "chapitre_id": "rse-gouvernance",
+    "question": "the haves and the have-nots",
+    "reponse": "les nantis et les démunis"
+  },
+  {
+    "id": "qr-soc-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-045",
+    "chapitre_id": "rse-gouvernance",
+    "question": "homeless",
+    "reponse": "sans-abri"
+  },
+  {
+    "id": "qr-soc-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-046",
+    "chapitre_id": "management-rh",
+    "question": "unemployment benefit",
+    "reponse": "allocation chômage"
+  },
+  {
+    "id": "qr-soc-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-047",
+    "chapitre_id": "rse-gouvernance",
+    "question": "volunteer work",
+    "reponse": "bénévolat"
+  },
+  {
+    "id": "qr-soc-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-048",
+    "chapitre_id": "rse-gouvernance",
+    "question": "welfare state",
+    "reponse": "État-providence"
+  },
+  {
+    "id": "qr-soc-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-soc-049",
+    "chapitre_id": "rse-gouvernance",
+    "question": "universal health coverage",
+    "reponse": "couverture santé universelle"
+  },
+  {
+    "id": "qr-strat-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-001",
+    "chapitre_id": "management-rh",
+    "question": "to allocate resources",
+    "reponse": "allouer des ressources"
+  },
+  {
+    "id": "qr-strat-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-002",
+    "chapitre_id": "management-rh",
+    "question": "to appoint",
+    "reponse": "nommer (à un poste)"
+  },
+  {
+    "id": "qr-strat-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-003",
+    "chapitre_id": "finance",
+    "question": "balance sheet",
+    "reponse": "bilan (comptable)"
+  },
+  {
+    "id": "qr-strat-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-004",
+    "chapitre_id": "finance",
+    "question": "bottom line",
+    "reponse": "résultat net"
+  },
+  {
+    "id": "qr-strat-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-005",
+    "chapitre_id": "management-rh",
+    "question": "branch",
+    "reponse": "succursale, filiale"
+  },
+  {
+    "id": "qr-strat-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-006",
+    "chapitre_id": "management-rh",
+    "question": "to chart a strategy",
+    "reponse": "définir une stratégie"
+  },
+  {
+    "id": "qr-strat-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-007",
+    "chapitre_id": "management-rh",
+    "question": "to close down",
+    "reponse": "fermer (une usine, une entreprise)"
+  },
+  {
+    "id": "qr-strat-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-008",
+    "chapitre_id": "management-rh",
+    "question": "competitive advantage",
+    "reponse": "avantage concurrentiel"
+  },
+  {
+    "id": "qr-strat-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-009",
+    "chapitre_id": "management-rh",
+    "question": "corporate manager",
+    "reponse": "cadre dirigeant"
+  },
+  {
+    "id": "qr-strat-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-010",
+    "chapitre_id": "finance",
+    "question": "cost-effectiveness",
+    "reponse": "rentabilité, rapport coût-efficacité"
+  },
+  {
+    "id": "qr-strat-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-011",
+    "chapitre_id": "finance",
+    "question": "costing",
+    "reponse": "calcul des coûts"
+  },
+  {
+    "id": "qr-strat-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-012",
+    "chapitre_id": "management-rh",
+    "question": "creative destruction",
+    "reponse": "destruction créatrice"
+  },
+  {
+    "id": "qr-strat-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-013",
+    "chapitre_id": "management-rh",
+    "question": "to cut back",
+    "reponse": "réduire, faire des économies"
+  },
+  {
+    "id": "qr-strat-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-014",
+    "chapitre_id": "management-rh",
+    "question": "decision making",
+    "reponse": "prise de décision"
+  },
+  {
+    "id": "qr-strat-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-015",
+    "chapitre_id": "management-rh",
+    "question": "to devise",
+    "reponse": "concevoir, élaborer"
+  },
+  {
+    "id": "qr-strat-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-016",
+    "chapitre_id": "management-rh",
+    "question": "to differentiate",
+    "reponse": "se différencier"
+  },
+  {
+    "id": "qr-strat-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-017",
+    "chapitre_id": "management-rh",
+    "question": "to display managerial skills",
+    "reponse": "faire preuve de compétences managériales"
+  },
+  {
+    "id": "qr-strat-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-018",
+    "chapitre_id": "management-rh",
+    "question": "to downsize",
+    "reponse": "réduire les effectifs"
+  },
+  {
+    "id": "qr-strat-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-019",
+    "chapitre_id": "management-rh",
+    "question": "drive",
+    "reponse": "dynamisme, motivation"
+  },
+  {
+    "id": "qr-strat-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-020",
+    "chapitre_id": "management-rh",
+    "question": "efficient",
+    "reponse": "efficace"
+  },
+  {
+    "id": "qr-strat-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-022",
+    "chapitre_id": "management-rh",
+    "question": "facilities",
+    "reponse": "installations, équipements"
+  },
+  {
+    "id": "qr-strat-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-023",
+    "chapitre_id": "management-rh",
+    "question": "flourishing",
+    "reponse": "florissant, prospère"
+  },
+  {
+    "id": "qr-strat-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-024",
+    "chapitre_id": "management-rh",
+    "question": "to focus on",
+    "reponse": "se concentrer sur"
+  },
+  {
+    "id": "qr-strat-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-025",
+    "chapitre_id": "management-rh",
+    "question": "to foresee",
+    "reponse": "prévoir"
+  },
+  {
+    "id": "qr-strat-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-026",
+    "chapitre_id": "management-rh",
+    "question": "foresight",
+    "reponse": "prévoyance, anticipation"
+  },
+  {
+    "id": "qr-strat-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-027",
+    "chapitre_id": "management-rh",
+    "question": "to hire",
+    "reponse": "embaucher"
+  },
+  {
+    "id": "qr-strat-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-028",
+    "chapitre_id": "management-rh",
+    "question": "to recruit",
+    "reponse": "recruter"
+  },
+  {
+    "id": "qr-strat-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-029",
+    "chapitre_id": "management-rh",
+    "question": "incentive",
+    "reponse": "incitation, motivation"
+  },
+  {
+    "id": "qr-strat-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-030",
+    "chapitre_id": "management-rh",
+    "question": "job cut",
+    "reponse": "suppression d'emploi"
+  },
+  {
+    "id": "qr-strat-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-031",
+    "chapitre_id": "management-rh",
+    "question": "joint management",
+    "reponse": "cogestion"
+  },
+  {
+    "id": "qr-strat-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-032",
+    "chapitre_id": "management-rh",
+    "question": "to launch",
+    "reponse": "lancer"
+  },
+  {
+    "id": "qr-strat-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-033",
+    "chapitre_id": "management-rh",
+    "question": "to lay off",
+    "reponse": "licencier (économique)"
+  },
+  {
+    "id": "qr-strat-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-034",
+    "chapitre_id": "management-rh",
+    "question": "to dismiss",
+    "reponse": "licencier (faute)"
+  },
+  {
+    "id": "qr-strat-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-035",
+    "chapitre_id": "management-rh",
+    "question": "management by objectives",
+    "reponse": "direction par objectifs"
+  },
+  {
+    "id": "qr-strat-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-036",
+    "chapitre_id": "management-rh",
+    "question": "market segment",
+    "reponse": "segment de marché"
+  },
+  {
+    "id": "qr-strat-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-037",
+    "chapitre_id": "management-rh",
+    "question": "to orient",
+    "reponse": "orienter"
+  },
+  {
+    "id": "qr-strat-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-038",
+    "chapitre_id": "management-rh",
+    "question": "output",
+    "reponse": "production, rendement"
+  },
+  {
+    "id": "qr-strat-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-039",
+    "chapitre_id": "management-rh",
+    "question": "to outsource",
+    "reponse": "externaliser"
+  },
+  {
+    "id": "qr-strat-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-040",
+    "chapitre_id": "management-rh",
+    "question": "to subcontract",
+    "reponse": "sous-traiter"
+  },
+  {
+    "id": "qr-strat-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-041",
+    "chapitre_id": "management-rh",
+    "question": "performance",
+    "reponse": "performance"
+  },
+  {
+    "id": "qr-strat-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-042",
+    "chapitre_id": "management-rh",
+    "question": "to plan",
+    "reponse": "planifier"
+  },
+  {
+    "id": "qr-strat-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-043",
+    "chapitre_id": "management-rh",
+    "question": "to promote",
+    "reponse": "promouvoir"
+  },
+  {
+    "id": "qr-strat-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-044",
+    "chapitre_id": "management-rh",
+    "question": "to provide for",
+    "reponse": "prévoir, pourvoir à"
+  },
+  {
+    "id": "qr-strat-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-045",
+    "chapitre_id": "management-rh",
+    "question": "to relocate",
+    "reponse": "délocaliser"
+  },
+  {
+    "id": "qr-strat-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-046",
+    "chapitre_id": "management-rh",
+    "question": "to rely on",
+    "reponse": "compter sur, s'appuyer sur"
+  },
+  {
+    "id": "qr-strat-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-047",
+    "chapitre_id": "finance",
+    "question": "return on investment",
+    "reponse": "retour sur investissement"
+  },
+  {
+    "id": "qr-strat-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-048",
+    "chapitre_id": "management-rh",
+    "question": "to run a business",
+    "reponse": "diriger une entreprise"
+  },
+  {
+    "id": "qr-strat-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-049",
+    "chapitre_id": "management-rh",
+    "question": "scope",
+    "reponse": "portée, champ d'action"
+  },
+  {
+    "id": "qr-strat-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-050",
+    "chapitre_id": "management-rh",
+    "question": "schedule",
+    "reponse": "calendrier, planning"
+  },
+  {
+    "id": "qr-strat-051",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-051",
+    "chapitre_id": "management-rh",
+    "question": "struggling",
+    "reponse": "en difficulté"
+  },
+  {
+    "id": "qr-strat-052",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-052",
+    "chapitre_id": "management-rh",
+    "question": "to turn around",
+    "reponse": "redresser (une entreprise)"
+  },
+  {
+    "id": "qr-strat-053",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-053",
+    "chapitre_id": "finance",
+    "question": "turnover",
+    "reponse": "chiffre d'affaires"
+  },
+  {
+    "id": "qr-strat-054",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-054",
+    "chapitre_id": "management-rh",
+    "question": "uncompetitive",
+    "reponse": "non compétitif"
+  },
+  {
+    "id": "qr-strat-055",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-055",
+    "chapitre_id": "management-rh",
+    "question": "to undercut",
+    "reponse": "vendre moins cher qu'un concurrent"
+  },
+  {
+    "id": "qr-strat-056",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-056",
+    "chapitre_id": "management-rh",
+    "question": "in charge of",
+    "reponse": "responsable de"
+  },
+  {
+    "id": "qr-strat-057",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-057",
+    "chapitre_id": "management-rh",
+    "question": "to bottom out",
+    "reponse": "atteindre le point le plus bas"
+  },
+  {
+    "id": "qr-strat-058",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-058",
+    "chapitre_id": "management-rh",
+    "question": "to clinch a deal",
+    "reponse": "conclure un accord"
+  },
+  {
+    "id": "qr-strat-059",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-059",
+    "chapitre_id": "management-rh",
+    "question": "to diversify",
+    "reponse": "diversifier"
+  },
+  {
+    "id": "qr-strat-060",
+    "type": "vocabulaire",
+    "ref_id": "voc-strat-060",
+    "chapitre_id": "management-rh",
+    "question": "to dwindle",
+    "reponse": "décliner, diminuer"
+  },
+  {
+    "id": "qr-energy-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-001",
+    "chapitre_id": "production-marketing",
+    "question": "energy bill",
+    "reponse": "facture énergétique"
+  },
+  {
+    "id": "qr-energy-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-002",
+    "chapitre_id": "production-marketing",
+    "question": "energy needs",
+    "reponse": "besoins énergétiques"
+  },
+  {
+    "id": "qr-energy-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-003",
+    "chapitre_id": "production-marketing",
+    "question": "energy provider",
+    "reponse": "fournisseur d'énergie"
+  },
+  {
+    "id": "qr-energy-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-004",
+    "chapitre_id": "production-marketing",
+    "question": "to fill up",
+    "reponse": "faire le plein"
+  },
+  {
+    "id": "qr-energy-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-005",
+    "chapitre_id": "production-marketing",
+    "question": "fuel",
+    "reponse": "carburant"
+  },
+  {
+    "id": "qr-energy-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-006",
+    "chapitre_id": "rse-gouvernance",
+    "question": "fuel-efficient vehicle",
+    "reponse": "véhicule économe en carburant"
+  },
+  {
+    "id": "qr-energy-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-007",
+    "chapitre_id": "rse-gouvernance",
+    "question": "gas guzzler",
+    "reponse": "voiture énergivore"
+  },
+  {
+    "id": "qr-energy-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-008",
+    "chapitre_id": "relations-internationales",
+    "question": "gas pipeline",
+    "reponse": "gazoduc"
+  },
+  {
+    "id": "qr-energy-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-009",
+    "chapitre_id": "production-marketing",
+    "question": "to go down",
+    "reponse": "baisser"
+  },
+  {
+    "id": "qr-energy-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-010",
+    "chapitre_id": "production-marketing",
+    "question": "heavy oil",
+    "reponse": "pétrole lourd"
+  },
+  {
+    "id": "qr-energy-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-011",
+    "chapitre_id": "production-marketing",
+    "question": "light oil",
+    "reponse": "pétrole léger"
+  },
+  {
+    "id": "qr-energy-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-012",
+    "chapitre_id": "relations-internationales",
+    "question": "to hold reserves",
+    "reponse": "détenir des réserves"
+  },
+  {
+    "id": "qr-energy-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-013",
+    "chapitre_id": "rse-gouvernance",
+    "question": "hybrid engine",
+    "reponse": "moteur hybride"
+  },
+  {
+    "id": "qr-energy-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-014",
+    "chapitre_id": "production-marketing",
+    "question": "hydrocarbon",
+    "reponse": "hydrocarbure"
+  },
+  {
+    "id": "qr-energy-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-015",
+    "chapitre_id": "production-marketing",
+    "question": "to level off",
+    "reponse": "se stabiliser"
+  },
+  {
+    "id": "qr-energy-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-016",
+    "chapitre_id": "relations-internationales",
+    "question": "Middle East",
+    "reponse": "Moyen-Orient"
+  },
+  {
+    "id": "qr-energy-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-017",
+    "chapitre_id": "relations-internationales",
+    "question": "to negotiate",
+    "reponse": "négocier"
+  },
+  {
+    "id": "qr-energy-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-018",
+    "chapitre_id": "relations-internationales",
+    "question": "negotiations",
+    "reponse": "négociations"
+  },
+  {
+    "id": "qr-energy-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-019",
+    "chapitre_id": "rse-gouvernance",
+    "question": "nuclear waste",
+    "reponse": "déchets nucléaires"
+  },
+  {
+    "id": "qr-energy-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-020",
+    "chapitre_id": "relations-internationales",
+    "question": "oil riches",
+    "reponse": "richesses pétrolières"
+  },
+  {
+    "id": "qr-energy-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-021",
+    "chapitre_id": "relations-internationales",
+    "question": "oil shipments",
+    "reponse": "cargaisons de pétrole"
+  },
+  {
+    "id": "qr-energy-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-022",
+    "chapitre_id": "rse-gouvernance",
+    "question": "oil spill",
+    "reponse": "marée noire"
+  },
+  {
+    "id": "qr-energy-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-023",
+    "chapitre_id": "relations-internationales",
+    "question": "oil tanker",
+    "reponse": "pétrolier"
+  },
+  {
+    "id": "qr-energy-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-024",
+    "chapitre_id": "production-marketing",
+    "question": "oil well",
+    "reponse": "puits de pétrole"
+  },
+  {
+    "id": "qr-energy-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-025",
+    "chapitre_id": "production-marketing",
+    "question": "to peak",
+    "reponse": "atteindre un pic"
+  },
+  {
+    "id": "qr-energy-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-026",
+    "chapitre_id": "relations-internationales",
+    "question": "Persian Gulf",
+    "reponse": "golfe Persique"
+  },
+  {
+    "id": "qr-energy-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-027",
+    "chapitre_id": "production-marketing",
+    "question": "petrochemical",
+    "reponse": "pétrochimique"
+  },
+  {
+    "id": "qr-energy-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-028",
+    "chapitre_id": "production-marketing",
+    "question": "pipeline",
+    "reponse": "pipeline, oléoduc"
+  },
+  {
+    "id": "qr-energy-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-029",
+    "chapitre_id": "relations-internationales",
+    "question": "proven reserves",
+    "reponse": "réserves prouvées"
+  },
+  {
+    "id": "qr-energy-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-030",
+    "chapitre_id": "production-marketing",
+    "question": "to push prices up",
+    "reponse": "faire grimper les prix"
+  },
+  {
+    "id": "qr-energy-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-031",
+    "chapitre_id": "production-marketing",
+    "question": "shale oil",
+    "reponse": "pétrole de schiste"
+  },
+  {
+    "id": "qr-energy-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-032",
+    "chapitre_id": "production-marketing",
+    "question": "shortage",
+    "reponse": "pénurie"
+  },
+  {
+    "id": "qr-energy-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-033",
+    "chapitre_id": "production-marketing",
+    "question": "sluggish demand",
+    "reponse": "demande atone"
+  },
+  {
+    "id": "qr-energy-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-034",
+    "chapitre_id": "finance",
+    "question": "spot market",
+    "reponse": "marché au comptant"
+  },
+  {
+    "id": "qr-energy-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-035",
+    "chapitre_id": "production-marketing",
+    "question": "stable prices",
+    "reponse": "prix stables"
+  },
+  {
+    "id": "qr-energy-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-036",
+    "chapitre_id": "finance",
+    "question": "volatile prices",
+    "reponse": "prix volatils"
+  },
+  {
+    "id": "qr-energy-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-037",
+    "chapitre_id": "production-marketing",
+    "question": "supply",
+    "reponse": "approvisionnement, offre"
+  },
+  {
+    "id": "qr-energy-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-038",
+    "chapitre_id": "production-marketing",
+    "question": "to supply",
+    "reponse": "approvisionner, fournir"
+  },
+  {
+    "id": "qr-energy-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-039",
+    "chapitre_id": "production-marketing",
+    "question": "tank",
+    "reponse": "réservoir"
+  },
+  {
+    "id": "qr-energy-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-040",
+    "chapitre_id": "production-marketing",
+    "question": "two-star petrol",
+    "reponse": "essence ordinaire (GB, ancien système)"
+  },
+  {
+    "id": "qr-energy-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-041",
+    "chapitre_id": "rse-gouvernance",
+    "question": "windfarm",
+    "reponse": "parc éolien"
+  },
+  {
+    "id": "qr-energy-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-042",
+    "chapitre_id": "rse-gouvernance",
+    "question": "windmill",
+    "reponse": "éolienne, moulin à vent"
+  },
+  {
+    "id": "qr-energy-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-043",
+    "chapitre_id": "production-marketing",
+    "question": "coal",
+    "reponse": "charbon"
+  },
+  {
+    "id": "qr-energy-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-044",
+    "chapitre_id": "production-marketing",
+    "question": "shale",
+    "reponse": "schiste"
+  },
+  {
+    "id": "qr-energy-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-045",
+    "chapitre_id": "rse-gouvernance",
+    "question": "water table",
+    "reponse": "nappe phréatique"
+  },
+  {
+    "id": "qr-energy-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-046",
+    "chapitre_id": "rse-gouvernance",
+    "question": "fracking",
+    "reponse": "fracturation hydraulique"
+  },
+  {
+    "id": "qr-energy-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-047",
+    "chapitre_id": "rse-gouvernance",
+    "question": "earthquake",
+    "reponse": "tremblement de terre"
+  },
+  {
+    "id": "qr-energy-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-048",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to offset",
+    "reponse": "compenser"
+  },
+  {
+    "id": "qr-energy-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-049",
+    "chapitre_id": "production-marketing",
+    "question": "lifeblood",
+    "reponse": "élément vital"
+  },
+  {
+    "id": "qr-energy-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-050",
+    "chapitre_id": "rse-gouvernance",
+    "question": "noxious",
+    "reponse": "nocif"
+  },
+  {
+    "id": "qr-energy-051",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-051",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to cripple",
+    "reponse": "paralyser"
+  },
+  {
+    "id": "qr-energy-052",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-052",
+    "chapitre_id": "rse-gouvernance",
+    "question": "crops",
+    "reponse": "cultures, récoltes"
+  },
+  {
+    "id": "qr-energy-053",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-053",
+    "chapitre_id": "production-marketing",
+    "question": "plant",
+    "reponse": "usine, installation"
+  },
+  {
+    "id": "qr-energy-054",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-054",
+    "chapitre_id": "finance",
+    "question": "assets",
+    "reponse": "actifs"
+  },
+  {
+    "id": "qr-energy-055",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-055",
+    "chapitre_id": "production-marketing",
+    "question": "steam",
+    "reponse": "vapeur"
+  },
+  {
+    "id": "qr-energy-056",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-056",
+    "chapitre_id": "rse-gouvernance",
+    "question": "detrimental effect",
+    "reponse": "effet néfaste"
+  },
+  {
+    "id": "qr-energy-057",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-057",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to trespass on",
+    "reponse": "empiéter sur"
+  },
+  {
+    "id": "qr-energy-058",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-058",
+    "chapitre_id": "rse-gouvernance",
+    "question": "hurricane",
+    "reponse": "ouragan"
+  },
+  {
+    "id": "qr-energy-059",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-059",
+    "chapitre_id": "rse-gouvernance",
+    "question": "heat wave",
+    "reponse": "canicule"
+  },
+  {
+    "id": "qr-energy-060",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-060",
+    "chapitre_id": "rse-gouvernance",
+    "question": "wildfire",
+    "reponse": "feu de forêt"
+  },
+  {
+    "id": "qr-energy-061",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-061",
+    "chapitre_id": "rse-gouvernance",
+    "question": "drought",
+    "reponse": "sécheresse"
+  },
+  {
+    "id": "qr-energy-062",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-062",
+    "chapitre_id": "rse-gouvernance",
+    "question": "typhoon",
+    "reponse": "typhon"
+  },
+  {
+    "id": "qr-energy-063",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-063",
+    "chapitre_id": "rse-gouvernance",
+    "question": "tide",
+    "reponse": "marée"
+  },
+  {
+    "id": "qr-energy-064",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-064",
+    "chapitre_id": "rse-gouvernance",
+    "question": "tidal power",
+    "reponse": "énergie marémotrice"
+  },
+  {
+    "id": "qr-energy-065",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-065",
+    "chapitre_id": "relations-internationales",
+    "question": "oil shock",
+    "reponse": "choc pétrolier"
+  },
+  {
+    "id": "qr-energy-066",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-066",
+    "chapitre_id": "production-marketing",
+    "question": "to seal",
+    "reponse": "sceller, obturer"
+  },
+  {
+    "id": "qr-energy-067",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-067",
+    "chapitre_id": "rse-gouvernance",
+    "question": "eyesore",
+    "reponse": "verrue visuelle, horreur esthétique"
+  },
+  {
+    "id": "qr-energy-068",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-068",
+    "chapitre_id": "rse-gouvernance",
+    "question": "disposal",
+    "reponse": "élimination (des déchets)"
+  },
+  {
+    "id": "qr-energy-069",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-069",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to harness",
+    "reponse": "exploiter, canaliser (une énergie)"
+  },
+  {
+    "id": "qr-energy-070",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-070",
+    "chapitre_id": "rse-gouvernance",
+    "question": "to trap",
+    "reponse": "capter, piéger"
+  },
+  {
+    "id": "qr-energy-071",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-071",
+    "chapitre_id": "production-marketing",
+    "question": "to boost",
+    "reponse": "stimuler, dynamiser"
+  },
+  {
+    "id": "qr-energy-072",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-072",
+    "chapitre_id": "production-marketing",
+    "question": "to bring about",
+    "reponse": "provoquer, entraîner"
+  },
+  {
+    "id": "qr-energy-073",
+    "type": "vocabulaire",
+    "ref_id": "voc-energy-073",
+    "chapitre_id": "finance",
+    "question": "buoyant",
+    "reponse": "dynamique, en plein essor"
+  },
+  {
+    "id": "qr-macro-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-001",
+    "chapitre_id": "relations-internationales",
+    "question": "capital-intensive",
+    "reponse": "à forte intensité de capital"
+  },
+  {
+    "id": "qr-macro-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-002",
+    "chapitre_id": "relations-internationales",
+    "question": "cutting-edge",
+    "reponse": "de pointe"
+  },
+  {
+    "id": "qr-macro-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-003",
+    "chapitre_id": "relations-internationales",
+    "question": "double-digit",
+    "reponse": "à deux chiffres"
+  },
+  {
+    "id": "qr-macro-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-004",
+    "chapitre_id": "relations-internationales",
+    "question": "export-driven",
+    "reponse": "tiré par les exportations"
+  },
+  {
+    "id": "qr-macro-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-005",
+    "chapitre_id": "relations-internationales",
+    "question": "to face problems",
+    "reponse": "faire face à des problèmes"
+  },
+  {
+    "id": "qr-macro-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-006",
+    "chapitre_id": "relations-internationales",
+    "question": "fast-growing",
+    "reponse": "à croissance rapide"
+  },
+  {
+    "id": "qr-macro-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-007",
+    "chapitre_id": "relations-internationales",
+    "question": "foreign-produced",
+    "reponse": "produit à l'étranger"
+  },
+  {
+    "id": "qr-macro-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-008",
+    "chapitre_id": "relations-internationales",
+    "question": "to foster competition",
+    "reponse": "stimuler la concurrence"
+  },
+  {
+    "id": "qr-macro-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-009",
+    "chapitre_id": "relations-internationales",
+    "question": "to fuel",
+    "reponse": "alimenter, stimuler"
+  },
+  {
+    "id": "qr-macro-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-010",
+    "chapitre_id": "finance",
+    "question": "GDP growth",
+    "reponse": "croissance du PIB"
+  },
+  {
+    "id": "qr-macro-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-011",
+    "chapitre_id": "relations-internationales",
+    "question": "ground-breaking",
+    "reponse": "révolutionnaire, novateur"
+  },
+  {
+    "id": "qr-macro-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-012",
+    "chapitre_id": "relations-internationales",
+    "question": "growth rate",
+    "reponse": "taux de croissance"
+  },
+  {
+    "id": "qr-macro-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-013",
+    "chapitre_id": "relations-internationales",
+    "question": "to implement a policy",
+    "reponse": "mettre en œuvre une politique"
+  },
+  {
+    "id": "qr-macro-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-014",
+    "chapitre_id": "relations-internationales",
+    "question": "innovation-based",
+    "reponse": "fondé sur l'innovation"
+  },
+  {
+    "id": "qr-macro-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-015",
+    "chapitre_id": "finance",
+    "question": "investment",
+    "reponse": "investissement"
+  },
+  {
+    "id": "qr-macro-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-016",
+    "chapitre_id": "relations-internationales",
+    "question": "knowledge-based",
+    "reponse": "fondé sur la connaissance"
+  },
+  {
+    "id": "qr-macro-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-017",
+    "chapitre_id": "relations-internationales",
+    "question": "labour-intensive",
+    "reponse": "à forte intensité de main-d'œuvre"
+  },
+  {
+    "id": "qr-macro-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-018",
+    "chapitre_id": "relations-internationales",
+    "question": "to lag behind",
+    "reponse": "être à la traîne"
+  },
+  {
+    "id": "qr-macro-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-019",
+    "chapitre_id": "relations-internationales",
+    "question": "manufacturing-based",
+    "reponse": "fondé sur l'industrie manufacturière"
+  },
+  {
+    "id": "qr-macro-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-020",
+    "chapitre_id": "relations-internationales",
+    "question": "to overcome hurdles",
+    "reponse": "surmonter des obstacles"
+  },
+  {
+    "id": "qr-macro-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-021",
+    "chapitre_id": "relations-internationales",
+    "question": "to rebound",
+    "reponse": "rebondir, repartir"
+  },
+  {
+    "id": "qr-macro-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-022",
+    "chapitre_id": "relations-internationales",
+    "question": "to recover from",
+    "reponse": "se remettre de"
+  },
+  {
+    "id": "qr-macro-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-023",
+    "chapitre_id": "relations-internationales",
+    "question": "service-oriented",
+    "reponse": "orienté vers les services"
+  },
+  {
+    "id": "qr-macro-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-024",
+    "chapitre_id": "relations-internationales",
+    "question": "to soar",
+    "reponse": "grimper en flèche"
+  },
+  {
+    "id": "qr-macro-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-026",
+    "chapitre_id": "relations-internationales",
+    "question": "steady",
+    "reponse": "stable, régulier"
+  },
+  {
+    "id": "qr-macro-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-027",
+    "chapitre_id": "relations-internationales",
+    "question": "strain",
+    "reponse": "tension, pression"
+  },
+  {
+    "id": "qr-macro-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-028",
+    "chapitre_id": "relations-internationales",
+    "question": "to strengthen",
+    "reponse": "renforcer"
+  },
+  {
+    "id": "qr-macro-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-029",
+    "chapitre_id": "relations-internationales",
+    "question": "to sustain growth",
+    "reponse": "soutenir la croissance"
+  },
+  {
+    "id": "qr-macro-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-030",
+    "chapitre_id": "relations-internationales",
+    "question": "to take off",
+    "reponse": "décoller (économiquement)"
+  },
+  {
+    "id": "qr-macro-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-031",
+    "chapitre_id": "relations-internationales",
+    "question": "technology-intensive",
+    "reponse": "à forte intensité technologique"
+  },
+  {
+    "id": "qr-macro-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-032",
+    "chapitre_id": "relations-internationales",
+    "question": "to threaten",
+    "reponse": "menacer"
+  },
+  {
+    "id": "qr-macro-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-033",
+    "chapitre_id": "relations-internationales",
+    "question": "to thrive",
+    "reponse": "prospérer"
+  },
+  {
+    "id": "qr-macro-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-034",
+    "chapitre_id": "relations-internationales",
+    "question": "up-and-coming",
+    "reponse": "prometteur, en plein essor"
+  },
+  {
+    "id": "qr-macro-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-035",
+    "chapitre_id": "relations-internationales",
+    "question": "to weaken",
+    "reponse": "affaiblir"
+  },
+  {
+    "id": "qr-macro-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-036",
+    "chapitre_id": "relations-internationales",
+    "question": "well-educated",
+    "reponse": "bien formé, diplômé"
+  },
+  {
+    "id": "qr-macro-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-037",
+    "chapitre_id": "relations-internationales",
+    "question": "to worsen",
+    "reponse": "s'aggraver, empirer"
+  },
+  {
+    "id": "qr-macro-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-038",
+    "chapitre_id": "relations-internationales",
+    "question": "subsidiary",
+    "reponse": "filiale"
+  },
+  {
+    "id": "qr-macro-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-039",
+    "chapitre_id": "relations-internationales",
+    "question": "outsourcing",
+    "reponse": "externalisation"
+  },
+  {
+    "id": "qr-macro-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-040",
+    "chapitre_id": "relations-internationales",
+    "question": "supply chain",
+    "reponse": "chaîne d'approvisionnement"
+  },
+  {
+    "id": "qr-macro-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-041",
+    "chapitre_id": "relations-internationales",
+    "question": "border",
+    "reponse": "frontière"
+  },
+  {
+    "id": "qr-macro-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-042",
+    "chapitre_id": "relations-internationales",
+    "question": "backlash",
+    "reponse": "contrecoup, réaction hostile"
+  },
+  {
+    "id": "qr-macro-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-043",
+    "chapitre_id": "relations-internationales",
+    "question": "sweatshop",
+    "reponse": "atelier clandestin"
+  },
+  {
+    "id": "qr-macro-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-044",
+    "chapitre_id": "relations-internationales",
+    "question": "to shrink",
+    "reponse": "se contracter, rétrécir"
+  },
+  {
+    "id": "qr-macro-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-045",
+    "chapitre_id": "relations-internationales",
+    "question": "to compound",
+    "reponse": "aggraver, amplifier"
+  },
+  {
+    "id": "qr-macro-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-046",
+    "chapitre_id": "relations-internationales",
+    "question": "to widen",
+    "reponse": "élargir, creuser (un écart)"
+  },
+  {
+    "id": "qr-macro-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-047",
+    "chapitre_id": "finance",
+    "question": "bookkeeping",
+    "reponse": "tenue de comptes"
+  },
+  {
+    "id": "qr-macro-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-048",
+    "chapitre_id": "management-rh",
+    "question": "lay-off",
+    "reponse": "licenciement"
+  },
+  {
+    "id": "qr-macro-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-049",
+    "chapitre_id": "finance",
+    "question": "GDP",
+    "reponse": "PIB (produit intérieur brut)"
+  },
+  {
+    "id": "qr-macro-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-050",
+    "chapitre_id": "relations-internationales",
+    "question": "assumption",
+    "reponse": "hypothèse"
+  },
+  {
+    "id": "qr-macro-051",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-051",
+    "chapitre_id": "relations-internationales",
+    "question": "to go into production",
+    "reponse": "entrer en production"
+  },
+  {
+    "id": "qr-macro-052",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-052",
+    "chapitre_id": "relations-internationales",
+    "question": "growth",
+    "reponse": "croissance"
+  },
+  {
+    "id": "qr-macro-053",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-053",
+    "chapitre_id": "relations-internationales",
+    "question": "advantages and drawbacks",
+    "reponse": "avantages et inconvénients"
+  },
+  {
+    "id": "qr-macro-054",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-054",
+    "chapitre_id": "relations-internationales",
+    "question": "wealth",
+    "reponse": "richesse"
+  },
+  {
+    "id": "qr-macro-055",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-055",
+    "chapitre_id": "management-rh",
+    "question": "blue-collar jobs",
+    "reponse": "emplois d'ouvriers"
+  },
+  {
+    "id": "qr-macro-056",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-056",
+    "chapitre_id": "management-rh",
+    "question": "labour force",
+    "reponse": "main-d'œuvre, population active"
+  },
+  {
+    "id": "qr-macro-057",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-057",
+    "chapitre_id": "management-rh",
+    "question": "skilled jobs",
+    "reponse": "emplois qualifiés"
+  },
+  {
+    "id": "qr-macro-058",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-058",
+    "chapitre_id": "relations-internationales",
+    "question": "insourcing",
+    "reponse": "relocalisation, réinternalisation"
+  },
+  {
+    "id": "qr-macro-059",
+    "type": "vocabulaire",
+    "ref_id": "voc-macro-059",
+    "chapitre_id": "relations-internationales",
+    "question": "digitalisation",
+    "reponse": "numérisation"
+  },
+  {
+    "id": "qr-dialogue-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-001",
+    "chapitre_id": "relations-internationales",
+    "question": "challenge",
+    "reponse": "défi"
+  },
+  {
+    "id": "qr-dialogue-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-002",
+    "chapitre_id": "relations-internationales",
+    "question": "civil society",
+    "reponse": "société civile"
+  },
+  {
+    "id": "qr-dialogue-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-003",
+    "chapitre_id": "management-rh",
+    "question": "collective bargaining",
+    "reponse": "négociation collective"
+  },
+  {
+    "id": "qr-dialogue-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-004",
+    "chapitre_id": "management-rh",
+    "question": "consensus building",
+    "reponse": "recherche de consensus"
+  },
+  {
+    "id": "qr-dialogue-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-005",
+    "chapitre_id": "relations-internationales",
+    "question": "deregulation",
+    "reponse": "dérégulation"
+  },
+  {
+    "id": "qr-dialogue-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-006",
+    "chapitre_id": "relations-internationales",
+    "question": "economic progress",
+    "reponse": "progrès économique"
+  },
+  {
+    "id": "qr-dialogue-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-007",
+    "chapitre_id": "relations-internationales",
+    "question": "European integration",
+    "reponse": "intégration européenne"
+  },
+  {
+    "id": "qr-dialogue-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-008",
+    "chapitre_id": "relations-internationales",
+    "question": "governance",
+    "reponse": "gouvernance"
+  },
+  {
+    "id": "qr-dialogue-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-009",
+    "chapitre_id": "relations-internationales",
+    "question": "harmonisation",
+    "reponse": "harmonisation"
+  },
+  {
+    "id": "qr-dialogue-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-010",
+    "chapitre_id": "management-rh",
+    "question": "industrial relations",
+    "reponse": "relations sociales (en entreprise)"
+  },
+  {
+    "id": "qr-dialogue-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-011",
+    "chapitre_id": "management-rh",
+    "question": "involvement",
+    "reponse": "implication"
+  },
+  {
+    "id": "qr-dialogue-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-012",
+    "chapitre_id": "management-rh",
+    "question": "labour costs",
+    "reponse": "coûts salariaux"
+  },
+  {
+    "id": "qr-dialogue-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-013",
+    "chapitre_id": "relations-internationales",
+    "question": "partnership",
+    "reponse": "partenariat"
+  },
+  {
+    "id": "qr-dialogue-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-014",
+    "chapitre_id": "relations-internationales",
+    "question": "service provider",
+    "reponse": "prestataire de services"
+  },
+  {
+    "id": "qr-dialogue-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-015",
+    "chapitre_id": "relations-internationales",
+    "question": "single market",
+    "reponse": "marché unique"
+  },
+  {
+    "id": "qr-dialogue-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-016",
+    "chapitre_id": "management-rh",
+    "question": "social dialogue",
+    "reponse": "dialogue social"
+  },
+  {
+    "id": "qr-dialogue-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-017",
+    "chapitre_id": "relations-internationales",
+    "question": "social environment",
+    "reponse": "environnement social"
+  },
+  {
+    "id": "qr-dialogue-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-018",
+    "chapitre_id": "relations-internationales",
+    "question": "social justice",
+    "reponse": "justice sociale"
+  },
+  {
+    "id": "qr-dialogue-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-019",
+    "chapitre_id": "management-rh",
+    "question": "social partners",
+    "reponse": "partenaires sociaux"
+  },
+  {
+    "id": "qr-dialogue-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-020",
+    "chapitre_id": "management-rh",
+    "question": "social policy",
+    "reponse": "politique sociale"
+  },
+  {
+    "id": "qr-dialogue-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-021",
+    "chapitre_id": "relations-internationales",
+    "question": "stakeholders",
+    "reponse": "parties prenantes"
+  },
+  {
+    "id": "qr-dialogue-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-022",
+    "chapitre_id": "relations-internationales",
+    "question": "to address problems",
+    "reponse": "traiter des problèmes"
+  },
+  {
+    "id": "qr-dialogue-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-dialogue-023",
+    "chapitre_id": "management-rh",
+    "question": "to agree on wages",
+    "reponse": "s'accorder sur les salaires"
+  },
+  {
+    "id": "qr-travail-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-001",
+    "chapitre_id": "management-rh",
+    "question": "automation",
+    "reponse": "automatisation"
+  },
+  {
+    "id": "qr-travail-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-002",
+    "chapitre_id": "management-rh",
+    "question": "to axe jobs",
+    "reponse": "supprimer des emplois"
+  },
+  {
+    "id": "qr-travail-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-003",
+    "chapitre_id": "management-rh",
+    "question": "to be out of work",
+    "reponse": "être sans emploi"
+  },
+  {
+    "id": "qr-travail-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-004",
+    "chapitre_id": "management-rh",
+    "question": "bargaining",
+    "reponse": "négociation"
+  },
+  {
+    "id": "qr-travail-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-005",
+    "chapitre_id": "management-rh",
+    "question": "burnout",
+    "reponse": "épuisement professionnel"
+  },
+  {
+    "id": "qr-travail-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-006",
+    "chapitre_id": "management-rh",
+    "question": "to commute",
+    "reponse": "faire la navette domicile-travail"
+  },
+  {
+    "id": "qr-travail-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-007",
+    "chapitre_id": "management-rh",
+    "question": "danger money",
+    "reponse": "prime de risque"
+  },
+  {
+    "id": "qr-travail-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-008",
+    "chapitre_id": "management-rh",
+    "question": "day off",
+    "reponse": "jour de congé"
+  },
+  {
+    "id": "qr-travail-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-009",
+    "chapitre_id": "management-rh",
+    "question": "employees' rights",
+    "reponse": "droits des salariés"
+  },
+  {
+    "id": "qr-travail-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-010",
+    "chapitre_id": "management-rh",
+    "question": "employment contract",
+    "reponse": "contrat de travail"
+  },
+  {
+    "id": "qr-travail-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-011",
+    "chapitre_id": "management-rh",
+    "question": "to fear layoffs",
+    "reponse": "craindre des licenciements"
+  },
+  {
+    "id": "qr-travail-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-012",
+    "chapitre_id": "management-rh",
+    "question": "fixed-term work",
+    "reponse": "travail à durée déterminée"
+  },
+  {
+    "id": "qr-travail-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-013",
+    "chapitre_id": "management-rh",
+    "question": "flexitime",
+    "reponse": "horaires flexibles"
+  },
+  {
+    "id": "qr-travail-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-014",
+    "chapitre_id": "management-rh",
+    "question": "full-time work",
+    "reponse": "travail à temps plein"
+  },
+  {
+    "id": "qr-travail-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-015",
+    "chapitre_id": "management-rh",
+    "question": "part-time work",
+    "reponse": "travail à temps partiel"
+  },
+  {
+    "id": "qr-travail-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-016",
+    "chapitre_id": "management-rh",
+    "question": "gender pay gap",
+    "reponse": "écart salarial hommes-femmes"
+  },
+  {
+    "id": "qr-travail-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-017",
+    "chapitre_id": "management-rh",
+    "question": "to go on strike",
+    "reponse": "se mettre en grève"
+  },
+  {
+    "id": "qr-travail-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-018",
+    "chapitre_id": "management-rh",
+    "question": "holidays with pay",
+    "reponse": "congés payés"
+  },
+  {
+    "id": "qr-travail-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-019",
+    "chapitre_id": "management-rh",
+    "question": "hourly rate",
+    "reponse": "taux horaire"
+  },
+  {
+    "id": "qr-travail-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-020",
+    "chapitre_id": "management-rh",
+    "question": "inclusiveness",
+    "reponse": "inclusion"
+  },
+  {
+    "id": "qr-travail-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-021",
+    "chapitre_id": "management-rh",
+    "question": "health hazard",
+    "reponse": "risque pour la santé"
+  },
+  {
+    "id": "qr-travail-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-022",
+    "chapitre_id": "management-rh",
+    "question": "job losses",
+    "reponse": "suppressions d'emploi"
+  },
+  {
+    "id": "qr-travail-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-023",
+    "chapitre_id": "management-rh",
+    "question": "job security",
+    "reponse": "sécurité de l'emploi"
+  },
+  {
+    "id": "qr-travail-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-024",
+    "chapitre_id": "management-rh",
+    "question": "job sharing",
+    "reponse": "partage de poste"
+  },
+  {
+    "id": "qr-travail-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-025",
+    "chapitre_id": "management-rh",
+    "question": "labour dispute",
+    "reponse": "conflit social"
+  },
+  {
+    "id": "qr-travail-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-027",
+    "chapitre_id": "management-rh",
+    "question": "living income",
+    "reponse": "revenu décent"
+  },
+  {
+    "id": "qr-travail-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-029",
+    "chapitre_id": "management-rh",
+    "question": "occupation",
+    "reponse": "profession, métier"
+  },
+  {
+    "id": "qr-travail-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-030",
+    "chapitre_id": "management-rh",
+    "question": "overtime",
+    "reponse": "heures supplémentaires"
+  },
+  {
+    "id": "qr-travail-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-031",
+    "chapitre_id": "management-rh",
+    "question": "parental leave",
+    "reponse": "congé parental"
+  },
+  {
+    "id": "qr-travail-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-032",
+    "chapitre_id": "management-rh",
+    "question": "pay cut",
+    "reponse": "baisse de salaire"
+  },
+  {
+    "id": "qr-travail-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-033",
+    "chapitre_id": "management-rh",
+    "question": "pay rise",
+    "reponse": "augmentation de salaire"
+  },
+  {
+    "id": "qr-travail-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-034",
+    "chapitre_id": "management-rh",
+    "question": "pay dispute",
+    "reponse": "conflit salarial"
+  },
+  {
+    "id": "qr-travail-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-035",
+    "chapitre_id": "management-rh",
+    "question": "permanent contract",
+    "reponse": "contrat à durée indéterminée"
+  },
+  {
+    "id": "qr-travail-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-036",
+    "chapitre_id": "management-rh",
+    "question": "representative",
+    "reponse": "représentant du personnel"
+  },
+  {
+    "id": "qr-travail-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-037",
+    "chapitre_id": "management-rh",
+    "question": "seasonal work",
+    "reponse": "travail saisonnier"
+  },
+  {
+    "id": "qr-travail-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-038",
+    "chapitre_id": "management-rh",
+    "question": "self-employed",
+    "reponse": "indépendant, travailleur autonome"
+  },
+  {
+    "id": "qr-travail-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-039",
+    "chapitre_id": "management-rh",
+    "question": "to take legal action",
+    "reponse": "engager une action en justice"
+  },
+  {
+    "id": "qr-travail-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-040",
+    "chapitre_id": "management-rh",
+    "question": "telecommuting",
+    "reponse": "télétravail"
+  },
+  {
+    "id": "qr-travail-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-041",
+    "chapitre_id": "management-rh",
+    "question": "time off",
+    "reponse": "temps libre, congé"
+  },
+  {
+    "id": "qr-travail-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-042",
+    "chapitre_id": "management-rh",
+    "question": "union",
+    "reponse": "syndicat"
+  },
+  {
+    "id": "qr-travail-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-043",
+    "chapitre_id": "management-rh",
+    "question": "wage growth",
+    "reponse": "croissance salariale"
+  },
+  {
+    "id": "qr-travail-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-044",
+    "chapitre_id": "management-rh",
+    "question": "to walk out",
+    "reponse": "débrayer, quitter en signe de protestation"
+  },
+  {
+    "id": "qr-travail-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-045",
+    "chapitre_id": "management-rh",
+    "question": "to work long hours",
+    "reponse": "travailler de longues heures"
+  },
+  {
+    "id": "qr-travail-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-046",
+    "chapitre_id": "management-rh",
+    "question": "to work overtime",
+    "reponse": "faire des heures supplémentaires"
+  },
+  {
+    "id": "qr-travail-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-047",
+    "chapitre_id": "management-rh",
+    "question": "work patterns",
+    "reponse": "modes d'organisation du travail"
+  },
+  {
+    "id": "qr-travail-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-048",
+    "chapitre_id": "management-rh",
+    "question": "workload",
+    "reponse": "charge de travail"
+  },
+  {
+    "id": "qr-travail-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-049",
+    "chapitre_id": "management-rh",
+    "question": "working time regulations",
+    "reponse": "réglementation du temps de travail"
+  },
+  {
+    "id": "qr-travail-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-travail-050",
+    "chapitre_id": "management-rh",
+    "question": "zero-hour contract",
+    "reponse": "contrat zéro heure"
+  },
+  {
+    "id": "qr-struct-001",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-001",
+    "chapitre_id": "management-rh",
+    "question": "accountancy",
+    "reponse": "comptabilité"
+  },
+  {
+    "id": "qr-struct-002",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-002",
+    "chapitre_id": "management-rh",
+    "question": "accounting control",
+    "reponse": "contrôle comptable"
+  },
+  {
+    "id": "qr-struct-003",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-003",
+    "chapitre_id": "management-rh",
+    "question": "accounts department",
+    "reponse": "service comptable"
+  },
+  {
+    "id": "qr-struct-004",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-004",
+    "chapitre_id": "finance",
+    "question": "to acquire",
+    "reponse": "acquérir"
+  },
+  {
+    "id": "qr-struct-005",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-005",
+    "chapitre_id": "finance",
+    "question": "to buy out",
+    "reponse": "racheter (une entreprise)"
+  },
+  {
+    "id": "qr-struct-006",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-006",
+    "chapitre_id": "management-rh",
+    "question": "to appoint to a position",
+    "reponse": "nommer à un poste"
+  },
+  {
+    "id": "qr-struct-007",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-007",
+    "chapitre_id": "management-rh",
+    "question": "appointment (nomination à un poste)",
+    "reponse": "nomination"
+  },
+  {
+    "id": "qr-struct-008",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-008",
+    "chapitre_id": "management-rh",
+    "question": "to be on the payroll",
+    "reponse": "être salarié"
+  },
+  {
+    "id": "qr-struct-009",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-009",
+    "chapitre_id": "management-rh",
+    "question": "brainstorming session",
+    "reponse": "séance de remue-méninges"
+  },
+  {
+    "id": "qr-struct-010",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-010",
+    "chapitre_id": "finance",
+    "question": "buy-out",
+    "reponse": "rachat d'entreprise"
+  },
+  {
+    "id": "qr-struct-011",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-011",
+    "chapitre_id": "finance",
+    "question": "acquisition",
+    "reponse": "acquisition"
+  },
+  {
+    "id": "qr-struct-012",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-012",
+    "chapitre_id": "management-rh",
+    "question": "to chair a committee",
+    "reponse": "présider un comité"
+  },
+  {
+    "id": "qr-struct-013",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-013",
+    "chapitre_id": "management-rh",
+    "question": "deputy manager",
+    "reponse": "directeur adjoint"
+  },
+  {
+    "id": "qr-struct-014",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-014",
+    "chapitre_id": "management-rh",
+    "question": "assistant manager",
+    "reponse": "sous-directeur"
+  },
+  {
+    "id": "qr-struct-015",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-015",
+    "chapitre_id": "finance",
+    "question": "divestment",
+    "reponse": "désinvestissement"
+  },
+  {
+    "id": "qr-struct-016",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-016",
+    "chapitre_id": "management-rh",
+    "question": "downsizing",
+    "reponse": "réduction des effectifs"
+  },
+  {
+    "id": "qr-struct-017",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-017",
+    "chapitre_id": "management-rh",
+    "question": "to headquarter a company",
+    "reponse": "établir le siège d'une entreprise"
+  },
+  {
+    "id": "qr-struct-018",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-018",
+    "chapitre_id": "management-rh",
+    "question": "HR department",
+    "reponse": "service des ressources humaines"
+  },
+  {
+    "id": "qr-struct-019",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-019",
+    "chapitre_id": "management-rh",
+    "question": "lean structure",
+    "reponse": "structure allégée"
+  },
+  {
+    "id": "qr-struct-020",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-020",
+    "chapitre_id": "management-rh",
+    "question": "management accountant",
+    "reponse": "contrôleur de gestion"
+  },
+  {
+    "id": "qr-struct-021",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-021",
+    "chapitre_id": "management-rh",
+    "question": "management audit",
+    "reponse": "audit de gestion"
+  },
+  {
+    "id": "qr-struct-022",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-022",
+    "chapitre_id": "management-rh",
+    "question": "to manufacture",
+    "reponse": "fabriquer"
+  },
+  {
+    "id": "qr-struct-023",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-023",
+    "chapitre_id": "finance",
+    "question": "to merge",
+    "reponse": "fusionner"
+  },
+  {
+    "id": "qr-struct-024",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-024",
+    "chapitre_id": "finance",
+    "question": "merger",
+    "reponse": "fusion"
+  },
+  {
+    "id": "qr-struct-025",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-025",
+    "chapitre_id": "management-rh",
+    "question": "middle manager",
+    "reponse": "cadre intermédiaire"
+  },
+  {
+    "id": "qr-struct-026",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-026",
+    "chapitre_id": "management-rh",
+    "question": "non-executive director",
+    "reponse": "administrateur non exécutif"
+  },
+  {
+    "id": "qr-struct-027",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-027",
+    "chapitre_id": "management-rh",
+    "question": "PR department",
+    "reponse": "service des relations publiques"
+  },
+  {
+    "id": "qr-struct-028",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-028",
+    "chapitre_id": "management-rh",
+    "question": "premises",
+    "reponse": "locaux"
+  },
+  {
+    "id": "qr-struct-029",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-029",
+    "chapitre_id": "management-rh",
+    "question": "purchasing manager",
+    "reponse": "responsable des achats"
+  },
+  {
+    "id": "qr-struct-030",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-030",
+    "chapitre_id": "management-rh",
+    "question": "rank and file",
+    "reponse": "la base, les employés de base"
+  },
+  {
+    "id": "qr-struct-031",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-031",
+    "chapitre_id": "management-rh",
+    "question": "to resign",
+    "reponse": "démissionner"
+  },
+  {
+    "id": "qr-struct-032",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-032",
+    "chapitre_id": "management-rh",
+    "question": "resignation",
+    "reponse": "démission"
+  },
+  {
+    "id": "qr-struct-033",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-033",
+    "chapitre_id": "management-rh",
+    "question": "restructuring",
+    "reponse": "restructuration"
+  },
+  {
+    "id": "qr-struct-034",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-034",
+    "chapitre_id": "management-rh",
+    "question": "rules and regulations",
+    "reponse": "règles et règlements"
+  },
+  {
+    "id": "qr-struct-035",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-035",
+    "chapitre_id": "management-rh",
+    "question": "to sell out",
+    "reponse": "vendre son entreprise, céder ses parts"
+  },
+  {
+    "id": "qr-struct-036",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-036",
+    "chapitre_id": "management-rh",
+    "question": "senior manager",
+    "reponse": "cadre supérieur"
+  },
+  {
+    "id": "qr-struct-037",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-037",
+    "chapitre_id": "management-rh",
+    "question": "executive manager",
+    "reponse": "cadre dirigeant"
+  },
+  {
+    "id": "qr-struct-038",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-038",
+    "chapitre_id": "management-rh",
+    "question": "senior staff",
+    "reponse": "personnel d'encadrement"
+  },
+  {
+    "id": "qr-struct-039",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-039",
+    "chapitre_id": "management-rh",
+    "question": "subordinate",
+    "reponse": "subordonné"
+  },
+  {
+    "id": "qr-struct-040",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-040",
+    "chapitre_id": "management-rh",
+    "question": "team leader",
+    "reponse": "chef d'équipe"
+  },
+  {
+    "id": "qr-struct-041",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-041",
+    "chapitre_id": "management-rh",
+    "question": "team spirit",
+    "reponse": "esprit d'équipe"
+  },
+  {
+    "id": "qr-struct-042",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-042",
+    "chapitre_id": "management-rh",
+    "question": "to temp",
+    "reponse": "travailler en intérim"
+  },
+  {
+    "id": "qr-struct-043",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-043",
+    "chapitre_id": "management-rh",
+    "question": "temporary worker",
+    "reponse": "intérimaire"
+  },
+  {
+    "id": "qr-struct-044",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-044",
+    "chapitre_id": "management-rh",
+    "question": "top management",
+    "reponse": "direction générale"
+  },
+  {
+    "id": "qr-struct-045",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-045",
+    "chapitre_id": "management-rh",
+    "question": "trainee",
+    "reponse": "stagiaire"
+  },
+  {
+    "id": "qr-struct-046",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-046",
+    "chapitre_id": "management-rh",
+    "question": "turnover of staff",
+    "reponse": "taux de rotation du personnel"
+  },
+  {
+    "id": "qr-struct-047",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-047",
+    "chapitre_id": "management-rh",
+    "question": "to upgrade",
+    "reponse": "moderniser, améliorer"
+  },
+  {
+    "id": "qr-struct-048",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-048",
+    "chapitre_id": "management-rh",
+    "question": "vice-president",
+    "reponse": "vice-président"
+  },
+  {
+    "id": "qr-struct-049",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-049",
+    "chapitre_id": "management-rh",
+    "question": "warehouse",
+    "reponse": "entrepôt"
+  },
+  {
+    "id": "qr-struct-050",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-050",
+    "chapitre_id": "management-rh",
+    "question": "workshop",
+    "reponse": "atelier"
+  },
+  {
+    "id": "qr-struct-051",
+    "type": "vocabulaire",
+    "ref_id": "voc-struct-051",
+    "chapitre_id": "management-rh",
+    "question": "to write off an operation",
+    "reponse": "passer une opération par pertes et profits"
   }
 ]
