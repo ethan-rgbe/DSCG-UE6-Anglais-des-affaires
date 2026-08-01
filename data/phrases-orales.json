@@ -28,5 +28,35 @@
     "fonction": "réagir à une question",
     "phrase_en": "That's an interesting point. If I understand your question correctly, you're asking whether...",
     "note": "Reformuler la question du jury donne un instant de réflexion supplémentaire."
+  },
+  {
+    "id": "ph-006",
+    "fonction": "faire des prévisions",
+    "phrase_en": "If present trends continue, industrial output should increase.",
+    "note": "Pour introduire une prévision fondée sur une tendance observée. Variantes : be expected to / be likely to / be forecast to + verbe."
+  },
+  {
+    "id": "ph-007",
+    "fonction": "faire des prévisions",
+    "phrase_en": "According to current estimates, growth is expected to slow down next year.",
+    "note": "Formule d'ouverture pour citer une source ou une estimation avant d'annoncer une prévision."
+  },
+  {
+    "id": "ph-008",
+    "fonction": "demander",
+    "phrase_en": "We would be grateful if you could provide more details on this point.",
+    "note": "Formule de politesse pour une demande, transposable à l'oral en entretien professionnel."
+  },
+  {
+    "id": "ph-009",
+    "fonction": "remercier",
+    "phrase_en": "Thank you for raising this point — we really appreciate your input.",
+    "note": "Adapté des formules de correspondance commerciale (Thank you for.../We appreciated...) pour un usage oral."
+  },
+  {
+    "id": "ph-010",
+    "fonction": "nuancer un désaccord",
+    "phrase_en": "We regret that this hasn't been fully addressed, but we remain open to further discussion.",
+    "note": "Inspiré de « We regret to inform you that... » — reconnaître une limite sans fermer le dialogue."
   }
 ]
