@@ -868,5 +868,5485 @@
     "exemple_en": "Advertisers are shifting their budgets to social media.",
     "exemple_fr": "Les annonceurs déplacent leurs budgets vers les réseaux sociaux.",
     "difficulte": "facile"
+  },
+  {
+    "id": "voc-irrverb-001",
+    "chapitre_id": null,
+    "terme_en": "abide – abode/abided – abode/abided",
+    "traduction_fr": "respecter, se conformer à",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-002",
+    "chapitre_id": null,
+    "terme_en": "arise – arose – arisen",
+    "traduction_fr": "survenir, se présenter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-003",
+    "chapitre_id": null,
+    "terme_en": "awake – awoke – awoken",
+    "traduction_fr": "se réveiller",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-004",
+    "chapitre_id": null,
+    "terme_en": "bear – bore – borne",
+    "traduction_fr": "porter, supporter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-005",
+    "chapitre_id": null,
+    "terme_en": "beat – beat – beaten",
+    "traduction_fr": "battre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-006",
+    "chapitre_id": null,
+    "terme_en": "become – became – become",
+    "traduction_fr": "devenir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-007",
+    "chapitre_id": null,
+    "terme_en": "begin – began – begun",
+    "traduction_fr": "commencer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-008",
+    "chapitre_id": null,
+    "terme_en": "bend – bent – bent",
+    "traduction_fr": "plier, courber",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-009",
+    "chapitre_id": null,
+    "terme_en": "bet – bet – bet",
+    "traduction_fr": "parier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-010",
+    "chapitre_id": null,
+    "terme_en": "bid – bid – bid",
+    "traduction_fr": "offrir un prix, enchérir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-011",
+    "chapitre_id": null,
+    "terme_en": "bind – bound – bound",
+    "traduction_fr": "lier, attacher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-012",
+    "chapitre_id": null,
+    "terme_en": "bite – bit – bitten",
+    "traduction_fr": "mordre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-013",
+    "chapitre_id": null,
+    "terme_en": "bleed – bled – bled",
+    "traduction_fr": "saigner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-014",
+    "chapitre_id": null,
+    "terme_en": "blow – blew – blown",
+    "traduction_fr": "souffler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-015",
+    "chapitre_id": null,
+    "terme_en": "break – broke – broken",
+    "traduction_fr": "casser, rompre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-016",
+    "chapitre_id": null,
+    "terme_en": "breed – bred – bred",
+    "traduction_fr": "élever (des animaux), engendrer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-017",
+    "chapitre_id": null,
+    "terme_en": "bring – brought – brought",
+    "traduction_fr": "apporter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-018",
+    "chapitre_id": null,
+    "terme_en": "broadcast – broadcast – broadcast",
+    "traduction_fr": "diffuser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-019",
+    "chapitre_id": null,
+    "terme_en": "build – built – built",
+    "traduction_fr": "construire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-020",
+    "chapitre_id": null,
+    "terme_en": "burn – burnt/burned – burnt/burned",
+    "traduction_fr": "brûler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-021",
+    "chapitre_id": null,
+    "terme_en": "burst – burst – burst",
+    "traduction_fr": "éclater",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-022",
+    "chapitre_id": null,
+    "terme_en": "buy – bought – bought",
+    "traduction_fr": "acheter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-023",
+    "chapitre_id": null,
+    "terme_en": "cast – cast – cast",
+    "traduction_fr": "jeter, distribuer un rôle",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-024",
+    "chapitre_id": null,
+    "terme_en": "catch – caught – caught",
+    "traduction_fr": "attraper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-025",
+    "chapitre_id": null,
+    "terme_en": "choose – chose – chosen",
+    "traduction_fr": "choisir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-026",
+    "chapitre_id": null,
+    "terme_en": "cling – clung – clung",
+    "traduction_fr": "s'accrocher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-027",
+    "chapitre_id": null,
+    "terme_en": "come – came – come",
+    "traduction_fr": "venir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-028",
+    "chapitre_id": null,
+    "terme_en": "cost – cost – cost",
+    "traduction_fr": "coûter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-029",
+    "chapitre_id": null,
+    "terme_en": "creep – crept – crept",
+    "traduction_fr": "ramper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-030",
+    "chapitre_id": null,
+    "terme_en": "cut – cut – cut",
+    "traduction_fr": "couper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-031",
+    "chapitre_id": null,
+    "terme_en": "deal – dealt – dealt",
+    "traduction_fr": "traiter une affaire, distribuer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-032",
+    "chapitre_id": null,
+    "terme_en": "dig – dug – dug",
+    "traduction_fr": "creuser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-033",
+    "chapitre_id": null,
+    "terme_en": "do – did – done",
+    "traduction_fr": "faire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-034",
+    "chapitre_id": null,
+    "terme_en": "draw – drew – drawn",
+    "traduction_fr": "dessiner, tirer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-035",
+    "chapitre_id": null,
+    "terme_en": "dream – dreamt/dreamed – dreamt/dreamed",
+    "traduction_fr": "rêver",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-036",
+    "chapitre_id": null,
+    "terme_en": "drink – drank – drunk",
+    "traduction_fr": "boire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-037",
+    "chapitre_id": null,
+    "terme_en": "drive – drove – driven",
+    "traduction_fr": "conduire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-038",
+    "chapitre_id": null,
+    "terme_en": "eat – ate – eaten",
+    "traduction_fr": "manger",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-039",
+    "chapitre_id": null,
+    "terme_en": "fall – fell – fallen",
+    "traduction_fr": "tomber",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-040",
+    "chapitre_id": null,
+    "terme_en": "feed – fed – fed",
+    "traduction_fr": "nourrir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-041",
+    "chapitre_id": null,
+    "terme_en": "feel – felt – felt",
+    "traduction_fr": "ressentir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-042",
+    "chapitre_id": null,
+    "terme_en": "fight – fought – fought",
+    "traduction_fr": "se battre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-043",
+    "chapitre_id": null,
+    "terme_en": "find – found – found",
+    "traduction_fr": "trouver",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-044",
+    "chapitre_id": null,
+    "terme_en": "flee – fled – fled",
+    "traduction_fr": "fuir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-045",
+    "chapitre_id": null,
+    "terme_en": "fly – flew – flown",
+    "traduction_fr": "voler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-046",
+    "chapitre_id": null,
+    "terme_en": "forbid – forbade – forbidden",
+    "traduction_fr": "interdire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-047",
+    "chapitre_id": null,
+    "terme_en": "forecast – forecast – forecast",
+    "traduction_fr": "prévoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-048",
+    "chapitre_id": null,
+    "terme_en": "foresee – foresaw – foreseen",
+    "traduction_fr": "prévoir, anticiper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-049",
+    "chapitre_id": null,
+    "terme_en": "forget – forgot – forgotten",
+    "traduction_fr": "oublier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-050",
+    "chapitre_id": null,
+    "terme_en": "forgive – forgave – forgiven",
+    "traduction_fr": "pardonner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-051",
+    "chapitre_id": null,
+    "terme_en": "freeze – froze – frozen",
+    "traduction_fr": "geler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-052",
+    "chapitre_id": null,
+    "terme_en": "get – got – got/gotten",
+    "traduction_fr": "obtenir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-053",
+    "chapitre_id": null,
+    "terme_en": "give – gave – given",
+    "traduction_fr": "donner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-054",
+    "chapitre_id": null,
+    "terme_en": "go – went – gone",
+    "traduction_fr": "aller",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-055",
+    "chapitre_id": null,
+    "terme_en": "grind – ground – ground",
+    "traduction_fr": "moudre, broyer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-056",
+    "chapitre_id": null,
+    "terme_en": "grow – grew – grown",
+    "traduction_fr": "grandir, croître",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-057",
+    "chapitre_id": null,
+    "terme_en": "hang – hung – hung",
+    "traduction_fr": "suspendre, accrocher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-058",
+    "chapitre_id": null,
+    "terme_en": "have – had – had",
+    "traduction_fr": "avoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-059",
+    "chapitre_id": null,
+    "terme_en": "hear – heard – heard",
+    "traduction_fr": "entendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-060",
+    "chapitre_id": null,
+    "terme_en": "hide – hid – hidden",
+    "traduction_fr": "cacher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-061",
+    "chapitre_id": null,
+    "terme_en": "hit – hit – hit",
+    "traduction_fr": "frapper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-062",
+    "chapitre_id": null,
+    "terme_en": "hold – held – held",
+    "traduction_fr": "tenir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-063",
+    "chapitre_id": null,
+    "terme_en": "hurt – hurt – hurt",
+    "traduction_fr": "blesser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-064",
+    "chapitre_id": null,
+    "terme_en": "keep – kept – kept",
+    "traduction_fr": "garder",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-065",
+    "chapitre_id": null,
+    "terme_en": "kneel – knelt – knelt",
+    "traduction_fr": "s'agenouiller",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-066",
+    "chapitre_id": null,
+    "terme_en": "know – knew – known",
+    "traduction_fr": "savoir, connaître",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-067",
+    "chapitre_id": null,
+    "terme_en": "lay – laid – laid",
+    "traduction_fr": "poser, déposer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-068",
+    "chapitre_id": null,
+    "terme_en": "lead – led – led",
+    "traduction_fr": "diriger, mener",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-069",
+    "chapitre_id": null,
+    "terme_en": "lean – leant/leaned – leant/leaned",
+    "traduction_fr": "s'appuyer, pencher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-070",
+    "chapitre_id": null,
+    "terme_en": "leap – leapt/leaped – leapt/leaped",
+    "traduction_fr": "sauter, bondir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-071",
+    "chapitre_id": null,
+    "terme_en": "learn – learnt/learned – learnt/learned",
+    "traduction_fr": "apprendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-072",
+    "chapitre_id": null,
+    "terme_en": "leave – left – left",
+    "traduction_fr": "partir, laisser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-073",
+    "chapitre_id": null,
+    "terme_en": "lend – lent – lent",
+    "traduction_fr": "prêter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-074",
+    "chapitre_id": null,
+    "terme_en": "let – let – let",
+    "traduction_fr": "laisser, permettre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-075",
+    "chapitre_id": null,
+    "terme_en": "lie – lay – lain",
+    "traduction_fr": "être allongé (≠ to lie/lied/lied = mentir)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-076",
+    "chapitre_id": null,
+    "terme_en": "light – lit/lighted – lit/lighted",
+    "traduction_fr": "allumer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-077",
+    "chapitre_id": null,
+    "terme_en": "lose – lost – lost",
+    "traduction_fr": "perdre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-078",
+    "chapitre_id": null,
+    "terme_en": "make – made – made",
+    "traduction_fr": "faire, fabriquer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-079",
+    "chapitre_id": null,
+    "terme_en": "mean – meant – meant",
+    "traduction_fr": "signifier, vouloir dire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-080",
+    "chapitre_id": null,
+    "terme_en": "meet – met – met",
+    "traduction_fr": "rencontrer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-081",
+    "chapitre_id": null,
+    "terme_en": "mistake – mistook – mistaken",
+    "traduction_fr": "se tromper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-082",
+    "chapitre_id": null,
+    "terme_en": "overcome – overcame – overcome",
+    "traduction_fr": "surmonter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-083",
+    "chapitre_id": null,
+    "terme_en": "pay – paid – paid",
+    "traduction_fr": "payer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-084",
+    "chapitre_id": null,
+    "terme_en": "put – put – put",
+    "traduction_fr": "mettre, poser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-085",
+    "chapitre_id": null,
+    "terme_en": "quit – quit – quit",
+    "traduction_fr": "quitter, arrêter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-086",
+    "chapitre_id": null,
+    "terme_en": "read – read – read",
+    "traduction_fr": "lire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-087",
+    "chapitre_id": null,
+    "terme_en": "rid – rid – rid",
+    "traduction_fr": "débarrasser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-088",
+    "chapitre_id": null,
+    "terme_en": "ride – rode – ridden",
+    "traduction_fr": "monter (à cheval, en vélo)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-089",
+    "chapitre_id": null,
+    "terme_en": "ring – rang – rung",
+    "traduction_fr": "sonner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-090",
+    "chapitre_id": null,
+    "terme_en": "rise – rose – risen",
+    "traduction_fr": "s'élever, augmenter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-091",
+    "chapitre_id": null,
+    "terme_en": "run – ran – run",
+    "traduction_fr": "courir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-092",
+    "chapitre_id": null,
+    "terme_en": "saw – sawed – sawn",
+    "traduction_fr": "scier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-093",
+    "chapitre_id": null,
+    "terme_en": "say – said – said",
+    "traduction_fr": "dire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-094",
+    "chapitre_id": null,
+    "terme_en": "see – saw – seen",
+    "traduction_fr": "voir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-095",
+    "chapitre_id": null,
+    "terme_en": "seek – sought – sought",
+    "traduction_fr": "chercher, rechercher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-096",
+    "chapitre_id": null,
+    "terme_en": "sell – sold – sold",
+    "traduction_fr": "vendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-097",
+    "chapitre_id": null,
+    "terme_en": "send – sent – sent",
+    "traduction_fr": "envoyer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-098",
+    "chapitre_id": null,
+    "terme_en": "set – set – set",
+    "traduction_fr": "fixer, établir, régler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-099",
+    "chapitre_id": null,
+    "terme_en": "sew – sewed – sewn",
+    "traduction_fr": "coudre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-100",
+    "chapitre_id": null,
+    "terme_en": "shake – shook – shaken",
+    "traduction_fr": "secouer, ébranler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-101",
+    "chapitre_id": null,
+    "terme_en": "shed – shed – shed",
+    "traduction_fr": "verser une larme, supprimer des emplois",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-102",
+    "chapitre_id": null,
+    "terme_en": "shine – shone – shone",
+    "traduction_fr": "briller",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-103",
+    "chapitre_id": null,
+    "terme_en": "shoot – shot – shot",
+    "traduction_fr": "tirer (une arme)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-104",
+    "chapitre_id": null,
+    "terme_en": "show – showed – shown",
+    "traduction_fr": "montrer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-105",
+    "chapitre_id": null,
+    "terme_en": "shrink – shrank – shrunk",
+    "traduction_fr": "rétrécir, se réduire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-106",
+    "chapitre_id": null,
+    "terme_en": "shut – shut – shut",
+    "traduction_fr": "fermer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-107",
+    "chapitre_id": null,
+    "terme_en": "sing – sang – sung",
+    "traduction_fr": "chanter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-108",
+    "chapitre_id": null,
+    "terme_en": "sink – sank – sunk",
+    "traduction_fr": "couler, sombrer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-109",
+    "chapitre_id": null,
+    "terme_en": "sit – sat – sat",
+    "traduction_fr": "être assis, s'asseoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-110",
+    "chapitre_id": null,
+    "terme_en": "sleep – slept – slept",
+    "traduction_fr": "dormir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-111",
+    "chapitre_id": null,
+    "terme_en": "slide – slid – slid",
+    "traduction_fr": "glisser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-112",
+    "chapitre_id": null,
+    "terme_en": "sow – sowed – sown",
+    "traduction_fr": "semer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-113",
+    "chapitre_id": null,
+    "terme_en": "speak – spoke – spoken",
+    "traduction_fr": "parler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-114",
+    "chapitre_id": null,
+    "terme_en": "speed – sped/speeded – sped/speeded",
+    "traduction_fr": "accélérer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-115",
+    "chapitre_id": null,
+    "terme_en": "spell – spelt/spelled – spelt/spelled",
+    "traduction_fr": "épeler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-116",
+    "chapitre_id": null,
+    "terme_en": "spend – spent – spent",
+    "traduction_fr": "dépenser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-117",
+    "chapitre_id": null,
+    "terme_en": "spill – spilt/spilled – spilt/spilled",
+    "traduction_fr": "renverser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-118",
+    "chapitre_id": null,
+    "terme_en": "spin – spun – spun",
+    "traduction_fr": "filer, tourner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-119",
+    "chapitre_id": null,
+    "terme_en": "spit – spat – spat",
+    "traduction_fr": "cracher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-120",
+    "chapitre_id": null,
+    "terme_en": "split – split – split",
+    "traduction_fr": "diviser, scinder",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-121",
+    "chapitre_id": null,
+    "terme_en": "spoil – spoilt/spoiled – spoilt/spoiled",
+    "traduction_fr": "gâter, gâcher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-122",
+    "chapitre_id": null,
+    "terme_en": "spread – spread – spread",
+    "traduction_fr": "étendre, répandre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-123",
+    "chapitre_id": null,
+    "terme_en": "spring – sprang – sprung",
+    "traduction_fr": "bondir, jaillir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-124",
+    "chapitre_id": null,
+    "terme_en": "stand – stood – stood",
+    "traduction_fr": "se tenir debout, supporter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-125",
+    "chapitre_id": null,
+    "terme_en": "steal – stole – stolen",
+    "traduction_fr": "voler, dérober",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-126",
+    "chapitre_id": null,
+    "terme_en": "stick – stuck – stuck",
+    "traduction_fr": "coller, se coincer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-127",
+    "chapitre_id": null,
+    "terme_en": "sting – stung – stung",
+    "traduction_fr": "piquer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-128",
+    "chapitre_id": null,
+    "terme_en": "stink – stank – stunk",
+    "traduction_fr": "puer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-129",
+    "chapitre_id": null,
+    "terme_en": "strike – struck – struck",
+    "traduction_fr": "frapper, faire grève",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-130",
+    "chapitre_id": null,
+    "terme_en": "strive – strove – striven",
+    "traduction_fr": "s'efforcer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-131",
+    "chapitre_id": null,
+    "terme_en": "swear – swore – sworn",
+    "traduction_fr": "jurer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-132",
+    "chapitre_id": null,
+    "terme_en": "sweep – swept – swept",
+    "traduction_fr": "balayer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-133",
+    "chapitre_id": null,
+    "terme_en": "swell – swelled – swollen",
+    "traduction_fr": "gonfler, augmenter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-134",
+    "chapitre_id": null,
+    "terme_en": "swim – swam – swum",
+    "traduction_fr": "nager",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-135",
+    "chapitre_id": null,
+    "terme_en": "swing – swung – swung",
+    "traduction_fr": "balancer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-136",
+    "chapitre_id": null,
+    "terme_en": "take – took – taken",
+    "traduction_fr": "prendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-137",
+    "chapitre_id": null,
+    "terme_en": "teach – taught – taught",
+    "traduction_fr": "enseigner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-138",
+    "chapitre_id": null,
+    "terme_en": "tear – tore – torn",
+    "traduction_fr": "déchirer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-139",
+    "chapitre_id": null,
+    "terme_en": "tell – told – told",
+    "traduction_fr": "dire, raconter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-140",
+    "chapitre_id": null,
+    "terme_en": "think – thought – thought",
+    "traduction_fr": "penser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-141",
+    "chapitre_id": null,
+    "terme_en": "throw – threw – thrown",
+    "traduction_fr": "jeter, lancer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-142",
+    "chapitre_id": null,
+    "terme_en": "thrust – thrust – thrust",
+    "traduction_fr": "pousser brusquement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-143",
+    "chapitre_id": null,
+    "terme_en": "tread – trod – trodden",
+    "traduction_fr": "marcher (sur)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-144",
+    "chapitre_id": null,
+    "terme_en": "undergo – underwent – undergone",
+    "traduction_fr": "subir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-145",
+    "chapitre_id": null,
+    "terme_en": "understand – understood – understood",
+    "traduction_fr": "comprendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-146",
+    "chapitre_id": null,
+    "terme_en": "undertake – undertook – undertaken",
+    "traduction_fr": "entreprendre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-147",
+    "chapitre_id": null,
+    "terme_en": "upset – upset – upset",
+    "traduction_fr": "contrarier, bouleverser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-148",
+    "chapitre_id": null,
+    "terme_en": "wake – woke – woken",
+    "traduction_fr": "se réveiller",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-149",
+    "chapitre_id": null,
+    "terme_en": "wear – wore – worn",
+    "traduction_fr": "porter (un vêtement)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-150",
+    "chapitre_id": null,
+    "terme_en": "weave – wove – woven",
+    "traduction_fr": "tisser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-151",
+    "chapitre_id": null,
+    "terme_en": "weep – wept – wept",
+    "traduction_fr": "pleurer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-152",
+    "chapitre_id": null,
+    "terme_en": "win – won – won",
+    "traduction_fr": "gagner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-153",
+    "chapitre_id": null,
+    "terme_en": "wind – wound – wound",
+    "traduction_fr": "enrouler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-154",
+    "chapitre_id": null,
+    "terme_en": "withdraw – withdrew – withdrawn",
+    "traduction_fr": "retirer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-155",
+    "chapitre_id": null,
+    "terme_en": "withhold – withheld – withheld",
+    "traduction_fr": "retenir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-irrverb-156",
+    "chapitre_id": null,
+    "terme_en": "write – wrote – written",
+    "traduction_fr": "écrire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-001",
+    "chapitre_id": "management-rh",
+    "terme_en": "enquiry",
+    "traduction_fr": "demande de renseignements",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-002",
+    "chapitre_id": "finance",
+    "terme_en": "to settle the bill",
+    "traduction_fr": "régler la facture",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-003",
+    "chapitre_id": "finance",
+    "terme_en": "terms are attractive",
+    "traduction_fr": "les conditions sont intéressantes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-004",
+    "chapitre_id": "production-marketing",
+    "terme_en": "discount",
+    "traduction_fr": "remise, rabais",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-005",
+    "chapitre_id": "production-marketing",
+    "terme_en": "exhibition",
+    "traduction_fr": "salon professionnel, exposition",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-006",
+    "chapitre_id": "management-rh",
+    "terme_en": "appointment (rendez-vous)",
+    "traduction_fr": "rendez-vous",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-007",
+    "chapitre_id": "management-rh",
+    "terme_en": "no vacancies",
+    "traduction_fr": "complet (pas de disponibilité)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-008",
+    "chapitre_id": "finance",
+    "terme_en": "refund",
+    "traduction_fr": "remboursement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-009",
+    "chapitre_id": "production-marketing",
+    "terme_en": "hidden defect",
+    "traduction_fr": "vice caché",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-010",
+    "chapitre_id": "management-rh",
+    "terme_en": "enrolment / enrollment",
+    "traduction_fr": "inscription",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-011",
+    "chapitre_id": "management-rh",
+    "terme_en": "application form",
+    "traduction_fr": "formulaire de candidature",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-012",
+    "chapitre_id": "production-marketing",
+    "terme_en": "regular customer",
+    "traduction_fr": "client régulier, habitué",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-013",
+    "chapitre_id": "finance",
+    "terme_en": "an estimate",
+    "traduction_fr": "un devis",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-014",
+    "chapitre_id": "finance",
+    "terme_en": "invoice",
+    "traduction_fr": "facture",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-015",
+    "chapitre_id": "finance",
+    "terme_en": "quotation",
+    "traduction_fr": "devis, cotation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-016",
+    "chapitre_id": "production-marketing",
+    "terme_en": "order form",
+    "traduction_fr": "bon de commande",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-017",
+    "chapitre_id": "production-marketing",
+    "terme_en": "delivery date",
+    "traduction_fr": "date de livraison",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-018",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to place an order",
+    "traduction_fr": "passer une commande",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-019",
+    "chapitre_id": "finance",
+    "terme_en": "outstanding payment",
+    "traduction_fr": "paiement en attente, impayé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-020",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to be out of stock",
+    "traduction_fr": "être en rupture de stock",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-021",
+    "chapitre_id": "production-marketing",
+    "terme_en": "supplier",
+    "traduction_fr": "fournisseur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-022",
+    "chapitre_id": "production-marketing",
+    "terme_en": "consignment",
+    "traduction_fr": "envoi de marchandises",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-023",
+    "chapitre_id": "production-marketing",
+    "terme_en": "packaging",
+    "traduction_fr": "emballage",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-024",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to complain",
+    "traduction_fr": "se plaindre, réclamer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-025",
+    "chapitre_id": "production-marketing",
+    "terme_en": "complaint",
+    "traduction_fr": "réclamation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-026",
+    "chapitre_id": "production-marketing",
+    "terme_en": "warranty / guarantee",
+    "traduction_fr": "garantie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-027",
+    "chapitre_id": "production-marketing",
+    "terme_en": "faulty goods",
+    "traduction_fr": "marchandises défectueuses",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-028",
+    "chapitre_id": "finance",
+    "terme_en": "to reimburse",
+    "traduction_fr": "rembourser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-029",
+    "chapitre_id": "finance",
+    "terme_en": "terms of payment",
+    "traduction_fr": "conditions de paiement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-030",
+    "chapitre_id": "finance",
+    "terme_en": "cash on delivery",
+    "traduction_fr": "paiement à la livraison",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-corr-031",
+    "chapitre_id": "finance",
+    "terme_en": "to be entitled to a refund",
+    "traduction_fr": "avoir droit à un remboursement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-001",
+    "chapitre_id": "management-rh",
+    "terme_en": "to age",
+    "traduction_fr": "vieillir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-002",
+    "chapitre_id": "management-rh",
+    "terme_en": "ageism",
+    "traduction_fr": "âgisme",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-003",
+    "chapitre_id": "management-rh",
+    "terme_en": "benefit",
+    "traduction_fr": "allocation, prestation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-004",
+    "chapitre_id": "management-rh",
+    "terme_en": "birthrate",
+    "traduction_fr": "taux de natalité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-005",
+    "chapitre_id": "management-rh",
+    "terme_en": "to be well off",
+    "traduction_fr": "être aisé, avoir des moyens",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-006",
+    "chapitre_id": "management-rh",
+    "terme_en": "to be badly off",
+    "traduction_fr": "être dans le besoin",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-007",
+    "chapitre_id": "management-rh",
+    "terme_en": "to be entitled to",
+    "traduction_fr": "avoir droit à",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-008",
+    "chapitre_id": "management-rh",
+    "terme_en": "dole",
+    "traduction_fr": "allocation chômage (familier, GB)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-009",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "welfare",
+    "traduction_fr": "aide sociale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-010",
+    "chapitre_id": "management-rh",
+    "terme_en": "burden",
+    "traduction_fr": "charge, fardeau",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-011",
+    "chapitre_id": "management-rh",
+    "terme_en": "census",
+    "traduction_fr": "recensement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-012",
+    "chapitre_id": "management-rh",
+    "terme_en": "claimant",
+    "traduction_fr": "demandeur (d'allocation)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-013",
+    "chapitre_id": "management-rh",
+    "terme_en": "compensation",
+    "traduction_fr": "indemnisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-014",
+    "chapitre_id": "management-rh",
+    "terme_en": "to contribute",
+    "traduction_fr": "cotiser, contribuer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-015",
+    "chapitre_id": "management-rh",
+    "terme_en": "cost of living",
+    "traduction_fr": "coût de la vie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-016",
+    "chapitre_id": "management-rh",
+    "terme_en": "death rate",
+    "traduction_fr": "taux de mortalité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-017",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "destitution",
+    "traduction_fr": "dénuement, indigence",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-018",
+    "chapitre_id": "management-rh",
+    "terme_en": "pension",
+    "traduction_fr": "retraite, pension",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-019",
+    "chapitre_id": "management-rh",
+    "terme_en": "elderly people",
+    "traduction_fr": "personnes âgées",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-020",
+    "chapitre_id": "management-rh",
+    "terme_en": "family allowance",
+    "traduction_fr": "allocations familiales",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-021",
+    "chapitre_id": "management-rh",
+    "terme_en": "GP (General Practitioner)",
+    "traduction_fr": "médecin généraliste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-022",
+    "chapitre_id": "management-rh",
+    "terme_en": "holiday with pay",
+    "traduction_fr": "congés payés",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-023",
+    "chapitre_id": "management-rh",
+    "terme_en": "income tax",
+    "traduction_fr": "impôt sur le revenu",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-024",
+    "chapitre_id": "management-rh",
+    "terme_en": "labour shortage",
+    "traduction_fr": "pénurie de main-d'œuvre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-025",
+    "chapitre_id": "management-rh",
+    "terme_en": "life expectancy",
+    "traduction_fr": "espérance de vie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-026",
+    "chapitre_id": "management-rh",
+    "terme_en": "maternity leave",
+    "traduction_fr": "congé maternité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-027",
+    "chapitre_id": "management-rh",
+    "terme_en": "paternity leave",
+    "traduction_fr": "congé paternité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-028",
+    "chapitre_id": "management-rh",
+    "terme_en": "sick leave",
+    "traduction_fr": "congé maladie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-029",
+    "chapitre_id": "management-rh",
+    "terme_en": "means-tested",
+    "traduction_fr": "soumis à conditions de ressources",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-030",
+    "chapitre_id": "management-rh",
+    "terme_en": "minimum wage",
+    "traduction_fr": "salaire minimum",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-031",
+    "chapitre_id": "management-rh",
+    "terme_en": "nursing home",
+    "traduction_fr": "maison de retraite médicalisée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-032",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "overpopulation",
+    "traduction_fr": "surpopulation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-033",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "poverty",
+    "traduction_fr": "pauvreté",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-034",
+    "chapitre_id": "management-rh",
+    "terme_en": "purchasing power",
+    "traduction_fr": "pouvoir d'achat",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-035",
+    "chapitre_id": "management-rh",
+    "terme_en": "to retire",
+    "traduction_fr": "prendre sa retraite",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-036",
+    "chapitre_id": "management-rh",
+    "terme_en": "retirement age",
+    "traduction_fr": "âge de la retraite",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-037",
+    "chapitre_id": "finance",
+    "terme_en": "savings",
+    "traduction_fr": "épargne",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-038",
+    "chapitre_id": "management-rh",
+    "terme_en": "senior citizen",
+    "traduction_fr": "personne âgée, senior",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-039",
+    "chapitre_id": "management-rh",
+    "terme_en": "sickness benefit",
+    "traduction_fr": "indemnités journalières maladie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-040",
+    "chapitre_id": "management-rh",
+    "terme_en": "social worker",
+    "traduction_fr": "travailleur social",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-041",
+    "chapitre_id": "management-rh",
+    "terme_en": "standard of living",
+    "traduction_fr": "niveau de vie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-042",
+    "chapitre_id": "management-rh",
+    "terme_en": "to take early retirement",
+    "traduction_fr": "partir en retraite anticipée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-043",
+    "chapitre_id": "finance",
+    "terme_en": "tax allowance",
+    "traduction_fr": "abattement fiscal",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-044",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "the haves and the have-nots",
+    "traduction_fr": "les nantis et les démunis",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-045",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "homeless",
+    "traduction_fr": "sans-abri",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-046",
+    "chapitre_id": "management-rh",
+    "terme_en": "unemployment benefit",
+    "traduction_fr": "allocation chômage",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-047",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "volunteer work",
+    "traduction_fr": "bénévolat",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-048",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "welfare state",
+    "traduction_fr": "État-providence",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-soc-049",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "universal health coverage",
+    "traduction_fr": "couverture santé universelle",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-001",
+    "chapitre_id": "management-rh",
+    "terme_en": "to allocate resources",
+    "traduction_fr": "allouer des ressources",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-002",
+    "chapitre_id": "management-rh",
+    "terme_en": "to appoint",
+    "traduction_fr": "nommer (à un poste)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-003",
+    "chapitre_id": "finance",
+    "terme_en": "balance sheet",
+    "traduction_fr": "bilan (comptable)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-004",
+    "chapitre_id": "finance",
+    "terme_en": "bottom line",
+    "traduction_fr": "résultat net",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-005",
+    "chapitre_id": "management-rh",
+    "terme_en": "branch",
+    "traduction_fr": "succursale, filiale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-006",
+    "chapitre_id": "management-rh",
+    "terme_en": "to chart a strategy",
+    "traduction_fr": "définir une stratégie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-007",
+    "chapitre_id": "management-rh",
+    "terme_en": "to close down",
+    "traduction_fr": "fermer (une usine, une entreprise)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-008",
+    "chapitre_id": "management-rh",
+    "terme_en": "competitive advantage",
+    "traduction_fr": "avantage concurrentiel",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-009",
+    "chapitre_id": "management-rh",
+    "terme_en": "corporate manager",
+    "traduction_fr": "cadre dirigeant",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-010",
+    "chapitre_id": "finance",
+    "terme_en": "cost-effectiveness",
+    "traduction_fr": "rentabilité, rapport coût-efficacité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-011",
+    "chapitre_id": "finance",
+    "terme_en": "costing",
+    "traduction_fr": "calcul des coûts",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-012",
+    "chapitre_id": "management-rh",
+    "terme_en": "creative destruction",
+    "traduction_fr": "destruction créatrice",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-013",
+    "chapitre_id": "management-rh",
+    "terme_en": "to cut back",
+    "traduction_fr": "réduire, faire des économies",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-014",
+    "chapitre_id": "management-rh",
+    "terme_en": "decision making",
+    "traduction_fr": "prise de décision",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-015",
+    "chapitre_id": "management-rh",
+    "terme_en": "to devise",
+    "traduction_fr": "concevoir, élaborer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-016",
+    "chapitre_id": "management-rh",
+    "terme_en": "to differentiate",
+    "traduction_fr": "se différencier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-017",
+    "chapitre_id": "management-rh",
+    "terme_en": "to display managerial skills",
+    "traduction_fr": "faire preuve de compétences managériales",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-018",
+    "chapitre_id": "management-rh",
+    "terme_en": "to downsize",
+    "traduction_fr": "réduire les effectifs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-019",
+    "chapitre_id": "management-rh",
+    "terme_en": "drive",
+    "traduction_fr": "dynamisme, motivation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-020",
+    "chapitre_id": "management-rh",
+    "terme_en": "efficient",
+    "traduction_fr": "efficace",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-022",
+    "chapitre_id": "management-rh",
+    "terme_en": "facilities",
+    "traduction_fr": "installations, équipements",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-023",
+    "chapitre_id": "management-rh",
+    "terme_en": "flourishing",
+    "traduction_fr": "florissant, prospère",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-024",
+    "chapitre_id": "management-rh",
+    "terme_en": "to focus on",
+    "traduction_fr": "se concentrer sur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-025",
+    "chapitre_id": "management-rh",
+    "terme_en": "to foresee",
+    "traduction_fr": "prévoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-026",
+    "chapitre_id": "management-rh",
+    "terme_en": "foresight",
+    "traduction_fr": "prévoyance, anticipation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-027",
+    "chapitre_id": "management-rh",
+    "terme_en": "to hire",
+    "traduction_fr": "embaucher",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-028",
+    "chapitre_id": "management-rh",
+    "terme_en": "to recruit",
+    "traduction_fr": "recruter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-029",
+    "chapitre_id": "management-rh",
+    "terme_en": "incentive",
+    "traduction_fr": "incitation, motivation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-030",
+    "chapitre_id": "management-rh",
+    "terme_en": "job cut",
+    "traduction_fr": "suppression d'emploi",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-031",
+    "chapitre_id": "management-rh",
+    "terme_en": "joint management",
+    "traduction_fr": "cogestion",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-032",
+    "chapitre_id": "management-rh",
+    "terme_en": "to launch",
+    "traduction_fr": "lancer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-033",
+    "chapitre_id": "management-rh",
+    "terme_en": "to lay off",
+    "traduction_fr": "licencier (économique)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-034",
+    "chapitre_id": "management-rh",
+    "terme_en": "to dismiss",
+    "traduction_fr": "licencier (faute)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-035",
+    "chapitre_id": "management-rh",
+    "terme_en": "management by objectives",
+    "traduction_fr": "direction par objectifs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-036",
+    "chapitre_id": "management-rh",
+    "terme_en": "market segment",
+    "traduction_fr": "segment de marché",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-037",
+    "chapitre_id": "management-rh",
+    "terme_en": "to orient",
+    "traduction_fr": "orienter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-038",
+    "chapitre_id": "management-rh",
+    "terme_en": "output",
+    "traduction_fr": "production, rendement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-039",
+    "chapitre_id": "management-rh",
+    "terme_en": "to outsource",
+    "traduction_fr": "externaliser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-040",
+    "chapitre_id": "management-rh",
+    "terme_en": "to subcontract",
+    "traduction_fr": "sous-traiter",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-041",
+    "chapitre_id": "management-rh",
+    "terme_en": "performance",
+    "traduction_fr": "performance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-042",
+    "chapitre_id": "management-rh",
+    "terme_en": "to plan",
+    "traduction_fr": "planifier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-043",
+    "chapitre_id": "management-rh",
+    "terme_en": "to promote",
+    "traduction_fr": "promouvoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-044",
+    "chapitre_id": "management-rh",
+    "terme_en": "to provide for",
+    "traduction_fr": "prévoir, pourvoir à",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-045",
+    "chapitre_id": "management-rh",
+    "terme_en": "to relocate",
+    "traduction_fr": "délocaliser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-046",
+    "chapitre_id": "management-rh",
+    "terme_en": "to rely on",
+    "traduction_fr": "compter sur, s'appuyer sur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-047",
+    "chapitre_id": "finance",
+    "terme_en": "return on investment",
+    "traduction_fr": "retour sur investissement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-048",
+    "chapitre_id": "management-rh",
+    "terme_en": "to run a business",
+    "traduction_fr": "diriger une entreprise",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-049",
+    "chapitre_id": "management-rh",
+    "terme_en": "scope",
+    "traduction_fr": "portée, champ d'action",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-050",
+    "chapitre_id": "management-rh",
+    "terme_en": "schedule",
+    "traduction_fr": "calendrier, planning",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-051",
+    "chapitre_id": "management-rh",
+    "terme_en": "struggling",
+    "traduction_fr": "en difficulté",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-052",
+    "chapitre_id": "management-rh",
+    "terme_en": "to turn around",
+    "traduction_fr": "redresser (une entreprise)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-053",
+    "chapitre_id": "finance",
+    "terme_en": "turnover",
+    "traduction_fr": "chiffre d'affaires",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-054",
+    "chapitre_id": "management-rh",
+    "terme_en": "uncompetitive",
+    "traduction_fr": "non compétitif",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-055",
+    "chapitre_id": "management-rh",
+    "terme_en": "to undercut",
+    "traduction_fr": "vendre moins cher qu'un concurrent",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-056",
+    "chapitre_id": "management-rh",
+    "terme_en": "in charge of",
+    "traduction_fr": "responsable de",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-057",
+    "chapitre_id": "management-rh",
+    "terme_en": "to bottom out",
+    "traduction_fr": "atteindre le point le plus bas",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-058",
+    "chapitre_id": "management-rh",
+    "terme_en": "to clinch a deal",
+    "traduction_fr": "conclure un accord",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-059",
+    "chapitre_id": "management-rh",
+    "terme_en": "to diversify",
+    "traduction_fr": "diversifier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-strat-060",
+    "chapitre_id": "management-rh",
+    "terme_en": "to dwindle",
+    "traduction_fr": "décliner, diminuer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-001",
+    "chapitre_id": "production-marketing",
+    "terme_en": "energy bill",
+    "traduction_fr": "facture énergétique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-002",
+    "chapitre_id": "production-marketing",
+    "terme_en": "energy needs",
+    "traduction_fr": "besoins énergétiques",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-003",
+    "chapitre_id": "production-marketing",
+    "terme_en": "energy provider",
+    "traduction_fr": "fournisseur d'énergie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-004",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to fill up",
+    "traduction_fr": "faire le plein",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-005",
+    "chapitre_id": "production-marketing",
+    "terme_en": "fuel",
+    "traduction_fr": "carburant",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-006",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "fuel-efficient vehicle",
+    "traduction_fr": "véhicule économe en carburant",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-007",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "gas guzzler",
+    "traduction_fr": "voiture énergivore",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-008",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "gas pipeline",
+    "traduction_fr": "gazoduc",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-009",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to go down",
+    "traduction_fr": "baisser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-010",
+    "chapitre_id": "production-marketing",
+    "terme_en": "heavy oil",
+    "traduction_fr": "pétrole lourd",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-011",
+    "chapitre_id": "production-marketing",
+    "terme_en": "light oil",
+    "traduction_fr": "pétrole léger",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-012",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to hold reserves",
+    "traduction_fr": "détenir des réserves",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-013",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "hybrid engine",
+    "traduction_fr": "moteur hybride",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-014",
+    "chapitre_id": "production-marketing",
+    "terme_en": "hydrocarbon",
+    "traduction_fr": "hydrocarbure",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-015",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to level off",
+    "traduction_fr": "se stabiliser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-016",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "Middle East",
+    "traduction_fr": "Moyen-Orient",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-017",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to negotiate",
+    "traduction_fr": "négocier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-018",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "negotiations",
+    "traduction_fr": "négociations",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-019",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "nuclear waste",
+    "traduction_fr": "déchets nucléaires",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-020",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "oil riches",
+    "traduction_fr": "richesses pétrolières",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-021",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "oil shipments",
+    "traduction_fr": "cargaisons de pétrole",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-022",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "oil spill",
+    "traduction_fr": "marée noire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-023",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "oil tanker",
+    "traduction_fr": "pétrolier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-024",
+    "chapitre_id": "production-marketing",
+    "terme_en": "oil well",
+    "traduction_fr": "puits de pétrole",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-025",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to peak",
+    "traduction_fr": "atteindre un pic",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-026",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "Persian Gulf",
+    "traduction_fr": "golfe Persique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-027",
+    "chapitre_id": "production-marketing",
+    "terme_en": "petrochemical",
+    "traduction_fr": "pétrochimique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-028",
+    "chapitre_id": "production-marketing",
+    "terme_en": "pipeline",
+    "traduction_fr": "pipeline, oléoduc",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-029",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "proven reserves",
+    "traduction_fr": "réserves prouvées",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-030",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to push prices up",
+    "traduction_fr": "faire grimper les prix",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-031",
+    "chapitre_id": "production-marketing",
+    "terme_en": "shale oil",
+    "traduction_fr": "pétrole de schiste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-032",
+    "chapitre_id": "production-marketing",
+    "terme_en": "shortage",
+    "traduction_fr": "pénurie",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-033",
+    "chapitre_id": "production-marketing",
+    "terme_en": "sluggish demand",
+    "traduction_fr": "demande atone",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-034",
+    "chapitre_id": "finance",
+    "terme_en": "spot market",
+    "traduction_fr": "marché au comptant",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-035",
+    "chapitre_id": "production-marketing",
+    "terme_en": "stable prices",
+    "traduction_fr": "prix stables",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-036",
+    "chapitre_id": "finance",
+    "terme_en": "volatile prices",
+    "traduction_fr": "prix volatils",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-037",
+    "chapitre_id": "production-marketing",
+    "terme_en": "supply",
+    "traduction_fr": "approvisionnement, offre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-038",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to supply",
+    "traduction_fr": "approvisionner, fournir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-039",
+    "chapitre_id": "production-marketing",
+    "terme_en": "tank",
+    "traduction_fr": "réservoir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-040",
+    "chapitre_id": "production-marketing",
+    "terme_en": "two-star petrol",
+    "traduction_fr": "essence ordinaire (GB, ancien système)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-041",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "windfarm",
+    "traduction_fr": "parc éolien",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-042",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "windmill",
+    "traduction_fr": "éolienne, moulin à vent",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-043",
+    "chapitre_id": "production-marketing",
+    "terme_en": "coal",
+    "traduction_fr": "charbon",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-044",
+    "chapitre_id": "production-marketing",
+    "terme_en": "shale",
+    "traduction_fr": "schiste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-045",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "water table",
+    "traduction_fr": "nappe phréatique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-046",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "fracking",
+    "traduction_fr": "fracturation hydraulique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-047",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "earthquake",
+    "traduction_fr": "tremblement de terre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-048",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to offset",
+    "traduction_fr": "compenser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-049",
+    "chapitre_id": "production-marketing",
+    "terme_en": "lifeblood",
+    "traduction_fr": "élément vital",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-050",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "noxious",
+    "traduction_fr": "nocif",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-051",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to cripple",
+    "traduction_fr": "paralyser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-052",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "crops",
+    "traduction_fr": "cultures, récoltes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-053",
+    "chapitre_id": "production-marketing",
+    "terme_en": "plant",
+    "traduction_fr": "usine, installation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-054",
+    "chapitre_id": "finance",
+    "terme_en": "assets",
+    "traduction_fr": "actifs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-055",
+    "chapitre_id": "production-marketing",
+    "terme_en": "steam",
+    "traduction_fr": "vapeur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-056",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "detrimental effect",
+    "traduction_fr": "effet néfaste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-057",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to trespass on",
+    "traduction_fr": "empiéter sur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-058",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "hurricane",
+    "traduction_fr": "ouragan",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-059",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "heat wave",
+    "traduction_fr": "canicule",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-060",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "wildfire",
+    "traduction_fr": "feu de forêt",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-061",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "drought",
+    "traduction_fr": "sécheresse",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-062",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "typhoon",
+    "traduction_fr": "typhon",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-063",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "tide",
+    "traduction_fr": "marée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-064",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "tidal power",
+    "traduction_fr": "énergie marémotrice",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-065",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "oil shock",
+    "traduction_fr": "choc pétrolier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-066",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to seal",
+    "traduction_fr": "sceller, obturer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-067",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "eyesore",
+    "traduction_fr": "verrue visuelle, horreur esthétique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-068",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "disposal",
+    "traduction_fr": "élimination (des déchets)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-069",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to harness",
+    "traduction_fr": "exploiter, canaliser (une énergie)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-070",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to trap",
+    "traduction_fr": "capter, piéger",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-071",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to boost",
+    "traduction_fr": "stimuler, dynamiser",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-072",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to bring about",
+    "traduction_fr": "provoquer, entraîner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-energy-073",
+    "chapitre_id": "finance",
+    "terme_en": "buoyant",
+    "traduction_fr": "dynamique, en plein essor",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-001",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "capital-intensive",
+    "traduction_fr": "à forte intensité de capital",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-002",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "cutting-edge",
+    "traduction_fr": "de pointe",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-003",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "double-digit",
+    "traduction_fr": "à deux chiffres",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-004",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "export-driven",
+    "traduction_fr": "tiré par les exportations",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-005",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to face problems",
+    "traduction_fr": "faire face à des problèmes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-006",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "fast-growing",
+    "traduction_fr": "à croissance rapide",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-007",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "foreign-produced",
+    "traduction_fr": "produit à l'étranger",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-008",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to foster competition",
+    "traduction_fr": "stimuler la concurrence",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-009",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to fuel",
+    "traduction_fr": "alimenter, stimuler",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-010",
+    "chapitre_id": "finance",
+    "terme_en": "GDP growth",
+    "traduction_fr": "croissance du PIB",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-011",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "ground-breaking",
+    "traduction_fr": "révolutionnaire, novateur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-012",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "growth rate",
+    "traduction_fr": "taux de croissance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-013",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to implement a policy",
+    "traduction_fr": "mettre en œuvre une politique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-014",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "innovation-based",
+    "traduction_fr": "fondé sur l'innovation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-015",
+    "chapitre_id": "finance",
+    "terme_en": "investment",
+    "traduction_fr": "investissement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-016",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "knowledge-based",
+    "traduction_fr": "fondé sur la connaissance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-017",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "labour-intensive",
+    "traduction_fr": "à forte intensité de main-d'œuvre",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-018",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to lag behind",
+    "traduction_fr": "être à la traîne",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-019",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "manufacturing-based",
+    "traduction_fr": "fondé sur l'industrie manufacturière",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-020",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to overcome hurdles",
+    "traduction_fr": "surmonter des obstacles",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-021",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to rebound",
+    "traduction_fr": "rebondir, repartir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-022",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to recover from",
+    "traduction_fr": "se remettre de",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-023",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "service-oriented",
+    "traduction_fr": "orienté vers les services",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-024",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to soar",
+    "traduction_fr": "grimper en flèche",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-026",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "steady",
+    "traduction_fr": "stable, régulier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-027",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "strain",
+    "traduction_fr": "tension, pression",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-028",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to strengthen",
+    "traduction_fr": "renforcer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-029",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to sustain growth",
+    "traduction_fr": "soutenir la croissance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-030",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to take off",
+    "traduction_fr": "décoller (économiquement)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-031",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "technology-intensive",
+    "traduction_fr": "à forte intensité technologique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-032",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to threaten",
+    "traduction_fr": "menacer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-033",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to thrive",
+    "traduction_fr": "prospérer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-034",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "up-and-coming",
+    "traduction_fr": "prometteur, en plein essor",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-035",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to weaken",
+    "traduction_fr": "affaiblir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-036",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "well-educated",
+    "traduction_fr": "bien formé, diplômé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-037",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to worsen",
+    "traduction_fr": "s'aggraver, empirer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-038",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "subsidiary",
+    "traduction_fr": "filiale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-039",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "outsourcing",
+    "traduction_fr": "externalisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-040",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "supply chain",
+    "traduction_fr": "chaîne d'approvisionnement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-041",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "border",
+    "traduction_fr": "frontière",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-042",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "backlash",
+    "traduction_fr": "contrecoup, réaction hostile",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-043",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "sweatshop",
+    "traduction_fr": "atelier clandestin",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-044",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to shrink",
+    "traduction_fr": "se contracter, rétrécir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-045",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to compound",
+    "traduction_fr": "aggraver, amplifier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-046",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to widen",
+    "traduction_fr": "élargir, creuser (un écart)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-047",
+    "chapitre_id": "finance",
+    "terme_en": "bookkeeping",
+    "traduction_fr": "tenue de comptes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-048",
+    "chapitre_id": "management-rh",
+    "terme_en": "lay-off",
+    "traduction_fr": "licenciement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-049",
+    "chapitre_id": "finance",
+    "terme_en": "GDP",
+    "traduction_fr": "PIB (produit intérieur brut)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-050",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "assumption",
+    "traduction_fr": "hypothèse",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-051",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to go into production",
+    "traduction_fr": "entrer en production",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-052",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "growth",
+    "traduction_fr": "croissance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-053",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "advantages and drawbacks",
+    "traduction_fr": "avantages et inconvénients",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-054",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "wealth",
+    "traduction_fr": "richesse",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-055",
+    "chapitre_id": "management-rh",
+    "terme_en": "blue-collar jobs",
+    "traduction_fr": "emplois d'ouvriers",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-056",
+    "chapitre_id": "management-rh",
+    "terme_en": "labour force",
+    "traduction_fr": "main-d'œuvre, population active",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-057",
+    "chapitre_id": "management-rh",
+    "terme_en": "skilled jobs",
+    "traduction_fr": "emplois qualifiés",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-058",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "insourcing",
+    "traduction_fr": "relocalisation, réinternalisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-macro-059",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "digitalisation",
+    "traduction_fr": "numérisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-001",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "challenge",
+    "traduction_fr": "défi",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-002",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "civil society",
+    "traduction_fr": "société civile",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-003",
+    "chapitre_id": "management-rh",
+    "terme_en": "collective bargaining",
+    "traduction_fr": "négociation collective",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-004",
+    "chapitre_id": "management-rh",
+    "terme_en": "consensus building",
+    "traduction_fr": "recherche de consensus",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-005",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "deregulation",
+    "traduction_fr": "dérégulation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-006",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "economic progress",
+    "traduction_fr": "progrès économique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-007",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "European integration",
+    "traduction_fr": "intégration européenne",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-008",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "governance",
+    "traduction_fr": "gouvernance",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-009",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "harmonisation",
+    "traduction_fr": "harmonisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-010",
+    "chapitre_id": "management-rh",
+    "terme_en": "industrial relations",
+    "traduction_fr": "relations sociales (en entreprise)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-011",
+    "chapitre_id": "management-rh",
+    "terme_en": "involvement",
+    "traduction_fr": "implication",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-012",
+    "chapitre_id": "management-rh",
+    "terme_en": "labour costs",
+    "traduction_fr": "coûts salariaux",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-013",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "partnership",
+    "traduction_fr": "partenariat",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-014",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "service provider",
+    "traduction_fr": "prestataire de services",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-015",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "single market",
+    "traduction_fr": "marché unique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-016",
+    "chapitre_id": "management-rh",
+    "terme_en": "social dialogue",
+    "traduction_fr": "dialogue social",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-017",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "social environment",
+    "traduction_fr": "environnement social",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-018",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "social justice",
+    "traduction_fr": "justice sociale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-019",
+    "chapitre_id": "management-rh",
+    "terme_en": "social partners",
+    "traduction_fr": "partenaires sociaux",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-020",
+    "chapitre_id": "management-rh",
+    "terme_en": "social policy",
+    "traduction_fr": "politique sociale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-021",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "stakeholders",
+    "traduction_fr": "parties prenantes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-022",
+    "chapitre_id": "relations-internationales",
+    "terme_en": "to address problems",
+    "traduction_fr": "traiter des problèmes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-dialogue-023",
+    "chapitre_id": "management-rh",
+    "terme_en": "to agree on wages",
+    "traduction_fr": "s'accorder sur les salaires",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-001",
+    "chapitre_id": "management-rh",
+    "terme_en": "automation",
+    "traduction_fr": "automatisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-002",
+    "chapitre_id": "management-rh",
+    "terme_en": "to axe jobs",
+    "traduction_fr": "supprimer des emplois",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-003",
+    "chapitre_id": "management-rh",
+    "terme_en": "to be out of work",
+    "traduction_fr": "être sans emploi",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-004",
+    "chapitre_id": "management-rh",
+    "terme_en": "bargaining",
+    "traduction_fr": "négociation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-005",
+    "chapitre_id": "management-rh",
+    "terme_en": "burnout",
+    "traduction_fr": "épuisement professionnel",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-006",
+    "chapitre_id": "management-rh",
+    "terme_en": "to commute",
+    "traduction_fr": "faire la navette domicile-travail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-007",
+    "chapitre_id": "management-rh",
+    "terme_en": "danger money",
+    "traduction_fr": "prime de risque",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-008",
+    "chapitre_id": "management-rh",
+    "terme_en": "day off",
+    "traduction_fr": "jour de congé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-009",
+    "chapitre_id": "management-rh",
+    "terme_en": "employees' rights",
+    "traduction_fr": "droits des salariés",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-010",
+    "chapitre_id": "management-rh",
+    "terme_en": "employment contract",
+    "traduction_fr": "contrat de travail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-011",
+    "chapitre_id": "management-rh",
+    "terme_en": "to fear layoffs",
+    "traduction_fr": "craindre des licenciements",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-012",
+    "chapitre_id": "management-rh",
+    "terme_en": "fixed-term work",
+    "traduction_fr": "travail à durée déterminée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-013",
+    "chapitre_id": "management-rh",
+    "terme_en": "flexitime",
+    "traduction_fr": "horaires flexibles",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-014",
+    "chapitre_id": "management-rh",
+    "terme_en": "full-time work",
+    "traduction_fr": "travail à temps plein",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-015",
+    "chapitre_id": "management-rh",
+    "terme_en": "part-time work",
+    "traduction_fr": "travail à temps partiel",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-016",
+    "chapitre_id": "management-rh",
+    "terme_en": "gender pay gap",
+    "traduction_fr": "écart salarial hommes-femmes",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-017",
+    "chapitre_id": "management-rh",
+    "terme_en": "to go on strike",
+    "traduction_fr": "se mettre en grève",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-018",
+    "chapitre_id": "management-rh",
+    "terme_en": "holidays with pay",
+    "traduction_fr": "congés payés",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-019",
+    "chapitre_id": "management-rh",
+    "terme_en": "hourly rate",
+    "traduction_fr": "taux horaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-020",
+    "chapitre_id": "management-rh",
+    "terme_en": "inclusiveness",
+    "traduction_fr": "inclusion",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-021",
+    "chapitre_id": "management-rh",
+    "terme_en": "health hazard",
+    "traduction_fr": "risque pour la santé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-022",
+    "chapitre_id": "management-rh",
+    "terme_en": "job losses",
+    "traduction_fr": "suppressions d'emploi",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-023",
+    "chapitre_id": "management-rh",
+    "terme_en": "job security",
+    "traduction_fr": "sécurité de l'emploi",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-024",
+    "chapitre_id": "management-rh",
+    "terme_en": "job sharing",
+    "traduction_fr": "partage de poste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-025",
+    "chapitre_id": "management-rh",
+    "terme_en": "labour dispute",
+    "traduction_fr": "conflit social",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-027",
+    "chapitre_id": "management-rh",
+    "terme_en": "living income",
+    "traduction_fr": "revenu décent",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-029",
+    "chapitre_id": "management-rh",
+    "terme_en": "occupation",
+    "traduction_fr": "profession, métier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-030",
+    "chapitre_id": "management-rh",
+    "terme_en": "overtime",
+    "traduction_fr": "heures supplémentaires",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-031",
+    "chapitre_id": "management-rh",
+    "terme_en": "parental leave",
+    "traduction_fr": "congé parental",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-032",
+    "chapitre_id": "management-rh",
+    "terme_en": "pay cut",
+    "traduction_fr": "baisse de salaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-033",
+    "chapitre_id": "management-rh",
+    "terme_en": "pay rise",
+    "traduction_fr": "augmentation de salaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-034",
+    "chapitre_id": "management-rh",
+    "terme_en": "pay dispute",
+    "traduction_fr": "conflit salarial",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-035",
+    "chapitre_id": "management-rh",
+    "terme_en": "permanent contract",
+    "traduction_fr": "contrat à durée indéterminée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-036",
+    "chapitre_id": "management-rh",
+    "terme_en": "representative",
+    "traduction_fr": "représentant du personnel",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-037",
+    "chapitre_id": "management-rh",
+    "terme_en": "seasonal work",
+    "traduction_fr": "travail saisonnier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-038",
+    "chapitre_id": "management-rh",
+    "terme_en": "self-employed",
+    "traduction_fr": "indépendant, travailleur autonome",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-039",
+    "chapitre_id": "management-rh",
+    "terme_en": "to take legal action",
+    "traduction_fr": "engager une action en justice",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-040",
+    "chapitre_id": "management-rh",
+    "terme_en": "telecommuting",
+    "traduction_fr": "télétravail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-041",
+    "chapitre_id": "management-rh",
+    "terme_en": "time off",
+    "traduction_fr": "temps libre, congé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-042",
+    "chapitre_id": "management-rh",
+    "terme_en": "union",
+    "traduction_fr": "syndicat",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-043",
+    "chapitre_id": "management-rh",
+    "terme_en": "wage growth",
+    "traduction_fr": "croissance salariale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-044",
+    "chapitre_id": "management-rh",
+    "terme_en": "to walk out",
+    "traduction_fr": "débrayer, quitter en signe de protestation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-045",
+    "chapitre_id": "management-rh",
+    "terme_en": "to work long hours",
+    "traduction_fr": "travailler de longues heures",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-046",
+    "chapitre_id": "management-rh",
+    "terme_en": "to work overtime",
+    "traduction_fr": "faire des heures supplémentaires",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-047",
+    "chapitre_id": "management-rh",
+    "terme_en": "work patterns",
+    "traduction_fr": "modes d'organisation du travail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-048",
+    "chapitre_id": "management-rh",
+    "terme_en": "workload",
+    "traduction_fr": "charge de travail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-049",
+    "chapitre_id": "management-rh",
+    "terme_en": "working time regulations",
+    "traduction_fr": "réglementation du temps de travail",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-travail-050",
+    "chapitre_id": "management-rh",
+    "terme_en": "zero-hour contract",
+    "traduction_fr": "contrat zéro heure",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-001",
+    "chapitre_id": "management-rh",
+    "terme_en": "accountancy",
+    "traduction_fr": "comptabilité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-002",
+    "chapitre_id": "management-rh",
+    "terme_en": "accounting control",
+    "traduction_fr": "contrôle comptable",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-003",
+    "chapitre_id": "management-rh",
+    "terme_en": "accounts department",
+    "traduction_fr": "service comptable",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-004",
+    "chapitre_id": "finance",
+    "terme_en": "to acquire",
+    "traduction_fr": "acquérir",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-005",
+    "chapitre_id": "finance",
+    "terme_en": "to buy out",
+    "traduction_fr": "racheter (une entreprise)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-006",
+    "chapitre_id": "management-rh",
+    "terme_en": "to appoint to a position",
+    "traduction_fr": "nommer à un poste",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-007",
+    "chapitre_id": "management-rh",
+    "terme_en": "appointment (nomination à un poste)",
+    "traduction_fr": "nomination",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-008",
+    "chapitre_id": "management-rh",
+    "terme_en": "to be on the payroll",
+    "traduction_fr": "être salarié",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-009",
+    "chapitre_id": "management-rh",
+    "terme_en": "brainstorming session",
+    "traduction_fr": "séance de remue-méninges",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-010",
+    "chapitre_id": "finance",
+    "terme_en": "buy-out",
+    "traduction_fr": "rachat d'entreprise",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-011",
+    "chapitre_id": "finance",
+    "terme_en": "acquisition",
+    "traduction_fr": "acquisition",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-012",
+    "chapitre_id": "management-rh",
+    "terme_en": "to chair a committee",
+    "traduction_fr": "présider un comité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-013",
+    "chapitre_id": "management-rh",
+    "terme_en": "deputy manager",
+    "traduction_fr": "directeur adjoint",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-014",
+    "chapitre_id": "management-rh",
+    "terme_en": "assistant manager",
+    "traduction_fr": "sous-directeur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-015",
+    "chapitre_id": "finance",
+    "terme_en": "divestment",
+    "traduction_fr": "désinvestissement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-016",
+    "chapitre_id": "management-rh",
+    "terme_en": "downsizing",
+    "traduction_fr": "réduction des effectifs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-017",
+    "chapitre_id": "management-rh",
+    "terme_en": "to headquarter a company",
+    "traduction_fr": "établir le siège d'une entreprise",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-018",
+    "chapitre_id": "management-rh",
+    "terme_en": "HR department",
+    "traduction_fr": "service des ressources humaines",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-019",
+    "chapitre_id": "management-rh",
+    "terme_en": "lean structure",
+    "traduction_fr": "structure allégée",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-020",
+    "chapitre_id": "management-rh",
+    "terme_en": "management accountant",
+    "traduction_fr": "contrôleur de gestion",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-021",
+    "chapitre_id": "management-rh",
+    "terme_en": "management audit",
+    "traduction_fr": "audit de gestion",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-022",
+    "chapitre_id": "management-rh",
+    "terme_en": "to manufacture",
+    "traduction_fr": "fabriquer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-023",
+    "chapitre_id": "finance",
+    "terme_en": "to merge",
+    "traduction_fr": "fusionner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-024",
+    "chapitre_id": "finance",
+    "terme_en": "merger",
+    "traduction_fr": "fusion",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-025",
+    "chapitre_id": "management-rh",
+    "terme_en": "middle manager",
+    "traduction_fr": "cadre intermédiaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-026",
+    "chapitre_id": "management-rh",
+    "terme_en": "non-executive director",
+    "traduction_fr": "administrateur non exécutif",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-027",
+    "chapitre_id": "management-rh",
+    "terme_en": "PR department",
+    "traduction_fr": "service des relations publiques",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-028",
+    "chapitre_id": "management-rh",
+    "terme_en": "premises",
+    "traduction_fr": "locaux",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-029",
+    "chapitre_id": "management-rh",
+    "terme_en": "purchasing manager",
+    "traduction_fr": "responsable des achats",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-030",
+    "chapitre_id": "management-rh",
+    "terme_en": "rank and file",
+    "traduction_fr": "la base, les employés de base",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-031",
+    "chapitre_id": "management-rh",
+    "terme_en": "to resign",
+    "traduction_fr": "démissionner",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-032",
+    "chapitre_id": "management-rh",
+    "terme_en": "resignation",
+    "traduction_fr": "démission",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-033",
+    "chapitre_id": "management-rh",
+    "terme_en": "restructuring",
+    "traduction_fr": "restructuration",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-034",
+    "chapitre_id": "management-rh",
+    "terme_en": "rules and regulations",
+    "traduction_fr": "règles et règlements",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-035",
+    "chapitre_id": "management-rh",
+    "terme_en": "to sell out",
+    "traduction_fr": "vendre son entreprise, céder ses parts",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-036",
+    "chapitre_id": "management-rh",
+    "terme_en": "senior manager",
+    "traduction_fr": "cadre supérieur",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-037",
+    "chapitre_id": "management-rh",
+    "terme_en": "executive manager",
+    "traduction_fr": "cadre dirigeant",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-038",
+    "chapitre_id": "management-rh",
+    "terme_en": "senior staff",
+    "traduction_fr": "personnel d'encadrement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-039",
+    "chapitre_id": "management-rh",
+    "terme_en": "subordinate",
+    "traduction_fr": "subordonné",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-040",
+    "chapitre_id": "management-rh",
+    "terme_en": "team leader",
+    "traduction_fr": "chef d'équipe",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-041",
+    "chapitre_id": "management-rh",
+    "terme_en": "team spirit",
+    "traduction_fr": "esprit d'équipe",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-042",
+    "chapitre_id": "management-rh",
+    "terme_en": "to temp",
+    "traduction_fr": "travailler en intérim",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-043",
+    "chapitre_id": "management-rh",
+    "terme_en": "temporary worker",
+    "traduction_fr": "intérimaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-044",
+    "chapitre_id": "management-rh",
+    "terme_en": "top management",
+    "traduction_fr": "direction générale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-045",
+    "chapitre_id": "management-rh",
+    "terme_en": "trainee",
+    "traduction_fr": "stagiaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-046",
+    "chapitre_id": "management-rh",
+    "terme_en": "turnover of staff",
+    "traduction_fr": "taux de rotation du personnel",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-047",
+    "chapitre_id": "management-rh",
+    "terme_en": "to upgrade",
+    "traduction_fr": "moderniser, améliorer",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-048",
+    "chapitre_id": "management-rh",
+    "terme_en": "vice-president",
+    "traduction_fr": "vice-président",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-049",
+    "chapitre_id": "management-rh",
+    "terme_en": "warehouse",
+    "traduction_fr": "entrepôt",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-050",
+    "chapitre_id": "management-rh",
+    "terme_en": "workshop",
+    "traduction_fr": "atelier",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-struct-051",
+    "chapitre_id": "management-rh",
+    "terme_en": "to write off an operation",
+    "traduction_fr": "passer une opération par pertes et profits",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
   }
 ]
