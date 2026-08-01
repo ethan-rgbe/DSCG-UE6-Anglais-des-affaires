@@ -1,0 +1,32 @@
+[
+  {
+    "titre": "The Economist",
+    "url": "https://www.economist.com/",
+    "categorie": "Presse économique anglophone",
+    "description": "Hebdomadaire de référence pour l'actualité économique et internationale."
+  },
+  {
+    "titre": "Financial Times",
+    "url": "https://www.ft.com/",
+    "categorie": "Presse économique anglophone",
+    "description": "Quotidien britannique de référence pour la finance et les marchés (accès partiellement payant)."
+  },
+  {
+    "titre": "BBC Business",
+    "url": "https://www.bbc.com/news/business",
+    "categorie": "Presse économique anglophone",
+    "description": "Actualité économique et des entreprises, en accès libre."
+  },
+  {
+    "titre": "The Guardian — Business",
+    "url": "https://www.theguardian.com/uk/business",
+    "categorie": "Presse économique anglophone",
+    "description": "Rubrique économie du quotidien britannique, en accès libre."
+  },
+  {
+    "titre": "Investopedia",
+    "url": "https://www.investopedia.com/",
+    "categorie": "Lexique et vocabulaire",
+    "description": "Définitions et lexique financier en anglais — utile pour préciser un terme technique."
+  }
+]

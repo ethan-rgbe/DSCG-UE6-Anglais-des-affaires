@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSCG UE6 — Base de révision</title>
+<style>
+  :root{
+    --ink:#0b3d63;
+    --navy:#0b3d63;
+    --blue-mid:#1f6fb2;
+    --blue-soft:#5a93c4;
+    --gold:#9c7a2e;
+    --gold-soft:#b89344;
+    --beige:#f3ead9;
+    --beige-line:#e2d4b4;
+    --paper:#ffffff;
+    --paper-line:#e0e0e0;
+    --red:#a31621;
+    --text:#26282b;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    --mono:"SF Mono",Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:var(--sans);background:var(--paper);color:var(--text);}
+
+  /* ===== Mode sombre ===== */
+  body.dark{
+    --ink:#e7e9ec; --navy:#e0e4e9; --blue-mid:#cdd4dc; --blue-soft:#454f5c;
+    --gold:#d4ad4f; --gold-soft:#e0bd66;
+    --beige:#262a31; --beige-line:#363b44;
+    --paper:#1b212a; --paper-line:#2b313b;
+    --text:#d7dce3; --red:#ff7a7a;
+    background:#12151a;
+  }
+  body.dark header.top1{background:#1b212a;border-bottom-color:#2b313b;}
+  body.dark #slideMenu{background:#1b212a;}
+  body.dark .search-wrap{background:#1b212a;}
+  body.dark .search-wrap input{background:#12151a;color:var(--text);border-color:#2b313b;}
+  body.dark .panel{background:#1b212a;}
+  body.dark .changelog-scroll,
+  body.dark details.doc-refs,
+  body.dark .quiz-card{background:#161b22;}
+  body.dark .flashcard .face.front{background:#1b212a;color:var(--text);}
+  body.dark .billboard{border-color:#2b313b;}
+  body.dark .report-bubble{box-shadow:0 3px 10px rgba(0,0,0,.6);background:#343b46;color:#fff;}
+  body.dark .report-bubble:hover{background:#3f4753;}
+  body.dark header.top2{background:#161b22;}
+  body.dark header.top2 .brand .brand-sub{color:#9aa3ad;}
+  body.dark .billboard{background:linear-gradient(135deg,#222834,#2b313b);}
+  body.dark .billboard .bb-meta{color:#aab3bd;}
+  body.dark .billboard .bb-btn,body.dark .btn-primary{color:#161b22;}
+  body.dark table.cmp th,body.dark .fiche-body table.cmp th{background:#262a31;color:var(--text);}
+  body.dark .chip{background:#262a31;color:var(--text);}
+  body.dark .chip:hover{background:#343b46;}
+  body.dark .subtabs button.active{background:#343b46;color:var(--text);border-color:#343b46;}
+  body.dark header.top1 nav.tabs-right button.active{background:#343b46;color:#fff;}
+  body.dark .voc-item{background:#161b22;border-color:#2b313b;}
+  body.dark .voc-item .voc-ex{border-left-color:#363b44;}
+  header.top2 #themeToggle{background:transparent;border:none;color:#fff;font-size:1.15rem;cursor:pointer;line-height:1;padding:4px 6px;}
+  a{color:var(--blue-mid);text-decoration:none;}
+  a:hover{text-decoration:underline;}
+
+  /* Banderole 1 — onglets de droite */
+  header.top1{
+    background:#ffffff;color:var(--navy);
+    padding:10px 24px;
+    display:flex;align-items:center;justify-content:flex-end;gap:6px;flex-wrap:wrap;
+    border-bottom:1px solid var(--paper-line);
+  }
+  header.top1 nav.tabs-right{display:flex;gap:4px;flex-wrap:wrap;overflow-x:auto;-webkit-overflow-scrolling:touch;}
+  header.top1 nav.tabs-right button{
+    background:transparent;border:1px solid transparent;color:var(--navy);
+    padding:7px 12px;font:inherit;font-size:.78rem;font-weight:600;letter-spacing:.03em;cursor:pointer;border-radius:3px;
+    white-space:nowrap;flex:0 0 auto;
+  }
+  header.top1 nav.tabs-right button:hover{background:var(--beige);}
+  header.top1 nav.tabs-right button.active{background:var(--navy);color:#fff;}
+
+  /* Banderole 2 — marque + menu */
+  header.top2{
+    background:var(--navy);color:#fff;
+    padding:12px 24px;
+    display:flex;align-items:center;justify-content:space-between;
+    position:relative;z-index:950; /* reste cliquable au-dessus de #slideMenu (z-index:900) une fois ouvert */
+  }
+  header.top2 .brand{display:flex;flex-direction:column;line-height:1.1;cursor:pointer;}
+  header.top2 .brand .brand-name{font-family:var(--serif);font-size:1.35rem;letter-spacing:.06em;font-weight:600;}
+  header.top2 .brand .brand-sub{font-size:.62rem;letter-spacing:.22em;color:#bcd2e6;text-transform:uppercase;margin-top:2px;}
+  header.top2 #menuToggle{background:transparent;border:none;color:#fff;font-size:1.4rem;cursor:pointer;line-height:1;padding:4px 8px;}
+
+  /* Menu coulissant */
+  #slideMenu{
+    position:fixed;top:0;right:-340px;width:320px;height:100%;background:#ffffff;
+    box-shadow:-4px 0 16px rgba(0,0,0,.15);z-index:900;overflow-y:auto;
+    transition:right .3s ease;padding:70px 22px 22px;
+  }
+  #slideMenu.open{right:0;}
+  #slideMenu .menu-section{margin-bottom:26px;}
+  #slideMenu .menu-title{
+    font-weight:700;color:var(--navy);font-size:.95rem;letter-spacing:.05em;
+    cursor:pointer;padding:8px 0;border-bottom:2px solid var(--beige-line);
+    display:flex;align-items:center;justify-content:space-between;user-select:none;
+  }
+  #slideMenu .menu-title::after{
+    content:"▸";font-size:.8rem;color:var(--blue-mid);
+    transition:transform .2s ease;transform-origin:center;
+  }
+  #slideMenu .menu-section.expanded .menu-title::after{transform:rotate(90deg);}
+  #slideMenu .menu-tree{padding:8px 0 0 6px;display:none;}
+  #slideMenu .menu-section.expanded .menu-tree{display:block;}
+  #slideMenu .menu-tree a{display:block;font-size:.85rem;padding:5px 0 5px 10px;color:var(--text);}
+  #slideMenu .menu-tree a:hover{color:var(--blue-mid);text-decoration:none;}
+  #menuBackdrop{position:fixed;inset:0;background:rgba(11,61,99,.25);z-index:800;display:none;}
+  #menuBackdrop.show{display:block;}
+
+  .search-wrap{padding:14px 24px;background:#ffffff;border-bottom:1px solid var(--paper-line);position:relative;}
+  .search-wrap input{
+    width:100%;max-width:520px;padding:10px 14px;border:1px solid var(--paper-line);
+    border-radius:3px;font:inherit;font-size:.95rem;background:#fff;
+  }
+  .search-results{position:absolute;left:24px;right:24px;max-width:520px;top:calc(100% - 8px);
+    background:var(--paper);border:1px solid var(--paper-line);border-radius:6px;
+    box-shadow:0 8px 24px rgba(0,0,0,.14);max-height:360px;overflow-y:auto;z-index:60;display:none;}
+  .sr-item{display:flex;align-items:center;gap:10px;width:100%;text-align:left;background:transparent;
+    border:none;border-bottom:1px solid var(--paper-line);padding:9px 14px;cursor:pointer;font:inherit;}
+  .sr-item:last-child{border-bottom:none;}
+  .sr-item:hover,.sr-item.sr-active{background:var(--beige);}
+  .sr-type{font-size:.6rem;text-transform:uppercase;letter-spacing:.05em;padding:2px 7px;border-radius:10px;
+    background:var(--beige);color:var(--navy);flex-shrink:0;border:1px solid var(--beige-line);}
+  .sr-title{font-size:.9rem;color:var(--navy);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .sr-sub{font-size:.72rem;color:#8a8468;flex-shrink:0;}
+  .sr-empty{padding:12px 14px;color:#8a8468;font-size:.85rem;}
+  body.dark .search-results{background:#1b212a;}
+  body.dark .sr-type{background:#262a31;}
+
+  main{padding:24px;max-width:1100px;margin:0 auto;}
+  @media (max-width:640px){
+    main{padding:14px;}
+    .panel{padding:16px 14px;}
+    header.top1{padding:8px 12px;}
+    header.top2{padding:10px 14px;}
+    header.top1 nav.tabs-right button{padding:6px 9px;font-size:.74rem;}
+    .search-wrap{padding:12px 14px;}
+    .search-results{left:14px;right:14px;}
+    .tabs-sub button{padding:9px 12px;font-size:.82rem;}
+    .subtabs{flex-wrap:wrap;}
+    h1.page-title{font-size:1.45rem;}
+    #slideMenu{width:88%;right:-92%;}
+  }
+
+  .panel{background:#ffffff;border:1px solid var(--paper-line);border-radius:4px;padding:22px 26px;}
+  .tabs-sub{display:flex;gap:6px;margin-bottom:18px;border-bottom:2px solid var(--beige-line);overflow-x:auto;-webkit-overflow-scrolling:touch;}
+  .tabs-sub button{flex:0 0 auto;white-space:nowrap;background:transparent;border:none;padding:9px 16px;font:inherit;font-size:.9rem;font-weight:600;color:#8a8a8a;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-2px;}
+  .tabs-sub button.active{color:var(--navy);border-bottom-color:var(--navy);}
+
+  h1.page-title{font-family:var(--serif);font-size:1.7rem;color:var(--navy);margin:0 0 4px;border-bottom:2px solid var(--blue-soft);padding-bottom:8px;}
+  .fiche-meta{font-size:.78rem;color:#75747a;margin-bottom:16px;letter-spacing:.02em;}
+
+  .fiche-body h3{font-family:var(--serif);color:var(--blue-mid);border-bottom:1px solid var(--beige-line);padding-bottom:4px;margin-top:22px;}
+  .fiche-body h4{font-family:var(--serif);color:var(--blue-mid);margin-top:16px;}
+  .fiche-body p{line-height:1.55;}
+  .fiche-body strong{color:var(--gold);font-weight:700;}
+  .fiche-body ul{padding-left:22px;line-height:1.55;}
+  .fiche-body .table-wrap{width:100%;overflow-x:auto;margin:14px 0;}
+  .cours-redige h3{margin-top:26px;}
+  .cours-redige p.cite{font-style:italic;}
+
+  /* Signalement d'anomalies */
+  .report-row{display:flex;align-items:center;gap:10px;margin:-4px 0 16px;flex-wrap:wrap;}
+  .report-btn{background:transparent;border:1px solid var(--paper-line);color:var(--blue-mid);font:inherit;font-size:.78rem;padding:5px 12px;border-radius:5px;cursor:pointer;}
+  .report-btn:hover{background:var(--beige);}
+  .report-hint{font-size:.72rem;color:#8a8468;}
+  .report-bubble{position:absolute;z-index:9999;background:var(--navy);color:#fff;border:none;border-radius:6px;padding:6px 12px;font:inherit;font-size:.8rem;font-weight:600;cursor:pointer;box-shadow:0 3px 10px rgba(0,0,0,.25);}
+  .report-bubble:hover{background:var(--blue-mid);}
+
+  /* ===== Impression / PDF ===== */
+  @media print {
+    header.top1, header.top2, #slideMenu, #menuBackdrop, .search-wrap, footer,
+    .tabs-sub, .report-row, .billboard, #splash, .report-bubble,
+    .listes-toolbar, #themeToggle, #menuToggle { display:none !important; }
+    body, body.dark { background:#fff !important; color:#000 !important; }
+    .panel{border:none !important;box-shadow:none !important;padding:0 !important;background:#fff !important;}
+    .page-title, .fiche-body h3, .fiche-body h4{color:#000 !important;}
+    a{color:#000 !important;text-decoration:none !important;}
+    .printable, .printable * { -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  }
+  .print-btn{background:transparent;border:1px solid var(--paper-line);color:var(--blue-mid);font:inherit;font-size:.78rem;padding:5px 12px;border-radius:5px;cursor:pointer;}
+  .print-btn:hover{background:var(--beige);}
+  .fiche-body table.cmp{width:100%;border-collapse:collapse;table-layout:fixed;}
+  .fiche-body table.cmp th, .fiche-body table.cmp td{border:1px solid var(--paper-line);padding:8px 10px;font-size:.84rem;text-align:left;vertical-align:top;word-wrap:break-word;}
+  .fiche-body table.cmp th{background:var(--navy);color:#fff;}
+  .fiche-body table.cmp tr:nth-child(even) td{background:var(--beige);}
+  table.cmp{width:100%;border-collapse:collapse;table-layout:fixed;}
+  table.cmp th, table.cmp td{border:1px solid var(--paper-line);padding:8px 10px;font-size:.86rem;text-align:left;vertical-align:top;word-wrap:break-word;overflow-wrap:break-word;}
+  table.cmp th{background:var(--navy);color:#fff;font-family:var(--serif);}
+  table.cmp tr:nth-child(even){background:var(--beige);}
+
+  .chip{display:inline-block;background:var(--navy);color:#fff;font-size:.78rem;padding:4px 10px;border-radius:999px;margin:0 6px 6px 0;cursor:pointer;}
+  .chip:hover{background:var(--blue-mid);}
+
+  /* Q/R cards (Leitner) */
+  .qr-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;}
+  .flashcard{perspective:1200px;height:190px;cursor:pointer;}
+  .flashcard .inner{position:relative;width:100%;height:100%;transition:transform .5s;transform-style:preserve-3d;}
+  .flashcard.flipped .inner{transform:rotateY(180deg);}
+  .flashcard .face{position:absolute;inset:0;border-radius:6px;padding:14px;overflow:auto;backface-visibility:hidden;display:flex;flex-direction:column;}
+  .flashcard .front{background:var(--navy);color:#fff;}
+  .flashcard .front .lbl{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:#9fb3d6;margin-bottom:6px;}
+  .flashcard .back{background:var(--beige);color:var(--navy);border:1px solid var(--beige-line);transform:rotateY(180deg);}
+  .flashcard .back .lbl{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:#8a703a;margin-bottom:6px;}
+  .flashcard .qtext, .flashcard .atext{font-size:.92rem;line-height:1.4;}
+  .flashcard .tag{margin-top:auto;font-size:.68rem;opacity:.8;}
+
+  .home-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:18px;}
+  .home-card{background:var(--beige);border:1px solid var(--beige-line);border-radius:4px;padding:18px;cursor:pointer;}
+  .home-card:hover{border-color:var(--gold);}
+  .home-card .num{font-family:var(--serif);font-size:1.8rem;color:var(--gold);}
+  .home-card .lbl{font-size:.85rem;color:var(--text);}
+  footer{text-align:center;font-size:.75rem;color:#9a937c;padding:30px 0;}
+
+  /* Splash */
+  #splash{
+    position:fixed;inset:0;z-index:1000;
+    background:linear-gradient(160deg, var(--ink), var(--blue-mid) 55%, var(--gold-soft));
+    color:#ffffff;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    text-align:center;cursor:pointer;padding:24px;transition:opacity .4s, transform .4s;
+  }
+  #splash h1{font-family:var(--serif);font-size:1.9rem;letter-spacing:.02em;margin:0 0 10px;max-width:680px;}
+  #splash .tap{margin-top:40px;font-size:.75rem;color:#cfe0ee;text-transform:uppercase;letter-spacing:.12em;animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:.5;}50%{opacity:1;}}
+  #splash.hidden{opacity:0;transform:translateY(-20px);pointer-events:none;}
+
+  .intro-block{margin-bottom:22px;line-height:1.6;color:#4a4634;}
+  body.dark .intro-block{color:#b8c0cb;}
+
+  /* Billboard "Reprendre" */
+  .billboard{position:relative;width:100%;min-height:172px;border-radius:8px;overflow:hidden;
+    background:linear-gradient(135deg,var(--navy),var(--blue-mid));border:1px solid var(--beige-line);
+    margin:14px 0 26px;color:#fff;}
+  .billboard .bb-slide{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;
+    padding:24px 30px 42px;opacity:0;transform:translateX(24px);
+    transition:opacity .5s ease,transform .5s ease;pointer-events:none;}
+  .billboard .bb-slide.active{opacity:1;transform:translateX(0);pointer-events:auto;}
+  .billboard .bb-kicker{font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;color:var(--gold-soft);margin-bottom:8px;}
+  .billboard .bb-title{font-family:var(--serif);font-size:1.45rem;line-height:1.2;margin-bottom:6px;}
+  .billboard .bb-meta{font-size:.82rem;color:#cfe0ee;margin-bottom:16px;}
+  .billboard .bb-btn{align-self:flex-start;background:var(--gold);border:none;color:var(--ink);
+    padding:8px 18px;border-radius:5px;font:inherit;font-size:.85rem;font-weight:700;cursor:pointer;}
+  .billboard .bb-btn:hover{background:var(--gold-soft);}
+  .billboard .bb-dots{position:absolute;left:0;right:0;bottom:12px;display:flex;justify-content:center;gap:8px;}
+  .billboard .bb-dot{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.35);cursor:pointer;border:none;padding:0;transition:background .2s,transform .2s;}
+  .billboard .bb-dot.active{background:var(--gold);transform:scale(1.25);}
+  @media (max-width:520px){ .billboard{min-height:188px;} .billboard .bb-title{font-size:1.25rem;} }
+  .section-title{font-family:var(--serif);color:var(--navy);font-size:1.8rem;margin:30px 0 6px;border-bottom:2px solid var(--gold);padding-bottom:6px;}
+  @media (max-width:520px){ .section-title{font-size:1.5rem;} }
+
+  /* Groupes (Phrases par fonction, etc.) */
+  .notion-group{margin-bottom:20px;}
+  .notion-group > .gname{
+    font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;
+    color:var(--navy);border-bottom:1px solid var(--paper-line);padding-bottom:4px;margin-bottom:10px;
+  }
+
+  /* Listes vocabulaire / expressions */
+  .voc-list{margin-top:14px;}
+  .voc-item{border:1px solid var(--paper-line);border-radius:6px;padding:14px 16px;margin-bottom:10px;background:#fffdf7;}
+  .voc-item .voc-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+  .voc-item .voc-term{font-family:var(--serif);font-size:1.1rem;color:var(--navy);font-weight:600;}
+  .voc-item .voc-ipa{font-size:.8rem;color:#8a8468;font-family:var(--mono);}
+  .voc-item .speak-btn{background:transparent;border:1px solid var(--paper-line);border-radius:50%;width:26px;height:26px;cursor:pointer;font-size:.8rem;line-height:1;padding:0;color:var(--blue-mid);}
+  .voc-item .speak-btn:hover{background:var(--beige);}
+  .voc-item .voc-trad{font-size:.92rem;color:var(--gold);font-weight:600;margin-top:5px;}
+  .voc-item .voc-ex{font-size:.85rem;color:var(--text);margin-top:8px;line-height:1.5;border-left:3px solid var(--beige-line);padding-left:10px;}
+  .voc-item .voc-ex .fr{color:#6b6450;font-style:italic;}
+  body.dark .voc-item .voc-ex .fr{color:#9aa3ad;}
+  .diff-tag{display:inline-block;font-size:.62rem;text-transform:uppercase;letter-spacing:.05em;padding:2px 8px;border-radius:10px;font-weight:700;}
+  .diff-tag.facile{background:#dbe7dd;color:#1f5132;}
+  .diff-tag.moyen{background:#f3e2c8;color:#7a531a;}
+  .diff-tag.difficile{background:#f3d4d4;color:#8a2020;}
+
+  /* Actualité */
+  .actu-item{border-bottom:1px solid var(--paper-line);padding:12px 0;}
+  .actu-item .actu-titre{font-weight:600;color:var(--navy);font-size:.95rem;}
+  .actu-item .actu-meta{font-size:.78rem;color:#8a8468;margin-top:2px;}
+
+  /* Documentation — listes d'articles repliables */
+  details.doc-refs{border:1px solid var(--paper-line);border-radius:5px;margin-top:10px;background:#fffdf7;}
+  details.doc-refs > summary{
+    cursor:pointer;list-style:none;padding:11px 14px;font-size:.85rem;font-weight:600;color:var(--navy);
+    display:flex;align-items:center;justify-content:space-between;gap:10px;
+  }
+  details.doc-refs > summary::-webkit-details-marker{display:none;}
+  details.doc-refs > summary::after{content:"▸";color:var(--blue-mid);transition:transform .2s ease;}
+  details.doc-refs[open] > summary::after{transform:rotate(90deg);}
+  details.doc-refs > summary:hover{background:var(--beige);}
+  details.doc-refs .fiche-body{padding:0 14px 12px;}
+  details.doc-refs > p{margin:6px 2px 2px;padding:0 14px 8px;font-size:.88rem;line-height:1.55;color:var(--text);}
+
+  /* Programme — filtres / arborescence */
+  .subtabs{display:flex;gap:6px;margin-bottom:18px;flex-wrap:wrap;}
+  .subtabs button{background:#efe8d2;border:1px solid var(--paper-line);padding:7px 14px;border-radius:4px;font:inherit;font-size:.85rem;cursor:pointer;}
+  .subtabs button.active{background:var(--navy);color:#fff;border-color:var(--navy);}
+  .partie-block{margin-bottom:20px;}
+  .partie-block > .ptitre{font-family:var(--serif);color:var(--ink);background:#efe8d2;padding:8px 12px;border-radius:4px;font-size:1.02rem;margin-bottom:8px;}
+
+  /* Accueil */
+  .home-welcome{font-family:var(--serif);color:var(--navy);font-size:2.1rem;line-height:1.15;margin:6px 0 14px;}
+  @media (max-width:520px){ .home-welcome{font-size:1.7rem;} }
+
+  /* Mentions légales */
+  .legal-body{line-height:1.6;color:var(--text);font-size:.92rem;}
+  .legal-body h3{font-family:var(--serif);color:var(--blue-mid);margin-top:22px;border-bottom:1px solid var(--beige-line);padding-bottom:4px;}
+  footer a.legal-link{color:var(--blue-mid);cursor:pointer;}
+  footer a.legal-link:hover{text-decoration:underline;}
+
+  /* Liens utiles */
+  .links-list{list-style:none;padding:0;margin:0;}
+  .links-list li{padding:8px 0;border-bottom:1px solid var(--beige-line);}
+  .links-list a{color:var(--blue-mid);font-weight:600;}
+  .links-list .link-desc{font-size:.82rem;color:#6b6450;margin-top:2px;}
+
+  /* Révision active — auto-évaluation des cartes */
+  .qr-eval{display:flex;gap:8px;margin-top:10px;justify-content:center;}
+  .qr-eval button{border:none;border-radius:5px;padding:6px 12px;font:inherit;font-size:.78rem;font-weight:600;cursor:pointer;}
+  .qr-eval .btn-known{background:#dbe7dd;color:#1f5132;}
+  .qr-eval .btn-review{background:#f3e2c8;color:#7a531a;}
+  .qr-eval button:hover{filter:brightness(.96);}
+  .flashcard.mastered .face.front{box-shadow:inset 0 0 0 2px #6fae86;}
+  .qr-badge{position:absolute;top:6px;right:8px;font-size:.7rem;font-weight:700;}
+  .qr-badge.known{color:#2f7d4f;}
+  .qr-badge.review{color:#b5852f;}
+
+  /* Barre de progression */
+  .progress-wrap{margin:6px 0 4px;}
+  .progress-track{height:12px;border-radius:6px;background:var(--beige-line);overflow:hidden;}
+  .progress-fill{height:100%;background:linear-gradient(90deg,var(--blue-mid),#6fae86);width:0;transition:width .4s ease;}
+  .progress-label{font-size:.82rem;color:#6b6450;margin-top:4px;}
+  .listes-toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:14px;}
+  .listes-toolbar .tools{display:flex;gap:8px;flex-wrap:wrap;}
+  .btn-primary{background:var(--gold);border:none;color:var(--ink);padding:8px 16px;border-radius:5px;font:inherit;font-weight:700;cursor:pointer;}
+  .btn-primary:hover{background:var(--gold-soft);}
+  .btn-ghost{background:transparent;border:1px solid var(--paper-line);color:var(--blue-mid);padding:8px 14px;border-radius:5px;font:inherit;cursor:pointer;}
+  .btn-ghost:hover{background:var(--beige);}
+
+  /* Mode interrogation (quiz) */
+  .quiz-card{max-width:640px;margin:10px auto;background:#fffdf7;border:1px solid var(--paper-line);border-radius:8px;padding:26px;}
+  .quiz-meta{font-size:.8rem;color:#8a8468;margin-bottom:10px;}
+  .quiz-q{font-family:var(--serif);color:var(--navy);font-size:1.3rem;line-height:1.3;margin-bottom:14px;}
+  .quiz-a{background:var(--beige);border-left:3px solid var(--gold);padding:12px 14px;border-radius:4px;margin:12px 0;line-height:1.5;}
+  .quiz-actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:16px;}
+  .quiz-result{text-align:center;padding:30px 10px;}
+  .quiz-result .score{font-family:var(--serif);font-size:2.4rem;color:var(--navy);}
+</style>
+</head>
+<body>
+
+<div id="splash">
+  <h1>BASE DE RÉVISION<br>UE 6 — ANGLAIS DES AFFAIRES</h1>
+  <div class="tap">Touche ou glisse pour entrer ↑</div>
+</div>
+
+<header class="top1">
+  <nav class="tabs-right" id="tabsTop1">
+    <button data-view="phrases">PHRASES POUR L'ORAL</button>
+    <button data-view="actualite">ACTUALITÉ</button>
+    <button data-view="rappels">RAPPELS DE BASE</button>
+    <button data-view="liens">LIENS UTILES</button>
+    <button data-view="documentation">DOCUMENTATION</button>
+  </nav>
+</header>
+
+<header class="top2">
+  <div class="brand" id="cohortHome" title="Retour à l'accueil">
+    <span class="brand-name">LE PRÉCIS</span>
+    <span class="brand-sub">DSCG · UE6 · Anglais des affaires</span>
+  </div>
+  <button id="themeToggle" title="Mode clair / sombre">🌙</button>
+  <button id="menuToggle">☰</button>
+</header>
+
+<div id="menuBackdrop"></div>
+<nav id="slideMenu">
+  <div class="menu-section" data-section="programme">
+    <div class="menu-title">PROGRAMME</div>
+    <div class="menu-tree" id="menuProgramme"></div>
+  </div>
+  <div class="menu-section" data-section="listes">
+    <div class="menu-title">CARTES DE RÉVISION</div>
+    <div class="menu-tree" id="menuListes"></div>
+  </div>
+</nav>
+
+<div class="search-wrap">
+  <input type="text" id="globalSearch" placeholder="Rechercher (mot, expression, phrase, thème…)" autocomplete="off">
+  <div class="search-results" id="searchResults"></div>
+</div>
+
+<main id="app"></main>
+
+<footer>
+  Base de révision personnelle pour l'UE6 du DSCG — vocabulaire, expressions et phrases utiles pour l'épreuve orale d'anglais des affaires. Document de travail, sans valeur officielle.
+  &nbsp;·&nbsp; <a class="legal-link" id="legalLink">Mentions légales</a>
+</footer>
+
+<script id="bundle-data" type="application/json">__BUNDLE_JSON__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('bundle-data').textContent);
+const app = document.getElementById('app');
+
+const chapById = id => DATA.chapitres.find(c => c.id === id);
+const chapLabel = c => c.numero ? `Thème ${c.numero} — ${c.titre}` : c.titre;
+function shuffle(arr){ const a = arr.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+
+// ====== Prononciation — synthèse vocale du navigateur (aucun fichier audio) ======
+const SPEECH_LANG = 'en-GB'; // passer à 'en-US' si tu préfères l'accent américain
+function speak(text){
+  try{
+    if(!('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = SPEECH_LANG;
+    window.speechSynthesis.speak(u);
+  }catch(e){}
+}
+
+// ====== CONFIG — Signalement d'anomalies via Google Forms ======
+// 1) Crée un Google Form avec (au moins) 3 champs : Thème, Section, Passage concerné.
+// 2) Menu ⋮ du formulaire → « Obtenir le lien pré-rempli » → mets des valeurs bidons → « Obtenir le lien ».
+// 3) Dans l'URL obtenue, recopie ci-dessous l'URL de base (avant « &entry… ») et les identifiants entry.XXXX.
+//    Tant que ces valeurs restent à "VOTRE_...", le bouton de signalement reste caché automatiquement.
+const REPORT_FORM = {
+  base:           "https://docs.google.com/forms/d/e/VOTRE_ID_DE_FORMULAIRE/viewform?usp=pp_url",
+  entry_chapitre: "VOTRE_ENTRY_ID_THEME",
+  entry_section:  "VOTRE_ENTRY_ID_SECTION",
+  entry_passage:  "VOTRE_ENTRY_ID_PASSAGE",
+  entry_lien:     ""
+};
+const REPORT_CONFIGURED = REPORT_FORM.base.indexOf("VOTRE_") === -1
+  && REPORT_FORM.entry_chapitre.indexOf("VOTRE_") === -1;
+
+function entryKey(k){
+  if(!k) return k;
+  return /^entry\./.test(k) ? k : ("entry." + String(k).replace(/^entry\.?/, ""));
+}
+function reportFormUrl(passage){
+  if(!REPORT_CONFIGURED) return null;
+  const chap = chapById(state.chapitreId);
+  const sectionMap = { synthese: "Synthèse", vocabulaire: "Vocabulaire", expressions: "Expressions", actualite: "Actualité" };
+  let section = sectionMap[state.chapTab] || state.chapTab || "";
+  let p = (passage || "").replace(/\s+/g, " ").trim();
+  if(p.length > 600) p = p.slice(0, 600) + "…";
+  const params = new URLSearchParams();
+  params.set(entryKey(REPORT_FORM.entry_chapitre), chap ? chapLabel(chap) : "");
+  params.set(entryKey(REPORT_FORM.entry_section), section);
+  params.set(entryKey(REPORT_FORM.entry_passage), p);
+  if(REPORT_FORM.entry_lien && REPORT_FORM.entry_lien.indexOf("VOTRE_") === -1){
+    try{ params.set(entryKey(REPORT_FORM.entry_lien), location.href); }catch(e){}
+  }
+  return REPORT_FORM.base + (REPORT_FORM.base.indexOf("?") === -1 ? "?" : "&") + params.toString();
+}
+function openReport(passage){
+  const url = reportFormUrl(passage);
+  if(url) window.open(url, "_blank", "noopener");
+}
+
+// ---- Suivi local "thèmes récemment consultés" ----
+// Préfixe "ue6_" : évite tout conflit avec le site UE1 si les deux sites
+// venaient à partager un jour la même origine (ex. même compte GitHub Pages).
+const RECENTS_KEY = 'dscg_ue6_recent_chapitres';
+function recordChapitreVisit(chapitreId){
+  try{
+    let list = JSON.parse(localStorage.getItem(RECENTS_KEY) || '[]');
+    list = list.filter(id => id !== chapitreId);
+    list.unshift(chapitreId);
+    localStorage.setItem(RECENTS_KEY, JSON.stringify(list.slice(0, 8)));
+  }catch(e){}
+}
+function getRecentChapitres(){
+  try{
+    const ids = JSON.parse(localStorage.getItem(RECENTS_KEY) || '[]');
+    return ids.map(id => chapById(id)).filter(Boolean);
+  }catch(e){ return []; }
+}
+function getRandomCard(){
+  const pool = [...DATA.vocabulaire, ...DATA.expressions];
+  if(!pool.length) return null;
+  return pool[Math.floor(Math.random()*pool.length)];
+}
+
+// ---- Révision active : état des cartes (boîtes de Leitner) ----
+const QR_STATE_KEY = 'dscg_ue6_qr_state';
+function loadQrState(){ try{ return JSON.parse(localStorage.getItem(QR_STATE_KEY) || '{}'); }catch(e){ return {}; } }
+function saveQrState(s){ try{ localStorage.setItem(QR_STATE_KEY, JSON.stringify(s)); }catch(e){} }
+function exportProgress(){
+  const data = { app:'le-precis-ue6', version:1, exported:new Date().toISOString(),
+    qr_state: loadQrState(), recents: JSON.parse(localStorage.getItem(RECENTS_KEY)||'[]') };
+  const blob = new Blob([JSON.stringify(data,null,2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'progression-le-precis-ue6.json';
+  document.body.appendChild(a); a.click();
+  setTimeout(()=>{ document.body.removeChild(a); URL.revokeObjectURL(url); }, 0);
+}
+function importProgress(file){
+  const reader = new FileReader();
+  reader.onload = () => {
+    try{
+      const data = JSON.parse(reader.result);
+      if(data.qr_state && typeof data.qr_state==='object') saveQrState(data.qr_state);
+      if(Array.isArray(data.recents)) localStorage.setItem(RECENTS_KEY, JSON.stringify(data.recents));
+      render();
+      alert('Progression importée.');
+    }catch(e){ alert("Fichier invalide : impossible d'importer la progression."); }
+  };
+  reader.readAsText(file);
+}
+function setQrStatus(id, status){
+  const s = loadQrState();
+  const cur = s[id] || { box: 1 };
+  if(status === 'known') cur.box = Math.min((cur.box || 1) + 1, 3);
+  else cur.box = 1;
+  cur.status = status;
+  s[id] = cur; saveQrState(s);
+}
+function qrInfo(id){ return loadQrState()[id] || null; }
+function qrMastered(id){ const i = qrInfo(id); return !!(i && i.box >= 3); }
+function progressFor(cards){
+  const total = cards.length;
+  const mastered = cards.filter(c => qrMastered(c.id)).length;
+  return { total, mastered, pct: total ? Math.round(mastered/total*100) : 0 };
+}
+function cardsForScope(scope, chapId){
+  if(scope === 'chapitre' && chapId){
+    return DATA.qr_cartes.filter(c => c.chapitre_id === chapId && c.type !== 'phrase');
+  }
+  if(scope === 'phrases'){
+    return DATA.qr_cartes.filter(c => c.type === 'phrase');
+  }
+  return DATA.qr_cartes.filter(c => c.type !== 'phrase');
+}
+
+// ---- Écran d'entrée ----
+const splash = document.getElementById('splash');
+function dismissSplash(){
+  splash.classList.add('hidden');
+  setTimeout(() => { splash.style.display = 'none'; }, 400);
+}
+splash.addEventListener('click', dismissSplash);
+splash.addEventListener('touchend', dismissSplash, {passive:true});
+
+// ---- État global ----
+let state = { view: 'home', chapitreId: null, chapTab: 'synthese',
+              listesScope: 'all', listesChapitreId: null, qrFocus: null,
+              actualiteChapitreId: 'all' };
+
+let _suppressHash = false;
+
+function renderView(){
+  setTopTabActive();
+  if(state.view === 'home') return renderHome();
+  if(state.view === 'chapitre') return renderChapitre();
+  if(state.view === 'listes') return renderListes();
+  if(state.view === 'quiz') return renderQuiz();
+  if(state.view === 'phrases') return renderPhrases();
+  if(state.view === 'actualite') return renderActualite();
+  if(state.view === 'rappels') return renderRappels();
+  if(state.view === 'liens') return renderLiens();
+  if(state.view === 'documentation') return renderDocumentation();
+  if(state.view === 'mentions') return renderMentions();
+}
+
+function render(){
+  renderView();
+  const h = stateToHash();
+  if(location.hash !== h){ _suppressHash = true; location.hash = h; }
+}
+
+// ----- Routing par section (URL = #/...) -----
+function stateToHash(){
+  switch(state.view){
+    case 'chapitre':
+      return '#/chapitre/' + encodeURIComponent(state.chapitreId || '') + '/' + (state.chapTab || 'synthese');
+    case 'listes':
+      return '#/listes/' + (state.listesScope === 'all' ? 'all' : 'chapitre/' + encodeURIComponent(state.listesChapitreId || ''));
+    case 'quiz':
+      return '#/quiz/' + (state.quizScope || 'all') + (state.quizChapId ? '/' + encodeURIComponent(state.quizChapId) : '');
+    case 'phrases':    return '#/phrases';
+    case 'actualite':  return '#/actualite' + (state.actualiteChapitreId && state.actualiteChapitreId !== 'all' ? '/' + encodeURIComponent(state.actualiteChapitreId) : '');
+    case 'rappels':    return '#/rappels';
+    case 'liens':      return '#/liens';
+    case 'documentation': return '#/documentation';
+    case 'mentions':   return '#/mentions';
+    default:           return '#/';
+  }
+}
+
+function applyHash(){
+  const parts = (location.hash || '').replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
+  const v = parts[0] || 'home';
+  if(v === 'chapitre'){
+    state.view = 'chapitre'; state.chapitreId = parts[1] || null;
+    state.chapTab = parts[2] || 'synthese';
+  } else if(v === 'listes'){
+    state.view = 'listes';
+    if(parts[1] === 'chapitre'){ state.listesScope = 'chapitre'; state.listesChapitreId = parts[2] || null; }
+    else { state.listesScope = 'all'; state.listesChapitreId = null; }
+  } else if(v === 'quiz'){ state.view = 'quiz'; state.quizScope = parts[1] || 'all'; state.quizChapId = parts[2] || null; state.quiz = null; }
+  else if(v === 'phrases'){ state.view = 'phrases'; }
+  else if(v === 'actualite'){ state.view = 'actualite'; state.actualiteChapitreId = parts[1] || 'all'; }
+  else if(v === 'rappels'){ state.view = 'rappels'; }
+  else if(v === 'liens'){ state.view = 'liens'; }
+  else if(v === 'documentation'){ state.view = 'documentation'; }
+  else if(v === 'mentions'){ state.view = 'mentions'; }
+  else { state.view = 'home'; }
+  render();
+}
+
+function setTopTabActive(){
+  [...document.querySelectorAll('#tabsTop1 button')].forEach(b =>
+    b.classList.toggle('active', b.dataset.view === state.view));
+}
+
+// ============================================================
+// ACCUEIL
+// ============================================================
+let billboardTimer = null;
+function renderHome(){
+  const recents = getRecentChapitres();
+  const randomCard = getRandomCard();
+  const slides = [...recents.map(c => ({type:'chapitre', chap:c}))];
+  if(randomCard){
+    const chap = chapById(randomCard.chapitre_id);
+    if(chap) slides.push({type:'carte', carte: randomCard, chap});
+  }
+
+  const billboard = slides.length ? `
+      <div class="section-title">Reprendre</div>
+      <div class="billboard" id="billboard">
+        ${slides.map((s,i) => `
+          <div class="bb-slide ${i===0?'active':''}" data-slide="${i}">
+            <div class="bb-kicker">${s.type==='chapitre' ? 'Dernier thème consulté' : 'À revoir'}</div>
+            <div class="bb-title">${s.type==='chapitre' ? chapLabel(s.chap) : (s.carte.terme_en || s.carte.expression_en)}</div>
+            <div class="bb-meta">${s.type==='chapitre' ? 'Reprenez là où vous vous êtes arrêté.' : 'Thème « ' + chapLabel(s.chap) + ' »'}</div>
+            <button class="bb-btn" data-resume-chap="${s.chap.id}">Reprendre →</button>
+          </div>`).join('')}
+        ${slides.length>1 ? `<div class="bb-dots">${slides.map((_,i)=>`<button class="bb-dot ${i===0?'active':''}" data-dot="${i}" aria-label="Diapositive ${i+1}"></button>`).join('')}</div>` : ''}
+      </div>` : '';
+
+  app.innerHTML = `
+    <div class="panel">
+      ${billboard}
+
+      <h2 class="home-welcome">Bienvenue</h2>
+      <p class="intro-block">
+        Cette base réunit le vocabulaire, les expressions idiomatiques, les phrases utiles à l'oral et les rappels
+        de grammaire pour l'UE6 du DSCG (Anglais des affaires). Le contenu suit les 7 thèmes du programme officiel,
+        avec une veille d'actualité pour nourrir l'argumentation le jour de l'épreuve.
+      </p>
+
+      ${(() => { const p = progressFor(DATA.qr_cartes.filter(c=>c.type!=='phrase')); return `
+      <div class="progress-wrap" style="margin:18px 0 24px;">
+        <div class="progress-track"><div class="progress-fill" style="width:${p.pct}%"></div></div>
+        <div class="progress-label">Vocabulaire &amp; expressions maîtrisés : ${p.mastered} / ${p.total} (${p.pct}%)</div>
+      </div>`; })()}
+
+      <div class="section-title">Les 7 thèmes du programme</div>
+      <div class="home-grid">
+        ${DATA.chapitres.map(c => `
+          <div class="home-card" data-go-chap="${c.id}">
+            <div class="num">${String(c.numero).padStart(2,'0')}</div>
+            <div class="lbl">${c.titre}</div>
+          </div>`).join('')}
+      </div>
+    </div>`;
+
+  app.querySelectorAll('[data-resume-chap]').forEach(b => b.onclick = () => {
+    state.chapitreId = b.dataset.resumeChap; state.chapTab = 'synthese'; state.view = 'chapitre';
+    render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+  app.querySelectorAll('[data-go-chap]').forEach(b => b.onclick = () => {
+    state.chapitreId = b.dataset.goChap; state.chapTab = 'synthese'; state.view = 'chapitre';
+    render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+
+  if(billboardTimer){ clearInterval(billboardTimer); billboardTimer = null; }
+  const bb = document.getElementById('billboard');
+  if(bb && slides.length > 1){
+    const slideEls = [...bb.querySelectorAll('.bb-slide')];
+    const dotEls = [...bb.querySelectorAll('.bb-dot')];
+    let idx = 0;
+    const show = (n) => {
+      idx = (n + slideEls.length) % slideEls.length;
+      slideEls.forEach((el,i)=>el.classList.toggle('active', i===idx));
+      dotEls.forEach((el,i)=>el.classList.toggle('active', i===idx));
+    };
+    const restart = () => { clearInterval(billboardTimer); billboardTimer = setInterval(()=>show(idx+1), 5000); };
+    dotEls.forEach(d => d.addEventListener('click', () => { show(+d.dataset.dot); restart(); }));
+    restart();
+  }
+}
+
+// ============================================================
+// THÈME — Synthèse / Vocabulaire / Expressions / Actualité
+// ============================================================
+function vocItemHtml(item, kind){
+  const isVoc = kind === 'vocabulaire';
+  const terme = isVoc ? item.terme_en : item.expression_en;
+  const trad = isVoc ? item.traduction_fr : item.sens_fr;
+  const ipa = isVoc ? (item.prononciation || '') : '';
+  const exEn = isVoc ? item.exemple_en : item.exemple;
+  const exFr = isVoc ? item.exemple_fr : '';
+  const diff = item.difficulte ? `<span class="diff-tag ${item.difficulte}">${item.difficulte}</span>` : '';
+  const contexte = item.contexte ? `<div class="voc-ipa">${item.contexte}</div>` : '';
+  const speakTarget = String(terme || '').replace(/"/g,'&quot;');
+  return `<div class="voc-item">
+    <div class="voc-head">
+      <span class="voc-term">${terme}</span>
+      ${ipa ? `<span class="voc-ipa">${ipa}</span>` : ''}
+      <button class="speak-btn" data-speak="${speakTarget}" title="Écouter la prononciation">🔊</button>
+      ${diff}
+    </div>
+    ${contexte}
+    <div class="voc-trad">${trad}</div>
+    ${exEn ? `<div class="voc-ex">${exEn}${exFr ? `<div class="fr">${exFr}</div>` : ''}</div>` : ''}
+  </div>`;
+}
+function actuItemHtml(a){
+  return `<div class="actu-item">
+    <div class="actu-titre"><a href="${a.url}" target="_blank" rel="noopener">${a.titre} ↗</a></div>
+    <div class="actu-meta">${a.source || ''}${a.date ? ' · ' + a.date : ''}</div>
+  </div>`;
+}
+function wireChapitreCommon(){
+  app.querySelectorAll('[data-ctab]').forEach(b => b.onclick = () => { state.chapTab = b.dataset.ctab; render(); window.scrollTo({top:0, behavior:'smooth'}); });
+}
+function wireSpeakButtons(){
+  app.querySelectorAll('[data-speak]').forEach(b => b.onclick = (e) => { e.stopPropagation(); speak(b.dataset.speak); });
+}
+
+function renderChapitre(){
+  const chapitre = chapById(state.chapitreId);
+  if(!chapitre){
+    app.innerHTML = `<div class="panel">
+      <h1 class="page-title">Thème introuvable</h1>
+      <p class="fiche-meta">Aucun thème ne correspond à l'identifiant «&nbsp;${state.chapitreId ?? '—'}&nbsp;». Le lien pointe vers un <code>chapitre_id</code> qui n'existe pas dans <code>data/chapitres.json</code>.</p>
+      <p class="fiche-meta">Identifiants disponibles&nbsp;: ${DATA.chapitres.map(c=>`<code>${c.id}</code>`).join(', ') || 'aucun'}.</p>
+    </div>`;
+    return;
+  }
+  recordChapitreVisit(chapitre.id);
+
+  const subtabsHtml = `<div class="tabs-sub">
+      <button data-ctab="synthese" class="${state.chapTab==='synthese'?'active':''}">SYNTHÈSE</button>
+      <button data-ctab="vocabulaire" class="${state.chapTab==='vocabulaire'?'active':''}">VOCABULAIRE</button>
+      <button data-ctab="expressions" class="${state.chapTab==='expressions'?'active':''}">EXPRESSIONS</button>
+      <button data-ctab="actualite" class="${state.chapTab==='actualite'?'active':''}">ACTUALITÉ</button>
+    </div><div class="report-row">
+      <button class="print-btn">🖨 Imprimer / PDF</button>
+      ${REPORT_CONFIGURED ? `<button class="report-btn">⚠ Signaler une anomalie</button><span class="report-hint">ou sélectionnez un passage</span>` : ''}
+    </div>`;
+  const header = `<div class="fiche-meta">${chapLabel(chapitre)}</div><h1 class="page-title">${chapitre.titre}</h1>${subtabsHtml}`;
+
+  if(state.chapTab === 'vocabulaire'){
+    const items = DATA.vocabulaire.filter(v => v.chapitre_id === chapitre.id);
+    app.innerHTML = `<div class="panel">${header}
+      ${items.length ? `<div class="voc-list">${items.map(v => vocItemHtml(v, 'vocabulaire')).join('')}</div>`
+                     : "<p class=\"fiche-meta\">Aucun mot de vocabulaire ajouté pour ce thème pour l'instant.</p>"}
+    </div>`;
+    wireChapitreCommon(); wireSpeakButtons();
+    return;
+  }
+
+  if(state.chapTab === 'expressions'){
+    const items = DATA.expressions.filter(e => e.chapitre_id === chapitre.id);
+    app.innerHTML = `<div class="panel">${header}
+      ${items.length ? `<div class="voc-list">${items.map(e => vocItemHtml(e, 'expression')).join('')}</div>`
+                     : "<p class=\"fiche-meta\">Aucune expression ajoutée pour ce thème pour l'instant.</p>"}
+    </div>`;
+    wireChapitreCommon(); wireSpeakButtons();
+    return;
+  }
+
+  if(state.chapTab === 'actualite'){
+    const items = (DATA.actualite || []).filter(a => a.chapitre_id === chapitre.id)
+      .sort((a,b)=> String(b.date||'').localeCompare(String(a.date||'')));
+    app.innerHTML = `<div class="panel">${header}
+      ${items.length ? items.map(actuItemHtml).join('')
+                     : "<p class=\"fiche-meta\">Aucun article rattaché à ce thème pour l'instant — la veille RSS n'est pas encore connectée (voir Documentation).</p>"}
+    </div>`;
+    wireChapitreCommon();
+    return;
+  }
+
+  // Onglet SYNTHÈSE (par défaut)
+  const coursHtml = (DATA.cours || {})[chapitre.id];
+  app.innerHTML = `<div class="panel">${header}
+    <div class="fiche-body cours-redige">${coursHtml || "<p class=\"fiche-meta\">La synthèse rédigée de ce thème n'est pas encore disponible.</p>"}</div>
+  </div>`;
+  wireChapitreCommon();
+}
+
+// ============================================================
+// CARTES DE RÉVISION (Leitner) — vocabulaire & expressions
+// ============================================================
+function renderListes(){
+  const isAll = state.listesScope === 'all';
+  const chap = !isAll ? chapById(state.listesChapitreId) : null;
+  const cards = cardsForScope(isAll ? 'all' : 'chapitre', chap && chap.id);
+  const title = isAll ? "Toutes les cartes" : `Cartes — ${chapLabel(chap)}`;
+  const pr = progressFor(cards);
+
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">${title}</h1>
+    <div class="listes-toolbar">
+      <div style="flex:1;min-width:220px;">
+        <div class="progress-wrap">
+          <div class="progress-track"><div class="progress-fill" style="width:${pr.pct}%"></div></div>
+          <div class="progress-label">${pr.mastered} / ${pr.total} cartes maîtrisées (${pr.pct}%)</div>
+        </div>
+      </div>
+      <div class="tools">
+        <button class="btn-primary" id="startQuiz">S'interroger</button>
+        <button class="btn-ghost" id="resetProgress">Réinitialiser</button>
+        <button class="btn-ghost" id="exportProgress">Exporter</button>
+        <button class="btn-ghost" id="importProgress">Importer</button>
+        <input type="file" id="importFile" accept="application/json" style="display:none">
+      </div>
+    </div>
+    <div class="qr-grid" id="qrGrid"></div>
+  </div>`;
+
+  const grid = document.getElementById('qrGrid');
+  let focusedEl = null;
+  cards.forEach(c => {
+    const card = document.createElement('div');
+    card.className = 'flashcard' + (qrMastered(c.id) ? ' mastered' : '');
+    card.dataset.cardId = c.id;
+    if(state.qrFocus === c.id){ card.classList.add('flipped'); focusedEl = card; }
+    const info = qrInfo(c.id);
+    const badge = info && info.status ? `<div class="qr-badge ${info.status}">${info.status==='known' ? '✓ su' : '↻ à revoir'}</div>` : '';
+    card.innerHTML = `<div class="inner">
+        <div class="face front">${badge}<div class="lbl">${c.type === 'expression' ? 'Expression' : 'Vocabulaire'}</div><div class="qtext">${c.question}</div><div class="tag">clic pour retourner</div></div>
+        <div class="face back"><div class="lbl">Traduction</div><div class="atext">${c.reponse}</div>
+          <div class="qr-eval"><button class="btn-known" data-known="${c.id}">✓ Su</button><button class="btn-review" data-review="${c.id}">↻ À revoir</button></div>
+        </div>
+      </div>`;
+    card.onclick = (e) => { if(e.target.closest('button')) return; card.classList.toggle('flipped'); };
+    grid.appendChild(card);
+  });
+  if(focusedEl) setTimeout(() => focusedEl.scrollIntoView({block:'center', behavior:'smooth'}), 30);
+
+  function refreshProgress(){
+    const p = progressFor(cards);
+    const fill = app.querySelector('.progress-fill'); if(fill) fill.style.width = p.pct + '%';
+    const lbl = app.querySelector('.progress-label'); if(lbl) lbl.textContent = `${p.mastered} / ${p.total} cartes maîtrisées (${p.pct}%)`;
+  }
+  function grade(btn, status){
+    const id = btn.dataset.known || btn.dataset.review;
+    setQrStatus(id, status);
+    const card = btn.closest('.flashcard');
+    if(card){
+      card.classList.toggle('mastered', qrMastered(id));
+      const front = card.querySelector('.face.front');
+      let badge = front && front.querySelector('.qr-badge');
+      if(!badge && front){ badge = document.createElement('div'); front.insertBefore(badge, front.firstChild); }
+      if(badge){ badge.className = 'qr-badge ' + status; badge.textContent = status==='known' ? '✓ su' : '↻ à revoir'; }
+    }
+    refreshProgress();
+  }
+  app.querySelectorAll('[data-known]').forEach(b => b.onclick = (e) => { e.stopPropagation(); grade(b, 'known'); });
+  app.querySelectorAll('[data-review]').forEach(b => b.onclick = (e) => { e.stopPropagation(); grade(b, 'review'); });
+
+  const sq = document.getElementById('startQuiz');
+  if(sq) sq.onclick = () => { state.quizScope = isAll ? 'all' : 'chapitre'; state.quizChapId = chap && chap.id; state.quiz = null; state.view = 'quiz'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+  const rp = document.getElementById('resetProgress');
+  if(rp) rp.onclick = () => { const s = loadQrState(); cards.forEach(c => { delete s[c.id]; }); saveQrState(s); render(); };
+  const ep = document.getElementById('exportProgress'); if(ep) ep.onclick = exportProgress;
+  const ip = document.getElementById('importProgress'); const ipf = document.getElementById('importFile');
+  if(ip && ipf){ ip.onclick = () => ipf.click(); ipf.onchange = () => { if(ipf.files && ipf.files[0]) importProgress(ipf.files[0]); }; }
+}
+
+// ============================================================
+// INTERROGATION (quiz) — auto-évaluation séquentielle
+// ============================================================
+function renderQuiz(){
+  if(!state.quiz){
+    const all = cardsForScope(state.quizScope, state.quizChapId);
+    const deck = shuffle(all.filter(c => !qrMastered(c.id)))
+                 .concat(shuffle(all.filter(c => qrMastered(c.id))))
+                 .slice(0, Math.min(20, all.length));
+    state.quiz = { deck, i: 0, score: 0, revealed: false };
+  }
+  const Q = state.quiz;
+  const back = () => { state.quiz = null; state.view = (state.quizScope === 'phrases') ? 'phrases' : 'listes'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+
+  if(!Q.deck.length || Q.i >= Q.deck.length){
+    const total = Q.deck.length;
+    app.innerHTML = `<div class="panel"><h1 class="page-title">Interrogation</h1>
+      <div class="quiz-result">
+        ${total ? `<div class="score">${Q.score} / ${total}</div><p class="progress-label">cartes que vous avez sues</p>`
+                : '<p class="fiche-meta">Aucune carte à réviser dans ce périmètre.</p>'}
+        <div class="quiz-actions">
+          <button class="btn-primary" id="quizAgain">Recommencer</button>
+          <button class="btn-ghost" id="quizBack">Retour</button>
+        </div>
+      </div></div>`;
+    const again = document.getElementById('quizAgain'); if(again) again.onclick = () => { state.quiz = null; render(); };
+    const b = document.getElementById('quizBack'); if(b) b.onclick = back;
+    return;
+  }
+
+  const c = Q.deck[Q.i];
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Interrogation</h1>
+    <div class="quiz-card">
+      <div class="quiz-meta">Carte ${Q.i+1} / ${Q.deck.length} · Score ${Q.score}</div>
+      <div class="quiz-q">${c.question}</div>
+      ${Q.revealed
+        ? `<div class="quiz-a">${c.reponse}</div>
+           <div class="quiz-actions">
+             <button class="btn-primary" id="gradeKnown">✓ Je savais</button>
+             <button class="btn-ghost" id="gradeReview">↻ À revoir</button>
+           </div>`
+        : `<div class="quiz-actions"><button class="btn-primary" id="reveal">Afficher la réponse</button></div>`}
+      <div class="quiz-actions" style="margin-top:18px;"><button class="btn-ghost" id="quizBack">Quitter</button></div>
+    </div></div>`;
+
+  const rv = document.getElementById('reveal'); if(rv) rv.onclick = () => { Q.revealed = true; render(); };
+  const gk = document.getElementById('gradeKnown'); if(gk) gk.onclick = () => { setQrStatus(c.id,'known'); Q.score++; Q.i++; Q.revealed=false; render(); window.scrollTo({top:0,behavior:'smooth'}); };
+  const gr = document.getElementById('gradeReview'); if(gr) gr.onclick = () => { setQrStatus(c.id,'review'); Q.i++; Q.revealed=false; render(); window.scrollTo({top:0,behavior:'smooth'}); };
+  const qb = document.getElementById('quizBack'); if(qb) qb.onclick = back;
+}
+
+// ============================================================
+// PHRASES POUR L'ORAL — groupées par fonction communicative
+// ============================================================
+function renderPhrases(){
+  const groups = {};
+  (DATA.phrases_orales || []).forEach(p => {
+    const key = p.fonction || 'Autres';
+    (groups[key] = groups[key] || []).push(p);
+  });
+  const fonctions = Object.keys(groups);
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Phrases pour l'oral</h1>
+    <p class="fiche-meta">Formulations classées par fonction communicative — utile pour la transition annoncée entre synthèse et argumentation attendue par le jury.</p>
+    <div class="report-row"><button class="btn-primary" id="startPhraseQuiz">S'interroger sur les phrases</button></div>
+    ${fonctions.length ? fonctions.map(f => `
+      <div class="notion-group">
+        <div class="gname">${f}</div>
+        ${groups[f].map(p => `
+          <div class="voc-item">
+            <div class="voc-head">
+              <span class="voc-term" style="font-size:1rem;">${p.phrase_en}</span>
+              <button class="speak-btn" data-speak="${String(p.phrase_en).replace(/"/g,'&quot;')}" title="Écouter">🔊</button>
+            </div>
+            ${p.note ? `<div class="voc-ex">${p.note}</div>` : ''}
+          </div>`).join('')}
+      </div>`).join('') : "<p class=\"fiche-meta\">Aucune phrase ajoutée pour l'instant.</p>"}
+  </div>`;
+  wireSpeakButtons();
+  const sp = document.getElementById('startPhraseQuiz');
+  if(sp) sp.onclick = () => { state.quizScope = 'phrases'; state.quizChapId = null; state.quiz = null; state.view = 'quiz'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+}
+
+// ============================================================
+// ACTUALITÉ — veille, tous thèmes confondus
+// ============================================================
+function renderActualite(){
+  const all = (DATA.actualite || []).slice().sort((a,b)=> String(b.date||'').localeCompare(String(a.date||'')));
+  const active = state.actualiteChapitreId || 'all';
+  const filtered = active === 'all' ? all : all.filter(a => a.chapitre_id === active);
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Actualité</h1>
+    <p class="fiche-meta">Veille sur les 7 thèmes du programme — titre, source et lien uniquement, jamais le texte intégral des articles (voir Mentions légales).</p>
+    <div class="subtabs" id="actuFilters">
+      <button data-actu-chap="all" class="${active==='all'?'active':''}">Tous les thèmes</button>
+      ${DATA.chapitres.map(c => `<button data-actu-chap="${c.id}" class="${active===c.id?'active':''}">${c.titre}</button>`).join('')}
+    </div>
+    ${filtered.length ? filtered.map(actuItemHtml).join('')
+                       : "<p class=\"fiche-meta\">Aucun article pour l'instant — la veille RSS n'est pas encore connectée (voir Documentation).</p>"}
+  </div>`;
+  app.querySelectorAll('[data-actu-chap]').forEach(b => b.onclick = () => {
+    state.actualiteChapitreId = b.dataset.actuChap; render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+}
+
+// ============================================================
+// RAPPELS DE BASE — grammaire
+// ============================================================
+function renderRappels(){
+  const items = DATA.rappels_grammaire || [];
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Rappels de base</h1>
+    <p class="fiche-meta">Points de grammaire ciblés sur les erreurs récurrentes à l'oral (cliquez pour déplier).</p>
+    <div class="partie-block">
+      ${items.length ? items.map(r => `
+        <details class="doc-refs"><summary>${r.titre}</summary><div class="fiche-body">${r.contenu_html || ''}</div></details>
+      `).join('') : "<p class=\"fiche-meta\">Aucun rappel ajouté pour l'instant.</p>"}
+    </div>
+  </div>`;
+}
+
+// ============================================================
+// LIENS UTILES
+// ============================================================
+function renderLiens(){
+  const liens = DATA.liens_utiles || [];
+  const cats = [];
+  liens.forEach(l => { const c = l.categorie || 'Autres'; if(!cats.includes(c)) cats.push(c); });
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Liens utiles</h1>
+    ${liens.length ? cats.map(cat => `
+      <h3 style="font-family:var(--serif);color:var(--blue-mid);margin:22px 0 8px;border-bottom:1px solid var(--beige-line);padding-bottom:4px;">${cat}</h3>
+      <ul class="links-list">
+        ${liens.filter(l => (l.categorie||'Autres')===cat).map(l => `
+          <li><a href="${l.url}" target="_blank" rel="noopener">${l.titre} ↗</a>${l.description ? `<div class="link-desc">${l.description}</div>` : ''}</li>`).join('')}
+      </ul>`).join('')
+      : '<p class="fiche-meta">Aucun lien ajouté pour le moment.</p>'}
+  </div>`;
+}
+
+// ============================================================
+// DOCUMENTATION
+// ============================================================
+function renderDocumentation(){
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Documentation</h1>
+    <h2 style="text-decoration:underline;color:var(--navy);font-family:var(--serif);">GUIDE D'UTILISATION</h2>
+    <p class="fiche-meta">Comment utiliser les principales fonctionnalités du site (cliquez pour déplier).</p>
+    <div class="partie-block">
+      <details class="doc-refs"><summary>Naviguer dans le site</summary><p>Le menu de gauche donne accès au <strong>Programme</strong> (les 7 thèmes) et aux <strong>Cartes de révision</strong>. En haut, les onglets <strong>Phrases pour l'oral</strong>, <strong>Actualité</strong>, <strong>Rappels de base</strong>, <strong>Liens utiles</strong> et <strong>Documentation</strong> (cette page). Le titre « LE PRÉCIS » ramène à l'accueil.</p></details>
+      <details class="doc-refs"><summary>Rechercher</summary><p>La barre de recherche en haut affiche, dès 2 caractères, une <strong>liste de résultats classés</strong> : thèmes, vocabulaire, expressions, phrases et rappels de grammaire. Naviguez au clavier (flèches haut/bas, Entrée pour ouvrir, Échap pour fermer) ou cliquez un résultat.</p></details>
+      <details class="doc-refs"><summary>Étudier un thème</summary><p>Chaque thème a quatre onglets : <strong>Synthèse</strong> (le cours rédigé), <strong>Vocabulaire</strong> et <strong>Expressions</strong> (listes consultables, avec prononciation phonétique et bouton 🔊 d'écoute), et <strong>Actualité</strong> (veille rattachée à ce thème).</p></details>
+      <details class="doc-refs"><summary>Réviser avec les cartes (Leitner)</summary><p>Dans <strong>Cartes de révision</strong>, chaque carte se déplie au clic. Auto-évaluez-vous avec <strong>« ✓ Su »</strong> ou <strong>« ↻ À revoir »</strong> : un système de répétition espacée (Leitner) suit votre progression. Le bouton <strong>« S'interroger »</strong> lance un mode quiz. Les <strong>phrases pour l'oral</strong> ont leur propre mode quiz, accessible depuis leur page.</p></details>
+      <details class="doc-refs"><summary>Écouter la prononciation</summary><p>Le bouton <strong>🔊</strong> à côté d'un mot ou d'une phrase utilise la synthèse vocale du navigateur (<em>Web Speech API</em>) — aucun fichier audio à créer ni héberger. Le résultat dépend du navigateur et du système utilisés.</p></details>
+      <details class="doc-refs"><summary>Confort de lecture</summary><p>Le bouton <strong>🌙 / ☀️</strong> (en haut) bascule en <strong>mode sombre</strong>, mémorisé. Sur un thème, <strong>« 🖨 Imprimer / PDF »</strong> imprime le contenu sans le menu. Chaque vue a sa <strong>propre adresse (URL)</strong>, partageable.</p></details>
+      <details class="doc-refs"><summary>Sauvegarder sa progression</summary><p>Votre progression est enregistrée dans votre navigateur (indépendamment de Quizlet, si tu exportes aussi le vocabulaire là-bas — les deux suivis ne se synchronisent pas). Dans <strong>Cartes de révision</strong>, tu peux l'<strong>exporter</strong> puis la <strong>réimporter</strong> — utile pour changer d'appareil.</p></details>
+      <details class="doc-refs"><summary>Signaler une anomalie</summary><p>Une erreur ? <strong>Sélectionnez le passage</strong> concerné : une bulle <strong>« ⚠ Signaler ce passage »</strong> apparaît. Vous pouvez aussi utiliser le bouton <strong>« ⚠ Signaler une anomalie »</strong> en haut d'un thème. (Fonction à activer : voir le commentaire <code>REPORT_FORM</code> dans le template.)</p></details>
+    </div>
+    <h2 style="text-decoration:underline;color:var(--navy);font-family:var(--serif);margin-top:30px;">PROGRAMME OFFICIEL</h2>
+    <div class="partie-block">
+      <div class="ptitre">Format de l'épreuve</div>
+      <p class="fiche-meta">Épreuve orale — 1h de préparation, exposé de 15 min maximum + entretien de 15 min maximum. Coefficient 1, 15 ECTS. Niveau visé : B2 du CECRL. Un texte d'actualité (moins de 24 mois) sur l'un des 7 thèmes est fourni ; synthèse puis argumentation, avant un entretien avec le jury.</p>
+      <div class="ptitre" style="margin-top:14px;">Les 7 thèmes</div>
+      <ul class="links-list">
+        ${DATA.chapitres.map(c => `<li><strong>${chapLabel(c)}</strong> — ${c.description || ''}</li>`).join('')}
+      </ul>
+    </div>
+  </div>`;
+}
+
+// ============================================================
+// MENTIONS LÉGALES
+// ============================================================
+function renderMentions(){
+  app.innerHTML = `<div class="panel">
+    <h1 class="page-title">Mentions légales</h1>
+    <div class="legal-body">
+      <h3>Éditeur</h3>
+      <p>Ce site est un projet personnel à but pédagogique, édité et tenu à jour par <strong>[À COMPLÉTER : nom / prénom]</strong>, étudiant·e en DSCG. Contact&nbsp;: <strong>[À COMPLÉTER : adresse e-mail]</strong>. Site sans finalité commerciale, destiné au partage de notes de révision entre étudiants.</p>
+
+      <h3>Hébergement</h3>
+      <p>Le site est hébergé par GitHub, Inc. (GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.</p>
+
+      <h3>Propriété intellectuelle</h3>
+      <p>Le vocabulaire, les expressions, les phrases pour l'oral, les rappels de grammaire et les synthèses de cours sont des productions propres de l'éditeur.</p>
+      <p><strong>Veille d'actualité (onglet « Actualité »)</strong>&nbsp;: les articles ne sont pas hébergés ni reproduits sur ce site. Seuls un <strong>titre, une source et un lien</strong> vers l'article original sont affichés&nbsp;; le texte intégral reste la propriété de son éditeur (presse, agence de presse…).</p>
+
+      <h3>Données personnelles</h3>
+      <p>Ce site ne collecte aucune donnée personnelle sur un serveur et n'utilise pas de cookies de suivi. L'historique des derniers thèmes consultés ainsi que votre progression de révision (cartes « su / à revoir ») sont stockés uniquement dans votre navigateur (<em>localStorage</em>), restent sur votre appareil, et peuvent être effacés à tout moment en vidant les données du site. Le bouton 🔊 utilise la synthèse vocale intégrée à votre navigateur&nbsp;; aucun son n'est envoyé à un serveur.</p>
+
+      <h3>Responsabilité</h3>
+      <p>Le contenu est fourni à titre informatif et pédagogique, sans valeur officielle ni garantie d'exhaustivité ou d'actualité. En cas de doute, reportez-vous au programme officiel du DSCG et aux supports officiels de votre formation.</p>
+    </div>
+  </div>`;
+}
+
+// ============================================================
+// NAVIGATION — banderoles + menu coulissant
+// ============================================================
+document.getElementById('tabsTop1').addEventListener('click', e => {
+  const btn = e.target.closest('button');
+  if(!btn) return;
+  state.view = btn.dataset.view;
+  render();
+  window.scrollTo({top:0, behavior:'smooth'});
+});
+
+document.getElementById('cohortHome').addEventListener('click', () => {
+  state.view = 'home'; render(); window.scrollTo({top:0, behavior:'smooth'});
+});
+
+const slideMenu = document.getElementById('slideMenu');
+const menuBackdrop = document.getElementById('menuBackdrop');
+const menuToggle = document.getElementById('menuToggle');
+function closeMenu(){
+  slideMenu.classList.remove('open');
+  menuBackdrop.classList.remove('show');
+  menuToggle.textContent = '☰';
+}
+function openMenu(){
+  slideMenu.classList.add('open');
+  menuBackdrop.classList.add('show');
+  menuToggle.textContent = '✕';
+}
+menuToggle.addEventListener('click', () => {
+  slideMenu.classList.contains('open') ? closeMenu() : openMenu();
+});
+menuBackdrop.addEventListener('click', closeMenu);
+
+document.querySelectorAll('#slideMenu .menu-title').forEach(t => {
+  t.addEventListener('click', () => {
+    t.parentElement.classList.toggle('expanded');
+  });
+});
+
+function buildMenuTrees(){
+  const progEl = document.getElementById('menuProgramme');
+  progEl.innerHTML = DATA.chapitres.map(c => `<a href="#" data-go-chap="${c.id}">${chapLabel(c)}</a>`).join('');
+
+  const listesEl = document.getElementById('menuListes');
+  listesEl.innerHTML = `<a href="#" data-go-listes="all">Toutes les cartes</a>` +
+    DATA.chapitres.map(c => `<a href="#" data-go-listes="${c.id}">${chapLabel(c)}</a>`).join('') +
+    `<a href="#" data-go-phrases="1">Phrases pour l'oral</a>`;
+
+  progEl.querySelectorAll('[data-go-chap]').forEach(a => a.onclick = (e) => {
+    e.preventDefault();
+    state.chapitreId = a.dataset.goChap; state.chapTab='synthese';
+    state.view = 'chapitre'; closeMenu(); render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+  listesEl.querySelectorAll('[data-go-listes]').forEach(a => a.onclick = (e) => {
+    e.preventDefault();
+    const v = a.dataset.goListes;
+    state.listesScope = (v === 'all') ? 'all' : 'chapitre';
+    state.listesChapitreId = (v === 'all') ? null : v;
+    state.qrFocus = null;
+    state.view = 'listes'; closeMenu(); render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+  const goPhrases = listesEl.querySelector('[data-go-phrases]');
+  if(goPhrases) goPhrases.onclick = (e) => { e.preventDefault(); state.view = 'phrases'; closeMenu(); render(); window.scrollTo({top:0, behavior:'smooth'}); };
+}
+buildMenuTrees();
+
+const gs = document.getElementById('globalSearch');
+const srBox = document.getElementById('searchResults');
+let _srResults = [];
+let _srActive = -1;
+const srEsc = s => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+function collectResults(qraw){
+  const q = (qraw || '').trim().toLowerCase();
+  if(q.length < 2) return [];
+  const score = (t) => { t = (t||'').toLowerCase(); const i = t.indexOf(q); return i < 0 ? -1 : (t.startsWith(q) ? 0 : 1 + i*0.001); };
+  const res = [];
+  DATA.chapitres.forEach(c => { const s = score(c.titre); if(s>=0){
+    res.push({type:'Thème', sc:s, cat:1, title:c.titre, sub:'', go:()=>{ state.chapitreId=c.id; state.view='chapitre'; state.chapTab='synthese'; }}); } });
+  DATA.vocabulaire.forEach(v => { const s = Math.max(score(v.terme_en), score(v.traduction_fr)); if(s>=0){ const c = chapById(v.chapitre_id);
+    res.push({type:'Vocabulaire', sc:s, cat:2, title:v.terme_en, sub:c?chapLabel(c):'', go:()=>{ state.chapitreId=v.chapitre_id; state.view='chapitre'; state.chapTab='vocabulaire'; }}); } });
+  DATA.expressions.forEach(ex => { const s = Math.max(score(ex.expression_en), score(ex.sens_fr)); if(s>=0){ const c = chapById(ex.chapitre_id);
+    res.push({type:'Expression', sc:s, cat:2, title:ex.expression_en, sub:c?chapLabel(c):'', go:()=>{ state.chapitreId=ex.chapitre_id; state.view='chapitre'; state.chapTab='expressions'; }}); } });
+  (DATA.phrases_orales||[]).forEach(p => { const s = score(p.phrase_en); if(s>=0){
+    res.push({type:'Phrase', sc:s, cat:3, title:p.phrase_en, sub:p.fonction||'', go:()=>{ state.view='phrases'; }}); } });
+  (DATA.rappels_grammaire||[]).forEach(r => { const s = score(r.titre); if(s>=0){
+    res.push({type:'Rappel', sc:s, cat:4, title:r.titre, sub:'', go:()=>{ state.view='rappels'; }}); } });
+  res.sort((a,b)=> a.sc-b.sc || a.cat-b.cat || a.title.localeCompare(b.title));
+  return res.slice(0, 12);
+}
+function renderSearchResults(){
+  const q = gs.value;
+  _srResults = collectResults(q); _srActive = -1;
+  if(q.trim().length < 2){ srBox.style.display='none'; srBox.innerHTML=''; return; }
+  if(_srResults.length === 0){ srBox.innerHTML = '<div class="sr-empty">Aucun résultat</div>'; srBox.style.display='block'; return; }
+  srBox.innerHTML = _srResults.map((r,i)=>
+    `<button class="sr-item" data-sr="${i}"><span class="sr-type">${r.type}</span><span class="sr-title">${srEsc(r.title)}</span>${r.sub?`<span class="sr-sub">${srEsc(r.sub)}</span>`:''}</button>`).join('');
+  srBox.style.display='block';
+  srBox.querySelectorAll('[data-sr]').forEach(b => b.onclick = () => selectResult(parseInt(b.dataset.sr,10)));
+}
+function selectResult(i){
+  const r = _srResults[i]; if(!r) return;
+  closeSearch(); gs.value='';
+  r.go(); render(); window.scrollTo({top:0, behavior:'smooth'});
+}
+function closeSearch(){ srBox.style.display='none'; srBox.innerHTML=''; _srActive=-1; }
+function moveActive(d){
+  if(!_srResults.length) return;
+  _srActive = (_srActive + d + _srResults.length) % _srResults.length;
+  [...srBox.querySelectorAll('.sr-item')].forEach((el,i)=> el.classList.toggle('sr-active', i===_srActive));
+}
+gs.addEventListener('input', renderSearchResults);
+gs.addEventListener('keydown', e => {
+  if(e.key === 'ArrowDown'){ e.preventDefault(); moveActive(1); }
+  else if(e.key === 'ArrowUp'){ e.preventDefault(); moveActive(-1); }
+  else if(e.key === 'Enter'){ e.preventDefault(); selectResult(_srActive >= 0 ? _srActive : 0); }
+  else if(e.key === 'Escape'){ closeSearch(); gs.blur(); }
+});
+document.addEventListener('click', e => { if(!(e.target.closest && e.target.closest('.search-wrap'))) closeSearch(); });
+
+document.getElementById('legalLink').addEventListener('click', () => {
+  state.view = 'mentions'; render(); window.scrollTo({top:0, behavior:'smooth'});
+});
+
+// ----- Signalement d'anomalies : bouton de repli + bulle sur sélection -----
+if(REPORT_CONFIGURED){
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest && e.target.closest('.report-btn');
+    if(btn){ openReport(''); }
+  });
+
+  let reportBubble = null;
+  let lastSelText = '';
+  const hideBubble = () => { if(reportBubble) reportBubble.style.display = 'none'; };
+  function selectionWithinPanel(sel){
+    if(!sel || sel.rangeCount === 0) return false;
+    let node = sel.anchorNode;
+    if(node && node.nodeType === 3) node = node.parentElement;
+    return !!(node && node.closest && node.closest('#app .panel'));
+  }
+  function showBubbleFromSelection(){
+    if(!REPORT_CONFIGURED || state.view !== 'chapitre'){ hideBubble(); return; }
+    const sel = window.getSelection ? window.getSelection() : null;
+    const text = sel ? sel.toString().trim() : '';
+    if(text.length < 8 || !selectionWithinPanel(sel)){ hideBubble(); return; }
+    let rect;
+    try { rect = sel.getRangeAt(0).getBoundingClientRect(); } catch(e){ return; }
+    if(!rect || (!rect.width && !rect.height)) return;
+    lastSelText = text;
+    if(!reportBubble){
+      reportBubble = document.createElement('button');
+      reportBubble.className = 'report-bubble';
+      reportBubble.textContent = '⚠ Signaler ce passage';
+      reportBubble.addEventListener('mousedown', ev => ev.preventDefault());
+      reportBubble.addEventListener('touchstart', ev => ev.preventDefault(), {passive:false});
+      reportBubble.addEventListener('click', () => { openReport(lastSelText); hideBubble(); });
+      document.body.appendChild(reportBubble);
+    }
+    reportBubble.style.display = 'block';
+    const vw = document.documentElement.clientWidth;
+    let left = window.scrollX + rect.left;
+    const maxLeft = window.scrollX + vw - reportBubble.offsetWidth - 10;
+    if(left > maxLeft) left = Math.max(window.scrollX + 8, maxLeft);
+    reportBubble.style.top = (window.scrollY + rect.bottom + 8) + 'px';
+    reportBubble.style.left = left + 'px';
+  }
+  document.addEventListener('mouseup', showBubbleFromSelection);
+  document.addEventListener('touchend', () => setTimeout(showBubbleFromSelection, 0));
+  let selDebounce = null;
+  document.addEventListener('selectionchange', () => {
+    clearTimeout(selDebounce);
+    selDebounce = setTimeout(showBubbleFromSelection, 350);
+  });
+  document.addEventListener('scroll', hideBubble, true);
+}
+
+// ----- Thème clair / sombre -----
+const THEME_KEY = 'dscg_ue6_theme';
+(function(){
+  const dark = localStorage.getItem(THEME_KEY) === 'dark';
+  document.body.classList.toggle('dark', dark);
+  const tt = document.getElementById('themeToggle');
+  if(tt) tt.textContent = dark ? '☀️' : '🌙';
+})();
+document.getElementById('themeToggle').addEventListener('click', () => {
+  const dark = !document.body.classList.contains('dark');
+  document.body.classList.toggle('dark', dark);
+  try{ localStorage.setItem(THEME_KEY, dark ? 'dark' : 'light'); }catch(e){}
+  document.getElementById('themeToggle').textContent = dark ? '☀️' : '🌙';
+});
+
+// ----- Impression / PDF -----
+document.addEventListener('click', (e) => {
+  if(e.target.closest && e.target.closest('.print-btn')) window.print();
+});
+
+// ----- Routing : back/forward + URL partagée -----
+window.addEventListener('hashchange', () => {
+  if(_suppressHash){ _suppressHash = false; return; }
+  applyHash();
+});
+
+if(location.hash.length > 1){ applyHash(); } else { render(); }
+</script>
+</body>
+</html>

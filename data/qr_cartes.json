@@ -1,0 +1,22 @@
+[
+  { "id": "qr-voc-001", "type": "vocabulaire", "ref_id": "voc-fin-001", "chapitre_id": "finance",
+    "question": "credit crunch", "reponse": "crise du crédit, resserrement du crédit" },
+  { "id": "qr-voc-002", "type": "vocabulaire", "ref_id": "voc-fin-002", "chapitre_id": "finance",
+    "question": "collateral", "reponse": "garantie, nantissement" },
+  { "id": "qr-voc-003", "type": "vocabulaire", "ref_id": "voc-ca-001", "chapitre_id": "compta-audit",
+    "question": "going concern", "reponse": "continuité d'exploitation" },
+  { "id": "qr-voc-004", "type": "vocabulaire", "ref_id": "voc-rse-001", "chapitre_id": "rse-gouvernance",
+    "question": "greenwashing", "reponse": "écoblanchiment" },
+  { "id": "qr-voc-005", "type": "vocabulaire", "ref_id": "voc-si-001", "chapitre_id": "si-technologies",
+    "question": "data breach", "reponse": "violation de données, fuite de données" },
+  { "id": "qr-exp-001", "type": "expression", "ref_id": "exp-001", "chapitre_id": "finance",
+    "question": "to be in the red", "reponse": "être en déficit, être dans le rouge" },
+  { "id": "qr-exp-002", "type": "expression", "ref_id": "exp-002", "chapitre_id": "management-rh",
+    "question": "to think outside the box", "reponse": "sortir des sentiers battus, faire preuve de créativité" },
+  { "id": "qr-ph-001", "type": "phrase", "ref_id": "ph-001", "chapitre_id": null,
+    "question": "Transition : synthèse → argumentation",
+    "reponse": "Having outlined the author's main points, I would now like to offer my own perspective on this issue." },
+  { "id": "qr-ph-002", "type": "phrase", "ref_id": "ph-004", "chapitre_id": null,
+    "question": "Conclure",
+    "reponse": "To conclude, I would say that... though this remains a complex and evolving issue." }
+]

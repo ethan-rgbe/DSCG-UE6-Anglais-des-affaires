@@ -1,0 +1,44 @@
+[
+  {
+    "id": "finance",
+    "numero": 1,
+    "titre": "Finance",
+    "description": "Banks, financial markets, financing instruments, financial crises."
+  },
+  {
+    "id": "compta-audit",
+    "numero": 2,
+    "titre": "Comptabilité et audit",
+    "description": "IFRS/US GAAP standards, financial statements, internal and external audit, ESG reporting."
+  },
+  {
+    "id": "rse-gouvernance",
+    "numero": 3,
+    "titre": "RSE et gouvernance d'entreprise",
+    "description": "Stakeholders, sustainability, ESG criteria, greenwashing."
+  },
+  {
+    "id": "si-technologies",
+    "numero": 4,
+    "titre": "Systèmes d'information et nouvelles technologies",
+    "description": "AI, big data, cybersecurity, digital transformation."
+  },
+  {
+    "id": "management-rh",
+    "numero": 5,
+    "titre": "Management et ressources humaines",
+    "description": "Leadership, hybrid work, talent management, diversity and inclusion."
+  },
+  {
+    "id": "production-marketing",
+    "numero": 6,
+    "titre": "Production et marketing",
+    "description": "Supply chain, product life cycle, marketing strategy, e-marketing."
+  },
+  {
+    "id": "relations-internationales",
+    "numero": 7,
+    "titre": "Relations économiques internationales",
+    "description": "Globalization, free trade, economic areas, cross-cultural relations."
+  }
+]

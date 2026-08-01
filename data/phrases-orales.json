@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ph-001",
+    "fonction": "transition synthèse → argumentation",
+    "phrase_en": "Having outlined the author's main points, I would now like to offer my own perspective on this issue.",
+    "note": "Formule attendue par le jury pour marquer explicitement le passage à l'argumentation."
+  },
+  {
+    "id": "ph-002",
+    "fonction": "introduire",
+    "phrase_en": "This article, published in [source] on [date], addresses the question of...",
+    "note": "Toujours citer la source et la date de l'article fourni en introduction de la synthèse."
+  },
+  {
+    "id": "ph-003",
+    "fonction": "nuancer",
+    "phrase_en": "While this may be true to some extent, one could also argue that...",
+    "note": "Utile pour éviter une argumentation trop tranchée et montrer une pensée critique."
+  },
+  {
+    "id": "ph-004",
+    "fonction": "conclure",
+    "phrase_en": "To conclude, I would say that... though this remains a complex and evolving issue.",
+    "note": "Une conclusion ouverte est souvent mieux perçue qu'une affirmation trop catégorique."
+  },
+  {
+    "id": "ph-005",
+    "fonction": "réagir à une question",
+    "phrase_en": "That's an interesting point. If I understand your question correctly, you're asking whether...",
+    "note": "Reformuler la question du jury donne un instant de réflexion supplémentaire."
+  }
+]

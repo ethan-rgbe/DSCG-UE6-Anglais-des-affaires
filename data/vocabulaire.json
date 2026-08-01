@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-fin-001",
+    "chapitre_id": "finance",
+    "terme_en": "credit crunch",
+    "traduction_fr": "crise du crédit, resserrement du crédit",
+    "prononciation": "/ˈkredɪt krʌntʃ/",
+    "exemple_en": "Small businesses struggled to get loans during the credit crunch.",
+    "exemple_fr": "Les petites entreprises avaient du mal à obtenir des prêts pendant la crise du crédit.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-fin-002",
+    "chapitre_id": "finance",
+    "terme_en": "collateral",
+    "traduction_fr": "garantie, nantissement",
+    "prononciation": "/kəˈlætərəl/",
+    "exemple_en": "The bank asked for property as collateral before approving the loan.",
+    "exemple_fr": "La banque a demandé un bien immobilier en garantie avant d'accorder le prêt.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-ca-001",
+    "chapitre_id": "compta-audit",
+    "terme_en": "going concern",
+    "traduction_fr": "continuité d'exploitation",
+    "prononciation": "/ˈɡəʊɪŋ kənˈsɜːn/",
+    "exemple_en": "Auditors questioned whether the company was still a going concern.",
+    "exemple_fr": "Les auditeurs se sont interrogés sur la continuité d'exploitation de l'entreprise.",
+    "difficulte": "difficile"
+  },
+  {
+    "id": "voc-rse-001",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "greenwashing",
+    "traduction_fr": "écoblanchiment",
+    "prononciation": "/ˈɡriːnwɒʃɪŋ/",
+    "exemple_en": "The NGO accused the airline of greenwashing its carbon offset programme.",
+    "exemple_fr": "L'ONG a accusé la compagnie aérienne de pratiquer l'écoblanchiment avec son programme de compensation carbone.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-si-001",
+    "chapitre_id": "si-technologies",
+    "terme_en": "data breach",
+    "traduction_fr": "violation de données, fuite de données",
+    "prononciation": "/ˈdeɪtə briːtʃ/",
+    "exemple_en": "The company had to notify customers after a major data breach.",
+    "exemple_fr": "L'entreprise a dû prévenir ses clients après une importante fuite de données.",
+    "difficulte": "moyen"
+  }
+]
