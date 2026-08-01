@@ -21,6 +21,7 @@
     --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
     --mono:"SF Mono",Menlo,Consolas,monospace;
+    --header-h:96px; /* recalculée dynamiquement en JS (syncHeaderHeight) selon le nb de lignes des onglets */
   }
   *{box-sizing:border-box;}
   body{margin:0;font-family:var(--sans);background:var(--paper);color:var(--text);}
@@ -92,9 +93,9 @@
 
   /* Menu coulissant */
   #slideMenu{
-    position:fixed;top:0;right:-340px;width:320px;height:100%;background:#ffffff;
+    position:fixed;top:var(--header-h);right:-340px;width:320px;height:calc(100% - var(--header-h));background:#ffffff;
     box-shadow:-4px 0 16px rgba(0,0,0,.15);z-index:900;overflow-y:auto;
-    transition:right .3s ease;padding:70px 22px 22px;
+    transition:right .3s ease;padding:22px;
   }
   #slideMenu.open{right:0;}
   #slideMenu .menu-section{margin-bottom:26px;}
@@ -1111,6 +1112,27 @@ menuToggle.addEventListener('click', () => {
   slideMenu.classList.contains('open') ? closeMenu() : openMenu();
 });
 menuBackdrop.addEventListener('click', closeMenu);
+
+// Le menu latéral doit démarrer sous les deux bandeaux d'en-tête. Comme leur
+// hauteur varie (les onglets du haut peuvent passer sur 2 lignes selon la
+// largeur d'écran), on mesure la vraie hauteur au lieu de deviner une valeur fixe.
+function syncHeaderHeight(){
+  const h1 = document.querySelector('header.top1');
+  const h2 = document.querySelector('header.top2');
+  const total = (h1 ? h1.offsetHeight : 0) + (h2 ? h2.offsetHeight : 0);
+  if(total > 0){
+    document.documentElement.style.setProperty('--header-h', total + 'px');
+  }
+}
+syncHeaderHeight();
+window.addEventListener('load', syncHeaderHeight);
+window.addEventListener('resize', () => {
+  clearTimeout(window._headerSyncTimer);
+  window._headerSyncTimer = setTimeout(syncHeaderHeight, 150);
+});
+if(document.fonts && document.fonts.ready){
+  document.fonts.ready.then(syncHeaderHeight);
+}
 
 document.querySelectorAll('#slideMenu .menu-title').forEach(t => {
   t.addEventListener('click', () => {
