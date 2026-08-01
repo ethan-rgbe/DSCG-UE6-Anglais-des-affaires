@@ -48,5 +48,825 @@
     "exemple_en": "The company had to notify customers after a major data breach.",
     "exemple_fr": "L'entreprise a dû prévenir ses clients après une importante fuite de données.",
     "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-002",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "activist",
+    "traduction_fr": "militant(e)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-003",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "alternative currency",
+    "traduction_fr": "devise alternative",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-004",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "access to health care",
+    "traduction_fr": "accès aux soins de santé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-005",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "barter system",
+    "traduction_fr": "système de troc",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-006",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to benefit society",
+    "traduction_fr": "profiter à la société",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-007",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "boycott campaign",
+    "traduction_fr": "campagne de boycott",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-008",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to bridge a gap",
+    "traduction_fr": "combler un fossé",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-009",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to call into question",
+    "traduction_fr": "remettre en question",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-010",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "cause marketing",
+    "traduction_fr": "marketing de cause sociale ou humanitaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-011",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "charity",
+    "traduction_fr": "organisme caritatif",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-012",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "consumer pressure",
+    "traduction_fr": "pression des consommateurs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-013",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "commitment",
+    "traduction_fr": "engagement",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-014",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "crowdfunding",
+    "traduction_fr": "financement participatif",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-015",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "CSR (Corporate Social Responsibility)",
+    "traduction_fr": "RSE (responsabilité sociale des entreprises)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-016",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to donate money",
+    "traduction_fr": "faire un don d'argent",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-017",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "egalitarian",
+    "traduction_fr": "égalitaire",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-018",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to empower",
+    "traduction_fr": "autonomiser, émanciper",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-019",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "empowerment",
+    "traduction_fr": "autonomisation",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-020",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "environmental awareness",
+    "traduction_fr": "conscience écologique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-021",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "environmental footprint",
+    "traduction_fr": "empreinte écologique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-022",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "equal in rights",
+    "traduction_fr": "égaux en droits",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-023",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "ethical investment",
+    "traduction_fr": "investissement éthique",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-024",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to foster solidarity",
+    "traduction_fr": "favoriser la solidarité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-025",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "fundraising",
+    "traduction_fr": "collecte de fonds",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-026",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to involve local actors",
+    "traduction_fr": "impliquer des acteurs locaux",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-027",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to lend money to sb",
+    "traduction_fr": "prêter de l'argent à quelqu'un",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-028",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "moneyless trading",
+    "traduction_fr": "commerce sans argent",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-029",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "NGO (non-governmental organization)",
+    "traduction_fr": "ONG (organisation non gouvernementale)",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-030",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to overcome inequalities",
+    "traduction_fr": "surmonter les inégalités",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-031",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to pool skills",
+    "traduction_fr": "mutualiser des compétences",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-032",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "peer lending",
+    "traduction_fr": "prêt entre pairs",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-033",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to reduce inequalities",
+    "traduction_fr": "réduire les inégalités",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-034",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to raise awareness",
+    "traduction_fr": "faire prendre conscience",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-035",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to raise funds",
+    "traduction_fr": "lever des fonds",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-036",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "self-help group",
+    "traduction_fr": "groupe d'entraide",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-037",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "to set up a cooperative",
+    "traduction_fr": "monter une coopérative",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-038",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "social entrepreneurship",
+    "traduction_fr": "entreprenariat social",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-039",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "social benefit",
+    "traduction_fr": "prestation sociale",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-040",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "social businesses",
+    "traduction_fr": "entreprises sociales",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-041",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "sustainability",
+    "traduction_fr": "durabilité",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-042",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "sustainable economy",
+    "traduction_fr": "économie durable",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-rse-043",
+    "chapitre_id": "rse-gouvernance",
+    "terme_en": "stakeholder",
+    "traduction_fr": "partie prenante",
+    "prononciation": "",
+    "exemple_en": "",
+    "exemple_fr": "",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-001",
+    "chapitre_id": "production-marketing",
+    "terme_en": "brand image",
+    "traduction_fr": "image de marque",
+    "prononciation": "",
+    "exemple_en": "The company invested heavily in improving its brand image.",
+    "exemple_fr": "L'entreprise a beaucoup investi pour améliorer son image de marque.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-002",
+    "chapitre_id": "production-marketing",
+    "terme_en": "brand name",
+    "traduction_fr": "nom de marque",
+    "prononciation": "",
+    "exemple_en": "Consumers often pay more for a well-known brand name.",
+    "exemple_fr": "Les consommateurs paient souvent plus cher pour un nom de marque connu.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-003",
+    "chapitre_id": "production-marketing",
+    "terme_en": "branding",
+    "traduction_fr": "stratégie de marque",
+    "prononciation": "",
+    "exemple_en": "Branding goes far beyond just designing a logo.",
+    "exemple_fr": "La stratégie de marque va bien au-delà de la simple conception d'un logo.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-004",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to build a relationship",
+    "traduction_fr": "construire une relation",
+    "prononciation": "",
+    "exemple_en": "Good customer service helps build a lasting relationship with clients.",
+    "exemple_fr": "Un bon service client aide à construire une relation durable avec les clients.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-005",
+    "chapitre_id": "production-marketing",
+    "terme_en": "consumer",
+    "traduction_fr": "consommateur",
+    "prononciation": "",
+    "exemple_en": "Consumers are increasingly demanding about product quality.",
+    "exemple_fr": "Les consommateurs sont de plus en plus exigeants sur la qualité des produits.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-006",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to convey",
+    "traduction_fr": "transmettre, véhiculer (une image)",
+    "prononciation": "",
+    "exemple_en": "The advert conveys a strong message about sustainability.",
+    "exemple_fr": "La publicité transmet un message fort sur la durabilité.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-007",
+    "chapitre_id": "production-marketing",
+    "terme_en": "corporate behaviour",
+    "traduction_fr": "comportement d'entreprise",
+    "prononciation": "",
+    "exemple_en": "Corporate behaviour is increasingly scrutinized by the public.",
+    "exemple_fr": "Le comportement des entreprises est de plus en plus scruté par le public.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-008",
+    "chapitre_id": "production-marketing",
+    "terme_en": "crisis management",
+    "traduction_fr": "gestion de crise",
+    "prononciation": "",
+    "exemple_en": "Effective crisis management can limit the damage to a brand's reputation.",
+    "exemple_fr": "Une gestion de crise efficace peut limiter les dégâts sur la réputation d'une marque.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-009",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to damage",
+    "traduction_fr": "nuire à, endommager",
+    "prononciation": "",
+    "exemple_en": "The scandal damaged the company's reputation.",
+    "exemple_fr": "Le scandale a nui à la réputation de l'entreprise.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-010",
+    "chapitre_id": "production-marketing",
+    "terme_en": "damage control",
+    "traduction_fr": "limitation des dégâts",
+    "prononciation": "",
+    "exemple_en": "The PR team launched a damage control campaign within hours.",
+    "exemple_fr": "L'équipe de communication a lancé une campagne de limitation des dégâts en quelques heures.",
+    "difficulte": "difficile"
+  },
+  {
+    "id": "voc-pm-011",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to deceive",
+    "traduction_fr": "tromper",
+    "prononciation": "",
+    "exemple_en": "The company was accused of deceiving its customers.",
+    "exemple_fr": "L'entreprise a été accusée de tromper ses clients.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-012",
+    "chapitre_id": "production-marketing",
+    "terme_en": "deception",
+    "traduction_fr": "tromperie",
+    "prononciation": "",
+    "exemple_en": "The advert was criticized for deception.",
+    "exemple_fr": "La publicité a été critiquée pour tromperie.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-013",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to emphasize / to highlight",
+    "traduction_fr": "souligner, mettre en avant",
+    "prononciation": "",
+    "exemple_en": "The campaign emphasizes the product's eco-friendly design.",
+    "exemple_fr": "La campagne met en avant l'écoconception du produit.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-014",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to ensure",
+    "traduction_fr": "garantir, s'assurer que",
+    "prononciation": "",
+    "exemple_en": "The company must ensure its claims are accurate.",
+    "exemple_fr": "L'entreprise doit s'assurer que ses affirmations sont exactes.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-015",
+    "chapitre_id": "production-marketing",
+    "terme_en": "feedback",
+    "traduction_fr": "retour, avis",
+    "prononciation": "",
+    "exemple_en": "Customer feedback helps improve the product.",
+    "exemple_fr": "Les retours des clients aident à améliorer le produit.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-016",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to get in touch with",
+    "traduction_fr": "prendre contact avec",
+    "prononciation": "",
+    "exemple_en": "Feel free to get in touch with our sales team.",
+    "exemple_fr": "N'hésitez pas à prendre contact avec notre équipe commerciale.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-017",
+    "chapitre_id": "production-marketing",
+    "terme_en": "guideline",
+    "traduction_fr": "directive, ligne directrice",
+    "prononciation": "",
+    "exemple_en": "The marketing team follows strict brand guidelines.",
+    "exemple_fr": "L'équipe marketing suit des directives de marque strictes.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-018",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to handle a crisis",
+    "traduction_fr": "gérer une crise",
+    "prononciation": "",
+    "exemple_en": "The spokesperson was trained to handle a crisis calmly.",
+    "exemple_fr": "Le porte-parole a été formé pour gérer une crise avec calme.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-019",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to harm",
+    "traduction_fr": "nuire à",
+    "prononciation": "",
+    "exemple_en": "False claims can harm a brand's credibility.",
+    "exemple_fr": "De fausses allégations peuvent nuire à la crédibilité d'une marque.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-020",
+    "chapitre_id": "production-marketing",
+    "terme_en": "influencer marketing",
+    "traduction_fr": "marketing d'influence",
+    "prononciation": "",
+    "exemple_en": "Influencer marketing has become central to many brands' strategies.",
+    "exemple_fr": "Le marketing d'influence est devenu central dans la stratégie de nombreuses marques.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-021",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to lobby",
+    "traduction_fr": "faire pression, faire du lobbying",
+    "prononciation": "",
+    "exemple_en": "The industry is lobbying against the new regulation.",
+    "exemple_fr": "Le secteur fait pression contre la nouvelle réglementation.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-022",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to lose control over",
+    "traduction_fr": "perdre le contrôle de",
+    "prononciation": "",
+    "exemple_en": "Companies can quickly lose control over a story on social media.",
+    "exemple_fr": "Les entreprises peuvent rapidement perdre le contrôle d'une histoire sur les réseaux sociaux.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-023",
+    "chapitre_id": "production-marketing",
+    "terme_en": "loyalty",
+    "traduction_fr": "fidélité",
+    "prononciation": "",
+    "exemple_en": "The loyalty programme rewards regular customers.",
+    "exemple_fr": "Le programme de fidélité récompense les clients réguliers.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-024",
+    "chapitre_id": "production-marketing",
+    "terme_en": "the media",
+    "traduction_fr": "les médias",
+    "prononciation": "",
+    "exemple_en": "The media picked up the story within hours.",
+    "exemple_fr": "Les médias se sont emparés de l'histoire en quelques heures.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-025",
+    "chapitre_id": "production-marketing",
+    "terme_en": "misleading",
+    "traduction_fr": "trompeur",
+    "prononciation": "",
+    "exemple_en": "The advert was banned for being misleading.",
+    "exemple_fr": "La publicité a été interdite car jugée trompeuse.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-026",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to monitor content",
+    "traduction_fr": "surveiller le contenu",
+    "prononciation": "",
+    "exemple_en": "Companies now monitor content posted about them online.",
+    "exemple_fr": "Les entreprises surveillent désormais le contenu publié à leur sujet en ligne.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-027",
+    "chapitre_id": "production-marketing",
+    "terme_en": "opinion survey",
+    "traduction_fr": "sondage d'opinion",
+    "prononciation": "",
+    "exemple_en": "An opinion survey revealed growing distrust of the brand.",
+    "exemple_fr": "Un sondage d'opinion a révélé une méfiance croissante envers la marque.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-028",
+    "chapitre_id": "production-marketing",
+    "terme_en": "publicity",
+    "traduction_fr": "publicité, retentissement médiatique",
+    "prononciation": "",
+    "exemple_en": "The launch generated a lot of publicity.",
+    "exemple_fr": "Le lancement a généré beaucoup de retentissement médiatique.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-029",
+    "chapitre_id": "production-marketing",
+    "terme_en": "reliable",
+    "traduction_fr": "fiable",
+    "prononciation": "",
+    "exemple_en": "Customers want a reliable and consistent brand experience.",
+    "exemple_fr": "Les clients veulent une expérience de marque fiable et cohérente.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-030",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to smear",
+    "traduction_fr": "salir la réputation de",
+    "prononciation": "",
+    "exemple_en": "The company denied trying to smear its competitor.",
+    "exemple_fr": "L'entreprise a nié avoir tenté de salir la réputation de son concurrent.",
+    "difficulte": "difficile"
+  },
+  {
+    "id": "voc-pm-031",
+    "chapitre_id": "production-marketing",
+    "terme_en": "spin doctor",
+    "traduction_fr": "communicant chargé de l'image",
+    "prononciation": "",
+    "exemple_en": "A spin doctor was hired to manage the story.",
+    "exemple_fr": "Un communicant a été engagé pour gérer l'affaire.",
+    "difficulte": "difficile"
+  },
+  {
+    "id": "voc-pm-032",
+    "chapitre_id": "production-marketing",
+    "terme_en": "spokesperson",
+    "traduction_fr": "porte-parole",
+    "prononciation": "",
+    "exemple_en": "The spokesperson refused to comment on the rumours.",
+    "exemple_fr": "Le porte-parole a refusé de commenter les rumeurs.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-033",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to spread word of mouth",
+    "traduction_fr": "faire du bouche-à-oreille",
+    "prononciation": "",
+    "exemple_en": "Satisfied customers help spread word of mouth.",
+    "exemple_fr": "Les clients satisfaits contribuent au bouche-à-oreille.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-034",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to target",
+    "traduction_fr": "cibler",
+    "prononciation": "",
+    "exemple_en": "The campaign targets a younger audience.",
+    "exemple_fr": "La campagne cible un public plus jeune.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-035",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to tarnish",
+    "traduction_fr": "ternir",
+    "prononciation": "",
+    "exemple_en": "The incident tarnished the brand's image.",
+    "exemple_fr": "L'incident a terni l'image de la marque.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-036",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to trust",
+    "traduction_fr": "faire confiance à",
+    "prononciation": "",
+    "exemple_en": "Consumers are less likely to trust brands after a scandal.",
+    "exemple_fr": "Les consommateurs sont moins enclins à faire confiance aux marques après un scandale.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-037",
+    "chapitre_id": "production-marketing",
+    "terme_en": "to walk the talk",
+    "traduction_fr": "joindre les actes à la parole",
+    "prononciation": "",
+    "exemple_en": "Consumers expect brands to walk the talk on sustainability.",
+    "exemple_fr": "Les consommateurs attendent des marques qu'elles joignent les actes à la parole en matière de durabilité.",
+    "difficulte": "difficile"
+  },
+  {
+    "id": "voc-pm-038",
+    "chapitre_id": "production-marketing",
+    "terme_en": "clickbait",
+    "traduction_fr": "piège à clics",
+    "prononciation": "",
+    "exemple_en": "The headline was criticized as pure clickbait.",
+    "exemple_fr": "Le titre a été critiqué comme un pur piège à clics.",
+    "difficulte": "moyen"
+  },
+  {
+    "id": "voc-pm-039",
+    "chapitre_id": "production-marketing",
+    "terme_en": "after-sales service",
+    "traduction_fr": "service après-vente",
+    "prononciation": "",
+    "exemple_en": "Good after-sales service builds customer loyalty.",
+    "exemple_fr": "Un bon service après-vente fidélise la clientèle.",
+    "difficulte": "facile"
+  },
+  {
+    "id": "voc-pm-040",
+    "chapitre_id": "production-marketing",
+    "terme_en": "advertiser",
+    "traduction_fr": "annonceur",
+    "prononciation": "",
+    "exemple_en": "Advertisers are shifting their budgets to social media.",
+    "exemple_fr": "Les annonceurs déplacent leurs budgets vers les réseaux sociaux.",
+    "difficulte": "facile"
   }
 ]
