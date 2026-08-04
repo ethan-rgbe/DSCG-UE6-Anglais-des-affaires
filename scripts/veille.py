@@ -1,19 +1,27 @@
 #!/usr/bin/env python3
 """Veille d'actualité — DSCG UE6.
 
-Récupère les flux RSS configurés dans scripts/veille_config.json, classe chaque
+Récupère les flux configurés dans scripts/veille_config.json, classe chaque
 article par thème (mots-clés de data/mots-cles-themes.json pour les flux
 généralistes, ou thème fixe pour les alertes Google Alerts dédiées à un thème),
 puis met à jour data/actualite.json.
 
+Formats gérés : RSS 2.0 (médias classiques) ET Atom (Google Alerts).
+Les liens Google Alerts (redirections google.com/url?...&url=...) sont
+automatiquement remplacés par l'URL réelle de l'article.
+
 Ne stocke jamais le texte intégral d'un article : uniquement titre, source,
-lien et date (voir Mentions légales du site — même principe que les annales
-du site UE1, on ne réhéberge pas de contenu protégé).
+lien et date (voir Mentions légales du site).
 
 Usage : python3 scripts/veille.py
+Code de sortie : 0 même si certains flux échouent (les échecs sont listés),
+1 uniquement si AUCUN flux configuré n'a pu être lu (vrai problème réseau).
 """
 import hashlib
+import html
 import json
+import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -24,8 +32,15 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 CONFIG_PATH = Path(__file__).resolve().parent / "veille_config.json"
 
-USER_AGENT = "Mozilla/5.0 (compatible; LePrecisUE6-Veille/1.0)"
-TIMEOUT = 15
+# Certains serveurs (BBC, Guardian...) refusent les user-agents inconnus :
+# on se présente comme un navigateur standard.
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
+TIMEOUT = 20
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
 DC_NS = "{http://purl.org/dc/elements/1.1/}"
 
 
@@ -37,13 +52,34 @@ def load_json(path, default):
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
         return resp.read()
 
 
+def strip_html(text):
+    """Retire les balises HTML (titres Google Alerts : <b>...</b>) et décode les entités."""
+    if not text:
+        return ""
+    return html.unescape(re.sub(r"<[^>]+>", "", text)).strip()
+
+
+def unwrap_google_url(url):
+    """https://www.google.com/url?...&url=ARTICLE&... -> ARTICLE"""
+    try:
+        parsed = urllib.parse.urlparse(url)
+        if parsed.netloc.endswith("google.com") and parsed.path == "/url":
+            qs = urllib.parse.parse_qs(parsed.query)
+            real = qs.get("url") or qs.get("q")
+            if real:
+                return real[0]
+    except ValueError:
+        pass
+    return url
+
+
 def parse_date(raw):
-    """Accepte RFC 822 (RSS classique) ou ISO 8601 (certains flux dc:date)."""
+    """Accepte RFC 822 (RSS) ou ISO 8601 (Atom, dc:date)."""
     if not raw:
         return None
     raw = raw.strip()
@@ -64,23 +100,39 @@ def parse_date(raw):
         return None
 
 
-def parse_rss(xml_bytes):
-    """Retourne une liste de {titre, url, date, resume} depuis un flux RSS 2.0."""
-    items = []
+def parse_feed(xml_bytes):
+    """Retourne [{titre, url, date, resume}] depuis un flux RSS 2.0 OU Atom."""
     root = ET.fromstring(xml_bytes)
+    items = []
+
+    # --- RSS 2.0 : <rss><channel><item> ---
     for item in root.iter("item"):
-        title = (item.findtext("title") or "").strip()
+        title = strip_html(item.findtext("title") or "")
         link = (item.findtext("link") or "").strip()
         pub = item.findtext("pubDate") or item.findtext(f"{DC_NS}date")
-        desc = (item.findtext("description") or "").strip()
-        if not title or not link:
-            continue
-        items.append({"titre": title, "url": link, "date": parse_date(pub), "resume": desc})
+        desc = strip_html(item.findtext("description") or "")
+        if title and link:
+            items.append({"titre": title, "url": link, "date": parse_date(pub), "resume": desc})
+
+    # --- Atom (Google Alerts) : <feed><entry> ---
+    for entry in root.iter(f"{ATOM_NS}entry"):
+        title = strip_html(entry.findtext(f"{ATOM_NS}title") or "")
+        link = ""
+        for l in entry.findall(f"{ATOM_NS}link"):
+            href = l.get("href", "")
+            if href and l.get("rel", "alternate") == "alternate":
+                link = href
+                break
+        link = unwrap_google_url(link.strip())
+        pub = entry.findtext(f"{ATOM_NS}published") or entry.findtext(f"{ATOM_NS}updated")
+        desc = strip_html(entry.findtext(f"{ATOM_NS}content") or entry.findtext(f"{ATOM_NS}summary") or "")
+        if title and link:
+            items.append({"titre": title, "url": link, "date": parse_date(pub), "resume": desc})
+
     return items
 
 
 def classify(text, keywords_by_theme):
-    """Thème avec le plus de mots-clés trouvés dans le texte, ou None si aucun."""
     low = " " + text.lower() + " "
     best_id, best_score = None, 0
     for chap_id, keywords in keywords_by_theme.items():
@@ -88,6 +140,15 @@ def classify(text, keywords_by_theme):
         if score > best_score:
             best_id, best_score = chap_id, score
     return best_id
+
+
+def source_from_url(url):
+    """Nom de domaine lisible, pour les articles Google Alerts (source variable)."""
+    try:
+        host = urllib.parse.urlparse(url).netloc
+        return host.removeprefix("www.") or "Source inconnue"
+    except ValueError:
+        return "Source inconnue"
 
 
 def make_id(url):
@@ -104,20 +165,23 @@ def main():
     existing = load_json(DATA / "actualite.json", [])
 
     print("=== Veille d'actualité — UE6 ===")
-    skipped_feeds, classified_out = 0, 0
+    configured = [f for f in feeds if f.get("url") and "VOTRE_" not in f.get("url", "")]
+    skipped = len(feeds) - len(configured)
+    ok_feeds, failed_feeds = 0, 0
+    classified_out = 0
     collected = []
 
-    for feed in feeds:
-        url = feed.get("url", "")
+    for feed in configured:
+        url = feed["url"]
         source = feed.get("source", "Source inconnue")
         mode = feed.get("mode", "classify")
-        if not url or "VOTRE_" in url:
-            skipped_feeds += 1
-            continue
+        is_alert = "google.com/alerts" in url
         try:
-            items = parse_rss(fetch(url))
+            items = parse_feed(fetch(url))
+            ok_feeds += 1
         except Exception as e:
-            print(f"  ! échec sur « {source} » ({url}) : {e}")
+            print(f"  ! échec sur « {source} » : {e}")
+            failed_feeds += 1
             continue
         print(f"  {source} : {len(items)} article(s) récupéré(s)")
         for it in items:
@@ -131,15 +195,15 @@ def main():
                 "id": make_id(it["url"]),
                 "chapitre_id": chap_id,
                 "titre": it["titre"],
-                "source": source,
+                "source": source_from_url(it["url"]) if is_alert else source,
                 "url": it["url"],
                 "date": it["date"] or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
             })
 
-    if skipped_feeds:
-        print(f"  {skipped_feeds} flux ignoré(s) (URL non configurée dans veille_config.json)")
+    if skipped:
+        print(f"  {skipped} flux ignoré(s) (URL non configurée dans veille_config.json)")
     if classified_out:
-        print(f"  {classified_out} article(s) non rattachés à un thème (aucun mot-clé trouvé, ignorés)")
+        print(f"  {classified_out} article(s) sans thème identifiable (ignorés)")
 
     merged = {a["id"]: a for a in existing if "id" in a}
     new_count = sum(1 for a in collected if a["id"] not in merged)
@@ -166,7 +230,12 @@ def main():
         json.dump(final, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
-    print(f"  {new_count} nouvel(le)s article(s) ajouté(s), {len(final)} au total dans data/actualite.json")
+    print(f"  Bilan : {ok_feeds} flux OK, {failed_feeds} en échec — "
+          f"{new_count} nouvel(le)s article(s), {len(final)} au total dans data/actualite.json")
+
+    if configured and ok_feeds == 0:
+        print("  !! Aucun flux n'a pu être lu : vérifier la connectivité ou les URLs.")
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
