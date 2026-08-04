@@ -2,15 +2,23 @@ name: Veille d'actualité
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # tous les jours à 06:00 UTC (~08:00 heure de Paris en été)
+    - cron: "0 6 * * *"   # tous les jours à 06:00 UTC (~08:00 à Paris en été)
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   veille:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
@@ -23,7 +31,8 @@ jobs:
       - name: Mettre à jour data/actualite.json
         run: python scripts/veille.py
 
-      - name: Committer si changement (déclenche le déploiement)
+      - name: Committer si changement
+        id: commit
         run: |
           git config user.name "veille-bot"
           git config user.email "actions@github.com"
@@ -31,6 +40,36 @@ jobs:
             git add data/actualite.json
             git commit -m "Veille : mise à jour automatique de l'actualité"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "Aucun changement dans data/actualite.json."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      # Un push fait avec le GITHUB_TOKEN ne déclenche PAS deploy.yml
+      # (protection anti-boucle de GitHub) : on construit et déploie donc ici même.
+      - name: Installer les dépendances de build
+        if: steps.commit.outputs.changed == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Générer le site (build.py)
+        if: steps.commit.outputs.changed == 'true'
+        run: python scripts/build.py
+
+      - name: Empaqueter public/ pour Pages
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: veille
+    if: needs.veille.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
