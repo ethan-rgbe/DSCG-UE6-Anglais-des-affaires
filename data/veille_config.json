@@ -1,12 +1,12 @@
 {
-  "_lisez_moi": "Flux médias déjà vérifiés. Pour les alertes Google, remplace chaque VOTRE_URL_... par l'URL de flux RSS obtenue via alerts.google.com. Tant qu'une URL contient VOTRE_, ce flux est ignoré sans erreur.",
+  "_lisez_moi": "Flux médias déjà vérifiés (juillet 2026). Pour les alertes Google, remplace chaque VOTRE_URL_... par l'URL de flux RSS obtenue via alerts.google.com (voir Documentation du site). Tant qu'une URL contient VOTRE_, ce flux est ignoré sans erreur.",
 
   "feeds": [
     { "source": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "mode": "classify" },
     { "source": "The Guardian — Business", "url": "https://www.theguardian.com/uk/business/rss", "mode": "classify" },
     { "source": "Financial Times", "url": "https://www.ft.com/rss/home/international", "mode": "classify" },
 
-    { "source": "Google Alerts — Finance", "url": "VOTRE_URL_ALERTE_FINANCE", "mode": "fixed", "chapitre_id": "finance" },
+    { "source": "Google Alerts — Finance", "url": "https://www.google.fr/alerts?hl=fr&gl=fr&q=banking+crisis&pli=1#2:1", "mode": "fixed", "chapitre_id": "finance" },
     { "source": "Google Alerts — Comptabilité et audit", "url": "VOTRE_URL_ALERTE_COMPTA_AUDIT", "mode": "fixed", "chapitre_id": "compta-audit" },
     { "source": "Google Alerts — RSE et gouvernance", "url": "VOTRE_URL_ALERTE_RSE_GOUVERNANCE", "mode": "fixed", "chapitre_id": "rse-gouvernance" },
     { "source": "Google Alerts — Systèmes d'information", "url": "VOTRE_URL_ALERTE_SI_TECHNOLOGIES", "mode": "fixed", "chapitre_id": "si-technologies" },
