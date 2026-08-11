@@ -156,8 +156,23 @@ def make_id(url):
 
 
 def main():
-    config = load_json(CONFIG_PATH, {})
+    # Un fichier de configuration absent ou vide doit être une erreur visible :
+    # sinon le script se termine "en vert" avec 0 article et rien n'explique pourquoi.
+    if not CONFIG_PATH.exists():
+        print(f"  !! Fichier de configuration introuvable : {CONFIG_PATH}")
+        print("     Vérifier que scripts/veille_config.json est bien présent dans le dépôt.")
+        raise SystemExit(1)
+    try:
+        config = load_json(CONFIG_PATH, {})
+    except json.JSONDecodeError as e:
+        print(f"  !! {CONFIG_PATH.name} est mal formé (JSON invalide) : {e}")
+        raise SystemExit(1)
+
     feeds = config.get("feeds", [])
+    if not feeds:
+        print(f"  !! Aucun flux déclaré dans {CONFIG_PATH.name} (liste « feeds » vide ou absente).")
+        raise SystemExit(1)
+    print(f"  {len(feeds)} flux déclaré(s) dans {CONFIG_PATH.name}")
     max_par_theme = config.get("max_par_theme", 15)
     max_age_jours = config.get("max_age_jours", 120)
 
