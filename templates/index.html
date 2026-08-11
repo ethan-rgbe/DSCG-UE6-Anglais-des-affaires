@@ -358,7 +358,7 @@
 <body>
 
 <div id="splash">
-  <h1>BASE DE RÉVISION<br>UE-6 — 2025-2027</h1>
+  <h1>BASE DE RÉVISION<br>UE 6 — ANGLAIS DES AFFAIRES</h1>
   <div class="tap">Touche ou glisse pour entrer ↑</div>
 </div>
 
@@ -1120,12 +1120,22 @@ function syncHeaderHeight(){
   const h1 = document.querySelector('header.top1');
   const h2 = document.querySelector('header.top2');
   const total = (h1 ? h1.offsetHeight : 0) + (h2 ? h2.offsetHeight : 0);
-  if(total > 0){
-    document.documentElement.style.setProperty('--header-h', total + 'px');
-  }
+  // Les bandeaux défilent avec la page : une fois la page descendue, ils ne sont
+  // plus à l'écran. On ne réserve donc que la portion encore visible, sinon un
+  // espace vide subsiste au-dessus du menu latéral.
+  const visible = Math.max(0, total - (window.scrollY || window.pageYOffset || 0));
+  document.documentElement.style.setProperty('--header-h', visible + 'px');
 }
 syncHeaderHeight();
 window.addEventListener('load', syncHeaderHeight);
+window.addEventListener('scroll', () => {
+  if(window._headerSyncPending) return;
+  window._headerSyncPending = true;
+  window.requestAnimationFrame(() => {
+    window._headerSyncPending = false;
+    syncHeaderHeight();
+  });
+}, {passive:true});
 window.addEventListener('resize', () => {
   clearTimeout(window._headerSyncTimer);
   window._headerSyncTimer = setTimeout(syncHeaderHeight, 150);
