@@ -1,5 +1,29 @@
 [
   {
+    "id": "art-d4da0316c9",
+    "chapitre_id": "finance",
+    "titre": "Oil prices climb as Iran talks hit new impasse; Tui hit by high fuel costs – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-8efd005992",
+    "chapitre_id": "production-marketing",
+    "titre": "China’s great jobs squeeze",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-e9aaf3fb12",
+    "chapitre_id": "relations-internationales",
+    "titre": "Europe’s carbon mechanism is a tariff by another name",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+    "date": "2026-08-12"
+  },
+  {
     "id": "art-cbbc103ea2",
     "chapitre_id": "finance",
     "titre": "School uniform rules must go further, charity says",
@@ -32,6 +56,14 @@
     "date": "2026-08-11"
   },
   {
+    "id": "art-984eb133aa",
+    "chapitre_id": "finance",
+    "titre": "Why did Saudi Arabia just spend billions on a video games company? – podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/audio/2026/aug/11/why-did-saudi-arabia-just-spend-billions-on-a-video-games-company-podcast",
+    "date": "2026-08-11"
+  },
+  {
     "id": "art-d122fb76ba",
     "chapitre_id": "si-technologies",
     "titre": "Nvidia links with Wall Street firms for $500bn AI financing deal",
@@ -56,11 +88,51 @@
     "date": "2026-08-11"
   },
   {
+    "id": "art-16e2ba45fe",
+    "chapitre_id": "si-technologies",
+    "titre": "Spotify to distinguish AI artists from real people – and stop recommending them",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-14e61d49fe",
+    "chapitre_id": "si-technologies",
+    "titre": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-e1e5af19aa",
+    "chapitre_id": "si-technologies",
+    "titre": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
+    "date": "2026-08-11"
+  },
+  {
     "id": "art-c70ece5717",
     "chapitre_id": "production-marketing",
     "titre": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-21a2516a63",
+    "chapitre_id": "production-marketing",
+    "titre": "France bans unsolicited telemarketing calls",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-114852c5a7",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Infantino’s opponents developing new framework for running world football",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
     "date": "2026-08-11"
   },
   {
@@ -104,14 +176,6 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-6d3f60c515",
-    "chapitre_id": "management-rh",
-    "titre": "Could your tattoo stop you from getting a job?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
-  },
-  {
     "id": "art-4d3b1f0956",
     "chapitre_id": "si-technologies",
     "titre": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
@@ -149,6 +213,14 @@
     "titre": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "art-6d3f60c515",
+    "chapitre_id": "management-rh",
+    "titre": "Could your tattoo stop you from getting a job?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-10"
   },
   {
@@ -278,14 +350,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-29"
-  },
-  {
-    "id": "art-0ea341657a",
-    "chapitre_id": "finance",
-    "titre": "The 20-somethings betting big on tech stocks",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-20"
   },
   {
     "id": "art-f55287fb44",
