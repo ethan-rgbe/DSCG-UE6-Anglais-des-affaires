@@ -1,10 +1,66 @@
 [
   {
+    "id": "art-c5962e7c0b",
+    "chapitre_id": "finance",
+    "titre": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-fdbed086fd",
+    "chapitre_id": "finance",
+    "titre": "Anthropic investors bet on $2tn valuation in record IPO",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-46489808f5",
+    "chapitre_id": "finance",
+    "titre": "Wealth managers cut fees to win AI’s paper millionaires",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-d92d90b5e1",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump is taxing the dark matter that pays America’s way",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
+    "date": "2026-08-13"
+  },
+  {
     "id": "art-d4da0316c9",
     "chapitre_id": "finance",
     "titre": "Oil prices climb as Iran talks hit new impasse; Tui hit by high fuel costs – business live",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-c9a1ebd9ff",
+    "chapitre_id": "finance",
+    "titre": "US inflation eases as food and fuel costs cool",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-fdf53419e4",
+    "chapitre_id": "finance",
+    "titre": "US inflation cooled slightly to 3.4% in July but prices still elevated",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-aa0e57f885",
+    "chapitre_id": "finance",
+    "titre": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
     "date": "2026-08-12"
   },
   {
@@ -16,11 +72,43 @@
     "date": "2026-08-12"
   },
   {
+    "id": "art-670ab04c5e",
+    "chapitre_id": "production-marketing",
+    "titre": "Burnham warned Iran war could hit UK growth next year",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-12"
+  },
+  {
     "id": "art-e9aaf3fb12",
     "chapitre_id": "relations-internationales",
     "titre": "Europe’s carbon mechanism is a tariff by another name",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-992d25fb7f",
+    "chapitre_id": "si-technologies",
+    "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-13b3ce189e",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-0d416c63a5",
+    "chapitre_id": "management-rh",
+    "titre": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
     "date": "2026-08-12"
   },
   {
@@ -61,6 +149,22 @@
     "titre": "Why did Saudi Arabia just spend billions on a video games company? – podcast",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/news/audio/2026/aug/11/why-did-saudi-arabia-just-spend-billions-on-a-video-games-company-podcast",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-c70ece5717",
+    "chapitre_id": "production-marketing",
+    "titre": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-21a2516a63",
+    "chapitre_id": "production-marketing",
+    "titre": "France bans unsolicited telemarketing calls",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-11"
   },
   {
@@ -112,22 +216,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "art-c70ece5717",
-    "chapitre_id": "production-marketing",
-    "titre": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-21a2516a63",
-    "chapitre_id": "production-marketing",
-    "titre": "France bans unsolicited telemarketing calls",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-11"
-  },
-  {
     "id": "art-114852c5a7",
     "chapitre_id": "rse-gouvernance",
     "titre": "Infantino’s opponents developing new framework for running world football",
@@ -160,38 +248,6 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-97741f2682",
-    "chapitre_id": "finance",
-    "titre": "The gen Z investors – podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/audio/2026/aug/10/the-gen-z-investors-podcast",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-7429c00109",
-    "chapitre_id": "finance",
-    "titre": "Shein IPO pitched to investors at sub-$30bn valuation",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-4d3b1f0956",
-    "chapitre_id": "si-technologies",
-    "titre": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-5a94601a1f",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI’s head of ethics leaves start-up less than a year after joining",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
-    "date": "2026-08-10"
-  },
-  {
     "id": "art-d93571944e",
     "chapitre_id": "production-marketing",
     "titre": "New school uniform rules won't cut costs, says mum",
@@ -216,6 +272,22 @@
     "date": "2026-08-10"
   },
   {
+    "id": "art-4d3b1f0956",
+    "chapitre_id": "si-technologies",
+    "titre": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "art-5a94601a1f",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI’s head of ethics leaves start-up less than a year after joining",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
+    "date": "2026-08-10"
+  },
+  {
     "id": "art-6d3f60c515",
     "chapitre_id": "management-rh",
     "titre": "Could your tattoo stop you from getting a job?",
@@ -224,19 +296,11 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-ced2fb138a",
-    "chapitre_id": "finance",
-    "titre": "Inside a meme factory: meet one of thousands of Indonesians trading political outrage clicks for Facebook cash",
+    "id": "art-e9e060678c",
+    "chapitre_id": "production-marketing",
+    "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/media/2026/aug/10/indonesia-clicks-for-cash-facebook-one-nation-us-politics-meta-creator-program-payments-ntwnfb",
-    "date": "2026-08-09"
-  },
-  {
-    "id": "art-f78b1b3d71",
-    "chapitre_id": "finance",
-    "titre": "‘Watch The Odyssey for free online’: scam targets film fans with fake streaming sites",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/andy-burnham-british-people-ripped-off-cost-of-living",
     "date": "2026-08-09"
   },
   {
@@ -256,28 +320,12 @@
     "date": "2026-08-09"
   },
   {
-    "id": "art-e9e060678c",
-    "chapitre_id": "production-marketing",
-    "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/andy-burnham-british-people-ripped-off-cost-of-living",
-    "date": "2026-08-09"
-  },
-  {
     "id": "art-415c29a6f5",
     "chapitre_id": "rse-gouvernance",
     "titre": "The Guardian view on India’s green growth gamble: it will need more than private finance | Editorial",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/09/the-guardian-view-on-indias-green-growth-gamble-it-will-need-more-than-private-finance",
     "date": "2026-08-09"
-  },
-  {
-    "id": "art-a52ff73c1d",
-    "chapitre_id": "finance",
-    "titre": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08"
   },
   {
     "id": "art-a1b71fca14",
@@ -304,22 +352,6 @@
     "date": "2026-08-07"
   },
   {
-    "id": "art-1bae8df094",
-    "chapitre_id": "finance",
-    "titre": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "art-fd4d3e267e",
-    "chapitre_id": "si-technologies",
-    "titre": "First OpenAI, now Meta - why do AI hacks keep happening?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
-  },
-  {
     "id": "art-434cc55902",
     "chapitre_id": "production-marketing",
     "titre": "Argos is getting a makeover - but can it attract new shoppers?",
@@ -333,6 +365,14 @@
     "titre": "Business Daily",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "art-fd4d3e267e",
+    "chapitre_id": "si-technologies",
+    "titre": "First OpenAI, now Meta - why do AI hacks keep happening?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06"
   },
   {
