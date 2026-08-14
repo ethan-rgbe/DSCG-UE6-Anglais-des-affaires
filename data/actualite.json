@@ -1,5 +1,53 @@
 [
   {
+    "id": "art-6fe80a0f88",
+    "chapitre_id": "finance",
+    "titre": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-6c07423ddb",
+    "chapitre_id": "finance",
+    "titre": "JPMorgan debanked Polymarket over regulatory concerns",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0?syn-25a6b1a6=1",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-bd624693d5",
+    "chapitre_id": "finance",
+    "titre": "US investment giant T Rowe says it will take years to stem outflows",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d0cf28db-bc8d-4fc1-85b6-7b59ab67a451?syn-25a6b1a6=1",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-eeffef3780",
+    "chapitre_id": "relations-internationales",
+    "titre": "US says dozens of countries helped China dodge Trump's tariffs",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-7a10742786",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-0e88541eff",
+    "chapitre_id": "management-rh",
+    "titre": "Builders, bakers and cheeseburger-makers: the UK workers struggling in extreme heat",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
+    "date": "2026-08-14"
+  },
+  {
     "id": "art-c5962e7c0b",
     "chapitre_id": "finance",
     "titre": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
@@ -24,11 +72,107 @@
     "date": "2026-08-13"
   },
   {
+    "id": "art-5cafeb33e4",
+    "chapitre_id": "finance",
+    "titre": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-fcd8c105ff",
+    "chapitre_id": "finance",
+    "titre": "Water bills set to rise for many after firms permitted extra funding",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-be34d6a447",
+    "chapitre_id": "finance",
+    "titre": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-e4d0ad2257",
+    "chapitre_id": "finance",
+    "titre": "Trump has amassed staggering wealth in ‘most openly corrupt’ presidency",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-e0e51b0e92",
+    "chapitre_id": "finance",
+    "titre": "Top Forbes editor reportedly fired after receiving $6m from business associate",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-be5eb3e419",
+    "chapitre_id": "finance",
+    "titre": "Disney+ secures rights to Gary Neville’s Overlap content in riposte to Lineker’s Netflix deal",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
+    "date": "2026-08-13"
+  },
+  {
     "id": "art-d92d90b5e1",
     "chapitre_id": "relations-internationales",
     "titre": "Trump is taxing the dark matter that pays America’s way",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-73524cfe5e",
+    "chapitre_id": "relations-internationales",
+    "titre": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-b23bb05919",
+    "chapitre_id": "production-marketing",
+    "titre": "Andy Burnham’s great British rip-off list just got even longer | Letters",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-30f7047468",
+    "chapitre_id": "si-technologies",
+    "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-43d3ce0585",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-c04dcad340",
+    "chapitre_id": "management-rh",
+    "titre": "Unemployed young people to join AI boot camps to get job-ready",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-27f16203c9",
+    "chapitre_id": "management-rh",
+    "titre": "Sports Direct owner Mike Ashley buys Harvey Nichols",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
     "date": "2026-08-13"
   },
   {
@@ -56,11 +200,11 @@
     "date": "2026-08-12"
   },
   {
-    "id": "art-aa0e57f885",
-    "chapitre_id": "finance",
-    "titre": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
+    "id": "art-e9aaf3fb12",
+    "chapitre_id": "relations-internationales",
+    "titre": "Europe’s carbon mechanism is a tariff by another name",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
     "date": "2026-08-12"
   },
   {
@@ -77,14 +221,6 @@
     "titre": "Burnham warned Iran war could hit UK growth next year",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-12"
-  },
-  {
-    "id": "art-e9aaf3fb12",
-    "chapitre_id": "relations-internationales",
-    "titre": "Europe’s carbon mechanism is a tariff by another name",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
     "date": "2026-08-12"
   },
   {
@@ -110,46 +246,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
     "date": "2026-08-12"
-  },
-  {
-    "id": "art-cbbc103ea2",
-    "chapitre_id": "finance",
-    "titre": "School uniform rules must go further, charity says",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2lqwn4q24xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-693d6e455b",
-    "chapitre_id": "finance",
-    "titre": "Families under pressure to find food in summer",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-8d8acce3e4",
-    "chapitre_id": "finance",
-    "titre": "Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-270519b56e",
-    "chapitre_id": "finance",
-    "titre": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/11/rba-interest-rate-announcement-decision-cash-rates-economy",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-984eb133aa",
-    "chapitre_id": "finance",
-    "titre": "Why did Saudi Arabia just spend billions on a video games company? – podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/audio/2026/aug/11/why-did-saudi-arabia-just-spend-billions-on-a-video-games-company-podcast",
-    "date": "2026-08-11"
   },
   {
     "id": "art-c70ece5717",
@@ -222,30 +318,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
     "date": "2026-08-11"
-  },
-  {
-    "id": "art-f2c2be7cef",
-    "chapitre_id": "finance",
-    "titre": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-449700c6c7",
-    "chapitre_id": "finance",
-    "titre": "Jeff Bezos and Liverpool explained",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-4446a92db4",
-    "chapitre_id": "finance",
-    "titre": "Water companies circumventing bonus rules? What did ministers expect? | Nils Pratley",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/10/water-companies-circumventing-bonus-rules-what-did-ministers-expect",
-    "date": "2026-08-10"
   },
   {
     "id": "art-d93571944e",
@@ -336,14 +408,6 @@
     "date": "2026-08-08"
   },
   {
-    "id": "art-b3a920bcde",
-    "chapitre_id": "production-marketing",
-    "titre": "What do people want from Argos?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07"
-  },
-  {
     "id": "art-ca547e5487",
     "chapitre_id": "relations-internationales",
     "titre": "Trump imposes 15% tariff on key chip material to counter China",
@@ -352,12 +416,12 @@
     "date": "2026-08-07"
   },
   {
-    "id": "art-434cc55902",
+    "id": "art-b3a920bcde",
     "chapitre_id": "production-marketing",
-    "titre": "Argos is getting a makeover - but can it attract new shoppers?",
+    "titre": "What do people want from Argos?",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
+    "url": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07"
   },
   {
     "id": "art-54d4e8f21b",
@@ -365,6 +429,14 @@
     "titre": "Business Daily",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "art-434cc55902",
+    "chapitre_id": "production-marketing",
+    "titre": "Argos is getting a makeover - but can it attract new shoppers?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06"
   },
   {
