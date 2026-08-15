@@ -1,5 +1,13 @@
 [
   {
+    "id": "art-11ad2df622",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
+    "date": "2026-08-15"
+  },
+  {
     "id": "art-6fe80a0f88",
     "chapitre_id": "finance",
     "titre": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
@@ -21,6 +29,38 @@
     "titre": "US investment giant T Rowe says it will take years to stem outflows",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/d0cf28db-bc8d-4fc1-85b6-7b59ab67a451?syn-25a6b1a6=1",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-57ce44b0cf",
+    "chapitre_id": "finance",
+    "titre": "Selena Gomez sued for alleged fraud over mental health company",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-cdb5e60cca",
+    "chapitre_id": "finance",
+    "titre": "Why is Selena Gomez being sued?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-e0473062e0",
+    "chapitre_id": "finance",
+    "titre": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "art-ff7afd8f92",
+    "chapitre_id": "finance",
+    "titre": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
     "date": "2026-08-14"
   },
   {
@@ -112,14 +152,6 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-be5eb3e419",
-    "chapitre_id": "finance",
-    "titre": "Disney+ secures rights to Gary Neville’s Overlap content in riposte to Lineker’s Netflix deal",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
-    "date": "2026-08-13"
-  },
-  {
     "id": "art-d92d90b5e1",
     "chapitre_id": "relations-internationales",
     "titre": "Trump is taxing the dark matter that pays America’s way",
@@ -136,27 +168,11 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-b23bb05919",
-    "chapitre_id": "production-marketing",
-    "titre": "Andy Burnham’s great British rip-off list just got even longer | Letters",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
-    "date": "2026-08-13"
-  },
-  {
     "id": "art-30f7047468",
     "chapitre_id": "si-technologies",
     "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-43d3ce0585",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
     "date": "2026-08-13"
   },
   {
@@ -176,28 +192,20 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-d4da0316c9",
-    "chapitre_id": "finance",
-    "titre": "Oil prices climb as Iran talks hit new impasse; Tui hit by high fuel costs – business live",
+    "id": "art-b23bb05919",
+    "chapitre_id": "production-marketing",
+    "titre": "Andy Burnham’s great British rip-off list just got even longer | Letters",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
-    "date": "2026-08-12"
+    "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
+    "date": "2026-08-13"
   },
   {
-    "id": "art-c9a1ebd9ff",
-    "chapitre_id": "finance",
-    "titre": "US inflation eases as food and fuel costs cool",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-12"
-  },
-  {
-    "id": "art-fdf53419e4",
-    "chapitre_id": "finance",
-    "titre": "US inflation cooled slightly to 3.4% in July but prices still elevated",
+    "id": "art-43d3ce0585",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
-    "date": "2026-08-12"
+    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+    "date": "2026-08-13"
   },
   {
     "id": "art-e9aaf3fb12",
@@ -205,6 +213,22 @@
     "titre": "Europe’s carbon mechanism is a tariff by another name",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-992d25fb7f",
+    "chapitre_id": "si-technologies",
+    "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-0d416c63a5",
+    "chapitre_id": "management-rh",
+    "titre": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
     "date": "2026-08-12"
   },
   {
@@ -224,44 +248,12 @@
     "date": "2026-08-12"
   },
   {
-    "id": "art-992d25fb7f",
-    "chapitre_id": "si-technologies",
-    "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-    "date": "2026-08-12"
-  },
-  {
     "id": "art-13b3ce189e",
     "chapitre_id": "rse-gouvernance",
     "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
     "date": "2026-08-12"
-  },
-  {
-    "id": "art-0d416c63a5",
-    "chapitre_id": "management-rh",
-    "titre": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-    "date": "2026-08-12"
-  },
-  {
-    "id": "art-c70ece5717",
-    "chapitre_id": "production-marketing",
-    "titre": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-21a2516a63",
-    "chapitre_id": "production-marketing",
-    "titre": "France bans unsolicited telemarketing calls",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-11"
   },
   {
     "id": "art-d122fb76ba",
@@ -312,36 +304,28 @@
     "date": "2026-08-11"
   },
   {
+    "id": "art-c70ece5717",
+    "chapitre_id": "production-marketing",
+    "titre": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "art-21a2516a63",
+    "chapitre_id": "production-marketing",
+    "titre": "France bans unsolicited telemarketing calls",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-11"
+  },
+  {
     "id": "art-114852c5a7",
     "chapitre_id": "rse-gouvernance",
     "titre": "Infantino’s opponents developing new framework for running world football",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
     "date": "2026-08-11"
-  },
-  {
-    "id": "art-d93571944e",
-    "chapitre_id": "production-marketing",
-    "titre": "New school uniform rules won't cut costs, says mum",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2k73jqwz38o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-3eaed48a74",
-    "chapitre_id": "production-marketing",
-    "titre": "From ticket booking fees to shrinkflation, six other ways Burnham could cut cost of living",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/10/after-burnhams-rip-offs-crackdown-what-more-could-pm-do-to-help-us-save-money",
-    "date": "2026-08-10"
-  },
-  {
-    "id": "art-7c9d0d87cb",
-    "chapitre_id": "production-marketing",
-    "titre": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
-    "date": "2026-08-10"
   },
   {
     "id": "art-4d3b1f0956",
@@ -368,12 +352,28 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-e9e060678c",
+    "id": "art-d93571944e",
     "chapitre_id": "production-marketing",
-    "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
+    "titre": "New school uniform rules won't cut costs, says mum",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c2k73jqwz38o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "art-3eaed48a74",
+    "chapitre_id": "production-marketing",
+    "titre": "From ticket booking fees to shrinkflation, six other ways Burnham could cut cost of living",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/andy-burnham-british-people-ripped-off-cost-of-living",
-    "date": "2026-08-09"
+    "url": "https://www.theguardian.com/money/2026/aug/10/after-burnhams-rip-offs-crackdown-what-more-could-pm-do-to-help-us-save-money",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "art-7c9d0d87cb",
+    "chapitre_id": "production-marketing",
+    "titre": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+    "date": "2026-08-10"
   },
   {
     "id": "art-38a948370d",
@@ -389,6 +389,14 @@
     "titre": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "art-e9e060678c",
+    "chapitre_id": "production-marketing",
+    "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/andy-burnham-british-people-ripped-off-cost-of-living",
     "date": "2026-08-09"
   },
   {
@@ -432,19 +440,19 @@
     "date": "2026-08-06"
   },
   {
-    "id": "art-434cc55902",
-    "chapitre_id": "production-marketing",
-    "titre": "Argos is getting a makeover - but can it attract new shoppers?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
-  },
-  {
     "id": "art-fd4d3e267e",
     "chapitre_id": "si-technologies",
     "titre": "First OpenAI, now Meta - why do AI hacks keep happening?",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "art-434cc55902",
+    "chapitre_id": "production-marketing",
+    "titre": "Argos is getting a makeover - but can it attract new shoppers?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06"
   },
   {
@@ -462,14 +470,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-29"
-  },
-  {
-    "id": "art-f55287fb44",
-    "chapitre_id": "si-technologies",
-    "titre": "AI and artists can click – a new manifesto for modern creativity",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity",
-    "date": "2026-07-13"
   },
   {
     "id": "art-2c08abd8ce",
