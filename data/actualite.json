@@ -1,11 +1,99 @@
 [
   {
+    "id": "art-2db083db4b",
+    "chapitre_id": "si-technologies",
+    "titre": "BlackBerry: From phone dinosaur to tech champion",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-9e134057af",
+    "chapitre_id": "si-technologies",
+    "titre": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-e9d7072f3d",
+    "chapitre_id": "finance",
+    "titre": "Parents 'watering down baby milk' over high costs",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-9b0d2249ac",
+    "chapitre_id": "finance",
+    "titre": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-75b4c7b09c",
+    "chapitre_id": "finance",
+    "titre": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-139ab800a3",
+    "chapitre_id": "management-rh",
+    "titre": "The weekend is 100 years old – but have ‘skiveday Fridays’ and hybrid working ruined it for everyone?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+    "date": "2026-08-16"
+  },
+  {
     "id": "art-11ad2df622",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI upheaval mounts as Sam Altman readies IPO push",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
     "date": "2026-08-15"
+  },
+  {
+    "id": "art-58e098e42a",
+    "chapitre_id": "finance",
+    "titre": "‘Strategic change and grasping nettles’: where now for John Lewis as boss exits?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/15/john-lewis-boss-peter-ruis-department-store-chain",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "art-4df9d02aff",
+    "chapitre_id": "finance",
+    "titre": "From food to tech to travel: the best student deals and discounts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/15/food-tech-travel-best-student-deals-discounts-unidays-student-beans",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "art-50e3c54e69",
+    "chapitre_id": "production-marketing",
+    "titre": "It’s the SUV tyranny: where have all the normal family cars gone? | Coco Khan",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/15/suv-normal-family-cars-roads-supersized-consumer-choice",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "art-53524da8d4",
+    "chapitre_id": "compta-audit",
+    "titre": "Five key takeaways from parliamentary hearings into client leaks at KPMG",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/15/five-key-takeaways-from-parliamentary-hearings-into-client-leaks-at-kpmg",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "art-7a10742786",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
+    "date": "2026-08-14"
   },
   {
     "id": "art-6fe80a0f88",
@@ -64,19 +152,19 @@
     "date": "2026-08-14"
   },
   {
+    "id": "art-462f0ad961",
+    "chapitre_id": "finance",
+    "titre": "Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium",
+    "date": "2026-08-14"
+  },
+  {
     "id": "art-eeffef3780",
     "chapitre_id": "relations-internationales",
     "titre": "US says dozens of countries helped China dodge Trump's tariffs",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-7a10742786",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
     "date": "2026-08-14"
   },
   {
@@ -86,6 +174,14 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
     "date": "2026-08-14"
+  },
+  {
+    "id": "art-30f7047468",
+    "chapitre_id": "si-technologies",
+    "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+    "date": "2026-08-13"
   },
   {
     "id": "art-c5962e7c0b",
@@ -104,54 +200,6 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-46489808f5",
-    "chapitre_id": "finance",
-    "titre": "Wealth managers cut fees to win AI’s paper millionaires",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-5cafeb33e4",
-    "chapitre_id": "finance",
-    "titre": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-fcd8c105ff",
-    "chapitre_id": "finance",
-    "titre": "Water bills set to rise for many after firms permitted extra funding",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-be34d6a447",
-    "chapitre_id": "finance",
-    "titre": "UK economy shows surprising resilience – but that might not last | Richard Partington",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-e4d0ad2257",
-    "chapitre_id": "finance",
-    "titre": "Trump has amassed staggering wealth in ‘most openly corrupt’ presidency",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-e0e51b0e92",
-    "chapitre_id": "finance",
-    "titre": "Top Forbes editor reportedly fired after receiving $6m from business associate",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
-    "date": "2026-08-13"
-  },
-  {
     "id": "art-d92d90b5e1",
     "chapitre_id": "relations-internationales",
     "titre": "Trump is taxing the dark matter that pays America’s way",
@@ -165,14 +213,6 @@
     "titre": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-30f7047468",
-    "chapitre_id": "si-technologies",
-    "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
     "date": "2026-08-13"
   },
   {
@@ -208,19 +248,19 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-e9aaf3fb12",
-    "chapitre_id": "relations-internationales",
-    "titre": "Europe’s carbon mechanism is a tariff by another name",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
-    "date": "2026-08-12"
-  },
-  {
     "id": "art-992d25fb7f",
     "chapitre_id": "si-technologies",
     "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-e9aaf3fb12",
+    "chapitre_id": "relations-internationales",
+    "titre": "Europe’s carbon mechanism is a tariff by another name",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
     "date": "2026-08-12"
   },
   {
@@ -384,14 +424,6 @@
     "date": "2026-08-09"
   },
   {
-    "id": "art-ff6fc8e31d",
-    "chapitre_id": "si-technologies",
-    "titre": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-    "date": "2026-08-09"
-  },
-  {
     "id": "art-e9e060678c",
     "chapitre_id": "production-marketing",
     "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
@@ -437,14 +469,6 @@
     "titre": "Business Daily",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "art-fd4d3e267e",
-    "chapitre_id": "si-technologies",
-    "titre": "First OpenAI, now Meta - why do AI hacks keep happening?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06"
   },
   {
