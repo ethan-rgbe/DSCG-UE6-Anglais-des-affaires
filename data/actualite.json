@@ -1,5 +1,53 @@
 [
   {
+    "id": "art-c81020768a",
+    "chapitre_id": "si-technologies",
+    "titre": "Are Microsoft’s AI plans being held back by a shortage of chips?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-8f5e6ba4bc",
+    "chapitre_id": "finance",
+    "titre": "Biggest August fall in British house prices since 2018; Dimon warns UK against higher bank taxes – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-b9ef2a93e3",
+    "chapitre_id": "finance",
+    "titre": "Private credit under strain as troubled loans swell",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-a20f9c474f",
+    "chapitre_id": "production-marketing",
+    "titre": "Ferrari's first ever electric car sold for record $40m",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-41ba65712b",
+    "chapitre_id": "relations-internationales",
+    "titre": "British Gas paid me £38,000 by mistake, and I can’t give it back",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/17/british-gas-mistake-energy-solar-panels",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-c94e2cd616",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "The next China shock will come from open-source AI",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+    "date": "2026-08-17"
+  },
+  {
     "id": "art-2db083db4b",
     "chapitre_id": "si-technologies",
     "titre": "BlackBerry: From phone dinosaur to tech champion",
@@ -13,6 +61,14 @@
     "titre": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-872f310810",
+    "chapitre_id": "si-technologies",
+    "titre": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
     "date": "2026-08-16"
   },
   {
@@ -40,11 +96,43 @@
     "date": "2026-08-16"
   },
   {
+    "id": "art-12a417c44a",
+    "chapitre_id": "finance",
+    "titre": "How switching your bank account could earn you up to £220",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-ebf5116235",
+    "chapitre_id": "finance",
+    "titre": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-7b1a382b13",
+    "chapitre_id": "finance",
+    "titre": "Interest rate dilemma for central banks as inflation rises but growth slows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+    "date": "2026-08-16"
+  },
+  {
     "id": "art-139ab800a3",
     "chapitre_id": "management-rh",
     "titre": "The weekend is 100 years old – but have ‘skiveday Fridays’ and hybrid working ruined it for everyone?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+    "date": "2026-08-16"
+  },
+  {
+    "id": "art-6c97568ede",
+    "chapitre_id": "management-rh",
+    "titre": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
     "date": "2026-08-16"
   },
   {
@@ -136,27 +224,11 @@
     "date": "2026-08-14"
   },
   {
-    "id": "art-e0473062e0",
-    "chapitre_id": "finance",
-    "titre": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+    "id": "art-0e88541eff",
+    "chapitre_id": "management-rh",
+    "titre": "Builders, bakers and cheeseburger-makers: the UK workers struggling in extreme heat",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-ff7afd8f92",
-    "chapitre_id": "finance",
-    "titre": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-462f0ad961",
-    "chapitre_id": "finance",
-    "titre": "Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium",
+    "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
     "date": "2026-08-14"
   },
   {
@@ -168,51 +240,11 @@
     "date": "2026-08-14"
   },
   {
-    "id": "art-0e88541eff",
-    "chapitre_id": "management-rh",
-    "titre": "Builders, bakers and cheeseburger-makers: the UK workers struggling in extreme heat",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
-    "date": "2026-08-14"
-  },
-  {
     "id": "art-30f7047468",
     "chapitre_id": "si-technologies",
     "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-c5962e7c0b",
-    "chapitre_id": "finance",
-    "titre": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-fdbed086fd",
-    "chapitre_id": "finance",
-    "titre": "Anthropic investors bet on $2tn valuation in record IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-d92d90b5e1",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump is taxing the dark matter that pays America’s way",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-73524cfe5e",
-    "chapitre_id": "relations-internationales",
-    "titre": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
     "date": "2026-08-13"
   },
   {
@@ -240,6 +272,22 @@
     "date": "2026-08-13"
   },
   {
+    "id": "art-d92d90b5e1",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump is taxing the dark matter that pays America’s way",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-73524cfe5e",
+    "chapitre_id": "relations-internationales",
+    "titre": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
+    "date": "2026-08-13"
+  },
+  {
     "id": "art-43d3ce0585",
     "chapitre_id": "rse-gouvernance",
     "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
@@ -253,14 +301,6 @@
     "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-    "date": "2026-08-12"
-  },
-  {
-    "id": "art-e9aaf3fb12",
-    "chapitre_id": "relations-internationales",
-    "titre": "Europe’s carbon mechanism is a tariff by another name",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
     "date": "2026-08-12"
   },
   {
@@ -285,6 +325,14 @@
     "titre": "Burnham warned Iran war could hit UK growth next year",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-e9aaf3fb12",
+    "chapitre_id": "relations-internationales",
+    "titre": "Europe’s carbon mechanism is a tariff by another name",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
     "date": "2026-08-12"
   },
   {
@@ -376,14 +424,6 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-5a94601a1f",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI’s head of ethics leaves start-up less than a year after joining",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
-    "date": "2026-08-10"
-  },
-  {
     "id": "art-6d3f60c515",
     "chapitre_id": "management-rh",
     "titre": "Could your tattoo stop you from getting a job?",
@@ -416,14 +456,6 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-38a948370d",
-    "chapitre_id": "si-technologies",
-    "titre": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-09"
-  },
-  {
     "id": "art-e9e060678c",
     "chapitre_id": "production-marketing",
     "titre": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
@@ -448,14 +480,6 @@
     "date": "2026-08-08"
   },
   {
-    "id": "art-ca547e5487",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump imposes 15% tariff on key chip material to counter China",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07"
-  },
-  {
     "id": "art-b3a920bcde",
     "chapitre_id": "production-marketing",
     "titre": "What do people want from Argos?",
@@ -464,12 +488,12 @@
     "date": "2026-08-07"
   },
   {
-    "id": "art-54d4e8f21b",
+    "id": "art-ca547e5487",
     "chapitre_id": "relations-internationales",
-    "titre": "Business Daily",
+    "titre": "Trump imposes 15% tariff on key chip material to counter China",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
+    "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07"
   },
   {
     "id": "art-434cc55902",
@@ -477,6 +501,14 @@
     "titre": "Argos is getting a makeover - but can it attract new shoppers?",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "art-54d4e8f21b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Business Daily",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06"
   },
   {
