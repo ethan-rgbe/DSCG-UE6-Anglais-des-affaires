@@ -1,5 +1,61 @@
 [
   {
+    "id": "art-9ce48681a1",
+    "chapitre_id": "finance",
+    "titre": "'It was either feed my animals or feed myself'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjd4p33yem1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-c2dd4df5ef",
+    "chapitre_id": "finance",
+    "titre": "Half of homes in Great Britain taking longer to sell than last year amid mortgage volatility",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/18/homes-great-britain-sell-mortgage-deal-buyers-iran-war",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-da71812b6a",
+    "chapitre_id": "finance",
+    "titre": "Student bank accounts: don’t be swayed by the freebies, freshers told",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/18/student-bank-accounts-freebies-perks-overdraft",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-16f69c13b5",
+    "chapitre_id": "finance",
+    "titre": "‘Not worth the squeeze’: global private equity makes zero deals in China",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/55cb2786-c7ef-438e-8830-c3dc2c1452ce?syn-25a6b1a6=1",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-cca070431b",
+    "chapitre_id": "finance",
+    "titre": "Chris Hohn’s hedge fund bets on Italian luxury hotels",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/351cf8e1-cdef-46a9-ac32-b2e76c72ed1a?syn-25a6b1a6=1",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-09de3e1db7",
+    "chapitre_id": "relations-internationales",
+    "titre": "US-Canada trade talks 'intense' as new tariff deadline looms",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "art-8e595152dc",
+    "chapitre_id": "management-rh",
+    "titre": "Job vacancies at five-year low as smaller firms scale back recruitment",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-18"
+  },
+  {
     "id": "art-c81020768a",
     "chapitre_id": "si-technologies",
     "titre": "Are Microsoft’s AI plans being held back by a shortage of chips?",
@@ -24,11 +80,59 @@
     "date": "2026-08-17"
   },
   {
+    "id": "art-5145e28f2a",
+    "chapitre_id": "finance",
+    "titre": "'I used food banks while my ex owed thousands in child maintenance'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-646bc46d63",
+    "chapitre_id": "finance",
+    "titre": "Thom Yorke, Romy and Brian Eno among 200 musicians urging PM to reject new North Sea drilling",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-720e28ae69",
+    "chapitre_id": "finance",
+    "titre": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-0192304df0",
+    "chapitre_id": "finance",
+    "titre": "Senior Russian banker fired after scathing speech on wartime economy",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
+    "date": "2026-08-17"
+  },
+  {
     "id": "art-a20f9c474f",
     "chapitre_id": "production-marketing",
     "titre": "Ferrari's first ever electric car sold for record $40m",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-d212707b6a",
+    "chapitre_id": "production-marketing",
+    "titre": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-cc4c9a150c",
+    "chapitre_id": "production-marketing",
+    "titre": "China’s economy showing signs that slowdown may be extending",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
     "date": "2026-08-17"
   },
   {
@@ -104,22 +208,6 @@
     "date": "2026-08-16"
   },
   {
-    "id": "art-ebf5116235",
-    "chapitre_id": "finance",
-    "titre": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
-    "date": "2026-08-16"
-  },
-  {
-    "id": "art-7b1a382b13",
-    "chapitre_id": "finance",
-    "titre": "Interest rate dilemma for central banks as inflation rises but growth slows",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
-    "date": "2026-08-16"
-  },
-  {
     "id": "art-139ab800a3",
     "chapitre_id": "management-rh",
     "titre": "The weekend is 100 years old – but have ‘skiveday Fridays’ and hybrid working ruined it for everyone?",
@@ -136,27 +224,19 @@
     "date": "2026-08-16"
   },
   {
+    "id": "art-6c32935156",
+    "chapitre_id": "management-rh",
+    "titre": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
+    "date": "2026-08-16"
+  },
+  {
     "id": "art-11ad2df622",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI upheaval mounts as Sam Altman readies IPO push",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-    "date": "2026-08-15"
-  },
-  {
-    "id": "art-58e098e42a",
-    "chapitre_id": "finance",
-    "titre": "‘Strategic change and grasping nettles’: where now for John Lewis as boss exits?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/15/john-lewis-boss-peter-ruis-department-store-chain",
-    "date": "2026-08-15"
-  },
-  {
-    "id": "art-4df9d02aff",
-    "chapitre_id": "finance",
-    "titre": "From food to tech to travel: the best student deals and discounts",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/15/food-tech-travel-best-student-deals-discounts-unidays-student-beans",
     "date": "2026-08-15"
   },
   {
@@ -184,43 +264,11 @@
     "date": "2026-08-14"
   },
   {
-    "id": "art-6fe80a0f88",
-    "chapitre_id": "finance",
-    "titre": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-6c07423ddb",
-    "chapitre_id": "finance",
-    "titre": "JPMorgan debanked Polymarket over regulatory concerns",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0?syn-25a6b1a6=1",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-bd624693d5",
-    "chapitre_id": "finance",
-    "titre": "US investment giant T Rowe says it will take years to stem outflows",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d0cf28db-bc8d-4fc1-85b6-7b59ab67a451?syn-25a6b1a6=1",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-57ce44b0cf",
-    "chapitre_id": "finance",
-    "titre": "Selena Gomez sued for alleged fraud over mental health company",
+    "id": "art-eeffef3780",
+    "chapitre_id": "relations-internationales",
+    "titre": "US says dozens of countries helped China dodge Trump's tariffs",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-14"
-  },
-  {
-    "id": "art-cdb5e60cca",
-    "chapitre_id": "finance",
-    "titre": "Why is Selena Gomez being sued?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-14"
   },
   {
@@ -232,35 +280,11 @@
     "date": "2026-08-14"
   },
   {
-    "id": "art-eeffef3780",
-    "chapitre_id": "relations-internationales",
-    "titre": "US says dozens of countries helped China dodge Trump's tariffs",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-14"
-  },
-  {
     "id": "art-30f7047468",
     "chapitre_id": "si-technologies",
     "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-c04dcad340",
-    "chapitre_id": "management-rh",
-    "titre": "Unemployed young people to join AI boot camps to get job-ready",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-27f16203c9",
-    "chapitre_id": "management-rh",
-    "titre": "Sports Direct owner Mike Ashley buys Harvey Nichols",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
     "date": "2026-08-13"
   },
   {
@@ -296,19 +320,27 @@
     "date": "2026-08-13"
   },
   {
+    "id": "art-c04dcad340",
+    "chapitre_id": "management-rh",
+    "titre": "Unemployed young people to join AI boot camps to get job-ready",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "art-27f16203c9",
+    "chapitre_id": "management-rh",
+    "titre": "Sports Direct owner Mike Ashley buys Harvey Nichols",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
+    "date": "2026-08-13"
+  },
+  {
     "id": "art-992d25fb7f",
     "chapitre_id": "si-technologies",
     "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-    "date": "2026-08-12"
-  },
-  {
-    "id": "art-0d416c63a5",
-    "chapitre_id": "management-rh",
-    "titre": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
     "date": "2026-08-12"
   },
   {
@@ -341,6 +373,14 @@
     "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "art-0d416c63a5",
+    "chapitre_id": "management-rh",
+    "titre": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
     "date": "2026-08-12"
   },
   {
@@ -424,14 +464,6 @@
     "date": "2026-08-10"
   },
   {
-    "id": "art-6d3f60c515",
-    "chapitre_id": "management-rh",
-    "titre": "Could your tattoo stop you from getting a job?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
-  },
-  {
     "id": "art-d93571944e",
     "chapitre_id": "production-marketing",
     "titre": "New school uniform rules won't cut costs, says mum",
@@ -453,6 +485,14 @@
     "titre": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "art-6d3f60c515",
+    "chapitre_id": "management-rh",
+    "titre": "Could your tattoo stop you from getting a job?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-10"
   },
   {
@@ -496,14 +536,6 @@
     "date": "2026-08-07"
   },
   {
-    "id": "art-434cc55902",
-    "chapitre_id": "production-marketing",
-    "titre": "Argos is getting a makeover - but can it attract new shoppers?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06"
-  },
-  {
     "id": "art-54d4e8f21b",
     "chapitre_id": "relations-internationales",
     "titre": "Business Daily",
@@ -518,14 +550,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-30"
-  },
-  {
-    "id": "art-d2e79310a1",
-    "chapitre_id": "production-marketing",
-    "titre": "The Chinese robot army transforming the UK's retail industry",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-29"
   },
   {
     "id": "art-2c08abd8ce",
