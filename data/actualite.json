@@ -1,5 +1,45 @@
 [
   {
+    "id": "art-c1ad5b3fd4",
+    "chapitre_id": "finance",
+    "titre": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-b832715da7",
+    "chapitre_id": "finance",
+    "titre": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-9a503ec761",
+    "chapitre_id": "finance",
+    "titre": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-5ea16e9716",
+    "chapitre_id": "relations-internationales",
+    "titre": "Jill Lepore on why the artificial state is ‘doomed’ – podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/audio/2026/aug/21/jill-lepore-on-why-the-artificial-state-is-doomed-podcast",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-3839bd03b6",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates",
+    "date": "2026-08-21"
+  },
+  {
     "id": "art-4d35f73fe9",
     "chapitre_id": "finance",
     "titre": "US national debt passes $40tn after doubling in a decade",
@@ -10,7 +50,7 @@
   {
     "id": "art-4ada499636",
     "chapitre_id": "finance",
-    "titre": "Little Moons co-founder: Your product doesn't have to be perfect to launch",
+    "titre": "Little Moons co-founder: Don't wait for your product to be perfect",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/videos/cgq5ky2ezl5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-20"
@@ -24,9 +64,33 @@
     "date": "2026-08-20"
   },
   {
+    "id": "art-466ac6cd3d",
+    "chapitre_id": "finance",
+    "titre": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-1b7067a05b",
+    "chapitre_id": "finance",
+    "titre": "What is Bessent doing with the $32tn Treasury market — and will it work?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-4ed126b5d4",
+    "chapitre_id": "finance",
+    "titre": "Guggenheim loan trades in distressed territory after investor call",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1",
+    "date": "2026-08-20"
+  },
+  {
     "id": "art-2642b6ed2d",
     "chapitre_id": "relations-internationales",
-    "titre": "Canada and US say they are finalising a trade deal",
+    "titre": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-20"
@@ -37,6 +101,46 @@
     "titre": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-489978b60c",
+    "chapitre_id": "relations-internationales",
+    "titre": "Has Trump no shame about all the money he has made since being in office? | Francine Prose",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/20/trump-money-earnings-billionaires",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-8321a7e7c9",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-f3899ab304",
+    "chapitre_id": "production-marketing",
+    "titre": "JD Sports boss is still struggling to turn up the heat on a tepid trainer market",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/20/jd-sports-boss-is-still-struggling-to-turn-up-the-heat-amid-tepid-trainer-market",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-9d0af0eb05",
+    "chapitre_id": "production-marketing",
+    "titre": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "art-d3cc65e96d",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
     "date": "2026-08-20"
   },
   {
@@ -85,54 +189,6 @@
     "titre": "I quit my £80,000 job to make ice cream - here's how",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-5eb59c6193",
-    "chapitre_id": "finance",
-    "titre": "Inflation is heating up but don't expect another crisis",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-968cc968f3",
-    "chapitre_id": "finance",
-    "titre": "Monzo says issue with card payments and transfers now resolved",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-4ceae49ce8",
-    "chapitre_id": "finance",
-    "titre": "Overhaul for Belfast cranes ahead of major contract",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-b57d83f77c",
-    "chapitre_id": "finance",
-    "titre": "What's happening to UK interest rates and what does it mean for mortgages?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-40bdd26225",
-    "chapitre_id": "finance",
-    "titre": "What is happening to UK prices?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-96b80d02c3",
-    "chapitre_id": "finance",
-    "titre": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge",
     "date": "2026-08-19"
   },
   {
@@ -376,14 +432,6 @@
     "date": "2026-08-17"
   },
   {
-    "id": "art-cc4c9a150c",
-    "chapitre_id": "production-marketing",
-    "titre": "China’s economy showing signs that slowdown may be extending",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "date": "2026-08-17"
-  },
-  {
     "id": "art-b986f943b5",
     "chapitre_id": "management-rh",
     "titre": "Disabled creatives like me are behind many of your favourite shows – so why has our work support been withdrawn? | Annalisa Dinnella",
@@ -456,14 +504,6 @@
     "date": "2026-08-16"
   },
   {
-    "id": "art-50e3c54e69",
-    "chapitre_id": "production-marketing",
-    "titre": "It’s the SUV tyranny: where have all the normal family cars gone? | Coco Khan",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/15/suv-normal-family-cars-roads-supersized-consumer-choice",
-    "date": "2026-08-15"
-  },
-  {
     "id": "art-11ad2df622",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI upheaval mounts as Sam Altman readies IPO push",
@@ -504,22 +544,6 @@
     "date": "2026-08-14"
   },
   {
-    "id": "art-d92d90b5e1",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump is taxing the dark matter that pays America’s way",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-73524cfe5e",
-    "chapitre_id": "relations-internationales",
-    "titre": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
-    "date": "2026-08-13"
-  },
-  {
     "id": "art-c04dcad340",
     "chapitre_id": "management-rh",
     "titre": "Unemployed young people to join AI boot camps to get job-ready",
@@ -550,14 +574,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
     "date": "2026-08-13"
-  },
-  {
-    "id": "art-e9aaf3fb12",
-    "chapitre_id": "relations-internationales",
-    "titre": "Europe’s carbon mechanism is a tariff by another name",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
-    "date": "2026-08-12"
   },
   {
     "id": "art-0d416c63a5",
