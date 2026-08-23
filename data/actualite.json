@@ -1,5 +1,21 @@
 [
   {
+    "id": "art-208ba005c7",
+    "chapitre_id": "finance",
+    "titre": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "art-b3dbdedd64",
+    "chapitre_id": "finance",
+    "titre": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
+    "date": "2026-08-23"
+  },
+  {
     "id": "art-9e72f1e437",
     "chapitre_id": "finance",
     "titre": "Premium bonds: more chance of win as NS&I ups prize fund rate again",
@@ -24,11 +40,83 @@
     "date": "2026-08-22"
   },
   {
+    "id": "art-72b1eb4bf9",
+    "chapitre_id": "finance",
+    "titre": "Subterranean salad: underground farmers seek solution to food crisis in disused UK mines",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines",
+    "date": "2026-08-22"
+  },
+  {
     "id": "art-d612983feb",
     "chapitre_id": "relations-internationales",
     "titre": "Canada vows to match US tariffs as trade talks collapse",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-de9106f840",
+    "chapitre_id": "relations-internationales",
+    "titre": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-bd6da02f75",
+    "chapitre_id": "relations-internationales",
+    "titre": "Mark Carney says Canada ‘at war’ with US over trade",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-ea92e4822f",
+    "chapitre_id": "production-marketing",
+    "titre": "‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/22/mike-ashley-sports-direct-luxury-frasers-group-harvey-nichols-hugo-boss",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-7c36e5eb2f",
+    "chapitre_id": "production-marketing",
+    "titre": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-177cf6acb8",
+    "chapitre_id": "production-marketing",
+    "titre": "40,000 bottles of eye drops across the US recalled over issues with sterility of product",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-b7754d843f",
+    "chapitre_id": "si-technologies",
+    "titre": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-ca44a0d746",
+    "chapitre_id": "si-technologies",
+    "titre": "Auntie v influencers: why YouTubers are ready for battle with the BBC",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "art-f5886f0c0a",
+    "chapitre_id": "si-technologies",
+    "titre": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
     "date": "2026-08-22"
   },
   {
@@ -93,6 +181,14 @@
     "titre": "The Guardian view on Andy Burnham’s buses: a blueprint for governing Britain | Editorial",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-andy-burnhams-buses-a-blueprint-for-governing-britain",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-dfc6727623",
+    "chapitre_id": "relations-internationales",
+    "titre": "The Guardian view on the export of fossils: they deserve national treasure status | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-the-export-of-fossils-they-deserve-national-treasure-status",
     "date": "2026-08-21"
   },
   {
@@ -192,22 +288,6 @@
     "date": "2026-08-20"
   },
   {
-    "id": "art-1b7067a05b",
-    "chapitre_id": "finance",
-    "titre": "What is Bessent doing with the $32tn Treasury market — and will it work?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
-    "date": "2026-08-20"
-  },
-  {
-    "id": "art-4ed126b5d4",
-    "chapitre_id": "finance",
-    "titre": "Guggenheim loan trades in distressed territory after investor call",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1",
-    "date": "2026-08-20"
-  },
-  {
     "id": "art-2642b6ed2d",
     "chapitre_id": "relations-internationales",
     "titre": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
@@ -272,14 +352,6 @@
     "date": "2026-08-20"
   },
   {
-    "id": "art-686ae87176",
-    "chapitre_id": "finance",
-    "titre": "Chinese robotics giant Unitree soars in stock market debut",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
     "id": "art-6854b3ddf9",
     "chapitre_id": "relations-internationales",
     "titre": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -309,14 +381,6 @@
     "titre": "Trump says deal reached with Canada and pauses tariffs",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-650176a1a7",
-    "chapitre_id": "relations-internationales",
-    "titre": "Is the US actually too chicken to take on China for trade?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
     "date": "2026-08-19"
   },
   {
@@ -360,30 +424,6 @@
     "date": "2026-08-19"
   },
   {
-    "id": "art-a61e6b5ff0",
-    "chapitre_id": "production-marketing",
-    "titre": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-46316472e4",
-    "chapitre_id": "production-marketing",
-    "titre": "Dog food recalled in UK after reports of pets losing their sight",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/19/dog-food-recalled-after-reports-of-pets-losing-their-sight-years",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-190573e2fe",
-    "chapitre_id": "production-marketing",
-    "titre": "All power to the UK competition watchdog’s war on ‘drip pricing’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/19/all-power-to-the-uk-competition-watchdogs-war-on-drip-pricing",
-    "date": "2026-08-19"
-  },
-  {
     "id": "art-fe0b9c467b",
     "chapitre_id": "management-rh",
     "titre": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
@@ -414,22 +454,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
     "date": "2026-08-19"
-  },
-  {
-    "id": "art-09de3e1db7",
-    "chapitre_id": "relations-internationales",
-    "titre": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-18"
-  },
-  {
-    "id": "art-d51f870e89",
-    "chapitre_id": "relations-internationales",
-    "titre": "Introducing Ulez was my hardest decision as mayor of London – but now we know its astonishing impact | Sadiq Khan",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/18/ulez-hardest-decision-mayor-london-impact-sadiq-khan",
-    "date": "2026-08-18"
   },
   {
     "id": "art-8e595152dc",
@@ -592,14 +616,6 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-30f7047468",
-    "chapitre_id": "si-technologies",
-    "titre": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-    "date": "2026-08-13"
-  },
-  {
     "id": "art-13b3ce189e",
     "chapitre_id": "rse-gouvernance",
     "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
@@ -616,27 +632,11 @@
     "date": "2026-08-12"
   },
   {
-    "id": "art-992d25fb7f",
-    "chapitre_id": "si-technologies",
-    "titre": "AI was supposed to destroy jobs. Where’s the carnage?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-    "date": "2026-08-12"
-  },
-  {
     "id": "art-114852c5a7",
     "chapitre_id": "rse-gouvernance",
     "titre": "Infantino’s opponents developing new framework for running world football",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "art-d122fb76ba",
-    "chapitre_id": "si-technologies",
-    "titre": "Nvidia links with Wall Street firms for $500bn AI financing deal",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
     "date": "2026-08-11"
   },
   {
