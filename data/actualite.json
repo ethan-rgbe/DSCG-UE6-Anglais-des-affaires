@@ -1,5 +1,69 @@
 [
   {
+    "id": "art-a0f0ef39da",
+    "chapitre_id": "finance",
+    "titre": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-eb3c6a778b",
+    "chapitre_id": "finance",
+    "titre": "The other Post Office scandal: how organised crime launders money on the high street",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/25/other-post-office-scandal-organised-crime-launders-money-high-street",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-58aebfa7b1",
+    "chapitre_id": "finance",
+    "titre": "Lloyds Bank is holding on to our urgently needed £5,500",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/25/lloyds-bank-holding-on-to-funds-balance-account",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-4aaa78a1b8",
+    "chapitre_id": "finance",
+    "titre": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-d6ef1bbc95",
+    "chapitre_id": "relations-internationales",
+    "titre": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-79bef65702",
+    "chapitre_id": "relations-internationales",
+    "titre": "Canadians do not seek a trade war – but neither will we be bullied by Donald Trump | Jen Gerson",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/25/canadians-trade-war-bullied-donald-trump-alliance-rupture",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-2b8914c5cf",
+    "chapitre_id": "relations-internationales",
+    "titre": "The threats to ‘Swiss Made’",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-b9fd0e1c56",
+    "chapitre_id": "management-rh",
+    "titre": "Nvidia employee charged with smuggling advanced chips into China",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+    "date": "2026-08-25"
+  },
+  {
     "id": "art-8bcb9c0fd4",
     "chapitre_id": "finance",
     "titre": "Shein aims for almost $27bn valuation in stock market debut",
@@ -40,11 +104,67 @@
     "date": "2026-08-24"
   },
   {
+    "id": "art-2c91a82a84",
+    "chapitre_id": "finance",
+    "titre": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-9a64f4251f",
+    "chapitre_id": "finance",
+    "titre": "Manga-inspired theme park to be built near Paris",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-cdeb4f595e",
+    "chapitre_id": "finance",
+    "titre": "Thames Water creditors accused of ‘shuffling chairs on Titanic’ with plan for new board",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-94730a153c",
+    "chapitre_id": "finance",
+    "titre": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-f7e89f32df",
+    "chapitre_id": "finance",
+    "titre": "Can Burnham justify giving the go ahead to oil drilling? Yes, but these must be the conditions | Michael Jacobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/24/andy-burnham-rosebank-carbon-capture-storage-north-sea-uk-net-zero-commitments",
+    "date": "2026-08-24"
+  },
+  {
     "id": "art-34781117f8",
     "chapitre_id": "relations-internationales",
     "titre": "Canadian dollar dips after US-Canada talks collapse into trade war; oil prices fall ahead of US sanctions on Iran – business live",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-c15f24fceb",
+    "chapitre_id": "relations-internationales",
+    "titre": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-d2d161f43a",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
     "date": "2026-08-24"
   },
   {
@@ -56,11 +176,27 @@
     "date": "2026-08-24"
   },
   {
-    "id": "art-2c91a82a84",
+    "id": "art-6fad4d2dca",
     "chapitre_id": "production-marketing",
-    "titre": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+    "titre": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+    "url": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-b9979592e0",
+    "chapitre_id": "production-marketing",
+    "titre": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-a7f2c409ad",
+    "chapitre_id": "production-marketing",
+    "titre": "‘It’s absolutely criminal’: US tipping culture has reached the UK – and is causing chaos",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/24/us-tipping-culture-uk-service-charges",
     "date": "2026-08-24"
   },
   {
@@ -72,43 +208,27 @@
     "date": "2026-08-24"
   },
   {
+    "id": "art-1402d74001",
+    "chapitre_id": "si-technologies",
+    "titre": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "art-69ee16a315",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "UK graduate job vacancies plunge to lowest in a decade",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
+    "date": "2026-08-24"
+  },
+  {
     "id": "art-208ba005c7",
     "chapitre_id": "finance",
     "titre": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "art-b3dbdedd64",
-    "chapitre_id": "finance",
-    "titre": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "art-1506ec5c68",
-    "chapitre_id": "finance",
-    "titre": "UK productivity growing faster than official figures suggest, thinktank finds",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "art-c57277d44e",
-    "chapitre_id": "finance",
-    "titre": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "art-f878e88ff7",
-    "chapitre_id": "finance",
-    "titre": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
     "date": "2026-08-23"
   },
   {
@@ -166,38 +286,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
     "date": "2026-08-23"
-  },
-  {
-    "id": "art-9e72f1e437",
-    "chapitre_id": "finance",
-    "titre": "Premium bonds: more chance of win as NS&I ups prize fund rate again",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/22/premium-bonds-chance-odds-win-nsi-ups-prize-fund",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "art-da605e8002",
-    "chapitre_id": "finance",
-    "titre": "Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "art-726a80425a",
-    "chapitre_id": "finance",
-    "titre": "Bossing the bond market around never works",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "art-72b1eb4bf9",
-    "chapitre_id": "finance",
-    "titre": "Subterranean salad: underground farmers seek solution to food crisis in disused UK mines",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines",
-    "date": "2026-08-22"
   },
   {
     "id": "art-d612983feb",
@@ -272,14 +360,6 @@
     "date": "2026-08-22"
   },
   {
-    "id": "art-c1ad5b3fd4",
-    "chapitre_id": "finance",
-    "titre": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
-    "date": "2026-08-21"
-  },
-  {
     "id": "art-5ea16e9716",
     "chapitre_id": "relations-internationales",
     "titre": "Jill Lepore on why the artificial state is ‘doomed’ – podcast",
@@ -293,22 +373,6 @@
     "titre": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-    "date": "2026-08-21"
-  },
-  {
-    "id": "art-5fe834ae89",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on Andy Burnham’s buses: a blueprint for governing Britain | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-andy-burnhams-buses-a-blueprint-for-governing-britain",
-    "date": "2026-08-21"
-  },
-  {
-    "id": "art-dfc6727623",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on the export of fossils: they deserve national treasure status | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-the-export-of-fossils-they-deserve-national-treasure-status",
     "date": "2026-08-21"
   },
   {
@@ -352,6 +416,14 @@
     "date": "2026-08-21"
   },
   {
+    "id": "art-dfbd635475",
+    "chapitre_id": "management-rh",
+    "titre": "Airbus bows to remote working demands after series of strikes",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+    "date": "2026-08-21"
+  },
+  {
     "id": "art-3839bd03b6",
     "chapitre_id": "rse-gouvernance",
     "titre": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
@@ -366,38 +438,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
     "date": "2026-08-21"
-  },
-  {
-    "id": "art-dfbd635475",
-    "chapitre_id": "management-rh",
-    "titre": "Airbus bows to remote working demands after series of strikes",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
-    "date": "2026-08-21"
-  },
-  {
-    "id": "art-2642b6ed2d",
-    "chapitre_id": "relations-internationales",
-    "titre": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-20"
-  },
-  {
-    "id": "art-160ac34c24",
-    "chapitre_id": "relations-internationales",
-    "titre": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1",
-    "date": "2026-08-20"
-  },
-  {
-    "id": "art-489978b60c",
-    "chapitre_id": "relations-internationales",
-    "titre": "Has Trump no shame about all the money he has made since being in office? | Francine Prose",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/20/trump-money-earnings-billionaires",
-    "date": "2026-08-20"
   },
   {
     "id": "art-f3899ab304",
@@ -437,22 +477,6 @@
     "titre": "America’s brands lose their magic",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/59ed10fc-0e58-454c-9f93-d4d258ccfd9c?syn-25a6b1a6=1",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-5a1b755dbf",
-    "chapitre_id": "production-marketing",
-    "titre": "India's Gen Z are driving up a mega boom in its beauty market",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-1f8b7b3962",
-    "chapitre_id": "production-marketing",
-    "titre": "US retail giant receives $1bn boost from tariff refunds",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-19"
   },
   {
@@ -528,19 +552,19 @@
     "date": "2026-08-17"
   },
   {
-    "id": "art-c94e2cd616",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "The next China shock will come from open-source AI",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
-    "date": "2026-08-17"
-  },
-  {
     "id": "art-b986f943b5",
     "chapitre_id": "management-rh",
     "titre": "Disabled creatives like me are behind many of your favourite shows – so why has our work support been withdrawn? | Annalisa Dinnella",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/17/disabled-creatives-careers-access-to-work-scheme",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "art-c94e2cd616",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "The next China shock will come from open-source AI",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
     "date": "2026-08-17"
   },
   {
@@ -592,14 +616,6 @@
     "date": "2026-08-16"
   },
   {
-    "id": "art-11ad2df622",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-    "date": "2026-08-15"
-  },
-  {
     "id": "art-53524da8d4",
     "chapitre_id": "compta-audit",
     "titre": "Five key takeaways from parliamentary hearings into client leaks at KPMG",
@@ -614,14 +630,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
     "date": "2026-08-14"
-  },
-  {
-    "id": "art-43d3ce0585",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
-    "date": "2026-08-13"
   },
   {
     "id": "art-c04dcad340",
@@ -640,12 +648,12 @@
     "date": "2026-08-13"
   },
   {
-    "id": "art-13b3ce189e",
+    "id": "art-43d3ce0585",
     "chapitre_id": "rse-gouvernance",
-    "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
+    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-    "date": "2026-08-12"
+    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+    "date": "2026-08-13"
   },
   {
     "id": "art-0d416c63a5",
@@ -656,20 +664,20 @@
     "date": "2026-08-12"
   },
   {
+    "id": "art-13b3ce189e",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+    "date": "2026-08-12"
+  },
+  {
     "id": "art-114852c5a7",
     "chapitre_id": "rse-gouvernance",
     "titre": "Infantino’s opponents developing new framework for running world football",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
     "date": "2026-08-11"
-  },
-  {
-    "id": "art-6d3f60c515",
-    "chapitre_id": "management-rh",
-    "titre": "Could your tattoo stop you from getting a job?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-10"
   },
   {
     "id": "art-415c29a6f5",
