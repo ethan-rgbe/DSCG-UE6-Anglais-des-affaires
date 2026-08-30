@@ -1,5 +1,85 @@
 [
   {
+    "id": "art-88a072dc59",
+    "chapitre_id": "finance",
+    "titre": "Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/30/arms-and-the-5m-man-farage-megadonor-christopher-harbornes-military-empire",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-90d342ba6a",
+    "chapitre_id": "finance",
+    "titre": "On long road back from Brexit, north-east’s recovery rides on survival of Nissan’s ‘shining star’ plant",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/30/brexit-north-east-recovery-rides-survival-nissan-plant",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-a92b8f1dfd",
+    "chapitre_id": "finance",
+    "titre": "‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-67ef797408",
+    "chapitre_id": "finance",
+    "titre": "AA could face £5bn takeover move by German insurer Allianz, reports claim",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/30/aa-takeover-german-insurer-allianz",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-88ad41211e",
+    "chapitre_id": "finance",
+    "titre": "UK asks banks for feelgood stories about keeping out dirty money",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/30/treasury-city-real-life-proof-blocking-dirty-money",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-76aedc5eec",
+    "chapitre_id": "finance",
+    "titre": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-1e145e18f9",
+    "chapitre_id": "finance",
+    "titre": "Trump’s ‘economic D-day’ against Iran risks driving the stakes even higher | Sina Toossi",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-fce0ee776c",
+    "chapitre_id": "finance",
+    "titre": "New payment set up? Get in touch! The bank scam where your ‘bank’ is the scammer",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/30/new-payment-set-up-get-in-touch-the-bank-scam-where-your-bank-is-the-scammer",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-cd3d9c5ade",
+    "chapitre_id": "finance",
+    "titre": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-c4ba1ebeaf",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
+    "date": "2026-08-30"
+  },
+  {
     "id": "art-e9fcbb1ac4",
     "chapitre_id": "finance",
     "titre": "‘I’ve £80k in the account, here’s my pin’: turning the tables on the scammers",
@@ -88,6 +168,14 @@
     "date": "2026-08-29"
   },
   {
+    "id": "art-dead0a7215",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "A love letter to the A380, the retiring behemoth that takes Qantas travellers back in time | Nick Visser",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/30/qantas-airbus-a380-retirement-a-love-letter",
+    "date": "2026-08-29"
+  },
+  {
     "id": "art-e6a847d5cf",
     "chapitre_id": "finance",
     "titre": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
@@ -109,22 +197,6 @@
     "titre": "UK petrol prices hit highest level in almost four years as bank holiday getaway looms",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/aug/28/uk-petrol-prices-highest-level-almost-four-years-bank-holiday-getaway",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-b60118b64e",
-    "chapitre_id": "finance",
-    "titre": "Hawkish Warsh hints Fed will raise rates if inflation does not fall soon",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-30cca0aa6a",
-    "chapitre_id": "finance",
-    "titre": "US Treasury imposes limits on Egyptian bank for doing business with Iran",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/40d1e3df-f220-4740-8c57-cf5e78890bb3?syn-25a6b1a6=1",
     "date": "2026-08-28"
   },
   {
@@ -198,62 +270,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
     "date": "2026-08-28"
-  },
-  {
-    "id": "art-1a1be18d7e",
-    "chapitre_id": "finance",
-    "titre": "CEOs earn 614 times more than workers at US’s 100 lowest-paying corporations",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-c9d4063283",
-    "chapitre_id": "finance",
-    "titre": "City firms race to prepare for FCA crackdown on bullying and harassment",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/27/city-fca-crackdown-bullying-harassment-rules",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-b5e9ad146f",
-    "chapitre_id": "finance",
-    "titre": "If MPs want to take on Nigel Farage over his dodgy finances, they need to clean up their own act | Frances Ryan",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/27/mps-nigel-farage-finances-freebies",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-eb9f23f327",
-    "chapitre_id": "finance",
-    "titre": "The flat-pack skyscraper: how wood can shape the cities of the future",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/27/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-743de15ace",
-    "chapitre_id": "finance",
-    "titre": "Top of the crops: record heatwaves help deliver bumper UK berry harvest",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/27/record-heatwaves-help-deliver-bumper-uk-berry-harvest",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-23fee8038e",
-    "chapitre_id": "finance",
-    "titre": "Uefa prepares criminal complaint against Fifa’s Infantino",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7729314c-4928-485e-bfe8-5d6749d65cd2?syn-25a6b1a6=1",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "art-764ce6646f",
-    "chapitre_id": "finance",
-    "titre": "Don’t draw the wrong conclusion from Treasury yields",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a919761d-dab1-4a6e-93fe-f69910192c1c",
-    "date": "2026-08-27"
   },
   {
     "id": "art-7f0eb7b713",
@@ -357,14 +373,6 @@
     "titre": "How Canada could hit back to hurt the US economy - and Trump",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-0e4d82f99c",
-    "chapitre_id": "relations-internationales",
-    "titre": "Canada announces retaliatory tariffs on wide range of US goods",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
     "date": "2026-08-25"
   },
   {
