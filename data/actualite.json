@@ -1,5 +1,77 @@
 [
   {
+    "id": "art-4f39423ca5",
+    "chapitre_id": "finance",
+    "titre": "AI could cause global economic downturn, Bank of England governor tells G20",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-18beb62961",
+    "chapitre_id": "finance",
+    "titre": "UK households will take £2,400 financial hit from Iran war, analysis shows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/31/uk-households-financial-hit-iran-war-inflation-wage-stagnation",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-3a1a9469a4",
+    "chapitre_id": "finance",
+    "titre": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-21873b73cf",
+    "chapitre_id": "finance",
+    "titre": "Trump’s plan to sell off a part of Yosemite is what oligarchy looks like | Rebecca Solnit",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-8ef45e7c65",
+    "chapitre_id": "finance",
+    "titre": "Japan’s bonds and yen under pressure after Warsh’s Jackson Hole speech",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-8f156cb070",
+    "chapitre_id": "finance",
+    "titre": "LIV Golf prepares for imminent bankruptcy filing",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5051e92f-371f-4a46-bdee-e8877b68caf8?syn-25a6b1a6=1",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-556c91f346",
+    "chapitre_id": "relations-internationales",
+    "titre": "How the US-Canada trade war is being felt on both sides of the border",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-f71e43f2f1",
+    "chapitre_id": "relations-internationales",
+    "titre": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "art-e34fe63fc9",
+    "chapitre_id": "si-technologies",
+    "titre": "ChatGPT faces tougher rules under EU online safety regime",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6af706a3-6e63-46c2-926b-85461a355e9b?syn-25a6b1a6=1",
+    "date": "2026-08-31"
+  },
+  {
     "id": "art-88a072dc59",
     "chapitre_id": "finance",
     "titre": "Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire",
@@ -80,27 +152,59 @@
     "date": "2026-08-30"
   },
   {
-    "id": "art-e9fcbb1ac4",
-    "chapitre_id": "finance",
-    "titre": "‘I’ve £80k in the account, here’s my pin’: turning the tables on the scammers",
+    "id": "art-c89f89f14e",
+    "chapitre_id": "relations-internationales",
+    "titre": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/29/banks-scam-heres-my-pin-number-turning-the-tables-on-scammers",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-1271949787",
+    "chapitre_id": "production-marketing",
+    "titre": "The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-91f12c173d",
+    "chapitre_id": "si-technologies",
+    "titre": "‘It’s therapy by stealth’: the adult fans helping Lego build its billions in sales",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/lego-fans-adults-rediscover-hobby-later-life",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-907199a140",
+    "chapitre_id": "compta-audit",
+    "titre": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "art-70c4ab587a",
+    "chapitre_id": "relations-internationales",
+    "titre": "Households could save up to £173 a year by switching to fixed energy deal",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
     "date": "2026-08-29"
   },
   {
-    "id": "art-0f3e34b355",
-    "chapitre_id": "finance",
-    "titre": "Risk of a new age of financial repression is rising",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
+    "id": "art-1673e85897",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
     "date": "2026-08-29"
   },
   {
-    "id": "art-d71b5e4b9e",
-    "chapitre_id": "finance",
-    "titre": "Swiss wealth managers urge delay to ownership register after Liechtenstein hack",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1",
+    "id": "art-fe2d479c4c",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
     "date": "2026-08-29"
   },
   {
@@ -136,30 +240,6 @@
     "date": "2026-08-29"
   },
   {
-    "id": "art-70c4ab587a",
-    "chapitre_id": "relations-internationales",
-    "titre": "Households could save up to £173 a year by switching to fixed energy deal",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
-    "date": "2026-08-29"
-  },
-  {
-    "id": "art-1673e85897",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
-    "date": "2026-08-29"
-  },
-  {
-    "id": "art-fe2d479c4c",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
-    "date": "2026-08-29"
-  },
-  {
     "id": "art-3faf3b78b4",
     "chapitre_id": "management-rh",
     "titre": "Faster, higher, funnier: what we learned from China’s robot games",
@@ -174,54 +254,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/30/qantas-airbus-a380-retirement-a-love-letter",
     "date": "2026-08-29"
-  },
-  {
-    "id": "art-e6a847d5cf",
-    "chapitre_id": "finance",
-    "titre": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-5ad3f341ac",
-    "chapitre_id": "finance",
-    "titre": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-75e82520ea",
-    "chapitre_id": "finance",
-    "titre": "UK petrol prices hit highest level in almost four years as bank holiday getaway looms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/28/uk-petrol-prices-highest-level-almost-four-years-bank-holiday-getaway",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-7e44ab644d",
-    "chapitre_id": "production-marketing",
-    "titre": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-ba99a29503",
-    "chapitre_id": "production-marketing",
-    "titre": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "art-792274d5cc",
-    "chapitre_id": "si-technologies",
-    "titre": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-    "date": "2026-08-28"
   },
   {
     "id": "art-1e63082a63",
@@ -261,6 +293,30 @@
     "titre": "UK urged to ban imports of Brazilian meat over health concerns",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "art-7e44ab644d",
+    "chapitre_id": "production-marketing",
+    "titre": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "art-ba99a29503",
+    "chapitre_id": "production-marketing",
+    "titre": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "art-792274d5cc",
+    "chapitre_id": "si-technologies",
+    "titre": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
     "date": "2026-08-28"
   },
   {
@@ -304,6 +360,22 @@
     "date": "2026-08-27"
   },
   {
+    "id": "art-9dadfc5e6b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Households in Great Britain face 4% rise in energy bills to average of £1,723 from October – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "art-fb760839f3",
+    "chapitre_id": "relations-internationales",
+    "titre": "Decoding America: Could datacentres lose Trump the midterms? - podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/audio/2026/aug/26/decoding-america-could-datacentres-lose-trump-the-midterms-podcast",
+    "date": "2026-08-26"
+  },
+  {
     "id": "art-4664e13c04",
     "chapitre_id": "production-marketing",
     "titre": "Plug-in balcony solar panels to go on sale in UK for first time",
@@ -328,51 +400,11 @@
     "date": "2026-08-26"
   },
   {
-    "id": "art-9dadfc5e6b",
-    "chapitre_id": "relations-internationales",
-    "titre": "Households in Great Britain face 4% rise in energy bills to average of £1,723 from October – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates",
-    "date": "2026-08-26"
-  },
-  {
-    "id": "art-fb760839f3",
-    "chapitre_id": "relations-internationales",
-    "titre": "Decoding America: Could datacentres lose Trump the midterms? - podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/audio/2026/aug/26/decoding-america-could-datacentres-lose-trump-the-midterms-podcast",
-    "date": "2026-08-26"
-  },
-  {
     "id": "art-d6ef1bbc95",
     "chapitre_id": "relations-internationales",
     "titre": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-79bef65702",
-    "chapitre_id": "relations-internationales",
-    "titre": "Canadians do not seek a trade war – but nor will we be bullied by Donald Trump | Jen Gerson",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/25/canadians-trade-war-bullied-donald-trump-alliance-rupture",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-2b8914c5cf",
-    "chapitre_id": "relations-internationales",
-    "titre": "The threats to ‘Swiss Made’",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-c9e6c20392",
-    "chapitre_id": "relations-internationales",
-    "titre": "How Canada could hit back to hurt the US economy - and Trump",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-25"
   },
   {
@@ -544,14 +576,6 @@
     "date": "2026-08-21"
   },
   {
-    "id": "art-2e4500d414",
-    "chapitre_id": "production-marketing",
-    "titre": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
-    "date": "2026-08-21"
-  },
-  {
     "id": "art-7a798f6100",
     "chapitre_id": "si-technologies",
     "titre": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
@@ -597,22 +621,6 @@
     "titre": "OpenAI slows down training after its AI carried out hack",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-f2ba5da402",
-    "chapitre_id": "si-technologies",
-    "titre": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
-    "date": "2026-08-19"
-  },
-  {
-    "id": "art-a8027a9508",
-    "chapitre_id": "si-technologies",
-    "titre": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
     "date": "2026-08-19"
   },
   {
