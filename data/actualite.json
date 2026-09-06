@@ -1,5 +1,53 @@
 [
   {
+    "id": "art-321451f316",
+    "chapitre_id": "finance",
+    "titre": "Burnham talks of radical change, but Treasury mood music says otherwise",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-0ee25aba64",
+    "chapitre_id": "finance",
+    "titre": "‘Britain’s Yellowstone’: restoration project aims to take the greed out of land acquisition",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-9c5594d690",
+    "chapitre_id": "finance",
+    "titre": "The student loan scam looking to dupe already anxious students",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-25cfcee39e",
+    "chapitre_id": "finance",
+    "titre": "LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/02f36de6-b6ce-4a17-a474-bd5fa000f1a1?syn-25a6b1a6=1",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-d56ccb5b17",
+    "chapitre_id": "finance",
+    "titre": "UBS demands new junior bankers show AI proficiency",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-287ec2f200",
+    "chapitre_id": "relations-internationales",
+    "titre": "Russian gold floods through Hong Kong in wake of western sanctions",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
+    "date": "2026-09-06"
+  },
+  {
     "id": "art-5ed4b70a6b",
     "chapitre_id": "finance",
     "titre": "A £500 gift or a free toothbrush: is it worth switching bank accounts?",
@@ -40,6 +88,14 @@
     "date": "2026-09-05"
   },
   {
+    "id": "art-e96181da77",
+    "chapitre_id": "relations-internationales",
+    "titre": "Thousands of jobs to be cut at Jaguar Land Rover after slump in profits",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/05/thousands-jaguar-land-rover-offered-redundancies-after-falling-profits",
+    "date": "2026-09-05"
+  },
+  {
     "id": "art-f071cbd532",
     "chapitre_id": "production-marketing",
     "titre": "AI boom reverses the trend of ever-cheaper electronics",
@@ -48,11 +104,35 @@
     "date": "2026-09-05"
   },
   {
+    "id": "art-ae36a05e86",
+    "chapitre_id": "production-marketing",
+    "titre": "Kardashian curves: M&S launches £28 bodysuit with exaggerated hip padding",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/fashion/2026/sep/05/kardashian-curves-ms-launches-28-bodysuit-with-exaggerated-hip-padding",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "art-87bbf972ab",
+    "chapitre_id": "production-marketing",
+    "titre": "Deal or no deal? How to know if the retail price is right",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/05/discount-deal-price-reduction-rules-uk-retailers",
+    "date": "2026-09-05"
+  },
+  {
     "id": "art-8c10a1cacc",
     "chapitre_id": "si-technologies",
     "titre": "Food delivery riders call on platforms to open up AI ‘black box’ they say has cut pay",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "art-bb0562883e",
+    "chapitre_id": "si-technologies",
+    "titre": "An algorithm off switch isn’t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
     "date": "2026-09-05"
   },
   {
@@ -112,54 +192,6 @@
     "date": "2026-09-04"
   },
   {
-    "id": "art-2dc0ebf0f2",
-    "chapitre_id": "finance",
-    "titre": "Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-96fcbb8089",
-    "chapitre_id": "finance",
-    "titre": "Volkswagen to slash up to 50,000 jobs in historic restructuring",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-93da99c357",
-    "chapitre_id": "finance",
-    "titre": "Trump calls for interest rate cut after jobs figures raise hike bets",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-91c999c0ab",
-    "chapitre_id": "finance",
-    "titre": "1986: Manchester's second-hand fashion mecca",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/videos/cj9x1kejd4lo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-8829563fb3",
-    "chapitre_id": "finance",
-    "titre": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-30d841c016",
-    "chapitre_id": "compta-audit",
-    "titre": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
-    "date": "2026-09-04"
-  },
-  {
     "id": "art-e6e61cac49",
     "chapitre_id": "relations-internationales",
     "titre": "‘Astronomical’ fuel price surge hits farmers in UK and US",
@@ -184,14 +216,6 @@
     "date": "2026-09-04"
   },
   {
-    "id": "art-2ced241612",
-    "chapitre_id": "management-rh",
-    "titre": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-    "date": "2026-09-04"
-  },
-  {
     "id": "art-a98be91cf9",
     "chapitre_id": "production-marketing",
     "titre": "Volkswagen board approves plan to cut another 50,000 jobs",
@@ -208,12 +232,20 @@
     "date": "2026-09-04"
   },
   {
-    "id": "art-d5ff55adf3",
+    "id": "art-30d841c016",
     "chapitre_id": "compta-audit",
-    "titre": "KPMG warned Guggenheim unit over deficiencies in internal controls",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
-    "date": "2026-09-03"
+    "titre": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "art-2ced241612",
+    "chapitre_id": "management-rh",
+    "titre": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+    "date": "2026-09-04"
   },
   {
     "id": "art-7dd3fdd659",
@@ -221,14 +253,6 @@
     "titre": "‘A crisis of authenticity’: the truth about food influencers",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers",
-    "date": "2026-09-03"
-  },
-  {
-    "id": "art-9eabf52a09",
-    "chapitre_id": "management-rh",
-    "titre": "'I lost my savings after a job interview scam'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-03"
   },
   {
@@ -264,12 +288,20 @@
     "date": "2026-09-03"
   },
   {
-    "id": "art-fc3b4e4c27",
+    "id": "art-d5ff55adf3",
     "chapitre_id": "compta-audit",
-    "titre": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-    "date": "2026-09-02"
+    "titre": "KPMG warned Guggenheim unit over deficiencies in internal controls",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "art-9eabf52a09",
+    "chapitre_id": "management-rh",
+    "titre": "'I lost my savings after a job interview scam'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03"
   },
   {
     "id": "art-afeb0f8865",
@@ -277,30 +309,6 @@
     "titre": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "art-32e67e81a9",
-    "chapitre_id": "management-rh",
-    "titre": "This data has helped fight workplace discrimination for 60 years. The Trump administration plans to delete it",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "art-d5eb90b45a",
-    "chapitre_id": "management-rh",
-    "titre": "Pentagon chaos deepens after Driscoll quits in clash with Hegseth",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "art-351a59a709",
-    "chapitre_id": "management-rh",
-    "titre": "Uber to cut 3,300 corporate jobs in management overhaul",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-to-cut-3300-corporate-jobs-in-management-overhaul",
     "date": "2026-09-02"
   },
   {
@@ -368,6 +376,38 @@
     "date": "2026-09-02"
   },
   {
+    "id": "art-fc3b4e4c27",
+    "chapitre_id": "compta-audit",
+    "titre": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "art-32e67e81a9",
+    "chapitre_id": "management-rh",
+    "titre": "This data has helped fight workplace discrimination for 60 years. The Trump administration plans to delete it",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "art-d5eb90b45a",
+    "chapitre_id": "management-rh",
+    "titre": "Pentagon chaos deepens after Driscoll quits in clash with Hegseth",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "art-351a59a709",
+    "chapitre_id": "management-rh",
+    "titre": "Uber to cut 3,300 corporate jobs in management overhaul",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-to-cut-3300-corporate-jobs-in-management-overhaul",
+    "date": "2026-09-02"
+  },
+  {
     "id": "art-c9ada295d1",
     "chapitre_id": "relations-internationales",
     "titre": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
@@ -389,22 +429,6 @@
     "titre": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-22558a226d",
-    "chapitre_id": "management-rh",
-    "titre": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-785a668ba9",
-    "chapitre_id": "management-rh",
-    "titre": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft",
     "date": "2026-09-01"
   },
   {
@@ -456,6 +480,22 @@
     "date": "2026-09-01"
   },
   {
+    "id": "art-22558a226d",
+    "chapitre_id": "management-rh",
+    "titre": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "art-785a668ba9",
+    "chapitre_id": "management-rh",
+    "titre": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft",
+    "date": "2026-09-01"
+  },
+  {
     "id": "art-556c91f346",
     "chapitre_id": "relations-internationales",
     "titre": "How the US-Canada trade war is being felt on both sides of the border",
@@ -488,14 +528,6 @@
     "date": "2026-08-31"
   },
   {
-    "id": "art-3cbede3bca",
-    "chapitre_id": "production-marketing",
-    "titre": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
-    "date": "2026-08-31"
-  },
-  {
     "id": "art-e34fe63fc9",
     "chapitre_id": "si-technologies",
     "titre": "ChatGPT faces tougher rules under EU online safety regime",
@@ -512,35 +544,11 @@
     "date": "2026-08-31"
   },
   {
-    "id": "art-907199a140",
-    "chapitre_id": "compta-audit",
-    "titre": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
-    "date": "2026-08-30"
-  },
-  {
     "id": "art-c4ba1ebeaf",
     "chapitre_id": "relations-internationales",
     "titre": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "art-c89f89f14e",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "art-1271949787",
-    "chapitre_id": "production-marketing",
-    "titre": "The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
     "date": "2026-08-30"
   },
   {
@@ -552,20 +560,12 @@
     "date": "2026-08-30"
   },
   {
-    "id": "art-70c4ab587a",
-    "chapitre_id": "relations-internationales",
-    "titre": "Households could save up to £173 a year by switching to fixed energy deal",
+    "id": "art-907199a140",
+    "chapitre_id": "compta-audit",
+    "titre": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
-    "date": "2026-08-29"
-  },
-  {
-    "id": "art-3faf3b78b4",
-    "chapitre_id": "management-rh",
-    "titre": "Faster, higher, funnier: what we learned from China’s robot games",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-    "date": "2026-08-29"
+    "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
+    "date": "2026-08-30"
   },
   {
     "id": "art-ac0631c2cf",
@@ -592,12 +592,12 @@
     "date": "2026-08-29"
   },
   {
-    "id": "art-eb37fe3b81",
+    "id": "art-3faf3b78b4",
     "chapitre_id": "management-rh",
-    "titre": "Healey’s budget to duck setting a date for 3% defence spending target",
+    "titre": "Faster, higher, funnier: what we learned from China’s robot games",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
-    "date": "2026-08-28"
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+    "date": "2026-08-29"
   },
   {
     "id": "art-792274d5cc",
@@ -608,12 +608,12 @@
     "date": "2026-08-28"
   },
   {
-    "id": "art-3da5b68e54",
-    "chapitre_id": "compta-audit",
-    "titre": "AI-proof? Younger workers desert the digital world for traditional crafts",
+    "id": "art-eb37fe3b81",
+    "chapitre_id": "management-rh",
+    "titre": "Healey’s budget to duck setting a date for 3% defence spending target",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
-    "date": "2026-08-27"
+    "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
+    "date": "2026-08-28"
   },
   {
     "id": "art-d00579dd25",
@@ -632,28 +632,12 @@
     "date": "2026-08-27"
   },
   {
-    "id": "art-b392bbbec1",
-    "chapitre_id": "si-technologies",
-    "titre": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-26"
-  },
-  {
-    "id": "art-b9fd0e1c56",
-    "chapitre_id": "management-rh",
-    "titre": "Nvidia employee charged with smuggling advanced chips into China",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-4c0fc61716",
-    "chapitre_id": "management-rh",
-    "titre": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+    "id": "art-3da5b68e54",
+    "chapitre_id": "compta-audit",
+    "titre": "AI-proof? Younger workers desert the digital world for traditional crafts",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-    "date": "2026-08-25"
+    "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
+    "date": "2026-08-27"
   },
   {
     "id": "art-198b3cd8a8",
@@ -669,6 +653,22 @@
     "titre": "Fishy business: who really profits when sardines go viral? - video",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/news/video/2026/aug/25/fishy-business-who-really-profits-when-sardines-go-viral-video",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-b9fd0e1c56",
+    "chapitre_id": "management-rh",
+    "titre": "Nvidia employee charged with smuggling advanced chips into China",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "art-4c0fc61716",
+    "chapitre_id": "management-rh",
+    "titre": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
     "date": "2026-08-25"
   },
   {
@@ -704,14 +704,6 @@
     "date": "2026-08-23"
   },
   {
-    "id": "art-dfbd635475",
-    "chapitre_id": "management-rh",
-    "titre": "Airbus bows to remote working demands after series of strikes",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
-    "date": "2026-08-21"
-  },
-  {
     "id": "art-3839bd03b6",
     "chapitre_id": "rse-gouvernance",
     "titre": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
@@ -725,6 +717,14 @@
     "titre": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "art-dfbd635475",
+    "chapitre_id": "management-rh",
+    "titre": "Airbus bows to remote working demands after series of strikes",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
     "date": "2026-08-21"
   },
   {
