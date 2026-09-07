@@ -1,5 +1,109 @@
 [
   {
+    "id": "art-681db6f075",
+    "chapitre_id": "finance",
+    "titre": "China to pump $54bn into state banks and insurers to boost economy",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-35cc701e92",
+    "chapitre_id": "finance",
+    "titre": "UK cost of living squeeze tightens as mortgage rates rise ; JLR announces 4,000 job cuts – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-8ae99b2b78",
+    "chapitre_id": "finance",
+    "titre": "UK’s biggest private hospital firm Spire agrees £1bn takeover by hedge fund",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/07/uk-private-hospital-spire-healthcare-takeover-hedge-fund-toscafund-nhs",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-12eab71c53",
+    "chapitre_id": "finance",
+    "titre": "UK house prices fall for first time since 2023, led by London and south-east",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/07/uk-house-prices-fall-august-interest-rates-lloyds",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-b55b7a241a",
+    "chapitre_id": "finance",
+    "titre": "Why America’s debt binge is starting to matter",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-268d49f9f2",
+    "chapitre_id": "finance",
+    "titre": "Bonds have become bonds again",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-e46a769868",
+    "chapitre_id": "finance",
+    "titre": "China pumps $54bn into banks and insurers",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-e09ebdd818",
+    "chapitre_id": "relations-internationales",
+    "titre": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-1cee0fc307",
+    "chapitre_id": "production-marketing",
+    "titre": "Labour’s new powers for water customers are a ‘stitch-up’, say campaigners",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/07/labour-new-powers-water-companies-consumer-stitch-up",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-b9e625182f",
+    "chapitre_id": "production-marketing",
+    "titre": "Ukraine seeks to seize water company owned by billionaire family of British theatre mogul",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/07/ukraine-seeks-to-seize-water-company-owned-by-billionaire-family-of-british-theatre-mogul",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-1de1f29086",
+    "chapitre_id": "si-technologies",
+    "titre": "Australians will be able to switch off social media algorithms under planned legislation",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-456b777bcb",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-2b5e7ee4f5",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Iran to raise petrol prices as US war triggers shortages",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
+    "date": "2026-09-07"
+  },
+  {
     "id": "art-321451f316",
     "chapitre_id": "finance",
     "titre": "Burnham talks of radical change, but Treasury mood music says otherwise",
@@ -40,6 +144,30 @@
     "date": "2026-09-06"
   },
   {
+    "id": "art-0299882198",
+    "chapitre_id": "finance",
+    "titre": "Chancellor to argue UK economy can ‘turn corner’ despite bond market turmoil",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/07/chancellor-uk-economy-growth-bond-market-turmoil",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-b1a1a1c2bf",
+    "chapitre_id": "finance",
+    "titre": "The Guardian view on Burnham’s devolution plans: power must be accompanied by scrutiny | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/the-guardian-view-on-burnhams-devolution-plans-power-must-be-accompanied-by-scrutiny",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "art-5ff640fa6d",
+    "chapitre_id": "finance",
+    "titre": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+    "date": "2026-09-06"
+  },
+  {
     "id": "art-287ec2f200",
     "chapitre_id": "relations-internationales",
     "titre": "Russian gold floods through Hong Kong in wake of western sanctions",
@@ -48,36 +176,28 @@
     "date": "2026-09-06"
   },
   {
-    "id": "art-5ed4b70a6b",
-    "chapitre_id": "finance",
-    "titre": "A £500 gift or a free toothbrush: is it worth switching bank accounts?",
+    "id": "art-f52393cfb3",
+    "chapitre_id": "relations-internationales",
+    "titre": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/05/swich-bank-accounts-gift-free-toothbrush",
-    "date": "2026-09-05"
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
+    "date": "2026-09-06"
   },
   {
-    "id": "art-2c8d95558b",
-    "chapitre_id": "finance",
-    "titre": "The gloves are starting to come off in markets",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
-    "date": "2026-09-05"
+    "id": "art-3c34644eab",
+    "chapitre_id": "production-marketing",
+    "titre": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+    "date": "2026-09-06"
   },
   {
-    "id": "art-8e1a5b7328",
-    "chapitre_id": "finance",
-    "titre": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
-    "date": "2026-09-05"
-  },
-  {
-    "id": "art-76ec506c61",
-    "chapitre_id": "finance",
-    "titre": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
-    "date": "2026-09-05"
+    "id": "art-deb72e0066",
+    "chapitre_id": "si-technologies",
+    "titre": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+    "date": "2026-09-06"
   },
   {
     "id": "art-ee1a1164e1",
@@ -114,7 +234,7 @@
   {
     "id": "art-87bbf972ab",
     "chapitre_id": "production-marketing",
-    "titre": "Deal or no deal? How to know if the retail price is right",
+    "titre": "Deal or no deal? The confusing rules around discounts in UK stores",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/sep/05/discount-deal-price-reduction-rules-uk-retailers",
     "date": "2026-09-05"
@@ -142,54 +262,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
     "date": "2026-09-05"
-  },
-  {
-    "id": "art-318aff54c2",
-    "chapitre_id": "finance",
-    "titre": "Shares in Falklands oil explorers plunge as Argentina threatens sanctions; heatwave drives up food prices – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-ec8eed4891",
-    "chapitre_id": "finance",
-    "titre": "Health-tracking smart ring maker Oura to list on US stock market",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/04/health-tracking-smart-ring-maker-oura-to-list-on-us-stock-market",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-c7d0c12a43",
-    "chapitre_id": "finance",
-    "titre": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-85be59059b",
-    "chapitre_id": "finance",
-    "titre": "How will bond market turmoil affect your mortgage, pension and savings in UK?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/04/how-will-bond-market-turbulence-affect-uk-consumer-finances",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-9f4b9cc334",
-    "chapitre_id": "finance",
-    "titre": "Broadcasters and governing bodies make tax plea for TV coverage of women’s sport",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/sport/2026/sep/04/broadcasters-governing-bodies-tax-plea-tv-coverage-womens-sport",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "art-f89108273b",
-    "chapitre_id": "finance",
-    "titre": "Private equity faces existential crisis in US as unsold companies pile up",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
-    "date": "2026-09-04"
   },
   {
     "id": "art-e6e61cac49",
@@ -448,22 +520,6 @@
     "date": "2026-09-01"
   },
   {
-    "id": "art-77c7e1b235",
-    "chapitre_id": "production-marketing",
-    "titre": "What to do if you've been scammed",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/c5ylv1m8n66o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-e9ee635eee",
-    "chapitre_id": "production-marketing",
-    "titre": "China’s real robot revolution is not about humanoids",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
-    "date": "2026-09-01"
-  },
-  {
     "id": "art-df96d1c53d",
     "chapitre_id": "si-technologies",
     "titre": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
@@ -512,22 +568,6 @@
     "date": "2026-08-31"
   },
   {
-    "id": "art-b50815373c",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump’s trade war with Canada gets nasty – podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
-    "date": "2026-08-31"
-  },
-  {
-    "id": "art-ec4824ce53",
-    "chapitre_id": "production-marketing",
-    "titre": "The law won't save us from Meta's 'pervert glasses'. The only solution is mockery | Jonathan Liew",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/31/law-meta-pervert-glasses-mockery",
-    "date": "2026-08-31"
-  },
-  {
     "id": "art-e34fe63fc9",
     "chapitre_id": "si-technologies",
     "titre": "ChatGPT faces tougher rules under EU online safety regime",
@@ -542,14 +582,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/sport/2026/aug/31/get-shirty-about-short-life-of-football-top-the-hotspot",
     "date": "2026-08-31"
-  },
-  {
-    "id": "art-c4ba1ebeaf",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
-    "date": "2026-08-30"
   },
   {
     "id": "art-91f12c173d",
@@ -600,28 +632,12 @@
     "date": "2026-08-29"
   },
   {
-    "id": "art-792274d5cc",
-    "chapitre_id": "si-technologies",
-    "titre": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-    "date": "2026-08-28"
-  },
-  {
     "id": "art-eb37fe3b81",
     "chapitre_id": "management-rh",
     "titre": "Healey’s budget to duck setting a date for 3% defence spending target",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
     "date": "2026-08-28"
-  },
-  {
-    "id": "art-d00579dd25",
-    "chapitre_id": "si-technologies",
-    "titre": "Junior consultants called back to office as AI increases need for human skills",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52?syn-25a6b1a6=1",
-    "date": "2026-08-27"
   },
   {
     "id": "art-02c644e173",
@@ -758,21 +774,5 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/australia-news/2026/aug/15/five-key-takeaways-from-parliamentary-hearings-into-client-leaks-at-kpmg",
     "date": "2026-08-15"
-  },
-  {
-    "id": "art-43d3ce0585",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Too smart to eat? Why octopus farms are such a slippery problem",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "art-13b3ce189e",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-    "date": "2026-08-12"
   }
 ]
