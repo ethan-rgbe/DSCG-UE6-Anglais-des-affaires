@@ -1,5 +1,141 @@
 [
   {
+    "id": "art-db2ad4446f",
+    "chapitre_id": "finance",
+    "titre": "Shetland spaceport project secures £30m of UK government investment",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-cf594c4251",
+    "chapitre_id": "finance",
+    "titre": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-6cad8690bd",
+    "chapitre_id": "finance",
+    "titre": "Billionaire Chris Rokos, who paid £330m in tax last year, to quit UK",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/2026/sep/08/billionaire-chris-rokos-tax-quit-uk",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-a6659144be",
+    "chapitre_id": "finance",
+    "titre": "Europe’s fighter jet plans are in disarray. What happens next?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/08/europe-fighter-jet-plans-france-germany",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-67e56ce288",
+    "chapitre_id": "finance",
+    "titre": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-80c2720cdf",
+    "chapitre_id": "finance",
+    "titre": "Hedge fund Millennium seeks tax deal to boost Geneva presence",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/200221ed-8712-4e43-8160-23b7b9c40a04?syn-25a6b1a6=1",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-39554aa5f2",
+    "chapitre_id": "finance",
+    "titre": "‘Apollo premium’ drives up debt costs for group’s portfolio companies",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-b630584e13",
+    "chapitre_id": "finance",
+    "titre": "The complicated implications of the spectacular ‘Apollo premium’",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/98d06e87-83f0-45dc-b69b-418fc789ac96",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-ee0a37d2e3",
+    "chapitre_id": "relations-internationales",
+    "titre": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-a10299274d",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-cf62e83635",
+    "chapitre_id": "relations-internationales",
+    "titre": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-99fcd76f0b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump calls for Bombardier boycott as Canada hits US with tariffs",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-998064f5b8",
+    "chapitre_id": "production-marketing",
+    "titre": "UK retailers to create 100,000 placements for young people out of work",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-5422e75d3f",
+    "chapitre_id": "si-technologies",
+    "titre": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-059038342e",
+    "chapitre_id": "si-technologies",
+    "titre": "Australia's digital duty of care bill a ‘global reckoning for big tech’, minister says – video",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/video/2026/sep/08/digital-duty-of-care-bill-global-reckoning-for-big-tech-video",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-75071da9c6",
+    "chapitre_id": "si-technologies",
+    "titre": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "art-e3bd6dc76c",
+    "chapitre_id": "management-rh",
+    "titre": "The firms turning recruitment into X Factor-style competitions",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08"
+  },
+  {
     "id": "art-681db6f075",
     "chapitre_id": "finance",
     "titre": "China to pump $54bn into state banks and insurers to boost economy",
@@ -64,6 +200,22 @@
     "date": "2026-09-07"
   },
   {
+    "id": "art-e5d0030246",
+    "chapitre_id": "relations-internationales",
+    "titre": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-5fe1a564ae",
+    "chapitre_id": "relations-internationales",
+    "titre": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/07/jaguar-land-rover-job-losses-financial-state-assistance",
+    "date": "2026-09-07"
+  },
+  {
     "id": "art-1cee0fc307",
     "chapitre_id": "production-marketing",
     "titre": "Labour’s new powers for water customers are a ‘stitch-up’, say campaigners",
@@ -80,19 +232,19 @@
     "date": "2026-09-07"
   },
   {
+    "id": "art-456b777bcb",
+    "chapitre_id": "production-marketing",
+    "titre": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
+    "date": "2026-09-07"
+  },
+  {
     "id": "art-1de1f29086",
     "chapitre_id": "si-technologies",
     "titre": "Australians will be able to switch off social media algorithms under planned legislation",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-07"
-  },
-  {
-    "id": "art-456b777bcb",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
     "date": "2026-09-07"
   },
   {
@@ -104,68 +256,28 @@
     "date": "2026-09-07"
   },
   {
-    "id": "art-321451f316",
-    "chapitre_id": "finance",
-    "titre": "Burnham talks of radical change, but Treasury mood music says otherwise",
+    "id": "art-bbcbdf04b2",
+    "chapitre_id": "management-rh",
+    "titre": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "art-2a5126c74e",
+    "chapitre_id": "management-rh",
+    "titre": "Next overturns equal pay ruling that raised basic wages for shop staff",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
-    "date": "2026-09-06"
+    "url": "https://www.theguardian.com/business/2026/sep/07/next-overturns-equal-pay-ruling-that-raised-basic-wages-for-shop-staff",
+    "date": "2026-09-07"
   },
   {
-    "id": "art-0ee25aba64",
-    "chapitre_id": "finance",
-    "titre": "‘Britain’s Yellowstone’: restoration project aims to take the greed out of land acquisition",
+    "id": "art-a442094cef",
+    "chapitre_id": "management-rh",
+    "titre": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-9c5594d690",
-    "chapitre_id": "finance",
-    "titre": "The student loan scam looking to dupe already anxious students",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-25cfcee39e",
-    "chapitre_id": "finance",
-    "titre": "LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/02f36de6-b6ce-4a17-a474-bd5fa000f1a1?syn-25a6b1a6=1",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-d56ccb5b17",
-    "chapitre_id": "finance",
-    "titre": "UBS demands new junior bankers show AI proficiency",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-0299882198",
-    "chapitre_id": "finance",
-    "titre": "Chancellor to argue UK economy can ‘turn corner’ despite bond market turmoil",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/07/chancellor-uk-economy-growth-bond-market-turmoil",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-b1a1a1c2bf",
-    "chapitre_id": "finance",
-    "titre": "The Guardian view on Burnham’s devolution plans: power must be accompanied by scrutiny | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/the-guardian-view-on-burnhams-devolution-plans-power-must-be-accompanied-by-scrutiny",
-    "date": "2026-09-06"
-  },
-  {
-    "id": "art-5ff640fa6d",
-    "chapitre_id": "finance",
-    "titre": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-    "date": "2026-09-06"
+    "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+    "date": "2026-09-07"
   },
   {
     "id": "art-287ec2f200",
@@ -237,6 +349,14 @@
     "titre": "Deal or no deal? The confusing rules around discounts in UK stores",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/sep/05/discount-deal-price-reduction-rules-uk-retailers",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "art-0ce68c4abe",
+    "chapitre_id": "production-marketing",
+    "titre": "Consumer Fight Back",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-05"
   },
   {
@@ -376,14 +496,6 @@
     "date": "2026-09-03"
   },
   {
-    "id": "art-afeb0f8865",
-    "chapitre_id": "relations-internationales",
-    "titre": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-    "date": "2026-09-02"
-  },
-  {
     "id": "art-be37823ec4",
     "chapitre_id": "production-marketing",
     "titre": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
@@ -413,14 +525,6 @@
     "titre": "Andy Burnham has already made a mistake that will cost him his premiership: he lost his nerve over political donations | George Monbiot",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/02/andy-burnham-mistake-political-donations-wealthy-britain",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "art-15579f88b9",
-    "chapitre_id": "production-marketing",
-    "titre": "Google defeats US justice department bid to force ad tech sale",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
     "date": "2026-09-02"
   },
   {
@@ -480,46 +584,6 @@
     "date": "2026-09-02"
   },
   {
-    "id": "art-c9ada295d1",
-    "chapitre_id": "relations-internationales",
-    "titre": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-a29cab7452",
-    "chapitre_id": "relations-internationales",
-    "titre": "A real-world trial for work in the age of AI",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/337b3e33-88b9-462d-9dfb-d2f24c8e67d6?syn-25a6b1a6=1",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-b08b297270",
-    "chapitre_id": "relations-internationales",
-    "titre": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-6c3bdf213e",
-    "chapitre_id": "production-marketing",
-    "titre": "Range Rover launches first fully electric model",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-01"
-  },
-  {
-    "id": "art-0e7451ab20",
-    "chapitre_id": "production-marketing",
-    "titre": "Ikea cuts prices as customers struggle with rising cost of living",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-01"
-  },
-  {
     "id": "art-df96d1c53d",
     "chapitre_id": "si-technologies",
     "titre": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
@@ -552,22 +616,6 @@
     "date": "2026-09-01"
   },
   {
-    "id": "art-556c91f346",
-    "chapitre_id": "relations-internationales",
-    "titre": "How the US-Canada trade war is being felt on both sides of the border",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-31"
-  },
-  {
-    "id": "art-f71e43f2f1",
-    "chapitre_id": "relations-internationales",
-    "titre": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-    "date": "2026-08-31"
-  },
-  {
     "id": "art-e34fe63fc9",
     "chapitre_id": "si-technologies",
     "titre": "ChatGPT faces tougher rules under EU online safety regime",
@@ -584,36 +632,12 @@
     "date": "2026-08-31"
   },
   {
-    "id": "art-91f12c173d",
-    "chapitre_id": "si-technologies",
-    "titre": "‘It’s therapy by stealth’: the adult fans helping Lego build its billions in sales",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/lego-fans-adults-rediscover-hobby-later-life",
-    "date": "2026-08-30"
-  },
-  {
     "id": "art-907199a140",
     "chapitre_id": "compta-audit",
     "titre": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
     "date": "2026-08-30"
-  },
-  {
-    "id": "art-ac0631c2cf",
-    "chapitre_id": "si-technologies",
-    "titre": "UK risks falling behind in AI race without faster telecoms upgrades, say executives",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades",
-    "date": "2026-08-29"
-  },
-  {
-    "id": "art-a314492183",
-    "chapitre_id": "si-technologies",
-    "titre": "Did AI write this? It’s getting harder to tell",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1",
-    "date": "2026-08-29"
   },
   {
     "id": "art-dead0a7215",
@@ -704,22 +728,6 @@
     "date": "2026-08-23"
   },
   {
-    "id": "art-5da4278949",
-    "chapitre_id": "management-rh",
-    "titre": "'I didn't speak the Queen's English': Why people worry about their accents",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "art-ecf8add900",
-    "chapitre_id": "management-rh",
-    "titre": "UK orders reviews of franchising sector after Vodafone allegations",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/23/uk-review-franchising-sector-vodafone-allegations-adrian-howe",
-    "date": "2026-08-23"
-  },
-  {
     "id": "art-3839bd03b6",
     "chapitre_id": "rse-gouvernance",
     "titre": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
@@ -736,28 +744,12 @@
     "date": "2026-08-21"
   },
   {
-    "id": "art-dfbd635475",
-    "chapitre_id": "management-rh",
-    "titre": "Airbus bows to remote working demands after series of strikes",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
-    "date": "2026-08-21"
-  },
-  {
     "id": "art-d3cc65e96d",
     "chapitre_id": "rse-gouvernance",
     "titre": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
     "date": "2026-08-20"
-  },
-  {
-    "id": "art-fe0b9c467b",
-    "chapitre_id": "management-rh",
-    "titre": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie",
-    "date": "2026-08-19"
   },
   {
     "id": "art-c94e2cd616",
