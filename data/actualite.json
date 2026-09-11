@@ -1,5 +1,77 @@
 [
   {
+    "id": "art-edcd519aa7",
+    "chapitre_id": "finance",
+    "titre": "Interest rates could rise again across the world – here's why",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-6fe06ebace",
+    "chapitre_id": "finance",
+    "titre": "Oil price drops on hopes for Hormuz meeting between Iran and Gulf states; four UK interest rate hikes expected by next summer – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-b77599a2e1",
+    "chapitre_id": "finance",
+    "titre": "Scott Bessent fails to break ‘fever’ in US bond market",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-0dcb005a1d",
+    "chapitre_id": "finance",
+    "titre": "Bond markets stabilise after global sell-off",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-90cb026724",
+    "chapitre_id": "finance",
+    "titre": "Bessent’s intervention risks damaging BoJ’s credibility, bankers warn",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-e0412d37f5",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-e21fa57d7d",
+    "chapitre_id": "production-marketing",
+    "titre": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-664b30eb31",
+    "chapitre_id": "compta-audit",
+    "titre": "Speed up electricity grid upgrade or else face higher bills, warns UK watchdog",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "art-c1c0511e12",
+    "chapitre_id": "compta-audit",
+    "titre": "The ‘great grid upgrade’ is off track – ministers should spell out the risks for bills | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/11/grid-upgrade-electricity-transmission-bills-nils-pratley",
+    "date": "2026-09-11"
+  },
+  {
     "id": "art-f992634763",
     "chapitre_id": "finance",
     "titre": "Tax banks to cut energy bills, unions tell Burnham",
@@ -56,6 +128,22 @@
     "date": "2026-09-10"
   },
   {
+    "id": "art-c792fb242b",
+    "chapitre_id": "finance",
+    "titre": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "art-121b13cf5e",
+    "chapitre_id": "finance",
+    "titre": "Why are we giving a £24bn-a-year subsidy to profitable commercial banks? | Letter",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/10/why-are-we-giving-a-24bn-a-year-subsidy-to-profitable-commercial-banks",
+    "date": "2026-09-10"
+  },
+  {
     "id": "art-8a13067fc3",
     "chapitre_id": "relations-internationales",
     "titre": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
@@ -88,6 +176,22 @@
     "date": "2026-09-10"
   },
   {
+    "id": "art-3273df7e92",
+    "chapitre_id": "production-marketing",
+    "titre": "Primark introduces home delivery",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "art-8b5e9cf227",
+    "chapitre_id": "production-marketing",
+    "titre": "Primark to launch home delivery service despite ‘challenging’ market",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
+    "date": "2026-09-10"
+  },
+  {
     "id": "art-cc82c26468",
     "chapitre_id": "si-technologies",
     "titre": "Anthropic researchers say AI could cause human extinction by 2030",
@@ -104,43 +208,19 @@
     "date": "2026-09-10"
   },
   {
+    "id": "art-f45635a132",
+    "chapitre_id": "si-technologies",
+    "titre": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+    "date": "2026-09-10"
+  },
+  {
     "id": "art-953a941076",
     "chapitre_id": "finance",
     "titre": "Supercar maker McLaren to create 1,000 UK jobs in £450m tech investment",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/09/supercar-maker-mclaren-to-create-1000-uk-jobs-tech-investment",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-97938a8e89",
-    "chapitre_id": "finance",
-    "titre": "I co-founded an orchestra 18 years ago. Since then, I’ve seen doors close for working-class musicians | Robert Ames",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/09/orchestra-opportunities-working-class-musicians-disappear",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-48bea940d2",
-    "chapitre_id": "finance",
-    "titre": "How Greece is wooing hedge funds",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a60fe9fe-3905-44c0-ad32-07762cf44786?syn-25a6b1a6=1",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-b9d085a807",
-    "chapitre_id": "finance",
-    "titre": "Warsh might yet be a good Fed chair",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-9da2550fdb",
-    "chapitre_id": "finance",
-    "titre": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
     "date": "2026-09-09"
   },
   {
@@ -238,30 +318,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
     "date": "2026-09-09"
-  },
-  {
-    "id": "art-db2ad4446f",
-    "chapitre_id": "finance",
-    "titre": "Shetland spaceport project secures £30m of UK government investment",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-cf594c4251",
-    "chapitre_id": "finance",
-    "titre": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-6cad8690bd",
-    "chapitre_id": "finance",
-    "titre": "Billionaire Chris Rokos, who paid £330m in tax last year, to quit UK",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/2026/sep/08/billionaire-chris-rokos-tax-quit-uk",
-    "date": "2026-09-08"
   },
   {
     "id": "art-ee0a37d2e3",
@@ -480,14 +536,6 @@
     "date": "2026-09-07"
   },
   {
-    "id": "art-287ec2f200",
-    "chapitre_id": "relations-internationales",
-    "titre": "Russian gold floods through Hong Kong in wake of western sanctions",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
-    "date": "2026-09-06"
-  },
-  {
     "id": "art-3c34644eab",
     "chapitre_id": "production-marketing",
     "titre": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
@@ -512,43 +560,11 @@
     "date": "2026-09-05"
   },
   {
-    "id": "art-ae36a05e86",
-    "chapitre_id": "production-marketing",
-    "titre": "Kardashian curves: M&S launches £28 bodysuit with exaggerated hip padding",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/fashion/2026/sep/05/kardashian-curves-ms-launches-28-bodysuit-with-exaggerated-hip-padding",
-    "date": "2026-09-05"
-  },
-  {
-    "id": "art-87bbf972ab",
-    "chapitre_id": "production-marketing",
-    "titre": "Deal or no deal? The confusing rules around discounts in UK stores",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/05/discount-deal-price-reduction-rules-uk-retailers",
-    "date": "2026-09-05"
-  },
-  {
-    "id": "art-0ce68c4abe",
-    "chapitre_id": "production-marketing",
-    "titre": "Consumer Fight Back",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-05"
-  },
-  {
     "id": "art-8c10a1cacc",
     "chapitre_id": "si-technologies",
     "titre": "Food delivery riders call on platforms to open up AI ‘black box’ they say has cut pay",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
-    "date": "2026-09-05"
-  },
-  {
-    "id": "art-bb0562883e",
-    "chapitre_id": "si-technologies",
-    "titre": "An algorithm off switch isn’t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
     "date": "2026-09-05"
   },
   {
