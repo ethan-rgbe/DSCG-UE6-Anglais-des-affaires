@@ -1,5 +1,93 @@
 [
   {
+    "id": "art-4c84fba4f9",
+    "chapitre_id": "finance",
+    "titre": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-e27a04dd32",
+    "chapitre_id": "finance",
+    "titre": "UK credit scores: should you worry about a big shake-up?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/14/uk-credit-scores-debt-rules",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-73faf94785",
+    "chapitre_id": "finance",
+    "titre": "Warsh and Trump on collision course",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-4e8b130bce",
+    "chapitre_id": "finance",
+    "titre": "A ‘lucky’ chancellor must also be a resolute one",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0008bdb5-ac6c-4d72-b71f-e53a94a10f77?syn-25a6b1a6=1",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-8ba5f6a615",
+    "chapitre_id": "finance",
+    "titre": "European capitals barter over Christine Lagarde’s successor at ECB",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-39debb7cf9",
+    "chapitre_id": "si-technologies",
+    "titre": "MPs and Lords call for new law to address AI threat to human rights",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-9ac82d768e",
+    "chapitre_id": "si-technologies",
+    "titre": "AI CEOs say they need to slow the pace of development. But will they?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-4354bceced",
+    "chapitre_id": "si-technologies",
+    "titre": "Pixel 11 Pro Fold review: the foldable with the best triple camera",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/pixel-11-pro-fold-review-the-foldable-with-the-best-triple-camera",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-8a6ab7dc31",
+    "chapitre_id": "si-technologies",
+    "titre": "Anthropic and OpenAI need to put their rivalry aside",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b3d01493-f0f5-491b-bcf8-2d414539fbe7?syn-25a6b1a6=1",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-11a141af03",
+    "chapitre_id": "relations-internationales",
+    "titre": "Oil hits $108 after Saudi Arabia closes vital export pipeline",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-da24de63f1",
+    "chapitre_id": "production-marketing",
+    "titre": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
+    "date": "2026-09-14"
+  },
+  {
     "id": "art-f4787d63f5",
     "chapitre_id": "finance",
     "titre": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
@@ -32,11 +120,67 @@
     "date": "2026-09-13"
   },
   {
+    "id": "art-b711357e86",
+    "chapitre_id": "finance",
+    "titre": "Carney gambles on the world's biggest investors betting on Canada",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-0b349e410c",
+    "chapitre_id": "finance",
+    "titre": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-47d7040170",
+    "chapitre_id": "finance",
+    "titre": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-3990a12b83",
+    "chapitre_id": "finance",
+    "titre": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-25ea2fd089",
+    "chapitre_id": "finance",
+    "titre": "Many professionals take continuing education. Let’s add etiquette classes | Gene Marks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/13/small-business-professional-etiquette",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-16f3fa8a2d",
+    "chapitre_id": "finance",
+    "titre": "‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles",
+    "date": "2026-09-13"
+  },
+  {
     "id": "art-5e6c7a0ab3",
     "chapitre_id": "si-technologies",
     "titre": "Live episode: how AI is reshaping our minds – podcast",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "art-ef014f445c",
+    "chapitre_id": "si-technologies",
+    "titre": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
     "date": "2026-09-13"
   },
   {
@@ -56,6 +200,14 @@
     "date": "2026-09-13"
   },
   {
+    "id": "art-162a032f2f",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-13"
+  },
+  {
     "id": "art-e0dab28869",
     "chapitre_id": "production-marketing",
     "titre": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
@@ -72,44 +224,12 @@
     "date": "2026-09-13"
   },
   {
-    "id": "art-6d7eb44cb5",
-    "chapitre_id": "finance",
-    "titre": "‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?",
+    "id": "art-ef23e13251",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget",
-    "date": "2026-09-12"
-  },
-  {
-    "id": "art-e793fcd0c1",
-    "chapitre_id": "finance",
-    "titre": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
-    "date": "2026-09-12"
-  },
-  {
-    "id": "art-816df4c337",
-    "chapitre_id": "finance",
-    "titre": "Booming Brics payments systems seek more cross-border links",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
-    "date": "2026-09-12"
-  },
-  {
-    "id": "art-8cee74c316",
-    "chapitre_id": "finance",
-    "titre": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change",
-    "date": "2026-09-12"
-  },
-  {
-    "id": "art-a9942f5f61",
-    "chapitre_id": "finance",
-    "titre": "Larry Ellison cancels $7.5bn Oracle share sale",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
-    "date": "2026-09-12"
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
+    "date": "2026-09-13"
   },
   {
     "id": "art-ffccc6c522",
@@ -152,6 +272,14 @@
     "date": "2026-09-12"
   },
   {
+    "id": "art-9cd7f1cec3",
+    "chapitre_id": "si-technologies",
+    "titre": "AI may be denting computer science graduates’ job prospects, UK data shows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+    "date": "2026-09-12"
+  },
+  {
     "id": "art-2bf60c03be",
     "chapitre_id": "relations-internationales",
     "titre": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
@@ -176,60 +304,20 @@
     "date": "2026-09-12"
   },
   {
+    "id": "art-2cfee845e8",
+    "chapitre_id": "production-marketing",
+    "titre": "Iceland to open first store in the Falklands",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-12"
+  },
+  {
     "id": "art-ffc3ba4f43",
     "chapitre_id": "management-rh",
     "titre": "We know how to prevent black lung, so why are workers still dying?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
     "date": "2026-09-12"
-  },
-  {
-    "id": "art-edcd519aa7",
-    "chapitre_id": "finance",
-    "titre": "Interest rates could rise again across the world – here's why",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-6fe06ebace",
-    "chapitre_id": "finance",
-    "titre": "Oil price drops on hopes for Hormuz meeting between Iran and Gulf states; four UK interest rate hikes expected by next summer – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-b77599a2e1",
-    "chapitre_id": "finance",
-    "titre": "Scott Bessent fails to break ‘fever’ in US bond market",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-0dcb005a1d",
-    "chapitre_id": "finance",
-    "titre": "Bond markets stabilise after global sell-off",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-90cb026724",
-    "chapitre_id": "finance",
-    "titre": "Bessent’s intervention risks damaging BoJ’s credibility, bankers warn",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-70901ef1d1",
-    "chapitre_id": "finance",
-    "titre": "US prices remain high as fuel costs squeeze household budgets",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-11"
   },
   {
     "id": "art-0933fe2f1c",
@@ -280,6 +368,14 @@
     "date": "2026-09-11"
   },
   {
+    "id": "art-1bd1d55078",
+    "chapitre_id": "management-rh",
+    "titre": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
+    "date": "2026-09-11"
+  },
+  {
     "id": "art-664b30eb31",
     "chapitre_id": "compta-audit",
     "titre": "Speed up electricity grid upgrade or else face higher bills, warns UK watchdog",
@@ -296,14 +392,6 @@
     "date": "2026-09-11"
   },
   {
-    "id": "art-1bd1d55078",
-    "chapitre_id": "management-rh",
-    "titre": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
-    "date": "2026-09-11"
-  },
-  {
     "id": "art-cc82c26468",
     "chapitre_id": "si-technologies",
     "titre": "Anthropic researchers say AI could cause human extinction by 2030",
@@ -317,14 +405,6 @@
     "titre": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
-    "date": "2026-09-10"
-  },
-  {
-    "id": "art-f45635a132",
-    "chapitre_id": "si-technologies",
-    "titre": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
     "date": "2026-09-10"
   },
   {
@@ -374,30 +454,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
     "date": "2026-09-10"
-  },
-  {
-    "id": "art-36024485ea",
-    "chapitre_id": "si-technologies",
-    "titre": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-60f32d9e79",
-    "chapitre_id": "si-technologies",
-    "titre": "Anthropic withheld latest AI model from UK testing agency",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-e68baa480a",
-    "chapitre_id": "si-technologies",
-    "titre": "UK airport disruption: what are your rights if you have been affected?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham",
-    "date": "2026-09-09"
   },
   {
     "id": "art-0e9b964933",
@@ -472,22 +528,6 @@
     "date": "2026-09-09"
   },
   {
-    "id": "art-5422e75d3f",
-    "chapitre_id": "si-technologies",
-    "titre": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-059038342e",
-    "chapitre_id": "si-technologies",
-    "titre": "Australia's digital duty of care bill a ‘global reckoning for big tech’, minister says – video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/video/2026/sep/08/digital-duty-of-care-bill-global-reckoning-for-big-tech-video",
-    "date": "2026-09-08"
-  },
-  {
     "id": "art-ee0a37d2e3",
     "chapitre_id": "relations-internationales",
     "titre": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -504,43 +544,11 @@
     "date": "2026-09-08"
   },
   {
-    "id": "art-cf62e83635",
-    "chapitre_id": "relations-internationales",
-    "titre": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-99fcd76f0b",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump calls for Bombardier boycott as Canada hits US with tariffs",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1",
-    "date": "2026-09-08"
-  },
-  {
     "id": "art-998064f5b8",
     "chapitre_id": "production-marketing",
     "titre": "UK retailers to create 100,000 placements for young people out of work",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-1b3ebfdd68",
-    "chapitre_id": "production-marketing",
-    "titre": "Ikea wins right to launch legal action against Belgian far-right party",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/08/ikea-wins-right-to-launch-legal-action-vlaams-belang-eu",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-7d15ece97d",
-    "chapitre_id": "production-marketing",
-    "titre": "Half of Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
     "date": "2026-09-08"
   },
   {
@@ -558,6 +566,14 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/08/jaguar-land-rover-suppliers-job-cuts",
     "date": "2026-09-08"
+  },
+  {
+    "id": "art-2b5e7ee4f5",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Iran to raise petrol prices as US war triggers shortages",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
+    "date": "2026-09-07"
   },
   {
     "id": "art-bbcbdf04b2",
@@ -584,28 +600,12 @@
     "date": "2026-09-07"
   },
   {
-    "id": "art-2b5e7ee4f5",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Iran to raise petrol prices as US war triggers shortages",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
-    "date": "2026-09-07"
-  },
-  {
     "id": "art-8b76ea01c5",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
     "date": "2026-09-05"
-  },
-  {
-    "id": "art-30d841c016",
-    "chapitre_id": "compta-audit",
-    "titre": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
-    "date": "2026-09-04"
   },
   {
     "id": "art-2ced241612",
@@ -616,11 +616,19 @@
     "date": "2026-09-04"
   },
   {
-    "id": "art-d5ff55adf3",
+    "id": "art-30d841c016",
     "chapitre_id": "compta-audit",
-    "titre": "KPMG warned Guggenheim unit over deficiencies in internal controls",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
+    "titre": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "art-ed4845fc25",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Badly parked ebikes in London are a menace – but other cities have shown us the solution | Agustin Guilisasti",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ebike-parking-london-solution-paris-public-space",
     "date": "2026-09-03"
   },
   {
@@ -632,20 +640,12 @@
     "date": "2026-09-03"
   },
   {
-    "id": "art-ed4845fc25",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Badly parked ebikes in London are a menace – but other cities have shown us the solution | Agustin Guilisasti",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ebike-parking-london-solution-paris-public-space",
-    "date": "2026-09-03"
-  },
-  {
-    "id": "art-fc3b4e4c27",
+    "id": "art-d5ff55adf3",
     "chapitre_id": "compta-audit",
-    "titre": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-    "date": "2026-09-02"
+    "titre": "KPMG warned Guggenheim unit over deficiencies in internal controls",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
+    "date": "2026-09-03"
   },
   {
     "id": "art-32e67e81a9",
@@ -669,6 +669,14 @@
     "titre": "Uber to cut 3,300 corporate jobs in management overhaul",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/02/uber-to-cut-3300-corporate-jobs-in-management-overhaul",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "art-fc3b4e4c27",
+    "chapitre_id": "compta-audit",
+    "titre": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
     "date": "2026-09-02"
   },
   {
@@ -704,19 +712,19 @@
     "date": "2026-08-29"
   },
   {
-    "id": "art-3da5b68e54",
-    "chapitre_id": "compta-audit",
-    "titre": "AI-proof? Younger workers desert the digital world for traditional crafts",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
-    "date": "2026-08-27"
-  },
-  {
     "id": "art-02c644e173",
     "chapitre_id": "rse-gouvernance",
     "titre": "Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia",
+    "date": "2026-08-27"
+  },
+  {
+    "id": "art-3da5b68e54",
+    "chapitre_id": "compta-audit",
+    "titre": "AI-proof? Younger workers desert the digital world for traditional crafts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
     "date": "2026-08-27"
   },
   {
@@ -774,14 +782,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
     "date": "2026-08-20"
-  },
-  {
-    "id": "art-c94e2cd616",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "The next China shock will come from open-source AI",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
-    "date": "2026-08-17"
   },
   {
     "id": "art-53524da8d4",
