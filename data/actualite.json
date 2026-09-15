@@ -1,5 +1,133 @@
 [
   {
+    "id": "art-bc8d78bfb3",
+    "chapitre_id": "finance",
+    "titre": "What is the triple lock and how much is the state pension worth?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-c580a1f816",
+    "chapitre_id": "finance",
+    "titre": "Parents seek out school uniform deals, cutting average spend to £54.53",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/15/school-uniform-deals-spend-grocery-inflation",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-510686e01c",
+    "chapitre_id": "finance",
+    "titre": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-7970f8cbaa",
+    "chapitre_id": "finance",
+    "titre": "China’s economy shows signs of weakness as investment slumps",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-d3cd777efa",
+    "chapitre_id": "finance",
+    "titre": "The ex-JPMorgan banker facing Wall Street’s toughest turnaround job",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-5c0d3a8b19",
+    "chapitre_id": "finance",
+    "titre": "Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-ecb0955740",
+    "chapitre_id": "finance",
+    "titre": "US equities eclipse Treasuries in rare foreign capital shift",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-112e747e9c",
+    "chapitre_id": "finance",
+    "titre": "Ten-year Treasury yield hits highest level since 2007",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-b5ef67a39f",
+    "chapitre_id": "si-technologies",
+    "titre": "Why a decade of doomsday warnings failed to slow the AI race",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-23847a5f0b",
+    "chapitre_id": "si-technologies",
+    "titre": "AI safety requires more than just slowing our pace | Stuart Russell",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-0126025e44",
+    "chapitre_id": "si-technologies",
+    "titre": "Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-7e8eed3c2f",
+    "chapitre_id": "si-technologies",
+    "titre": "AI isn’t going to end humanity ... right? - podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/audio/2026/sep/15/ai-isnt-going-to-end-humanity-right-full-story-podcast",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-9d32d81f66",
+    "chapitre_id": "production-marketing",
+    "titre": "Channel 4 poaches Paramount’s £300m-plus TV ad sales business from Sky",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/sep/15/channel-4-paramount-tv-ad-sales-sky",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-1db7462391",
+    "chapitre_id": "production-marketing",
+    "titre": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/15/nhs-mod-uniforms-uk-fashion-firms-andy-burnham",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-4abd561923",
+    "chapitre_id": "production-marketing",
+    "titre": "Russian warship fires flares at Danish helicopter over Baltic Sea",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b49762b0-2f8a-457d-bd3a-2820f1fff346?syn-25a6b1a6=1",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "art-8c12ce6064",
+    "chapitre_id": "compta-audit",
+    "titre": "Help-to-buy scheme delivered ‘very high value for money,’ review finds",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/15/help-to-buy-scheme-delivered-very-high-value-for-money-review-finds",
+    "date": "2026-09-15"
+  },
+  {
     "id": "art-4c84fba4f9",
     "chapitre_id": "finance",
     "titre": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
@@ -40,6 +168,22 @@
     "date": "2026-09-14"
   },
   {
+    "id": "art-b711357e86",
+    "chapitre_id": "finance",
+    "titre": "Carney gambles on the world's biggest investors betting on Canada",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "art-737dac0151",
+    "chapitre_id": "finance",
+    "titre": "As Reform celebrates £72m in donations, tell me this: are you ready to see two rich men buy our democracy? | Owen Jones",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/14/reform-72m-donations-nigel-farage-super-rich",
+    "date": "2026-09-14"
+  },
+  {
     "id": "art-39debb7cf9",
     "chapitre_id": "si-technologies",
     "titre": "MPs and Lords call for new law to address AI threat to human rights",
@@ -72,6 +216,14 @@
     "date": "2026-09-14"
   },
   {
+    "id": "art-58487e9236",
+    "chapitre_id": "si-technologies",
+    "titre": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+    "date": "2026-09-14"
+  },
+  {
     "id": "art-11a141af03",
     "chapitre_id": "relations-internationales",
     "titre": "Oil hits $108 after Saudi Arabia closes vital export pipeline",
@@ -86,86 +238,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
     "date": "2026-09-14"
-  },
-  {
-    "id": "art-f4787d63f5",
-    "chapitre_id": "finance",
-    "titre": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-2ec9f45fae",
-    "chapitre_id": "finance",
-    "titre": "The perilous economic conditions facing the UK can be traced back to Trump | Richard Partington",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-f78e422d74",
-    "chapitre_id": "finance",
-    "titre": "UK government to offer clearer guidance on student loans after repayment row",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-985006313b",
-    "chapitre_id": "finance",
-    "titre": "Why is the Trump administration calling bike lanes ‘DEI’? | Dave Schilling",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-b711357e86",
-    "chapitre_id": "finance",
-    "titre": "Carney gambles on the world's biggest investors betting on Canada",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-0b349e410c",
-    "chapitre_id": "finance",
-    "titre": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-47d7040170",
-    "chapitre_id": "finance",
-    "titre": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-3990a12b83",
-    "chapitre_id": "finance",
-    "titre": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-25ea2fd089",
-    "chapitre_id": "finance",
-    "titre": "Many professionals take continuing education. Let’s add etiquette classes | Gene Marks",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/13/small-business-professional-etiquette",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-16f3fa8a2d",
-    "chapitre_id": "finance",
-    "titre": "‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles",
-    "date": "2026-09-13"
   },
   {
     "id": "art-5e6c7a0ab3",
@@ -264,22 +336,6 @@
     "date": "2026-09-12"
   },
   {
-    "id": "art-315b92d355",
-    "chapitre_id": "si-technologies",
-    "titre": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
-    "date": "2026-09-12"
-  },
-  {
-    "id": "art-9cd7f1cec3",
-    "chapitre_id": "si-technologies",
-    "titre": "AI may be denting computer science graduates’ job prospects, UK data shows",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
-    "date": "2026-09-12"
-  },
-  {
     "id": "art-2bf60c03be",
     "chapitre_id": "relations-internationales",
     "titre": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
@@ -318,14 +374,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
     "date": "2026-09-12"
-  },
-  {
-    "id": "art-0933fe2f1c",
-    "chapitre_id": "si-technologies",
-    "titre": "Why the AI race has its creators fearing human extinction",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
-    "date": "2026-09-11"
   },
   {
     "id": "art-e0412d37f5",
@@ -392,22 +440,6 @@
     "date": "2026-09-11"
   },
   {
-    "id": "art-cc82c26468",
-    "chapitre_id": "si-technologies",
-    "titre": "Anthropic researchers say AI could cause human extinction by 2030",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-    "date": "2026-09-10"
-  },
-  {
-    "id": "art-90dcc61fa9",
-    "chapitre_id": "si-technologies",
-    "titre": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
-    "date": "2026-09-10"
-  },
-  {
     "id": "art-8a13067fc3",
     "chapitre_id": "relations-internationales",
     "titre": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
@@ -445,14 +477,6 @@
     "titre": "Primark introduces home delivery",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-10"
-  },
-  {
-    "id": "art-8b5e9cf227",
-    "chapitre_id": "production-marketing",
-    "titre": "Primark to launch home delivery service despite ‘challenging’ market",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
     "date": "2026-09-10"
   },
   {
@@ -496,14 +520,6 @@
     "date": "2026-09-09"
   },
   {
-    "id": "art-77188be83e",
-    "chapitre_id": "production-marketing",
-    "titre": "‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/09/miserable-and-impossible-food-scarce-in-kyiv-ukraine-as-russia-targets-supply-chains",
-    "date": "2026-09-09"
-  },
-  {
     "id": "art-52f2766d68",
     "chapitre_id": "management-rh",
     "titre": "Pilots tried to abort landing seconds before deadly Amazon cargo plane crash that killed five",
@@ -541,14 +557,6 @@
     "titre": "Trump threatens to stop sale of Canadian Bombardier jets in US",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-998064f5b8",
-    "chapitre_id": "production-marketing",
-    "titre": "UK retailers to create 100,000 placements for young people out of work",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s",
     "date": "2026-09-08"
   },
   {
