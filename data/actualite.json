@@ -1,8 +1,80 @@
 [
   {
+    "id": "art-d38002f0af",
+    "chapitre_id": "finance",
+    "titre": "Japan raises interest rate to new 31-year high to curb rising prices",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-353cbcea30",
+    "chapitre_id": "finance",
+    "titre": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-ee4b506223",
+    "chapitre_id": "finance",
+    "titre": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-a635db626a",
+    "chapitre_id": "finance",
+    "titre": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-36935f5ff3",
+    "chapitre_id": "finance",
+    "titre": "Yen sinks after BoJ raises rates to highest level since 1995",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-3efb2618a2",
+    "chapitre_id": "finance",
+    "titre": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-3b3ab37419",
+    "chapitre_id": "si-technologies",
+    "titre": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-4da6785303",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI breached by researchers using Anthropic models",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-3ae36d0338",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
+    "date": "2026-09-18"
+  },
+  {
     "id": "art-c15a22345c",
     "chapitre_id": "finance",
-    "titre": "Interest rates hold expected but Bank of England facing tough choices",
+    "titre": "Interest rates held but Bank signals rise if energy prices stay high",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-17"
@@ -48,6 +120,30 @@
     "date": "2026-09-17"
   },
   {
+    "id": "art-a5cec0e2e1",
+    "chapitre_id": "finance",
+    "titre": "We bought our £242,000 home without a deposit - here's how",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-b57d83f77c",
+    "chapitre_id": "finance",
+    "titre": "What's happening to UK interest rates and what does it mean for mortgages?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-f640f1477f",
+    "chapitre_id": "finance",
+    "titre": "The Bank of England is shaking up its bond sales – why does it matter?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
+    "date": "2026-09-17"
+  },
+  {
     "id": "art-10b3a72c08",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
@@ -72,6 +168,14 @@
     "date": "2026-09-17"
   },
   {
+    "id": "art-4f9d9fe3f6",
+    "chapitre_id": "si-technologies",
+    "titre": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+    "date": "2026-09-17"
+  },
+  {
     "id": "art-63da83bcfc",
     "chapitre_id": "production-marketing",
     "titre": "Next forecasts bigger profits after hot weather lifts sales",
@@ -85,6 +189,14 @@
     "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-a717ad38c6",
+    "chapitre_id": "production-marketing",
+    "titre": "Mixed feelings from consumers as electricity discount to be given to NI households",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-17"
   },
   {
@@ -112,6 +224,30 @@
     "date": "2026-09-17"
   },
   {
+    "id": "art-933787255e",
+    "chapitre_id": "relations-internationales",
+    "titre": "The Guardian view on EU-Canada relations: strategic ambition with lessons for Britain | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-eu-canada-relations-strategic-ambition-with-lessons-for-britain",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-0af672bd92",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-76b8975864",
+    "chapitre_id": "relations-internationales",
+    "titre": "Taking on Trump? Canada and EU forge closer ties - The Latest",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/video/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
+    "date": "2026-09-17"
+  },
+  {
     "id": "art-e3a16abb9d",
     "chapitre_id": "management-rh",
     "titre": "Thousands of Barclays staff revolt over return-to-office mandate",
@@ -136,76 +272,12 @@
     "date": "2026-09-17"
   },
   {
-    "id": "art-44204e0be6",
-    "chapitre_id": "finance",
-    "titre": "Petrol and diesel price rises push UK inflation higher",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-8ab54ff5f8",
-    "chapitre_id": "finance",
-    "titre": "How rising bond yields impact American consumers",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-40bdd26225",
-    "chapitre_id": "finance",
-    "titre": "What is happening to UK prices?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-be1238677a",
-    "chapitre_id": "finance",
-    "titre": "UK rents accelerate, as average London house price falls £19,000 below peak – business live",
+    "id": "art-f19cd11f3f",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "‘It bloody works’: why the world’s oldest cheddar-maker uses a ‘milk-source’ heat pump",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-bce52a3491",
-    "chapitre_id": "finance",
-    "titre": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-bf927774ea",
-    "chapitre_id": "finance",
-    "titre": "Barclaycard sent me a bill for someone else’s account",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/16/barclaycard-bill-account-credit-card-payment",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-bf16ee2aff",
-    "chapitre_id": "finance",
-    "titre": "US billionaires line up to bankroll Republicans’ election push",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-e8c08081a0",
-    "chapitre_id": "finance",
-    "titre": "Nuclear fusion’s moment of truth",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-7e170aa1fa",
-    "chapitre_id": "finance",
-    "titre": "World’s best-performing sovereign wealth fund expects equities pullback",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6b6a27bd-2725-4591-be8a-fda643c2ac5c?syn-25a6b1a6=1",
-    "date": "2026-09-16"
+    "url": "https://www.theguardian.com/environment/2026/sep/17/milk-source-heat-pump-barbers-cheesemakers",
+    "date": "2026-09-17"
   },
   {
     "id": "art-b17f30d549",
@@ -325,30 +397,6 @@
     "titre": "Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech",
-    "date": "2026-09-15"
-  },
-  {
-    "id": "art-7e8eed3c2f",
-    "chapitre_id": "si-technologies",
-    "titre": "AI isn’t going to end humanity ... right? - podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/audio/2026/sep/15/ai-isnt-going-to-end-humanity-right-full-story-podcast",
-    "date": "2026-09-15"
-  },
-  {
-    "id": "art-f6a64b75ab",
-    "chapitre_id": "si-technologies",
-    "titre": "Bernie Sanders says Congress has been ‘asleep at the wheel’ over AI – video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
-    "date": "2026-09-15"
-  },
-  {
-    "id": "art-1d41f75832",
-    "chapitre_id": "si-technologies",
-    "titre": "Why the real AI apocalypse is already here – Stateside with Kai and Carter",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/video/2026/sep/15/why-the-real-ai-apocalypse-is-already-here-stateside-with-kai-and-carter",
     "date": "2026-09-15"
   },
   {
@@ -512,27 +560,11 @@
     "date": "2026-09-11"
   },
   {
-    "id": "art-7eab041a30",
-    "chapitre_id": "production-marketing",
-    "titre": "UK chancellor urged to remove ‘hidden taxes’ from energy bills",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/11/chancellor-remove-hidden-taxes-energy-bills",
-    "date": "2026-09-11"
-  },
-  {
     "id": "art-e0412d37f5",
     "chapitre_id": "relations-internationales",
     "titre": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
-    "date": "2026-09-11"
-  },
-  {
-    "id": "art-3c6dfe3b49",
-    "chapitre_id": "relations-internationales",
-    "titre": "Can you really juggle a job and study for a degree?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-11"
   },
   {
@@ -558,30 +590,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/11/grid-upgrade-electricity-transmission-bills-nils-pratley",
     "date": "2026-09-11"
-  },
-  {
-    "id": "art-8a13067fc3",
-    "chapitre_id": "relations-internationales",
-    "titre": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
-    "date": "2026-09-10"
-  },
-  {
-    "id": "art-0e9b964933",
-    "chapitre_id": "relations-internationales",
-    "titre": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-cbbc2cd870",
-    "chapitre_id": "relations-internationales",
-    "titre": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1",
-    "date": "2026-09-09"
   },
   {
     "id": "art-52f2766d68",
@@ -782,14 +790,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
     "date": "2026-08-21"
-  },
-  {
-    "id": "art-d3cc65e96d",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
-    "date": "2026-08-20"
   },
   {
     "id": "art-53524da8d4",
