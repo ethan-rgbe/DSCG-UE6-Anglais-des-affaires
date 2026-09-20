@@ -1,5 +1,53 @@
 [
   {
+    "id": "art-e8eacc6217",
+    "chapitre_id": "finance",
+    "titre": "Family shares hidden cost of cancer care",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c8qlwg07p906o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-77d46f8041",
+    "chapitre_id": "finance",
+    "titre": "Are global stock markets heading for a crash?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-fbea76a25d",
+    "chapitre_id": "finance",
+    "titre": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-24a95e6fa8",
+    "chapitre_id": "finance",
+    "titre": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-f7ae44db1f",
+    "chapitre_id": "finance",
+    "titre": "Saudi Arabia quits China-led cross-border currency platform",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-3f74179d43",
+    "chapitre_id": "production-marketing",
+    "titre": "US retailer rations motor oil as prices quadruple and supplies run dry",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/64f90ab8-5fb0-4594-a900-d03e5ca051e3?syn-25a6b1a6=1",
+    "date": "2026-09-20"
+  },
+  {
     "id": "art-9c9a086c67",
     "chapitre_id": "finance",
     "titre": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
@@ -13,6 +61,22 @@
     "titre": "How should investors position for the robot apocalypse?",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "art-838fa98a1a",
+    "chapitre_id": "finance",
+    "titre": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "art-7471f48f6b",
+    "chapitre_id": "finance",
+    "titre": "Scottish Labour’s new leader backs Rosebank and Jackdaw oil and gasfields",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/19/michael-marra-elected-as-scottish-labour-leader",
     "date": "2026-09-19"
   },
   {
@@ -37,6 +101,30 @@
     "titre": "Google’s Gemini hacked three companies in new AI safety incident",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "art-9eee1724b3",
+    "chapitre_id": "si-technologies",
+    "titre": "Google's Gemini AI hacked three companies in security test",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "art-76b6b88ea3",
+    "chapitre_id": "si-technologies",
+    "titre": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "art-461d6033fa",
+    "chapitre_id": "si-technologies",
+    "titre": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
     "date": "2026-09-19"
   },
   {
@@ -96,54 +184,6 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-a5cec0e2e1",
-    "chapitre_id": "finance",
-    "titre": "We bought our £242,000 home without a deposit - here's how",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-26a5179cc1",
-    "chapitre_id": "finance",
-    "titre": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-4121116ce1",
-    "chapitre_id": "finance",
-    "titre": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-4ab5a3583f",
-    "chapitre_id": "finance",
-    "titre": "Why Europe has been absent from the great AI safety debate",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-d335bcc9d6",
-    "chapitre_id": "finance",
-    "titre": "BrewDog creditors owed £190m will not be paid in full, say administrators",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/18/brewdog-creditors-not-paid-in-full-administrators",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-5fb654abb0",
-    "chapitre_id": "finance",
-    "titre": "Oracle’s $18bn data centre debt under strain amid local pushback",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?syn-25a6b1a6=1",
-    "date": "2026-09-18"
-  },
-  {
     "id": "art-3b3ab37419",
     "chapitre_id": "si-technologies",
     "titre": "Is Trump’s AI obsession walking the world into disaster? – podcast",
@@ -184,22 +224,6 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-3ae36d0338",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-ca6229b82c",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
-    "date": "2026-09-18"
-  },
-  {
     "id": "art-d1ada034b3",
     "chapitre_id": "production-marketing",
     "titre": "Marks and Spencer’s first LFW catwalk gamble pays off with compelling looks at affordable prices",
@@ -232,12 +256,20 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-c15a22345c",
-    "chapitre_id": "finance",
-    "titre": "Interest rates held but Bank signals rise if energy prices stay high",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-17"
+    "id": "art-3ae36d0338",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "art-ca6229b82c",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
+    "date": "2026-09-18"
   },
   {
     "id": "art-10b3a72c08",
@@ -269,6 +301,30 @@
     "titre": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-63da83bcfc",
+    "chapitre_id": "production-marketing",
+    "titre": "Next forecasts bigger profits after hot weather lifts sales",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-0c150a6883",
+    "chapitre_id": "production-marketing",
+    "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-a717ad38c6",
+    "chapitre_id": "production-marketing",
+    "titre": "Mixed feelings from consumers as electricity discount to be given to NI households",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-17"
   },
   {
@@ -320,30 +376,6 @@
     "date": "2026-09-17"
   },
   {
-    "id": "art-63da83bcfc",
-    "chapitre_id": "production-marketing",
-    "titre": "Next forecasts bigger profits after hot weather lifts sales",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-0c150a6883",
-    "chapitre_id": "production-marketing",
-    "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-a717ad38c6",
-    "chapitre_id": "production-marketing",
-    "titre": "Mixed feelings from consumers as electricity discount to be given to NI households",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-17"
-  },
-  {
     "id": "art-e3a16abb9d",
     "chapitre_id": "management-rh",
     "titre": "Thousands of Barclays staff revolt over return-to-office mandate",
@@ -376,27 +408,19 @@
     "date": "2026-09-17"
   },
   {
-    "id": "art-b17f30d549",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-530678ea1c",
-    "chapitre_id": "si-technologies",
-    "titre": "Anthropic CEO renews call for AI slowdown as Nvidia’s urges acceleration",
+    "id": "art-8b1195eab3",
+    "chapitre_id": "production-marketing",
+    "titre": "Company behind failed Surrey oilfield project sells site at massive loss",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "url": "https://www.theguardian.com/environment/2026/sep/16/company-behind-failed-surrey-oilfield-project-sells-massive-loss",
     "date": "2026-09-16"
   },
   {
-    "id": "art-093c123a7d",
-    "chapitre_id": "si-technologies",
-    "titre": "Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
+    "id": "art-b25d76a8b8",
+    "chapitre_id": "production-marketing",
+    "titre": "Big-money donations poison British politics. We can stop the mega-rich buying access and influence | Gordon Brown",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/16/big-money-donations-mega-rich-access-influence-democracy-reform-gordon-brown",
     "date": "2026-09-16"
   },
   {
@@ -413,22 +437,6 @@
     "titre": "Snapchat open to putting time limits on teens, boss tells BBC",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-8b1195eab3",
-    "chapitre_id": "production-marketing",
-    "titre": "Company behind failed Surrey oilfield project sells site at massive loss",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/16/company-behind-failed-surrey-oilfield-project-sells-massive-loss",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-b25d76a8b8",
-    "chapitre_id": "production-marketing",
-    "titre": "Big-money donations poison British politics. We can stop the mega-rich buying access and influence | Gordon Brown",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/16/big-money-donations-mega-rich-access-influence-democracy-reform-gordon-brown",
     "date": "2026-09-16"
   },
   {
@@ -501,14 +509,6 @@
     "titre": "Oil hits $108 after Saudi Arabia closes vital export pipeline",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
-    "date": "2026-09-14"
-  },
-  {
-    "id": "art-da24de63f1",
-    "chapitre_id": "production-marketing",
-    "titre": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
     "date": "2026-09-14"
   },
   {
