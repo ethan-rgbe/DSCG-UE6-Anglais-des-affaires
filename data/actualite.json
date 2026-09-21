@@ -1,5 +1,101 @@
 [
   {
+    "id": "art-b70c5bd78b",
+    "chapitre_id": "finance",
+    "titre": "Baby bank helping more parents in full-time work",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ckge4848pzjro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-6b7c864acd",
+    "chapitre_id": "finance",
+    "titre": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-73a23ad699",
+    "chapitre_id": "finance",
+    "titre": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-d08f796be9",
+    "chapitre_id": "finance",
+    "titre": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-b3062694f0",
+    "chapitre_id": "finance",
+    "titre": "Slide in oil prices drives rebound in battered government bonds",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-a82e94a2c1",
+    "chapitre_id": "finance",
+    "titre": "Lex in depth: the challenging maths of Anthropic’s IPO",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-0768a66dbf",
+    "chapitre_id": "finance",
+    "titre": "Why the world’s hottest stock market is a national liability",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-c40cd5e24a",
+    "chapitre_id": "finance",
+    "titre": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-79829a1181",
+    "chapitre_id": "production-marketing",
+    "titre": "Google fined more than €400m by Irish regulator over its use of location data",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-1552f4465c",
+    "chapitre_id": "production-marketing",
+    "titre": "‘RAMageddon’: tech crunch hikes the price of your next iPhone by £100",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/21/ramageddon-apple-iphone-price-increase-chip-shortage",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-f39327ac5a",
+    "chapitre_id": "relations-internationales",
+    "titre": "How Saudi oil scientists ended up working on the world’s most important climate reports",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/21/saudi-arabia-aramco-oil-scientists-ipcc-climate-reports",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-6ed2d32b06",
+    "chapitre_id": "relations-internationales",
+    "titre": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
+    "date": "2026-09-21"
+  },
+  {
     "id": "art-e8eacc6217",
     "chapitre_id": "finance",
     "titre": "Family shares hidden cost of cancer care",
@@ -40,6 +136,22 @@
     "date": "2026-09-20"
   },
   {
+    "id": "art-711c0b160b",
+    "chapitre_id": "finance",
+    "titre": "The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "art-5d034d73df",
+    "chapitre_id": "finance",
+    "titre": "UK startup snares $20m to recreate gigs with ‘hyper-realistic’ digital avatars",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians",
+    "date": "2026-09-20"
+  },
+  {
     "id": "art-3f74179d43",
     "chapitre_id": "production-marketing",
     "titre": "US retailer rations motor oil as prices quadruple and supplies run dry",
@@ -48,35 +160,19 @@
     "date": "2026-09-20"
   },
   {
-    "id": "art-9c9a086c67",
-    "chapitre_id": "finance",
-    "titre": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
-    "date": "2026-09-19"
-  },
-  {
-    "id": "art-b1f4951998",
-    "chapitre_id": "finance",
-    "titre": "How should investors position for the robot apocalypse?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
-    "date": "2026-09-19"
-  },
-  {
-    "id": "art-838fa98a1a",
-    "chapitre_id": "finance",
-    "titre": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
+    "id": "art-371d4e0c3b",
+    "chapitre_id": "relations-internationales",
+    "titre": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
-    "date": "2026-09-19"
+    "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
+    "date": "2026-09-20"
   },
   {
-    "id": "art-7471f48f6b",
-    "chapitre_id": "finance",
-    "titre": "Scottish Labour’s new leader backs Rosebank and Jackdaw oil and gasfields",
+    "id": "art-4450f1b953",
+    "chapitre_id": "production-marketing",
+    "titre": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/19/michael-marra-elected-as-scottish-labour-leader",
+    "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
     "date": "2026-09-19"
   },
   {
@@ -128,59 +224,35 @@
     "date": "2026-09-19"
   },
   {
-    "id": "art-4450f1b953",
+    "id": "art-d1ada034b3",
     "chapitre_id": "production-marketing",
-    "titre": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
+    "titre": "Marks and Spencer’s first LFW catwalk gamble pays off with compelling looks at affordable prices",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
-    "date": "2026-09-19"
-  },
-  {
-    "id": "art-d38002f0af",
-    "chapitre_id": "finance",
-    "titre": "Japan raises interest rate to new 31-year high to curb rising prices",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.theguardian.com/business/2026/sep/18/marks-and-spencer-london-fashion-week-catwalk-show",
     "date": "2026-09-18"
   },
   {
-    "id": "art-353cbcea30",
-    "chapitre_id": "finance",
-    "titre": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+    "id": "art-b8d578a684",
+    "chapitre_id": "production-marketing",
+    "titre": "The Guardian view on youth unemployment: too few jobs in too many places | Editorial",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-youth-unemployment-too-few-jobs-in-too-many-places",
     "date": "2026-09-18"
   },
   {
-    "id": "art-ee4b506223",
-    "chapitre_id": "finance",
-    "titre": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+    "id": "art-62f1759b82",
+    "chapitre_id": "production-marketing",
+    "titre": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
+    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
     "date": "2026-09-18"
   },
   {
-    "id": "art-a635db626a",
-    "chapitre_id": "finance",
-    "titre": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+    "id": "art-b222a32fe3",
+    "chapitre_id": "production-marketing",
+    "titre": "‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-36935f5ff3",
-    "chapitre_id": "finance",
-    "titre": "Yen sinks after BoJ raises rates to highest level since 1995",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-3efb2618a2",
-    "chapitre_id": "finance",
-    "titre": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
+    "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
     "date": "2026-09-18"
   },
   {
@@ -224,38 +296,6 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-d1ada034b3",
-    "chapitre_id": "production-marketing",
-    "titre": "Marks and Spencer’s first LFW catwalk gamble pays off with compelling looks at affordable prices",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/18/marks-and-spencer-london-fashion-week-catwalk-show",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-b8d578a684",
-    "chapitre_id": "production-marketing",
-    "titre": "The Guardian view on youth unemployment: too few jobs in too many places | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-youth-unemployment-too-few-jobs-in-too-many-places",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-62f1759b82",
-    "chapitre_id": "production-marketing",
-    "titre": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-b222a32fe3",
-    "chapitre_id": "production-marketing",
-    "titre": "‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
-    "date": "2026-09-18"
-  },
-  {
     "id": "art-3ae36d0338",
     "chapitre_id": "relations-internationales",
     "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
@@ -270,6 +310,30 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
     "date": "2026-09-18"
+  },
+  {
+    "id": "art-63da83bcfc",
+    "chapitre_id": "production-marketing",
+    "titre": "Next forecasts bigger profits after hot weather lifts sales",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-0c150a6883",
+    "chapitre_id": "production-marketing",
+    "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "art-a717ad38c6",
+    "chapitre_id": "production-marketing",
+    "titre": "Mixed feelings from consumers as electricity discount to be given to NI households",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17"
   },
   {
     "id": "art-10b3a72c08",
@@ -301,30 +365,6 @@
     "titre": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-63da83bcfc",
-    "chapitre_id": "production-marketing",
-    "titre": "Next forecasts bigger profits after hot weather lifts sales",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-0c150a6883",
-    "chapitre_id": "production-marketing",
-    "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-a717ad38c6",
-    "chapitre_id": "production-marketing",
-    "titre": "Mixed feelings from consumers as electricity discount to be given to NI households",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-17"
   },
   {
@@ -472,22 +512,6 @@
     "date": "2026-09-15"
   },
   {
-    "id": "art-4abd561923",
-    "chapitre_id": "production-marketing",
-    "titre": "Russian warship fires flares at Danish helicopter over Baltic Sea",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b49762b0-2f8a-457d-bd3a-2820f1fff346?syn-25a6b1a6=1",
-    "date": "2026-09-15"
-  },
-  {
-    "id": "art-03edb5d63c",
-    "chapitre_id": "production-marketing",
-    "titre": "Bristol becomes first British city to ban advertisements for fast fashion",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/15/bristol-first-uk-city-to-ban-fast-fashion-adverts",
-    "date": "2026-09-15"
-  },
-  {
     "id": "art-bb47f91ade",
     "chapitre_id": "management-rh",
     "titre": "British bosses to be forced to meet with employees who request flexible working",
@@ -520,22 +544,6 @@
     "date": "2026-09-13"
   },
   {
-    "id": "art-bbf9870f01",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘Trumpism’ spawns rare unity at Brics summit",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d17cda71-1c35-4abd-b4d5-773550b109cc?syn-25a6b1a6=1",
-    "date": "2026-09-13"
-  },
-  {
-    "id": "art-162a032f2f",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-13"
-  },
-  {
     "id": "art-a8bf6032cd",
     "chapitre_id": "rse-gouvernance",
     "titre": "Mapped: the £150bn megaproject that aims to protect Britain from energy shocks",
@@ -550,14 +558,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
     "date": "2026-09-13"
-  },
-  {
-    "id": "art-2bf60c03be",
-    "chapitre_id": "relations-internationales",
-    "titre": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-    "date": "2026-09-12"
   },
   {
     "id": "art-ffc3ba4f43",
