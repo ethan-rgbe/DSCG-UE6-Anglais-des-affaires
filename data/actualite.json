@@ -1,5 +1,109 @@
 [
   {
+    "id": "art-7bff62992e",
+    "chapitre_id": "finance",
+    "titre": "Food banks 'in crisis' amid fears some may have to close",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-b1e95523da",
+    "chapitre_id": "finance",
+    "titre": "UK interest rate rise ‘increasingly likely’ if energy prices remain high, Bank of England’s Lombardelli warns, as inflation fears hit bonds – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-8980f18ec5",
+    "chapitre_id": "finance",
+    "titre": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-7f0bfc7af8",
+    "chapitre_id": "finance",
+    "titre": "Global bond sell-off deepens as oil climbs back to $105",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-153bf97c8b",
+    "chapitre_id": "finance",
+    "titre": "Emerging markets sell foreign currency bonds at record rate",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-df1b3750b2",
+    "chapitre_id": "production-marketing",
+    "titre": "What to think about when buying travel insurance",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-9490fae3f2",
+    "chapitre_id": "production-marketing",
+    "titre": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-6ebebd836f",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-05b2b49ac6",
+    "chapitre_id": "relations-internationales",
+    "titre": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-5ee21fb41e",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump’s tariff war is clobbering the Hanks of America",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/15bfe2fb-6b13-48dc-99dd-b732f3564b8f?syn-25a6b1a6=1",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-a23f76d1ff",
+    "chapitre_id": "si-technologies",
+    "titre": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-4deab65b5f",
+    "chapitre_id": "si-technologies",
+    "titre": "Australia launches investigation after OpenAI agent hacked healthcare database",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-2a495413c6",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI ‘agent’ hacked an Australian health service website",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+    "date": "2026-09-24"
+  },
+  {
     "id": "art-bec6756c6e",
     "chapitre_id": "finance",
     "titre": "Thinktank linked to Reform UK calls for abolition of state pension",
@@ -32,11 +136,51 @@
     "date": "2026-09-23"
   },
   {
+    "id": "art-d2d34a01cd",
+    "chapitre_id": "finance",
+    "titre": "Barrecore and Boom Cycle owner suddenly shuts studios",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-64b8cb3f6b",
+    "chapitre_id": "finance",
+    "titre": "Does Airtel Money mark the end of London’s listing drought? Not yet | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/23/airtel-money-london-stock-exchange-listing-drought",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-3f20824066",
+    "chapitre_id": "finance",
+    "titre": "Indian billionaire’s payments firm plots biggest London flotation in years",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+    "date": "2026-09-23"
+  },
+  {
     "id": "art-4633d3b93a",
     "chapitre_id": "production-marketing",
     "titre": "UK economic outlook brighter as new government measures will boost growth, says OECD – business live",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/live/2026/sep/23/oil-prices-fall-us-iran-talks-stock-markets-saudi-pipeline-latest-news-updates",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-a381145aff",
+    "chapitre_id": "production-marketing",
+    "titre": "£170 a bag? Protein users squeezed as prices soar",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-a9fd2a23a1",
+    "chapitre_id": "production-marketing",
+    "titre": "Trump wants AI to be rebranded as super intelligence. Will it work?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-23"
   },
   {
@@ -64,6 +208,30 @@
     "date": "2026-09-23"
   },
   {
+    "id": "art-00f03c8363",
+    "chapitre_id": "si-technologies",
+    "titre": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-37bda14af2",
+    "chapitre_id": "management-rh",
+    "titre": "McDonald’s to take on KFC and rivals as Gen Z flock to fried chicken",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/23/mcdonalds-to-take-on-chicken-shops-for-gen-zs-insatiable-appetite",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-ee9f7862db",
+    "chapitre_id": "management-rh",
+    "titre": "Legal & General to cut 1,000 jobs by mid-2027",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/23/legal-and-general-to-cut-1000-jobs-by-mid-2027",
+    "date": "2026-09-23"
+  },
+  {
     "id": "art-e1a1cdc428",
     "chapitre_id": "finance",
     "titre": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
@@ -85,30 +253,6 @@
     "titre": "How the cost of Japan’s money shapes the world",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-4f0a489ce7",
-    "chapitre_id": "finance",
-    "titre": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-671735bbfa",
-    "chapitre_id": "finance",
-    "titre": "Pay rent, eat or keep warm? Growing numbers face hard choices as housing benefit gap grows",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/23/pay-rent-eat-or-keep-warm-growing-numbers-face-hard-choices-as-housing-benefit-gap-grows",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-1acb0cfa9d",
-    "chapitre_id": "finance",
-    "titre": "Nick Clegg could make £30m windfall from datacentre startup Nscale flotation",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/22/nick-clegg-30m-windfall-datacentre-flotation-nscale",
     "date": "2026-09-22"
   },
   {
@@ -168,6 +312,14 @@
     "date": "2026-09-22"
   },
   {
+    "id": "art-bf1be6c5fb",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
+    "date": "2026-09-22"
+  },
+  {
     "id": "art-b65d3731b2",
     "chapitre_id": "si-technologies",
     "titre": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
@@ -206,54 +358,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
     "date": "2026-09-22"
-  },
-  {
-    "id": "art-bf1be6c5fb",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-b70c5bd78b",
-    "chapitre_id": "finance",
-    "titre": "Baby bank helping more parents in full-time work",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ckge4848pzjro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-6b7c864acd",
-    "chapitre_id": "finance",
-    "titre": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-73a23ad699",
-    "chapitre_id": "finance",
-    "titre": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-d08f796be9",
-    "chapitre_id": "finance",
-    "titre": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-b3062694f0",
-    "chapitre_id": "finance",
-    "titre": "Slide in oil prices drives rebound in battered government bonds",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-    "date": "2026-09-21"
   },
   {
     "id": "art-79829a1181",
@@ -384,22 +488,6 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-62f1759b82",
-    "chapitre_id": "production-marketing",
-    "titre": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-b222a32fe3",
-    "chapitre_id": "production-marketing",
-    "titre": "‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
-    "date": "2026-09-18"
-  },
-  {
     "id": "art-3ae36d0338",
     "chapitre_id": "relations-internationales",
     "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
@@ -424,54 +512,6 @@
     "date": "2026-09-18"
   },
   {
-    "id": "art-4da6785303",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI breached by researchers using Anthropic models",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-c1925cb65e",
-    "chapitre_id": "si-technologies",
-    "titre": "Flight chaos caused by 'millisecond' software defect, report says",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-de07ae4455",
-    "chapitre_id": "si-technologies",
-    "titre": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-39e00dd8b4",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI expects to burn $280bn by 2030",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-63da83bcfc",
-    "chapitre_id": "production-marketing",
-    "titre": "Next forecasts bigger profits after hot weather lifts sales",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-0c150a6883",
-    "chapitre_id": "production-marketing",
-    "titre": "Peers call for UK to enact tobacco-style ban on gambling advertising",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
-    "date": "2026-09-17"
-  },
-  {
     "id": "art-9417b69ea4",
     "chapitre_id": "relations-internationales",
     "titre": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
@@ -488,27 +528,11 @@
     "date": "2026-09-17"
   },
   {
-    "id": "art-4fcec229a5",
-    "chapitre_id": "relations-internationales",
-    "titre": "EU asks China to voluntarily limit hybrid car exports",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-933787255e",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on EU-Canada relations: strategic ambition with lessons for Britain | Editorial",
+    "id": "art-f19cd11f3f",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "‘It bloody works’: why the world’s oldest cheddar-maker uses a ‘milk-source’ heat pump",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-eu-canada-relations-strategic-ambition-with-lessons-for-britain",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-0af672bd92",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
+    "url": "https://www.theguardian.com/environment/2026/sep/17/milk-source-heat-pump-barbers-cheesemakers",
     "date": "2026-09-17"
   },
   {
@@ -533,14 +557,6 @@
     "titre": "Thousands of Barclays staff revolt against three-day office mandate",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/ca551e46-8ced-4e63-ace1-bdf20caedce7",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-f19cd11f3f",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "‘It bloody works’: why the world’s oldest cheddar-maker uses a ‘milk-source’ heat pump",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/17/milk-source-heat-pump-barbers-cheesemakers",
     "date": "2026-09-17"
   },
   {
@@ -646,22 +662,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
     "date": "2026-09-09"
-  },
-  {
-    "id": "art-e3bd6dc76c",
-    "chapitre_id": "management-rh",
-    "titre": "The firms turning recruitment into X Factor-style competitions",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "art-29b47676fb",
-    "chapitre_id": "management-rh",
-    "titre": "‘Everything is against us’: Jaguar Land Rover suppliers voice fears amid carmaker’s cutbacks",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/08/jaguar-land-rover-suppliers-job-cuts",
-    "date": "2026-09-08"
   },
   {
     "id": "art-2b5e7ee4f5",
