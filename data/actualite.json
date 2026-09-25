@@ -1,5 +1,85 @@
 [
   {
+    "id": "art-0aeddd1ade",
+    "chapitre_id": "finance",
+    "titre": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-f39a9e002f",
+    "chapitre_id": "finance",
+    "titre": "TalkTalk races to sell consumer and broadband arms as administration looms",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/25/talktalk-administration-deal-sell-consumer-arm",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-378cc2da2a",
+    "chapitre_id": "finance",
+    "titre": "David Beckham takes £39m dividend as World Cup deals drive record profits",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-ddcd8af844",
+    "chapitre_id": "finance",
+    "titre": "Andy Burnham talks about ‘public control’ of the utilities but it’s a minefield. We can lead him through it | Will Hutton and Andy Haldane",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/25/andy-burnham-utilities-public-ownership-nationalisation-thames-water",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-d81ce5088d",
+    "chapitre_id": "finance",
+    "titre": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/25/britain-low-paid-help-to-save-savings-scheme-cash-bonus",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-93a85d3d77",
+    "chapitre_id": "finance",
+    "titre": "No product, no problem: investors place big bets on AI neolabs",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-ff6091ef34",
+    "chapitre_id": "finance",
+    "titre": "US seizes bank accounts of payments group linked to Tether",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1477567d-64b0-431a-b707-e2a4f5a9f8dc?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-5484acab59",
+    "chapitre_id": "production-marketing",
+    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-a42f631cf3",
+    "chapitre_id": "relations-internationales",
+    "titre": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "art-f6aca114fc",
+    "chapitre_id": "si-technologies",
+    "titre": "The cheap new AI model taking aim at OpenAI and Anthropic",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
     "id": "art-7bff62992e",
     "chapitre_id": "finance",
     "titre": "Food banks 'in crisis' amid fears some may have to close",
@@ -40,6 +120,14 @@
     "date": "2026-09-24"
   },
   {
+    "id": "art-895844038d",
+    "chapitre_id": "finance",
+    "titre": "Oil price rise creates more pressure on UK policymakers before budget",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "date": "2026-09-24"
+  },
+  {
     "id": "art-df1b3750b2",
     "chapitre_id": "production-marketing",
     "titre": "What to think about when buying travel insurance",
@@ -53,6 +141,22 @@
     "titre": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-24874a6f64",
+    "chapitre_id": "production-marketing",
+    "titre": "Vistry is the laggard in a housebuilding sector full of cracks | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/24/vistry-is-the-laggard-in-a-housebuilding-sector-full-of-cracks",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-ae6e4869ed",
+    "chapitre_id": "production-marketing",
+    "titre": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
     "date": "2026-09-24"
   },
   {
@@ -80,6 +184,22 @@
     "date": "2026-09-24"
   },
   {
+    "id": "art-ceca2b4739",
+    "chapitre_id": "relations-internationales",
+    "titre": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-b7df8c4691",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+    "date": "2026-09-24"
+  },
+  {
     "id": "art-a23f76d1ff",
     "chapitre_id": "si-technologies",
     "titre": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -104,6 +224,22 @@
     "date": "2026-09-24"
   },
   {
+    "id": "art-9f9515000c",
+    "chapitre_id": "si-technologies",
+    "titre": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-0d5b24e2dd",
+    "chapitre_id": "management-rh",
+    "titre": "Amid soaring living costs, America’s biggest convenience-store chains quietly overcharge consumers",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
+    "date": "2026-09-24"
+  },
+  {
     "id": "art-bec6756c6e",
     "chapitre_id": "finance",
     "titre": "Thinktank linked to Reform UK calls for abolition of state pension",
@@ -117,46 +253,6 @@
     "titre": "How private equity ended up in limbo",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-9e89841238",
-    "chapitre_id": "finance",
-    "titre": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-d9c4166e64",
-    "chapitre_id": "finance",
-    "titre": "Global banks warn UK windfall tax will trigger shift away from London",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-d2d34a01cd",
-    "chapitre_id": "finance",
-    "titre": "Barrecore and Boom Cycle owner suddenly shuts studios",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-64b8cb3f6b",
-    "chapitre_id": "finance",
-    "titre": "Does Airtel Money mark the end of London’s listing drought? Not yet | Nils Pratley",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/23/airtel-money-london-stock-exchange-listing-drought",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-3f20824066",
-    "chapitre_id": "finance",
-    "titre": "Indian billionaire’s payments firm plots biggest London flotation in years",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
     "date": "2026-09-23"
   },
   {
@@ -200,19 +296,19 @@
     "date": "2026-09-23"
   },
   {
-    "id": "art-1bc0c95166",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
-    "date": "2026-09-23"
-  },
-  {
     "id": "art-00f03c8363",
     "chapitre_id": "si-technologies",
     "titre": "US rejects pleas from OpenAI, Anthropic for global AI standards",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-1bc0c95166",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
     "date": "2026-09-23"
   },
   {
@@ -230,30 +326,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/23/legal-and-general-to-cut-1000-jobs-by-mid-2027",
     "date": "2026-09-23"
-  },
-  {
-    "id": "art-e1a1cdc428",
-    "chapitre_id": "finance",
-    "titre": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-b9a6766ada",
-    "chapitre_id": "finance",
-    "titre": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-da9a851401",
-    "chapitre_id": "finance",
-    "titre": "How the cost of Japan’s money shapes the world",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
-    "date": "2026-09-22"
   },
   {
     "id": "art-9575e51108",
@@ -312,14 +384,6 @@
     "date": "2026-09-22"
   },
   {
-    "id": "art-bf1be6c5fb",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
-    "date": "2026-09-22"
-  },
-  {
     "id": "art-b65d3731b2",
     "chapitre_id": "si-technologies",
     "titre": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
@@ -349,6 +413,14 @@
     "titre": "DoorDash to pay $131.5m after underpaying New York workers",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "art-bf1be6c5fb",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
     "date": "2026-09-22"
   },
   {
@@ -416,14 +488,6 @@
     "date": "2026-09-20"
   },
   {
-    "id": "art-4450f1b953",
-    "chapitre_id": "production-marketing",
-    "titre": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
-    "date": "2026-09-19"
-  },
-  {
     "id": "art-b27fb7cf65",
     "chapitre_id": "si-technologies",
     "titre": "Google says its Gemini AI model hacked three other companies",
@@ -464,68 +528,12 @@
     "date": "2026-09-19"
   },
   {
-    "id": "art-461d6033fa",
-    "chapitre_id": "si-technologies",
-    "titre": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
-    "date": "2026-09-19"
-  },
-  {
-    "id": "art-d1ada034b3",
-    "chapitre_id": "production-marketing",
-    "titre": "Marks and Spencer’s first LFW catwalk gamble pays off with compelling looks at affordable prices",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/18/marks-and-spencer-london-fashion-week-catwalk-show",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-b8d578a684",
-    "chapitre_id": "production-marketing",
-    "titre": "The Guardian view on youth unemployment: too few jobs in too many places | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-youth-unemployment-too-few-jobs-in-too-many-places",
-    "date": "2026-09-18"
-  },
-  {
     "id": "art-3ae36d0338",
     "chapitre_id": "relations-internationales",
     "titre": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
     "date": "2026-09-18"
-  },
-  {
-    "id": "art-ca6229b82c",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-3b3ab37419",
-    "chapitre_id": "si-technologies",
-    "titre": "Is Trump’s AI obsession walking the world into disaster? – podcast",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "art-9417b69ea4",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-02f2864bd6",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
-    "date": "2026-09-17"
   },
   {
     "id": "art-f19cd11f3f",
@@ -653,14 +661,6 @@
     "titre": "The one thing you need to do to succeed - according to top bosses",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "art-f48811015b",
-    "chapitre_id": "management-rh",
-    "titre": "Chancellor urged to fix £100k childcare ‘cliff edge’ that prompts parents to cut work",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
     "date": "2026-09-09"
   },
   {
