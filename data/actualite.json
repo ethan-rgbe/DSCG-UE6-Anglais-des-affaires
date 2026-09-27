@@ -1,10 +1,98 @@
 [
   {
+    "id": "art-9369d030a3",
+    "chapitre_id": "finance",
+    "titre": "Baby bank's urgent appeal as demand for help grows",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-3199798a12",
+    "chapitre_id": "finance",
+    "titre": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-c68a4ccfa5",
+    "chapitre_id": "finance",
+    "titre": "Burnham’s plan for a radical reset collides with economic reality",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-e74b7cd210",
+    "chapitre_id": "finance",
+    "titre": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-f659eaa8d4",
+    "chapitre_id": "finance",
+    "titre": "US housing crunch puts private equity in midterm campaign crosshairs",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-2194e0f18e",
+    "chapitre_id": "finance",
+    "titre": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-e645431cd7",
+    "chapitre_id": "finance",
+    "titre": "Big dreams and tiny revenue are the new norm for AI IPOs",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-dc8519d42a",
+    "chapitre_id": "relations-internationales",
+    "titre": "The India shock: exporting workers to the world",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-39a25a6a4d",
+    "chapitre_id": "si-technologies",
+    "titre": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-94f71de01c",
+    "chapitre_id": "management-rh",
+    "titre": "Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour",
+    "date": "2026-09-27"
+  },
+  {
     "id": "art-3208b74d3a",
     "chapitre_id": "finance",
     "titre": "Foreign capital flows into US stocks hit record as appetite for debt fades",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "art-a568e5946f",
+    "chapitre_id": "finance",
+    "titre": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
     "date": "2026-09-26"
   },
   {
@@ -21,6 +109,14 @@
     "titre": "Purple reins: Philippine export ban casts shadow over UK’s love of ube",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/food/2026/sep/26/philippine-export-ban-casts-shadow-over-uks-love-of-ube",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "art-2d8f15f6eb",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
     "date": "2026-09-26"
   },
   {
@@ -45,6 +141,14 @@
     "titre": "Could an iced coffee freeze you out of the job market?",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "art-b124b16b54",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "London transfer: is it time to kill off the Heathrow Express?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/26/kill-off-heathrow-express-airport-train-third-runway",
     "date": "2026-09-26"
   },
   {
@@ -93,54 +197,6 @@
     "titre": "No product, no problem: investors place big bets on AI neolabs",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-ff6091ef34",
-    "chapitre_id": "finance",
-    "titre": "US seizes bank accounts of payments group linked to Tether",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/1477567d-64b0-431a-b707-e2a4f5a9f8dc?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-b0cbf76692",
-    "chapitre_id": "finance",
-    "titre": "Save or Overpay? What to do with your mortgage if interest rates rise",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-9825e4caaa",
-    "chapitre_id": "finance",
-    "titre": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-ae108346f4",
-    "chapitre_id": "finance",
-    "titre": "Healey appoints Labour manifesto writer, adding to election speculation",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-a19e7b5d4e",
-    "chapitre_id": "finance",
-    "titre": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-42133567a2",
-    "chapitre_id": "finance",
-    "titre": "Bond ructions point to new danger zone in markets",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
     "date": "2026-09-25"
   },
   {
@@ -206,22 +262,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "date": "2026-09-25"
-  },
-  {
-    "id": "art-7bff62992e",
-    "chapitre_id": "finance",
-    "titre": "Food banks 'in crisis' amid fears some may have to close",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-b1e95523da",
-    "chapitre_id": "finance",
-    "titre": "UK interest rate rise ‘increasingly likely’ if energy prices remain high, Bank of England’s Lombardelli warns, as inflation fears hit bonds – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
-    "date": "2026-09-24"
   },
   {
     "id": "art-df1b3750b2",
@@ -488,14 +528,6 @@
     "date": "2026-09-22"
   },
   {
-    "id": "art-9977e202c4",
-    "chapitre_id": "si-technologies",
-    "titre": "DoorDash to pay $131.5m after underpaying New York workers",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
-    "date": "2026-09-22"
-  },
-  {
     "id": "art-01acdb8d88",
     "chapitre_id": "management-rh",
     "titre": "Keeping billionaires and the taxman happy | Letters",
@@ -525,22 +557,6 @@
     "titre": "‘RAMageddon’: tech crunch hikes the price of your next iPhone by £100",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/sep/21/ramageddon-apple-iphone-price-increase-chip-shortage",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-f39327ac5a",
-    "chapitre_id": "relations-internationales",
-    "titre": "How Saudi oil scientists ended up working on the world’s most important climate reports",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/21/saudi-arabia-aramco-oil-scientists-ipcc-climate-reports",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-6ed2d32b06",
-    "chapitre_id": "relations-internationales",
-    "titre": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
     "date": "2026-09-21"
   },
   {
@@ -664,14 +680,6 @@
     "date": "2026-09-11"
   },
   {
-    "id": "art-52f2766d68",
-    "chapitre_id": "management-rh",
-    "titre": "Pilots tried to abort landing seconds before deadly Amazon cargo plane crash that killed five",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/08/amazon-cargo-plane-crash-victims",
-    "date": "2026-09-09"
-  },
-  {
     "id": "art-2b5e7ee4f5",
     "chapitre_id": "rse-gouvernance",
     "titre": "Iran to raise petrol prices as US war triggers shortages",
@@ -773,14 +781,6 @@
     "titre": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
-    "date": "2026-08-25"
-  },
-  {
-    "id": "art-2ca5505da5",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Fishy business: who really profits when sardines go viral? - video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/video/2026/aug/25/fishy-business-who-really-profits-when-sardines-go-viral-video",
     "date": "2026-08-25"
   },
   {
