@@ -1,5 +1,85 @@
 [
   {
+    "id": "art-42631673d5",
+    "chapitre_id": "finance",
+    "titre": "UK diesel prices hit record high at 199.18p a litre; housebuilder stocks surge on new homes scheme – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/28/uk-housebuilders-stocks-new-homes-scheme-first-time-buyers-business-live-news",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-13895a8178",
+    "chapitre_id": "finance",
+    "titre": "Healey vows to stick to fiscal rules in budget built on hope",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-5463c15a2f",
+    "chapitre_id": "finance",
+    "titre": "Should you lock into a fixed-rate savings account paying 5.25%?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-ef703ec8d2",
+    "chapitre_id": "finance",
+    "titre": "For once, the Fed has put Main Street before Wall Street",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-b61f777e97",
+    "chapitre_id": "finance",
+    "titre": "Bond sell-off deepens as oil rises above $108",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-b29eab192e",
+    "chapitre_id": "finance",
+    "titre": "World’s worst-performing market slashes minimum price for stocks",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-7572b8575a",
+    "chapitre_id": "relations-internationales",
+    "titre": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-742cfb9a6d",
+    "chapitre_id": "si-technologies",
+    "titre": "AI leaders have known about the extinction threat for decades | Judith Levine",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-5b0e354a3e",
+    "chapitre_id": "management-rh",
+    "titre": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "art-82158ad771",
+    "chapitre_id": "production-marketing",
+    "titre": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
+    "date": "2026-09-28"
+  },
+  {
     "id": "art-9369d030a3",
     "chapitre_id": "finance",
     "titre": "Baby bank's urgent appeal as demand for help grows",
@@ -18,7 +98,7 @@
   {
     "id": "art-c68a4ccfa5",
     "chapitre_id": "finance",
-    "titre": "Burnham’s plan for a radical reset collides with economic reality",
+    "titre": "Burnham’s plan for a radical reset collides with economic reality | Heather Stewart",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality",
     "date": "2026-09-27"
@@ -56,6 +136,22 @@
     "date": "2026-09-27"
   },
   {
+    "id": "art-3c6bb9508d",
+    "chapitre_id": "finance",
+    "titre": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "art-55177db2a4",
+    "chapitre_id": "finance",
+    "titre": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
+    "date": "2026-09-27"
+  },
+  {
     "id": "art-dc8519d42a",
     "chapitre_id": "relations-internationales",
     "titre": "The India shock: exporting workers to the world",
@@ -78,30 +174,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour",
     "date": "2026-09-27"
-  },
-  {
-    "id": "art-3208b74d3a",
-    "chapitre_id": "finance",
-    "titre": "Foreign capital flows into US stocks hit record as appetite for debt fades",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
-    "date": "2026-09-26"
-  },
-  {
-    "id": "art-a568e5946f",
-    "chapitre_id": "finance",
-    "titre": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
-    "date": "2026-09-26"
-  },
-  {
-    "id": "art-d11a6b6af9",
-    "chapitre_id": "production-marketing",
-    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
-    "date": "2026-09-26"
   },
   {
     "id": "art-56878e603a",
@@ -144,68 +216,20 @@
     "date": "2026-09-26"
   },
   {
+    "id": "art-d11a6b6af9",
+    "chapitre_id": "production-marketing",
+    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
+    "date": "2026-09-26"
+  },
+  {
     "id": "art-b124b16b54",
     "chapitre_id": "rse-gouvernance",
     "titre": "London transfer: is it time to kill off the Heathrow Express?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/sep/26/kill-off-heathrow-express-airport-train-third-runway",
     "date": "2026-09-26"
-  },
-  {
-    "id": "art-0aeddd1ade",
-    "chapitre_id": "finance",
-    "titre": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-f39a9e002f",
-    "chapitre_id": "finance",
-    "titre": "TalkTalk races to sell consumer and broadband arms as administration looms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/25/talktalk-administration-deal-sell-consumer-arm",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-378cc2da2a",
-    "chapitre_id": "finance",
-    "titre": "David Beckham takes £39m dividend as World Cup deals drive record profits",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-ddcd8af844",
-    "chapitre_id": "finance",
-    "titre": "Andy Burnham talks about ‘public control’ of the utilities but it’s a minefield. We can lead him through it | Will Hutton and Andy Haldane",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/25/andy-burnham-utilities-public-ownership-nationalisation-thames-water",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-d81ce5088d",
-    "chapitre_id": "finance",
-    "titre": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/25/britain-low-paid-help-to-save-savings-scheme-cash-bonus",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-93a85d3d77",
-    "chapitre_id": "finance",
-    "titre": "No product, no problem: investors place big bets on AI neolabs",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-5484acab59",
-    "chapitre_id": "production-marketing",
-    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
-    "date": "2026-09-25"
   },
   {
     "id": "art-a42f631cf3",
@@ -256,44 +280,20 @@
     "date": "2026-09-25"
   },
   {
+    "id": "art-5484acab59",
+    "chapitre_id": "production-marketing",
+    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
+    "date": "2026-09-25"
+  },
+  {
     "id": "art-9147b3991b",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘We can’t ride this storm’: the English farmers facing uncertainty after sustainability funding runs dry",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "date": "2026-09-25"
-  },
-  {
-    "id": "art-df1b3750b2",
-    "chapitre_id": "production-marketing",
-    "titre": "What to think about when buying travel insurance",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-9490fae3f2",
-    "chapitre_id": "production-marketing",
-    "titre": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-24874a6f64",
-    "chapitre_id": "production-marketing",
-    "titre": "Vistry is the laggard in a housebuilding sector full of cracks | Nils Pratley",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/24/vistry-is-the-laggard-in-a-housebuilding-sector-full-of-cracks",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-ae6e4869ed",
-    "chapitre_id": "production-marketing",
-    "titre": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
-    "date": "2026-09-24"
   },
   {
     "id": "art-6ebebd836f",
@@ -376,28 +376,36 @@
     "date": "2026-09-24"
   },
   {
-    "id": "art-4633d3b93a",
+    "id": "art-df1b3750b2",
     "chapitre_id": "production-marketing",
-    "titre": "UK economic outlook brighter as new government measures will boost growth, says OECD – business live",
+    "titre": "What to think about when buying travel insurance",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "art-9490fae3f2",
+    "chapitre_id": "production-marketing",
+    "titre": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/23/oil-prices-fall-us-iran-talks-stock-markets-saudi-pipeline-latest-news-updates",
-    "date": "2026-09-23"
+    "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
+    "date": "2026-09-24"
   },
   {
-    "id": "art-a381145aff",
+    "id": "art-24874a6f64",
     "chapitre_id": "production-marketing",
-    "titre": "£170 a bag? Protein users squeezed as prices soar",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23"
+    "titre": "Vistry is the laggard in a housebuilding sector full of cracks | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/24/vistry-is-the-laggard-in-a-housebuilding-sector-full-of-cracks",
+    "date": "2026-09-24"
   },
   {
-    "id": "art-a9fd2a23a1",
+    "id": "art-ae6e4869ed",
     "chapitre_id": "production-marketing",
-    "titre": "Trump wants AI to be rebranded as super intelligence. Will it work?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23"
+    "titre": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
+    "date": "2026-09-24"
   },
   {
     "id": "art-b45e568651",
@@ -440,12 +448,76 @@
     "date": "2026-09-23"
   },
   {
+    "id": "art-4633d3b93a",
+    "chapitre_id": "production-marketing",
+    "titre": "UK economic outlook brighter as new government measures will boost growth, says OECD – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/23/oil-prices-fall-us-iran-talks-stock-markets-saudi-pipeline-latest-news-updates",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-a381145aff",
+    "chapitre_id": "production-marketing",
+    "titre": "£170 a bag? Protein users squeezed as prices soar",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "art-a9fd2a23a1",
+    "chapitre_id": "production-marketing",
+    "titre": "Trump wants AI to be rebranded as super intelligence. Will it work?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-23"
+  },
+  {
     "id": "art-1bc0c95166",
     "chapitre_id": "rse-gouvernance",
     "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
     "date": "2026-09-23"
+  },
+  {
+    "id": "art-ae54a5a380",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "art-21b8cb5425",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump says he would back ban on diesel exports",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "art-b65d3731b2",
+    "chapitre_id": "si-technologies",
+    "titre": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "art-3dd2c0acf2",
+    "chapitre_id": "si-technologies",
+    "titre": "AI staff complain of mental toll over fears of threat to society",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "art-01acdb8d88",
+    "chapitre_id": "management-rh",
+    "titre": "Keeping billionaires and the taxman happy | Letters",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
+    "date": "2026-09-22"
   },
   {
     "id": "art-9575e51108",
@@ -480,62 +552,6 @@
     "date": "2026-09-22"
   },
   {
-    "id": "art-ae54a5a380",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-21b8cb5425",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump says he would back ban on diesel exports",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-cc9a5af686",
-    "chapitre_id": "relations-internationales",
-    "titre": "Why the civil war in Yemen has world governments on edge",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/video/2026/sep/22/how-the-civil-war-in-yemen-could-affect-global-shipping-routes-explainer",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-b65d3731b2",
-    "chapitre_id": "si-technologies",
-    "titre": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-3dd2c0acf2",
-    "chapitre_id": "si-technologies",
-    "titre": "AI staff complain of mental toll over fears of threat to society",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-eba1020313",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI sued by Canadian province over role in mass shooting",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-01acdb8d88",
-    "chapitre_id": "management-rh",
-    "titre": "Keeping billionaires and the taxman happy | Letters",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
-    "date": "2026-09-22"
-  },
-  {
     "id": "art-bf1be6c5fb",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
@@ -544,27 +560,19 @@
     "date": "2026-09-22"
   },
   {
-    "id": "art-79829a1181",
-    "chapitre_id": "production-marketing",
-    "titre": "Google fined more than €400m by Irish regulator over its use of location data",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-1552f4465c",
-    "chapitre_id": "production-marketing",
-    "titre": "‘RAMageddon’: tech crunch hikes the price of your next iPhone by £100",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/21/ramageddon-apple-iphone-price-increase-chip-shortage",
-    "date": "2026-09-21"
-  },
-  {
     "id": "art-37e5956680",
     "chapitre_id": "management-rh",
     "titre": "Black Tesla employees accuse company of fostering racial discrimination in major trial",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "art-79829a1181",
+    "chapitre_id": "production-marketing",
+    "titre": "Google fined more than €400m by Irish regulator over its use of location data",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
     "date": "2026-09-21"
   },
   {
@@ -654,14 +662,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
     "date": "2026-09-12"
-  },
-  {
-    "id": "art-1bd1d55078",
-    "chapitre_id": "management-rh",
-    "titre": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
-    "date": "2026-09-11"
   },
   {
     "id": "art-664b30eb31",
