@@ -1,5 +1,117 @@
 [
   {
+    "id": "art-bc8d78bfb3",
+    "chapitre_id": "finance",
+    "titre": "What is the triple lock and why are people talking about it?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-47b86b9fcc",
+    "chapitre_id": "finance",
+    "titre": "UK mortgage approvals lowest since December 2023; diesel hits new record high near £2 a litre – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-c2e171abcf",
+    "chapitre_id": "finance",
+    "titre": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-b63acf3536",
+    "chapitre_id": "finance",
+    "titre": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-d8140fccf6",
+    "chapitre_id": "finance",
+    "titre": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-1031f46085",
+    "chapitre_id": "finance",
+    "titre": "RBA interest rates: Reserve Bank raises cash rate to highest level in 15 years and warns of more hikes ‘if needed’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-e9d464e89c",
+    "chapitre_id": "finance",
+    "titre": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.6% – video",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/video/2026/sep/29/rba-interest-rates-governor-michele-bullock-explains-decision-to-lift-cash-rate-to-46-video",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-779aa965e9",
+    "chapitre_id": "finance",
+    "titre": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-30508ff6ca",
+    "chapitre_id": "finance",
+    "titre": "Bond investors become oil traders as Iran war drives yields",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-75c9965721",
+    "chapitre_id": "relations-internationales",
+    "titre": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-fc6d09ec16",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK tries to stop Trump's diesel export ban",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-fb9c5ac6a0",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI scraps rollout of new model over safety concerns",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-37818405e5",
+    "chapitre_id": "si-technologies",
+    "titre": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-cbc27f2c2f",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI axes next model citing safety issues",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+    "date": "2026-09-29"
+  },
+  {
     "id": "art-42631673d5",
     "chapitre_id": "finance",
     "titre": "UK diesel prices hit record high at 199.18p a litre; housebuilder stocks surge on new homes scheme – business live",
@@ -56,6 +168,14 @@
     "date": "2026-09-28"
   },
   {
+    "id": "art-e549bee238",
+    "chapitre_id": "relations-internationales",
+    "titre": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
+    "date": "2026-09-28"
+  },
+  {
     "id": "art-742cfb9a6d",
     "chapitre_id": "si-technologies",
     "titre": "AI leaders have known about the extinction threat for decades | Judith Levine",
@@ -80,76 +200,12 @@
     "date": "2026-09-28"
   },
   {
-    "id": "art-9369d030a3",
-    "chapitre_id": "finance",
-    "titre": "Baby bank's urgent appeal as demand for help grows",
+    "id": "art-981543694b",
+    "chapitre_id": "production-marketing",
+    "titre": "What a US diesel export ban could mean for you",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-3199798a12",
-    "chapitre_id": "finance",
-    "titre": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-c68a4ccfa5",
-    "chapitre_id": "finance",
-    "titre": "Burnham’s plan for a radical reset collides with economic reality | Heather Stewart",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-e74b7cd210",
-    "chapitre_id": "finance",
-    "titre": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-f659eaa8d4",
-    "chapitre_id": "finance",
-    "titre": "US housing crunch puts private equity in midterm campaign crosshairs",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-2194e0f18e",
-    "chapitre_id": "finance",
-    "titre": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-e645431cd7",
-    "chapitre_id": "finance",
-    "titre": "Big dreams and tiny revenue are the new norm for AI IPOs",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-3c6bb9508d",
-    "chapitre_id": "finance",
-    "titre": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "art-55177db2a4",
-    "chapitre_id": "finance",
-    "titre": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
-    "date": "2026-09-27"
+    "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28"
   },
   {
     "id": "art-dc8519d42a",
@@ -416,22 +472,6 @@
     "date": "2026-09-23"
   },
   {
-    "id": "art-6d1c9f15aa",
-    "chapitre_id": "relations-internationales",
-    "titre": "Europe frets about Trump. But soon he could be the least of our problems | Mujtaba Rahman",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/23/europe-frets-about-trump-but-soon-he-could-be-the-least-of-our-problems",
-    "date": "2026-09-23"
-  },
-  {
-    "id": "art-00f03c8363",
-    "chapitre_id": "si-technologies",
-    "titre": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23"
-  },
-  {
     "id": "art-37bda14af2",
     "chapitre_id": "management-rh",
     "titre": "McDonald’s to take on KFC and rivals as Gen Z flock to fried chicken",
@@ -478,38 +518,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
     "date": "2026-09-23"
-  },
-  {
-    "id": "art-ae54a5a380",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-21b8cb5425",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump says he would back ban on diesel exports",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-b65d3731b2",
-    "chapitre_id": "si-technologies",
-    "titre": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-3dd2c0acf2",
-    "chapitre_id": "si-technologies",
-    "titre": "AI staff complain of mental toll over fears of threat to society",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
-    "date": "2026-09-22"
   },
   {
     "id": "art-01acdb8d88",
@@ -565,14 +573,6 @@
     "titre": "Black Tesla employees accuse company of fostering racial discrimination in major trial",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
-    "date": "2026-09-21"
-  },
-  {
-    "id": "art-79829a1181",
-    "chapitre_id": "production-marketing",
-    "titre": "Google fined more than €400m by Irish regulator over its use of location data",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
     "date": "2026-09-21"
   },
   {
