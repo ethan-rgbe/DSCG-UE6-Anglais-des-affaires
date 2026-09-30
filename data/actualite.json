@@ -1,5 +1,93 @@
 [
   {
+    "id": "art-382be26f4d",
+    "chapitre_id": "finance",
+    "titre": "Facing the future without the 'bank of mum and dad'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ck7902ejw10vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-490df9dbad",
+    "chapitre_id": "finance",
+    "titre": "UK economy ‘slightly larger’ than previously thought; diesel on brink of £2 a litre for first time – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-cbcc5b414c",
+    "chapitre_id": "finance",
+    "titre": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-5f933cc7c2",
+    "chapitre_id": "finance",
+    "titre": "Poundland management in talks to lead bid that could save 11,000 jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-bc07f78cc6",
+    "chapitre_id": "relations-internationales",
+    "titre": "Andy Burnham wants to review the UK’s relationship with the EU. What are the options?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-74a5c0e9df",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘Beyond priceless’: how a halt to dredging saved the seas of Scotland’s Summer Isles",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/30/beyond-priceless-how-a-halt-to-dredging-saved-the-seas-of-scotlands-summer-isles",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-bfc5fb612e",
+    "chapitre_id": "relations-internationales",
+    "titre": "White House holds crunch talks on diesel export ban as midterms near",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-3dd1698aa5",
+    "chapitre_id": "relations-internationales",
+    "titre": "Russia extends diesel export ban",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/fc705366-9a91-4e99-9c07-e962dca6354b?syn-25a6b1a6=1",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-079a25e859",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-85e0109e9c",
+    "chapitre_id": "management-rh",
+    "titre": "Prosecco pratfalls and coffee catastrophes: Neets are missing out on formative first-job experiences | Isabel Brooks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/30/neets-formative-first-job-experiences-hospitality-industry",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-a20db36fde",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
+    "date": "2026-09-30"
+  },
+  {
     "id": "art-bc8d78bfb3",
     "chapitre_id": "finance",
     "titre": "What is the triple lock and why are people talking about it?",
@@ -72,9 +160,25 @@
     "date": "2026-09-29"
   },
   {
+    "id": "art-6c23dfafec",
+    "chapitre_id": "finance",
+    "titre": "Oura pulls $15bn stock market listing days after announcement",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-537504999c",
+    "chapitre_id": "finance",
+    "titre": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
+    "date": "2026-09-29"
+  },
+  {
     "id": "art-75c9965721",
     "chapitre_id": "relations-internationales",
-    "titre": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+    "titre": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29"
@@ -85,6 +189,22 @@
     "titre": "UK tries to stop Trump's diesel export ban",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-435f46c5df",
+    "chapitre_id": "relations-internationales",
+    "titre": "The Guardian view on Andy Burnham: grounds to hope for a better Britain | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "art-7a38d96229",
+    "chapitre_id": "relations-internationales",
+    "titre": "Diesel export ban: will Trump push global energy prices even higher? - The Latest",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/video/2026/sep/29/diesel-export-ban-will-trump-push-global-energy-prices-even-higher-the-latest",
     "date": "2026-09-29"
   },
   {
@@ -112,52 +232,52 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-42631673d5",
-    "chapitre_id": "finance",
-    "titre": "UK diesel prices hit record high at 199.18p a litre; housebuilder stocks surge on new homes scheme – business live",
+    "id": "art-73f5aaeae0",
+    "chapitre_id": "si-technologies",
+    "titre": "Even George Osborne might be a nimby if an AI datacentre was built next to his home | Letters",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/28/uk-housebuilders-stocks-new-homes-scheme-first-time-buyers-business-live-news",
-    "date": "2026-09-28"
+    "url": "https://www.theguardian.com/uk-news/2026/sep/29/even-george-osborne-might-be-a-nimby-if-an-ai-datacente-was-built-next-to-his-home",
+    "date": "2026-09-29"
   },
   {
-    "id": "art-13895a8178",
-    "chapitre_id": "finance",
-    "titre": "Healey vows to stick to fiscal rules in budget built on hope",
+    "id": "art-5a2715891f",
+    "chapitre_id": "management-rh",
+    "titre": "Barclays softens return-to-office plans for UK staff after backlash",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-    "date": "2026-09-28"
+    "url": "https://www.theguardian.com/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
+    "date": "2026-09-29"
   },
   {
-    "id": "art-5463c15a2f",
-    "chapitre_id": "finance",
-    "titre": "Should you lock into a fixed-rate savings account paying 5.25%?",
+    "id": "art-8070b36ca4",
+    "chapitre_id": "management-rh",
+    "titre": "Soho House launches investigation after out-of-date food mislabelled in kitchen",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
-    "date": "2026-09-28"
+    "url": "https://www.theguardian.com/business/2026/sep/29/soho-house-launches-investigation-out-of-date-food-shoreditch",
+    "date": "2026-09-29"
   },
   {
-    "id": "art-ef703ec8d2",
-    "chapitre_id": "finance",
-    "titre": "For once, the Fed has put Main Street before Wall Street",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
-    "date": "2026-09-28"
+    "id": "art-f7c6960ffb",
+    "chapitre_id": "production-marketing",
+    "titre": "Huel ad banned for suggesting its products could replace all meals",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29"
   },
   {
-    "id": "art-b61f777e97",
-    "chapitre_id": "finance",
-    "titre": "Bond sell-off deepens as oil rises above $108",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
-    "date": "2026-09-28"
+    "id": "art-a3b9fe80a6",
+    "chapitre_id": "production-marketing",
+    "titre": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+    "date": "2026-09-29"
   },
   {
-    "id": "art-b29eab192e",
-    "chapitre_id": "finance",
-    "titre": "World’s worst-performing market slashes minimum price for stocks",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
-    "date": "2026-09-28"
+    "id": "art-16e2061743",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+    "date": "2026-09-29"
   },
   {
     "id": "art-7572b8575a",
@@ -352,46 +472,6 @@
     "date": "2026-09-25"
   },
   {
-    "id": "art-6ebebd836f",
-    "chapitre_id": "relations-internationales",
-    "titre": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-05b2b49ac6",
-    "chapitre_id": "relations-internationales",
-    "titre": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-5ee21fb41e",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump’s tariff war is clobbering the Hanks of America",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/15bfe2fb-6b13-48dc-99dd-b732f3564b8f?syn-25a6b1a6=1",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-ceca2b4739",
-    "chapitre_id": "relations-internationales",
-    "titre": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-b7df8c4691",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
-    "date": "2026-09-24"
-  },
-  {
     "id": "art-a23f76d1ff",
     "chapitre_id": "si-technologies",
     "titre": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -405,22 +485,6 @@
     "titre": "Australia launches investigation after OpenAI agent hacked healthcare database",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-2a495413c6",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI ‘agent’ hacked an Australian health service website",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-9f9515000c",
-    "chapitre_id": "si-technologies",
-    "titre": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-24"
   },
   {
@@ -462,14 +526,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
     "date": "2026-09-24"
-  },
-  {
-    "id": "art-b45e568651",
-    "chapitre_id": "relations-internationales",
-    "titre": "AI looms large over Trump-Xi meeting amid deep distrust between US and China",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics",
-    "date": "2026-09-23"
   },
   {
     "id": "art-37bda14af2",
@@ -544,22 +600,6 @@
     "date": "2026-09-22"
   },
   {
-    "id": "art-86f36a0540",
-    "chapitre_id": "production-marketing",
-    "titre": "Business Daily",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct98sh?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-b027975dc5",
-    "chapitre_id": "production-marketing",
-    "titre": "Fancy a pint … at Lidl? The bizarre battle over Northern Ireland’s stifled nightlife",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/music/2026/sep/22/northern-ireland-nightlife-lidl",
-    "date": "2026-09-22"
-  },
-  {
     "id": "art-bf1be6c5fb",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
@@ -616,22 +656,6 @@
     "date": "2026-09-16"
   },
   {
-    "id": "art-08eed928b1",
-    "chapitre_id": "management-rh",
-    "titre": "The US government is failing Americans on AI | Shakeel Hashim",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
-    "date": "2026-09-16"
-  },
-  {
-    "id": "art-bb47f91ade",
-    "chapitre_id": "management-rh",
-    "titre": "British bosses to be forced to meet with employees who request flexible working",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/law/2026/sep/15/british-bosses-meeting-request-flexible-working-louise-haigh",
-    "date": "2026-09-15"
-  },
-  {
     "id": "art-8c12ce6064",
     "chapitre_id": "compta-audit",
     "titre": "Help-to-buy scheme delivered ‘very high value for money’, review finds",
@@ -654,14 +678,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
     "date": "2026-09-13"
-  },
-  {
-    "id": "art-ffc3ba4f43",
-    "chapitre_id": "management-rh",
-    "titre": "We know how to prevent black lung, so why are workers still dying?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
-    "date": "2026-09-12"
   },
   {
     "id": "art-664b30eb31",
@@ -760,28 +776,12 @@
     "date": "2026-08-29"
   },
   {
-    "id": "art-02c644e173",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia",
-    "date": "2026-08-27"
-  },
-  {
     "id": "art-3da5b68e54",
     "chapitre_id": "compta-audit",
     "titre": "AI-proof? Younger workers desert the digital world for traditional crafts",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
     "date": "2026-08-27"
-  },
-  {
-    "id": "art-198b3cd8a8",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
-    "date": "2026-08-25"
   },
   {
     "id": "art-1d4cc92e34",
