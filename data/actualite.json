@@ -1,5 +1,101 @@
 [
   {
+    "id": "art-e9650d363a",
+    "chapitre_id": "finance",
+    "titre": "AI boom could trigger market shocks, Bank of England boss warns",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-b7fa08b585",
+    "chapitre_id": "finance",
+    "titre": "UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-eb2d428f57",
+    "chapitre_id": "finance",
+    "titre": "Boots owner ‘closing in on sale to Canada’s Weston family for $9bn’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/01/boots-owner-sale-canada-weston-family",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-b0b1e706be",
+    "chapitre_id": "finance",
+    "titre": "UK house price growth halves amid rising mortgage interest rates",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-97056dc6b0",
+    "chapitre_id": "finance",
+    "titre": "First home buyers with big loans among those most at risk of falling into negative equity, RBA warns",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-e5f21de88f",
+    "chapitre_id": "finance",
+    "titre": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-ab256db802",
+    "chapitre_id": "finance",
+    "titre": "Four potential positives from higher bond yields",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-7b4a8fc04c",
+    "chapitre_id": "finance",
+    "titre": "Accenture shares surge as consultancy boosts sales",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-89dd7716ef",
+    "chapitre_id": "finance",
+    "titre": "Auditor RSM explores IPO to ward off private equity-backed rivals",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3a3334fb-981d-4cd3-9f35-e3289578b0fa?syn-25a6b1a6=1",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-be09ed9205",
+    "chapitre_id": "relations-internationales",
+    "titre": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-9d74e08c46",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI’s agents obscured hacking activity in government site breaches",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/11502a49-5319-4df5-95ea-2d76669c31a6?syn-25a6b1a6=1",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "art-7256ec82b4",
+    "chapitre_id": "production-marketing",
+    "titre": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01"
+  },
+  {
     "id": "art-382be26f4d",
     "chapitre_id": "finance",
     "titre": "Facing the future without the 'bank of mum and dad'",
@@ -29,6 +125,22 @@
     "titre": "Poundland management in talks to lead bid that could save 11,000 jobs",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-99c4c2b41f",
+    "chapitre_id": "finance",
+    "titre": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-acc9596904",
+    "chapitre_id": "finance",
+    "titre": "UK banks are Europe’s biggest coal financiers, report finds",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/sep/30/uk-banks-are-europe-biggest-providers-coal-financing-report-finds",
     "date": "2026-09-30"
   },
   {
@@ -64,11 +176,51 @@
     "date": "2026-09-30"
   },
   {
+    "id": "art-2031d98b40",
+    "chapitre_id": "relations-internationales",
+    "titre": "Government must stop dithering over energy bill support for the vulnerable | Nils Pratley",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/30/energy-bill-support-social-tariff-warm-homes-discount",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-94180eb69d",
+    "chapitre_id": "relations-internationales",
+    "titre": "I heard one thing loud and clear in Andy Burnham’s landmark speech: the left has won the arguments | Owen Jones",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-7f38aa7f3c",
+    "chapitre_id": "relations-internationales",
+    "titre": "No 10 gathering evidence on public support for UK rejoining EU",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-b714c8262e",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘So much uncertainty’: Michigan’s Arab American businesses navigate Trump’s Canada trade war",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/michigan-arab-american-business-trump-canada-trade-war",
+    "date": "2026-09-30"
+  },
+  {
     "id": "art-079a25e859",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-2f1b7c91c0",
+    "chapitre_id": "si-technologies",
+    "titre": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai",
     "date": "2026-09-30"
   },
   {
@@ -88,92 +240,12 @@
     "date": "2026-09-30"
   },
   {
-    "id": "art-bc8d78bfb3",
-    "chapitre_id": "finance",
-    "titre": "What is the triple lock and why are people talking about it?",
+    "id": "art-18e897b6e2",
+    "chapitre_id": "production-marketing",
+    "titre": "Greggs to cut 740 jobs and close factories",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-47b86b9fcc",
-    "chapitre_id": "finance",
-    "titre": "UK mortgage approvals lowest since December 2023; diesel hits new record high near £2 a litre – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-c2e171abcf",
-    "chapitre_id": "finance",
-    "titre": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-b63acf3536",
-    "chapitre_id": "finance",
-    "titre": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-d8140fccf6",
-    "chapitre_id": "finance",
-    "titre": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-1031f46085",
-    "chapitre_id": "finance",
-    "titre": "RBA interest rates: Reserve Bank raises cash rate to highest level in 15 years and warns of more hikes ‘if needed’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-e9d464e89c",
-    "chapitre_id": "finance",
-    "titre": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.6% – video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/video/2026/sep/29/rba-interest-rates-governor-michele-bullock-explains-decision-to-lift-cash-rate-to-46-video",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-779aa965e9",
-    "chapitre_id": "finance",
-    "titre": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-30508ff6ca",
-    "chapitre_id": "finance",
-    "titre": "Bond investors become oil traders as Iran war drives yields",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-6c23dfafec",
-    "chapitre_id": "finance",
-    "titre": "Oura pulls $15bn stock market listing days after announcement",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-537504999c",
-    "chapitre_id": "finance",
-    "titre": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
-    "date": "2026-09-29"
+    "url": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30"
   },
   {
     "id": "art-75c9965721",
@@ -256,6 +328,14 @@
     "date": "2026-09-29"
   },
   {
+    "id": "art-16e2061743",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+    "date": "2026-09-29"
+  },
+  {
     "id": "art-f7c6960ffb",
     "chapitre_id": "production-marketing",
     "titre": "Huel ad banned for suggesting its products could replace all meals",
@@ -269,14 +349,6 @@
     "titre": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-16e2061743",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
     "date": "2026-09-29"
   },
   {
@@ -328,14 +400,6 @@
     "date": "2026-09-28"
   },
   {
-    "id": "art-dc8519d42a",
-    "chapitre_id": "relations-internationales",
-    "titre": "The India shock: exporting workers to the world",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
-    "date": "2026-09-27"
-  },
-  {
     "id": "art-39a25a6a4d",
     "chapitre_id": "si-technologies",
     "titre": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
@@ -350,22 +414,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour",
     "date": "2026-09-27"
-  },
-  {
-    "id": "art-56878e603a",
-    "chapitre_id": "relations-internationales",
-    "titre": "Purple reins: Philippine export ban casts shadow over UK’s love of ube",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/food/2026/sep/26/philippine-export-ban-casts-shadow-over-uks-love-of-ube",
-    "date": "2026-09-26"
-  },
-  {
-    "id": "art-2d8f15f6eb",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
-    "date": "2026-09-26"
   },
   {
     "id": "art-d22a199399",
@@ -392,14 +440,6 @@
     "date": "2026-09-26"
   },
   {
-    "id": "art-d11a6b6af9",
-    "chapitre_id": "production-marketing",
-    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
-    "date": "2026-09-26"
-  },
-  {
     "id": "art-b124b16b54",
     "chapitre_id": "rse-gouvernance",
     "titre": "London transfer: is it time to kill off the Heathrow Express?",
@@ -408,20 +448,12 @@
     "date": "2026-09-26"
   },
   {
-    "id": "art-a42f631cf3",
-    "chapitre_id": "relations-internationales",
-    "titre": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
-    "id": "art-8a55bc4fef",
-    "chapitre_id": "relations-internationales",
-    "titre": "Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris – video",
+    "id": "art-d11a6b6af9",
+    "chapitre_id": "production-marketing",
+    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-    "date": "2026-09-25"
+    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
+    "date": "2026-09-26"
   },
   {
     "id": "art-f6aca114fc",
@@ -456,14 +488,6 @@
     "date": "2026-09-25"
   },
   {
-    "id": "art-5484acab59",
-    "chapitre_id": "production-marketing",
-    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
-    "date": "2026-09-25"
-  },
-  {
     "id": "art-9147b3991b",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘We can’t ride this storm’: the English farmers facing uncertainty after sustainability funding runs dry",
@@ -472,20 +496,12 @@
     "date": "2026-09-25"
   },
   {
-    "id": "art-a23f76d1ff",
-    "chapitre_id": "si-technologies",
-    "titre": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-4deab65b5f",
-    "chapitre_id": "si-technologies",
-    "titre": "Australia launches investigation after OpenAI agent hacked healthcare database",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-    "date": "2026-09-24"
+    "id": "art-5484acab59",
+    "chapitre_id": "production-marketing",
+    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
+    "date": "2026-09-25"
   },
   {
     "id": "art-0d5b24e2dd",
@@ -544,6 +560,14 @@
     "date": "2026-09-23"
   },
   {
+    "id": "art-1bc0c95166",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
+    "date": "2026-09-23"
+  },
+  {
     "id": "art-4633d3b93a",
     "chapitre_id": "production-marketing",
     "titre": "UK economic outlook brighter as new government measures will boost growth, says OECD – business live",
@@ -568,35 +592,11 @@
     "date": "2026-09-23"
   },
   {
-    "id": "art-1bc0c95166",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
-    "date": "2026-09-23"
-  },
-  {
     "id": "art-01acdb8d88",
     "chapitre_id": "management-rh",
     "titre": "Keeping billionaires and the taxman happy | Letters",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-9575e51108",
-    "chapitre_id": "production-marketing",
-    "titre": "‘How do you get a result without contacting a newspaper?’: your questions for our consumer champion answered",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/live/2026/sep/22/whats-the-worst-company-youve-ever-dealt-with-ask-our-consumer-champion-anything",
-    "date": "2026-09-22"
-  },
-  {
-    "id": "art-29146ca5df",
-    "chapitre_id": "production-marketing",
-    "titre": "The rise of Big Toothbrush: how did our mouths become such a lucrative market?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/22/the-rise-of-big-toothbrush",
     "date": "2026-09-22"
   },
   {
