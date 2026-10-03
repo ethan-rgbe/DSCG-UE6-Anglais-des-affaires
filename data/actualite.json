@@ -1,5 +1,61 @@
 [
   {
+    "id": "art-82def4d952",
+    "chapitre_id": "finance",
+    "titre": "New baby bank 'open to everybody'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-79bad6f471",
+    "chapitre_id": "finance",
+    "titre": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-3dc4750742",
+    "chapitre_id": "finance",
+    "titre": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-55bcc68635",
+    "chapitre_id": "relations-internationales",
+    "titre": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-00ba9cecc2",
+    "chapitre_id": "relations-internationales",
+    "titre": "China launches anti-dumping probe into European chemical exports",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-8f8890a08a",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-f4b386ef04",
+    "chapitre_id": "production-marketing",
+    "titre": "Rising energy costs add to cost of living for Northern Ireland's consumers",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03"
+  },
+  {
     "id": "art-17bbf71a3f",
     "chapitre_id": "finance",
     "titre": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
@@ -45,6 +101,46 @@
     "titre": "Amazon seeks to offload $8bn of Nvidia chips to investors",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-33b7957177",
+    "chapitre_id": "finance",
+    "titre": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-a1b7acf369",
+    "chapitre_id": "finance",
+    "titre": "Burnham to pass law scrapping pension triple lock before next election",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-4091000703",
+    "chapitre_id": "finance",
+    "titre": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-670f98b7be",
+    "chapitre_id": "finance",
+    "titre": "Low-profile hedge fund smashes record for New York office rent",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-8fc8952760",
+    "chapitre_id": "finance",
+    "titre": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
     "date": "2026-10-02"
   },
   {
@@ -125,70 +221,6 @@
     "titre": "AI boom could trigger market shocks, Bank of England boss warns",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-b7fa08b585",
-    "chapitre_id": "finance",
-    "titre": "UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-eb2d428f57",
-    "chapitre_id": "finance",
-    "titre": "Boots owner ‘closing in on sale to Canada’s Weston family for $9bn’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/oct/01/boots-owner-sale-canada-weston-family",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-b0b1e706be",
-    "chapitre_id": "finance",
-    "titre": "UK house price growth halves amid rising mortgage interest rates",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-97056dc6b0",
-    "chapitre_id": "finance",
-    "titre": "First home buyers with big loans among those most at risk of falling into negative equity, RBA warns",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-e5f21de88f",
-    "chapitre_id": "finance",
-    "titre": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-ab256db802",
-    "chapitre_id": "finance",
-    "titre": "Four potential positives from higher bond yields",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-7b4a8fc04c",
-    "chapitre_id": "finance",
-    "titre": "Accenture shares surge as consultancy boosts sales",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-89dd7716ef",
-    "chapitre_id": "finance",
-    "titre": "Auditor RSM explores IPO to ward off private equity-backed rivals",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/3a3334fb-981d-4cd3-9f35-e3289578b0fa?syn-25a6b1a6=1",
     "date": "2026-10-01"
   },
   {
@@ -344,22 +376,6 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-fc6d09ec16",
-    "chapitre_id": "relations-internationales",
-    "titre": "UK tries to stop Trump's diesel export ban",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-435f46c5df",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on Andy Burnham: grounds to hope for a better Britain | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
-    "date": "2026-09-29"
-  },
-  {
     "id": "art-fb9c5ac6a0",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI scraps rollout of new model over safety concerns",
@@ -488,14 +504,6 @@
     "date": "2026-09-26"
   },
   {
-    "id": "art-22c8166b45",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-    "date": "2026-09-26"
-  },
-  {
     "id": "art-d11a6b6af9",
     "chapitre_id": "production-marketing",
     "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
@@ -574,14 +582,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
     "date": "2026-09-24"
-  },
-  {
-    "id": "art-4633d3b93a",
-    "chapitre_id": "production-marketing",
-    "titre": "UK economic outlook brighter as new government measures will boost growth, says OECD – business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/sep/23/oil-prices-fall-us-iran-talks-stock-markets-saudi-pipeline-latest-news-updates",
-    "date": "2026-09-23"
   },
   {
     "id": "art-37bda14af2",
