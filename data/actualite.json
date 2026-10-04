@@ -1,5 +1,93 @@
 [
   {
+    "id": "art-b63675aeaa",
+    "chapitre_id": "finance",
+    "titre": "‘They call every week’: the phishing attacks targeting past victims",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-a846425053",
+    "chapitre_id": "finance",
+    "titre": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-efdbaacf71",
+    "chapitre_id": "finance",
+    "titre": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-30ed2e3470",
+    "chapitre_id": "finance",
+    "titre": "Why the IPO market is booming and busting",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-f74289298e",
+    "chapitre_id": "finance",
+    "titre": "China closes hundreds of banks to bolster financial system",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-016777bedf",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-83913d49e9",
+    "chapitre_id": "si-technologies",
+    "titre": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-a28550ff89",
+    "chapitre_id": "si-technologies",
+    "titre": "Own a mobile phone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/04/app-tax-google-apple-smartphone-duopoly-cma",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-1aca9ef5e1",
+    "chapitre_id": "si-technologies",
+    "titre": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-6fc9996ce9",
+    "chapitre_id": "management-rh",
+    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-9b660e92a9",
+    "chapitre_id": "compta-audit",
+    "titre": "Ministers explore how to stop regional leaders misusing planned new spending powers",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution",
+    "date": "2026-10-04"
+  },
+  {
     "id": "art-82def4d952",
     "chapitre_id": "finance",
     "titre": "New baby bank 'open to everybody'",
@@ -21,6 +109,14 @@
     "titre": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-799299d9c4",
+    "chapitre_id": "finance",
+    "titre": "UAE may halt UK investments after Manchester City guilty verdict",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
     "date": "2026-10-03"
   },
   {
@@ -53,6 +149,30 @@
     "titre": "Rising energy costs add to cost of living for Northern Ireland's consumers",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-cac78128db",
+    "chapitre_id": "production-marketing",
+    "titre": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-f61b1ea020",
+    "chapitre_id": "production-marketing",
+    "titre": "‘I was making no money’: Travel agent side hustle promoted by influencers criticised over fees",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/oct/03/online-marketing-the-travel-agent-side-hustle-that-took-us-nowhere",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "art-f1df2f3bce",
+    "chapitre_id": "management-rh",
+    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
     "date": "2026-10-03"
   },
   {
@@ -101,46 +221,6 @@
     "titre": "Amazon seeks to offload $8bn of Nvidia chips to investors",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-33b7957177",
-    "chapitre_id": "finance",
-    "titre": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-a1b7acf369",
-    "chapitre_id": "finance",
-    "titre": "Burnham to pass law scrapping pension triple lock before next election",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-4091000703",
-    "chapitre_id": "finance",
-    "titre": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-670f98b7be",
-    "chapitre_id": "finance",
-    "titre": "Low-profile hedge fund smashes record for New York office rent",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-8fc8952760",
-    "chapitre_id": "finance",
-    "titre": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
     "date": "2026-10-02"
   },
   {
@@ -214,14 +294,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02"
-  },
-  {
-    "id": "art-e9650d363a",
-    "chapitre_id": "finance",
-    "titre": "AI boom could trigger market shocks, Bank of England boss warns",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01"
   },
   {
     "id": "art-be09ed9205",
@@ -368,14 +440,6 @@
     "date": "2026-09-30"
   },
   {
-    "id": "art-75c9965721",
-    "chapitre_id": "relations-internationales",
-    "titre": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
     "id": "art-fb9c5ac6a0",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI scraps rollout of new model over safety concerns",
@@ -448,14 +512,6 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-742cfb9a6d",
-    "chapitre_id": "si-technologies",
-    "titre": "AI leaders have known about the extinction threat for decades | Judith Levine",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
-    "date": "2026-09-28"
-  },
-  {
     "id": "art-82158ad771",
     "chapitre_id": "production-marketing",
     "titre": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
@@ -480,28 +536,12 @@
     "date": "2026-09-28"
   },
   {
-    "id": "art-39a25a6a4d",
-    "chapitre_id": "si-technologies",
-    "titre": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-    "date": "2026-09-27"
-  },
-  {
     "id": "art-94f71de01c",
     "chapitre_id": "management-rh",
     "titre": "Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour",
     "date": "2026-09-27"
-  },
-  {
-    "id": "art-d22a199399",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI bots meddled with multiple US government agency sites",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26"
   },
   {
     "id": "art-d11a6b6af9",
@@ -560,22 +600,6 @@
     "date": "2026-09-24"
   },
   {
-    "id": "art-24874a6f64",
-    "chapitre_id": "production-marketing",
-    "titre": "Vistry is the laggard in a housebuilding sector full of cracks | Nils Pratley",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/24/vistry-is-the-laggard-in-a-housebuilding-sector-full-of-cracks",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-ae6e4869ed",
-    "chapitre_id": "production-marketing",
-    "titre": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
-    "date": "2026-09-24"
-  },
-  {
     "id": "art-0d5b24e2dd",
     "chapitre_id": "management-rh",
     "titre": "Amid soaring living costs, America’s biggest convenience-store chains quietly overcharge consumers",
@@ -630,22 +654,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
     "date": "2026-09-21"
-  },
-  {
-    "id": "art-e3a16abb9d",
-    "chapitre_id": "management-rh",
-    "titre": "Thousands of Barclays staff revolt over return-to-office mandate",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/17/barclays-staff-return-to-office-travel-working-from-home",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "art-4f6fb5b766",
-    "chapitre_id": "management-rh",
-    "titre": "‘I feel invisible’: over-50s reveal harsh realities of trying to get a job",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/17/over-50s-reveal-trying-to-get-a-job-applications-interviews",
-    "date": "2026-09-17"
   },
   {
     "id": "art-f19cd11f3f",
