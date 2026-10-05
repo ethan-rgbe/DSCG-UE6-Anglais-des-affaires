@@ -1,5 +1,117 @@
 [
   {
+    "id": "art-387249765a",
+    "chapitre_id": "finance",
+    "titre": "Average five-year mortgage rate hits 6% for first time in three years",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-cab072fea5",
+    "chapitre_id": "finance",
+    "titre": "Average five-year fixed mortgage rate hits 6% for first time in three years",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-e25ab6f380",
+    "chapitre_id": "finance",
+    "titre": "From hotel suites to virtual reality, museums turn to licensing deals as costs rise",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/05/hotel-suites-virtual-reality-museums-licensing-deals-costs-rise",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-f9cb89e489",
+    "chapitre_id": "finance",
+    "titre": "Brazil’s markets rally as investors bet on Bolsonaro win",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-061de37377",
+    "chapitre_id": "finance",
+    "titre": "Bond turbulence means it’s time for the ECB to put QT on hold",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-f1d3da638b",
+    "chapitre_id": "relations-internationales",
+    "titre": "How India became dangerously addicted to Chinese imports",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-884e053fb2",
+    "chapitre_id": "relations-internationales",
+    "titre": "Euro falls to 17-month low against dollar amid French debt fears",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-c6007d87a4",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-38fb7be097",
+    "chapitre_id": "relations-internationales",
+    "titre": "﻿The UK’s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-e4c9253e17",
+    "chapitre_id": "relations-internationales",
+    "titre": "British government ‘complacent about food as a national security matter’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-95212baf7f",
+    "chapitre_id": "relations-internationales",
+    "titre": "Russia’s new drive to crush Ukraine",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-fc43462153",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump’s diesel export coercion will not strengthen the US",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/94e56abb-83ed-4eb5-b0cf-db9252b4cf62?syn-25a6b1a6=1",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-d0c0677e9f",
+    "chapitre_id": "si-technologies",
+    "titre": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "art-5a82ce760d",
+    "chapitre_id": "production-marketing",
+    "titre": "Sainsbury’s and Morrisons held talks over potential multi-billion-pound merger, reports say – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
+    "date": "2026-10-05"
+  },
+  {
     "id": "art-b63675aeaa",
     "chapitre_id": "finance",
     "titre": "‘They call every week’: the phishing attacks targeting past victims",
@@ -58,7 +170,7 @@
   {
     "id": "art-a28550ff89",
     "chapitre_id": "si-technologies",
-    "titre": "Own a mobile phone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
+    "titre": "Own a smartphone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/oct/04/app-tax-google-apple-smartphone-duopoly-cma",
     "date": "2026-10-04"
@@ -69,6 +181,14 @@
     "titre": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-a517710aa1",
+    "chapitre_id": "si-technologies",
+    "titre": "The AI industry is booming. Women are getting left behind",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
     "date": "2026-10-04"
   },
   {
@@ -85,6 +205,22 @@
     "titre": "Ministers explore how to stop regional leaders misusing planned new spending powers",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-ab13f76ddd",
+    "chapitre_id": "compta-audit",
+    "titre": "Retailers are making returns harder. A carpet seller taught me why that’s a mistake | Gene Marks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/oct/04/retailers-returns-small-business",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "art-e79afe4f2b",
+    "chapitre_id": "production-marketing",
+    "titre": "Are my gen X peers the influencers the world has been waiting for? | Emma Beddington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
     "date": "2026-10-04"
   },
   {
@@ -144,6 +280,14 @@
     "date": "2026-10-03"
   },
   {
+    "id": "art-f1df2f3bce",
+    "chapitre_id": "management-rh",
+    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+    "date": "2026-10-03"
+  },
+  {
     "id": "art-f4b386ef04",
     "chapitre_id": "production-marketing",
     "titre": "Rising energy costs add to cost of living for Northern Ireland's consumers",
@@ -168,59 +312,11 @@
     "date": "2026-10-03"
   },
   {
-    "id": "art-f1df2f3bce",
-    "chapitre_id": "management-rh",
-    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-    "date": "2026-10-03"
-  },
-  {
     "id": "art-17bbf71a3f",
     "chapitre_id": "finance",
     "titre": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-60c2978c92",
-    "chapitre_id": "finance",
-    "titre": "AI got smarter. The bills got harder to control",
-    "source": "Financial Times",
-    "url": "https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-3dac7a07d0",
-    "chapitre_id": "finance",
-    "titre": "My mortgage is a problem for the Fed, and for America",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-6ccb07666e",
-    "chapitre_id": "finance",
-    "titre": "Quant hedge funds reap big gains from global bond sell-off",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-419d0971fc",
-    "chapitre_id": "finance",
-    "titre": "Goldman bought Shein shares worth $220mn after dismal IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/3f5483d1-31d7-4756-95a0-ce4a2c600519?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-cb86d5cb7b",
-    "chapitre_id": "finance",
-    "titre": "Amazon seeks to offload $8bn of Nvidia chips to investors",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
     "date": "2026-10-02"
   },
   {
@@ -280,19 +376,19 @@
     "date": "2026-10-02"
   },
   {
-    "id": "art-cb411b20cb",
-    "chapitre_id": "production-marketing",
-    "titre": "Diesel prices in NI at highest level since Iran war began",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c64g7gn4v99go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02"
-  },
-  {
     "id": "art-47338c90f3",
     "chapitre_id": "management-rh",
     "titre": "OpenAI fires workers for 'mishandling sensitive information'",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-cb411b20cb",
+    "chapitre_id": "production-marketing",
+    "titre": "Diesel prices in NI at highest level since Iran war began",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c64g7gn4v99go?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02"
   },
   {
@@ -312,6 +408,14 @@
     "date": "2026-10-01"
   },
   {
+    "id": "art-7775d4ca4a",
+    "chapitre_id": "management-rh",
+    "titre": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+    "date": "2026-10-01"
+  },
+  {
     "id": "art-7256ec82b4",
     "chapitre_id": "production-marketing",
     "titre": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -328,75 +432,11 @@
     "date": "2026-10-01"
   },
   {
-    "id": "art-7775d4ca4a",
-    "chapitre_id": "management-rh",
-    "titre": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
-    "date": "2026-10-01"
-  },
-  {
     "id": "art-bc07f78cc6",
     "chapitre_id": "relations-internationales",
     "titre": "Andy Burnham wants to review the UK’s relationship with the EU. What are the options?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-74a5c0e9df",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘Beyond priceless’: how a halt to dredging saved the seas of Scotland’s Summer Isles",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/sep/30/beyond-priceless-how-a-halt-to-dredging-saved-the-seas-of-scotlands-summer-isles",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-bfc5fb612e",
-    "chapitre_id": "relations-internationales",
-    "titre": "White House holds crunch talks on diesel export ban as midterms near",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-3dd1698aa5",
-    "chapitre_id": "relations-internationales",
-    "titre": "Russia extends diesel export ban",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/fc705366-9a91-4e99-9c07-e962dca6354b?syn-25a6b1a6=1",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-2031d98b40",
-    "chapitre_id": "relations-internationales",
-    "titre": "Government must stop dithering over energy bill support for the vulnerable | Nils Pratley",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/sep/30/energy-bill-support-social-tariff-warm-homes-discount",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-94180eb69d",
-    "chapitre_id": "relations-internationales",
-    "titre": "I heard one thing loud and clear in Andy Burnham’s landmark speech: the left has won the arguments | Owen Jones",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-7f38aa7f3c",
-    "chapitre_id": "relations-internationales",
-    "titre": "No 10 gathering evidence on public support for UK rejoining EU",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "art-b714c8262e",
-    "chapitre_id": "relations-internationales",
-    "titre": "‘So much uncertainty’: Michigan’s Arab American businesses navigate Trump’s Canada trade war",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/sep/30/michigan-arab-american-business-trump-canada-trade-war",
     "date": "2026-09-30"
   },
   {
@@ -416,19 +456,19 @@
     "date": "2026-09-30"
   },
   {
-    "id": "art-18e897b6e2",
-    "chapitre_id": "production-marketing",
-    "titre": "Greggs to cut 740 jobs and close factories",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30"
-  },
-  {
     "id": "art-85e0109e9c",
     "chapitre_id": "management-rh",
     "titre": "Prosecco pratfalls and coffee catastrophes: Neets are missing out on formative first-job experiences | Isabel Brooks",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/30/neets-formative-first-job-experiences-hospitality-industry",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "art-18e897b6e2",
+    "chapitre_id": "production-marketing",
+    "titre": "Greggs to cut 740 jobs and close factories",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30"
   },
   {
@@ -456,19 +496,19 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-cbc27f2c2f",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI axes next model citing safety issues",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+    "id": "art-5a2715891f",
+    "chapitre_id": "management-rh",
+    "titre": "Barclays softens return-to-office plans for UK staff after backlash",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
     "date": "2026-09-29"
   },
   {
-    "id": "art-73f5aaeae0",
-    "chapitre_id": "si-technologies",
-    "titre": "Even George Osborne might be a nimby if an AI datacentre was built next to his home | Letters",
+    "id": "art-8070b36ca4",
+    "chapitre_id": "management-rh",
+    "titre": "Soho House launches investigation after out-of-date food mislabelled in kitchen",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/29/even-george-osborne-might-be-a-nimby-if-an-ai-datacente-was-built-next-to-his-home",
+    "url": "https://www.theguardian.com/business/2026/sep/29/soho-house-launches-investigation-out-of-date-food-shoreditch",
     "date": "2026-09-29"
   },
   {
@@ -488,28 +528,20 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-5a2715891f",
-    "chapitre_id": "management-rh",
-    "titre": "Barclays softens return-to-office plans for UK staff after backlash",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-8070b36ca4",
-    "chapitre_id": "management-rh",
-    "titre": "Soho House launches investigation after out-of-date food mislabelled in kitchen",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/29/soho-house-launches-investigation-out-of-date-food-shoreditch",
-    "date": "2026-09-29"
-  },
-  {
     "id": "art-16e2061743",
     "chapitre_id": "rse-gouvernance",
     "titre": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
     "date": "2026-09-29"
+  },
+  {
+    "id": "art-5b0e354a3e",
+    "chapitre_id": "management-rh",
+    "titre": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
+    "date": "2026-09-28"
   },
   {
     "id": "art-82158ad771",
@@ -528,14 +560,6 @@
     "date": "2026-09-28"
   },
   {
-    "id": "art-5b0e354a3e",
-    "chapitre_id": "management-rh",
-    "titre": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
-    "date": "2026-09-28"
-  },
-  {
     "id": "art-94f71de01c",
     "chapitre_id": "management-rh",
     "titre": "Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin",
@@ -544,19 +568,19 @@
     "date": "2026-09-27"
   },
   {
-    "id": "art-d11a6b6af9",
-    "chapitre_id": "production-marketing",
-    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
-    "date": "2026-09-26"
-  },
-  {
     "id": "art-7bb4e8af63",
     "chapitre_id": "management-rh",
     "titre": "Could an iced coffee freeze you out of the job market?",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "art-d11a6b6af9",
+    "chapitre_id": "production-marketing",
+    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
     "date": "2026-09-26"
   },
   {
@@ -582,22 +606,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "date": "2026-09-25"
-  },
-  {
-    "id": "art-df1b3750b2",
-    "chapitre_id": "production-marketing",
-    "titre": "What to think about when buying travel insurance",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "art-9490fae3f2",
-    "chapitre_id": "production-marketing",
-    "titre": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
-    "date": "2026-09-24"
   },
   {
     "id": "art-0d5b24e2dd",
@@ -728,19 +736,19 @@
     "date": "2026-09-04"
   },
   {
-    "id": "art-ed4845fc25",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Badly parked ebikes in London are a menace – but other cities have shown us the solution | Agustin Guilisasti",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ebike-parking-london-solution-paris-public-space",
-    "date": "2026-09-03"
-  },
-  {
     "id": "art-d5ff55adf3",
     "chapitre_id": "compta-audit",
     "titre": "KPMG warned Guggenheim unit over deficiencies in internal controls",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "art-ed4845fc25",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Badly parked ebikes in London are a menace – but other cities have shown us the solution | Agustin Guilisasti",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ebike-parking-london-solution-paris-public-space",
     "date": "2026-09-03"
   },
   {
