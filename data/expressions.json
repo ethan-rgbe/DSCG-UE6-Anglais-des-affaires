@@ -5,7 +5,10 @@
     "expression_en": "to be in the red",
     "sens_fr": "être en déficit, être dans le rouge",
     "contexte": "informel — écrit et oral",
-    "exemple": "The division has been in the red for two consecutive years."
+    "exemple": "The division has been in the red for two consecutive years.",
+    "listes": [
+      "Expressions idiomatiques"
+    ]
   },
   {
     "id": "exp-002",
@@ -13,6 +16,9 @@
     "expression_en": "to think outside the box",
     "sens_fr": "sortir des sentiers battus, faire preuve de créativité",
     "contexte": "courant — écrit et oral",
-    "exemple": "Management encouraged staff to think outside the box when redesigning the process."
+    "exemple": "Management encouraged staff to think outside the box when redesigning the process.",
+    "listes": [
+      "Expressions idiomatiques"
+    ]
   }
 ]
