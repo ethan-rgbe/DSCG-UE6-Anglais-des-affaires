@@ -353,6 +353,29 @@
   .quiz-actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:16px;}
   .quiz-result{text-align:center;padding:30px 10px;}
   .quiz-result .score{font-family:var(--serif);font-size:2.4rem;color:var(--navy);}
+
+  /* Définitions, marqueurs de la fiche, groupes de listes */
+  .voc-def{font-size:.84rem;margin-top:7px;line-height:1.5;color:var(--text);}
+  .voc-def .lbl{display:inline-block;font-size:.62rem;text-transform:uppercase;letter-spacing:.08em;color:#8a703a;border:1px solid var(--beige-line);border-radius:8px;padding:0 6px;margin-right:6px;}
+  .voc-note{font-size:.78rem;color:#8a8468;margin-top:6px;font-style:italic;}
+  .flag-imp{display:inline-block;width:18px;height:18px;line-height:18px;text-align:center;font-weight:800;font-size:.75rem;color:#fff;background:var(--red);border-radius:50%;}
+  .flag-ver{display:inline-block;font-size:.62rem;text-transform:uppercase;letter-spacing:.05em;padding:2px 8px;border-radius:10px;font-weight:700;background:#f3e2c8;color:#7a531a;}
+  details.voc-group > summary .cnt{font-weight:600;color:#8a8468;font-size:.78rem;margin-left:6px;}
+  details.voc-group .voc-list{padding:0 12px 10px;margin-top:6px;}
+  .voc-group-tools{display:flex;gap:8px;flex-wrap:wrap;padding:2px 14px 8px;}
+  .voc-group-tools .btn-ghost{padding:5px 10px;font-size:.78rem;}
+  .voc-gnote{font-size:.78rem;color:#8a8468;font-style:italic;padding:0 14px 6px;}
+  .partie-title{font-family:var(--serif);color:var(--navy);font-size:1.15rem;margin:26px 0 4px;border-bottom:1px solid var(--beige-line);padding-bottom:4px;}
+  .listes-selects{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 14px;}
+  .listes-selects select,.listes-opts select{padding:7px 10px;border:1px solid var(--paper-line);border-radius:4px;font:inherit;font-size:.88rem;background:#fff;color:var(--text);max-width:100%;min-width:0;}
+  .listes-opts{display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.82rem;color:#6b6450;margin:0 0 12px;}
+  .flashcard .atext .adef{font-size:.74rem;opacity:.85;margin-top:6px;line-height:1.35;}
+  .quiz-a .quiz-def{font-size:.86rem;margin-top:8px;opacity:.9;}
+  .more-row{text-align:center;margin:18px 0 4px;}
+  body.dark .voc-def .lbl{border-color:#363b44;color:#d4ad4f;}
+  body.dark .flag-ver{background:#3a3326;color:#e0bd66;}
+  body.dark .listes-selects select,body.dark .listes-opts select{background:#12151a;border-color:#2b313b;}
+  @media (max-width:640px){ .listes-selects select{width:100%;} }
 </style>
 </head>
 <body>
@@ -412,6 +435,26 @@ const app = document.getElementById('app');
 
 const chapById = id => DATA.chapitres.find(c => c.id === id);
 const chapLabel = c => c.numero ? `Thème ${c.numero} — ${c.titre}` : c.titre;
+function esc(s){ return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+// Index construits une fois : cartes, entrées (pour retrouver définitions et exemples) et catalogue des listes.
+const CARD_BY_ID = {};
+DATA.qr_cartes.forEach(c => { CARD_BY_ID[c.id] = c; });
+const REF_BY_ID = {};
+[...DATA.vocabulaire, ...DATA.expressions, ...DATA.phrases_orales].forEach(x => { REF_BY_ID[x.id] = x; });
+const LISTES_CAT = (function(){
+  const m = new Map();
+  DATA.qr_cartes.forEach(c => {
+    if(c.type === 'phrase') return;
+    (c.listes || []).forEach(l => {
+      if(!m.has(l)) m.set(l, {name:l, n:0, byTheme:{}});
+      const e = m.get(l); const t = c.chapitre_id || '_none';
+      e.n++; e.byTheme[t] = (e.byTheme[t] || 0) + 1;
+    });
+  });
+  m.forEach(e => { e.primary = Object.keys(e.byTheme).sort((a,b) => e.byTheme[b] - e.byTheme[a])[0]; });
+  return m;
+})();
 function shuffle(arr){ const a = arr.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
 
 // ====== Prononciation — synthèse vocale du navigateur (aucun fichier audio) ======
@@ -495,8 +538,9 @@ const QR_STATE_KEY = 'dscg_ue6_qr_state';
 function loadQrState(){ try{ return JSON.parse(localStorage.getItem(QR_STATE_KEY) || '{}'); }catch(e){ return {}; } }
 function saveQrState(s){ try{ localStorage.setItem(QR_STATE_KEY, JSON.stringify(s)); }catch(e){} }
 function exportProgress(){
-  const data = { app:'le-precis-ue6', version:1, exported:new Date().toISOString(),
-    qr_state: loadQrState(), recents: JSON.parse(localStorage.getItem(RECENTS_KEY)||'[]') };
+  const data = { app:'le-precis-ue6', version:2, exported:new Date().toISOString(),
+    qr_state: loadQrState(), recents: JSON.parse(localStorage.getItem(RECENTS_KEY)||'[]'),
+    series: loadSeries(), prefs: loadPrefs() };
   const blob = new Blob([JSON.stringify(data,null,2)], {type:'application/json'});
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
@@ -511,6 +555,8 @@ function importProgress(file){
       const data = JSON.parse(reader.result);
       if(data.qr_state && typeof data.qr_state==='object') saveQrState(data.qr_state);
       if(Array.isArray(data.recents)) localStorage.setItem(RECENTS_KEY, JSON.stringify(data.recents));
+      if(data.series && typeof data.series==='object') localStorage.setItem(SERIES_KEY, JSON.stringify(data.series));
+      if(data.prefs && typeof data.prefs==='object') savePrefs(data.prefs);
       render();
       alert('Progression importée.');
     }catch(e){ alert("Fichier invalide : impossible d'importer la progression."); }
@@ -532,14 +578,66 @@ function progressFor(cards){
   const mastered = cards.filter(c => qrMastered(c.id)).length;
   return { total, mastered, pct: total ? Math.round(mastered/total*100) : 0 };
 }
-function cardsForScope(scope, chapId){
-  if(scope === 'chapitre' && chapId){
-    return DATA.qr_cartes.filter(c => c.chapitre_id === chapId && c.type !== 'phrase');
+function cardsFor(chapId, liste, phrases){
+  const all = DATA.qr_cartes;
+  if(liste){
+    const out = all.filter(c => (c.listes || []).indexOf(liste) !== -1 && (!chapId || c.type === 'phrase' || c.chapitre_id === chapId));
+    const ref = c => REF_BY_ID[c.ref_id] || {};
+    // une liste suit l'ordre de ta fiche (rang mémorisé sur l'entrée), sinon l'ordre du fichier
+    if(out.some(c => ref(c).rangs && ref(c).rangs[liste] != null)) out.sort((a, b) => rankIn(ref(a), liste) - rankIn(ref(b), liste));
+    return out;
   }
-  if(scope === 'phrases'){
-    return DATA.qr_cartes.filter(c => c.type === 'phrase');
+  if(phrases) return all.filter(c => c.type === 'phrase');
+  if(chapId) return all.filter(c => c.type !== 'phrase' && c.chapitre_id === chapId);
+  return all.filter(c => c.type !== 'phrase');
+}
+
+// ---- Séries : rejouer exactement la même suite de cartes ----
+const SERIES_KEY = 'dscg_ue6_series';
+const QPREF_KEY = 'dscg_ue6_quizprefs';
+function loadSeries(){ try{ return JSON.parse(localStorage.getItem(SERIES_KEY) || '{}'); }catch(e){ return {}; } }
+function saveSeries(key, ids){
+  const s = loadSeries(); s[key] = { ids: ids, at: Date.now() };
+  try{ localStorage.setItem(SERIES_KEY, JSON.stringify(s)); }catch(e){}
+}
+function loadPrefs(){
+  const d = { size: 20, shuffleList: false };
+  try{ return Object.assign(d, JSON.parse(localStorage.getItem(QPREF_KEY) || '{}')); }catch(e){ return d; }
+}
+function savePrefs(p){ try{ localStorage.setItem(QPREF_KEY, JSON.stringify(p)); }catch(e){} }
+function seriesKey(chapId, liste, phrases){ return (phrases ? 'P' : '') + '|' + (chapId || '') + '|' + (liste || ''); }
+function savedSeriesCards(key){
+  const s = loadSeries()[key];
+  return s && s.ids ? s.ids.map(id => CARD_BY_ID[id]).filter(Boolean) : [];
+}
+function buildDeck(mode){
+  const chapId = state.quizChapId, liste = state.quizListe, phrases = state.quizPhrases;
+  const key = seriesKey(chapId, liste, phrases);
+  if(mode === 'same'){
+    const saved = savedSeriesCards(key);
+    if(saved.length) return saved;
   }
-  return DATA.qr_cartes.filter(c => c.type !== 'phrase');
+  const pool = cardsFor(chapId, liste, phrases);
+  const prefs = loadPrefs();
+  let deck;
+  if(liste){
+    // une liste se révise en entier, dans l'ordre de la fiche (ou mélangée si demandé)
+    deck = prefs.shuffleList ? shuffle(pool) : pool.slice();
+  } else {
+    deck = shuffle(pool.filter(c => !qrMastered(c.id))).concat(shuffle(pool.filter(c => qrMastered(c.id))));
+    if(prefs.size > 0) deck = deck.slice(0, prefs.size);
+  }
+  saveSeries(key, deck.map(c => c.id));
+  return deck;
+}
+function rankIn(item, liste){ const r = item.rangs && item.rangs[liste]; return r == null ? 1e9 : r; }
+function sortByRank(arr, liste){
+  return arr.some(x => x.rangs && x.rangs[liste] != null) ? arr.slice().sort((a, b) => rankIn(a, liste) - rankIn(b, liste)) : arr;
+}
+function launchQuiz(mode, chapId, liste, phrases){
+  state.quizChapId = chapId || null; state.quizListe = liste || null; state.quizPhrases = !!phrases;
+  state.quizMode = mode; state.quiz = null; state.view = 'quiz';
+  render(); window.scrollTo({top:0, behavior:'smooth'});
 }
 
 // ---- Écran d'entrée ----
@@ -553,7 +651,8 @@ splash.addEventListener('touchend', dismissSplash, {passive:true});
 
 // ---- État global ----
 let state = { view: 'home', chapitreId: null, chapTab: 'synthese',
-              listesScope: 'all', listesChapitreId: null, qrFocus: null,
+              listesChapitreId: null, listesListe: null, qrFocus: null,
+              quizChapId: null, quizListe: null, quizPhrases: false, quizMode: 'new',
               actualiteChapitreId: 'all' };
 
 let _suppressHash = false;
@@ -584,9 +683,11 @@ function stateToHash(){
     case 'chapitre':
       return '#/chapitre/' + encodeURIComponent(state.chapitreId || '') + '/' + (state.chapTab || 'synthese');
     case 'listes':
-      return '#/listes/' + (state.listesScope === 'all' ? 'all' : 'chapitre/' + encodeURIComponent(state.listesChapitreId || ''));
+      return '#/listes/' + (state.listesChapitreId ? encodeURIComponent(state.listesChapitreId) : 'all')
+             + (state.listesListe ? '/' + encodeURIComponent(state.listesListe) : '');
     case 'quiz':
-      return '#/quiz/' + (state.quizScope || 'all') + (state.quizChapId ? '/' + encodeURIComponent(state.quizChapId) : '');
+      return '#/quiz/' + (state.quizPhrases ? 'phrases' : (state.quizChapId ? encodeURIComponent(state.quizChapId) : 'all'))
+             + (state.quizListe ? '/' + encodeURIComponent(state.quizListe) : '');
     case 'phrases':    return '#/phrases';
     case 'actualite':  return '#/actualite' + (state.actualiteChapitreId && state.actualiteChapitreId !== 'all' ? '/' + encodeURIComponent(state.actualiteChapitreId) : '');
     case 'rappels':    return '#/rappels';
@@ -605,9 +706,17 @@ function applyHash(){
     state.chapTab = parts[2] || 'synthese';
   } else if(v === 'listes'){
     state.view = 'listes';
-    if(parts[1] === 'chapitre'){ state.listesScope = 'chapitre'; state.listesChapitreId = parts[2] || null; }
-    else { state.listesScope = 'all'; state.listesChapitreId = null; }
-  } else if(v === 'quiz'){ state.view = 'quiz'; state.quizScope = parts[1] || 'all'; state.quizChapId = parts[2] || null; state.quiz = null; }
+    const i = parts[1] === 'chapitre' ? 2 : 1;        // anciens liens #/listes/chapitre/<id>
+    state.listesChapitreId = (parts[i] && parts[i] !== 'all') ? parts[i] : null;
+    state.listesListe = parts[i + 1] || null;
+  } else if(v === 'quiz'){
+    state.view = 'quiz';
+    state.quizPhrases = parts[1] === 'phrases';
+    const i = parts[1] === 'chapitre' ? 2 : 1;
+    state.quizChapId = (!state.quizPhrases && parts[i] && parts[i] !== 'all') ? parts[i] : null;
+    state.quizListe = parts[i + 1] || null;
+    state.quiz = null; state.quizMode = 'same';       // un rechargement retrouve la même série
+  }
   else if(v === 'phrases'){ state.view = 'phrases'; }
   else if(v === 'actualite'){ state.view = 'actualite'; state.actualiteChapitreId = parts[1] || 'all'; }
   else if(v === 'rappels'){ state.view = 'rappels'; }
@@ -705,6 +814,10 @@ function renderHome(){
 // ============================================================
 // THÈME — Synthèse / Vocabulaire / Expressions / Actualité
 // ============================================================
+function flagsHtml(item){
+  return (item.important ? '<span class="flag-imp" title="Point que tu as marqué d\'un point d\'exclamation sur ta fiche">!</span>' : '')
+       + (item.a_verifier ? '<span class="flag-ver" title="Lecture ou traduction incertaine sur ta fiche">à vérifier</span>' : '');
+}
 function vocItemHtml(item, kind){
   const isVoc = kind === 'vocabulaire';
   const terme = isVoc ? item.terme_en : item.expression_en;
@@ -712,20 +825,70 @@ function vocItemHtml(item, kind){
   const ipa = isVoc ? (item.prononciation || '') : '';
   const exEn = isVoc ? item.exemple_en : item.exemple;
   const exFr = isVoc ? item.exemple_fr : '';
-  const diff = item.difficulte ? `<span class="diff-tag ${item.difficulte}">${item.difficulte}</span>` : '';
-  const contexte = item.contexte ? `<div class="voc-ipa">${item.contexte}</div>` : '';
-  const speakTarget = String(terme || '').replace(/"/g,'&quot;');
+  const diff = item.difficulte ? `<span class="diff-tag ${esc(item.difficulte)}">${esc(item.difficulte)}</span>` : '';
+  const contexte = item.contexte ? `<div class="voc-ipa">${esc(item.contexte)}</div>` : '';
+  const def = item.definition_en ? `<div class="voc-def"><span class="lbl">Definition</span>${esc(item.definition_en)}</div>` : '';
+  const note = item.note ? `<div class="voc-note">${esc(item.note)}</div>` : '';
   return `<div class="voc-item">
     <div class="voc-head">
-      <span class="voc-term">${terme}</span>
-      ${ipa ? `<span class="voc-ipa">${ipa}</span>` : ''}
-      <button class="speak-btn" data-speak="${speakTarget}" title="Écouter la prononciation">🔊</button>
-      ${diff}
+      <span class="voc-term">${esc(terme)}</span>
+      ${ipa ? `<span class="voc-ipa">${esc(ipa)}</span>` : ''}
+      <button class="speak-btn" data-speak="${esc(terme)}" title="Écouter la prononciation">🔊</button>
+      ${diff}${flagsHtml(item)}
     </div>
     ${contexte}
-    <div class="voc-trad">${trad}</div>
-    ${exEn ? `<div class="voc-ex">${exEn}${exFr ? `<div class="fr">${exFr}</div>` : ''}</div>` : ''}
+    <div class="voc-trad">${esc(trad)}</div>
+    ${def}
+    ${exEn ? `<div class="voc-ex">${esc(exEn)}${exFr ? `<div class="fr">${esc(exFr)}</div>` : ''}</div>` : ''}
+    ${note}
   </div>`;
+}
+function phraseItemHtml(p){
+  return `<div class="voc-item">
+    <div class="voc-head">
+      <span class="voc-term" style="font-size:1rem;">${esc(p.phrase_en)}</span>
+      <button class="speak-btn" data-speak="${esc(p.phrase_en)}" title="Écouter">🔊</button>
+      ${flagsHtml(p)}
+    </div>
+    ${p.traduction_fr ? `<div class="voc-trad">${esc(p.traduction_fr)}</div>` : ''}
+    ${p.note ? `<div class="voc-ex">${esc(p.note)}</div>` : ''}
+  </div>`;
+}
+// Regroupe des entrées par liste (une entrée présente dans plusieurs listes apparaît dans chacune).
+function vocGroupsHtml(items, kind){
+  const groups = new Map();
+  items.forEach(it => {
+    const ls = (it.listes && it.listes.length) ? it.listes : ['Autres termes'];
+    ls.forEach(l => { if(!groups.has(l)) groups.set(l, []); groups.get(l).push(it); });
+  });
+  const single = groups.size === 1;
+  let html = '';
+  groups.forEach((arr, name) => {
+    const note = (DATA.listes_notes || {})[name];
+    html += `<details class="doc-refs voc-group"${single ? ' open' : ''}>
+      <summary><span>${esc(name)} <span class="cnt">${arr.length}</span></span></summary>
+      <div class="voc-group-tools">
+        <button class="btn-ghost" data-quiz-liste="${esc(name)}">S'interroger sur cette liste</button>
+        <button class="btn-ghost" data-cards-liste="${esc(name)}">Voir en cartes</button>
+      </div>
+      ${note ? `<div class="voc-gnote">${esc(note)}</div>` : ''}
+      <div class="voc-list">${sortByRank(arr, name).map(it => vocItemHtml(it, kind)).join('')}</div>
+    </details>`;
+  });
+  return html;
+}
+function wireGroups(){
+  const tg = document.getElementById('toggleAll');
+  if(tg) tg.onclick = () => {
+    const ds = [...app.querySelectorAll('details.voc-group')];
+    const anyClosed = ds.some(d => !d.open);
+    ds.forEach(d => { d.open = anyClosed; });
+  };
+  app.querySelectorAll('[data-quiz-liste]').forEach(b => b.onclick = () => launchQuiz('new', null, b.dataset.quizListe, false));
+  app.querySelectorAll('[data-cards-liste]').forEach(b => b.onclick = () => {
+    state.listesChapitreId = null; state.listesListe = b.dataset.cardsListe; state.view = 'listes';
+    render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
 }
 function actuItemHtml(a){
   return `<div class="actu-item">
@@ -766,10 +929,10 @@ function renderChapitre(){
   if(state.chapTab === 'vocabulaire'){
     const items = DATA.vocabulaire.filter(v => v.chapitre_id === chapitre.id);
     app.innerHTML = `<div class="panel">${header}
-      ${items.length ? `<div class="voc-list">${items.map(v => vocItemHtml(v, 'vocabulaire')).join('')}</div>`
+      ${items.length ? `<div class="report-row"><button class="btn-ghost" id="toggleAll">Déplier / replier tout</button><span class="report-hint">${items.length} terme(s), classés par liste de ta fiche</span></div>${vocGroupsHtml(items, 'vocabulaire')}`
                      : "<p class=\"fiche-meta\">Aucun mot de vocabulaire ajouté pour ce thème pour l'instant.</p>"}
     </div>`;
-    wireChapitreCommon(); wireSpeakButtons();
+    wireChapitreCommon(); wireSpeakButtons(); wireGroups();
     return;
   }
 
@@ -806,14 +969,41 @@ function renderChapitre(){
 // CARTES DE RÉVISION (Leitner) — vocabulaire & expressions
 // ============================================================
 function renderListes(){
-  const isAll = state.listesScope === 'all';
-  const chap = !isAll ? chapById(state.listesChapitreId) : null;
-  const cards = cardsForScope(isAll ? 'all' : 'chapitre', chap && chap.id);
-  const title = isAll ? "Toutes les cartes" : `Cartes — ${chapLabel(chap)}`;
+  const chap = chapById(state.listesChapitreId) || null;
+  const chapId = chap ? chap.id : null;
+  const liste = state.listesListe || null;
+  const cards = cardsFor(chapId, liste, false);
+  const title = liste ? ('Liste — ' + liste) : (chap ? ('Cartes — ' + chapLabel(chap)) : 'Toutes les cartes');
   const pr = progressFor(cards);
+  const prefs = loadPrefs();
+  const savedN = savedSeriesCards(seriesKey(chapId, liste, false)).length;
+  const note = liste ? ((DATA.listes_notes || {})[liste] || '') : '';
+
+  const opt = (val, label, sel) => `<option value="${esc(val)}"${sel ? ' selected' : ''}>${esc(label)}</option>`;
+  const themeOpts = opt('', 'Tous les thèmes', !chap) + DATA.chapitres.map(c => opt(c.id, chapLabel(c), chap && chap.id === c.id)).join('');
+  const lists = [...LISTES_CAT.values()];
+  let listOpts = opt('', 'Toutes les listes', !liste);
+  if(chap){
+    listOpts += lists.filter(e => e.byTheme[chap.id]).map(e => opt(e.name, e.name + ' (' + e.byTheme[chap.id] + ')', liste === e.name)).join('');
+  } else {
+    DATA.chapitres.map(c => c.id).concat(['_none']).forEach(k => {
+      const grp = lists.filter(e => e.primary === k);
+      if(!grp.length) return;
+      const label = k === '_none' ? 'Sans thème' : chapLabel(chapById(k));
+      listOpts += '<optgroup label="' + esc(label) + '">' + grp.map(e => opt(e.name, e.name + ' (' + e.n + ')', liste === e.name)).join('') + '</optgroup>';
+    });
+  }
+  const optsLine = liste
+    ? `<label><input type="checkbox" id="qShuffle"${prefs.shuffleList ? ' checked' : ''}> Mélanger l'ordre de la liste</label>`
+    : `<label>Taille d'une série <select id="qSize">${[10, 20, 50, 0].map(n => opt(String(n), n ? n + ' cartes' : 'Toutes', prefs.size === n)).join('')}</select></label>`;
 
   app.innerHTML = `<div class="panel">
-    <h1 class="page-title">${title}</h1>
+    <h1 class="page-title">${esc(title)}</h1>
+    ${note ? `<p class="fiche-meta">${esc(note)}</p>` : ''}
+    <div class="listes-selects">
+      <select id="selTheme" aria-label="Thème">${themeOpts}</select>
+      <select id="selListe" aria-label="Liste">${listOpts}</select>
+    </div>
     <div class="listes-toolbar">
       <div style="flex:1;min-width:220px;">
         <div class="progress-wrap">
@@ -823,34 +1013,17 @@ function renderListes(){
       </div>
       <div class="tools">
         <button class="btn-primary" id="startQuiz">S'interroger</button>
+        ${savedN ? `<button class="btn-ghost" id="replayQuiz">Refaire ma dernière série (${savedN})</button>` : ''}
         <button class="btn-ghost" id="resetProgress">Réinitialiser</button>
         <button class="btn-ghost" id="exportProgress">Exporter</button>
         <button class="btn-ghost" id="importProgress">Importer</button>
         <input type="file" id="importFile" accept="application/json" style="display:none">
       </div>
     </div>
+    <div class="listes-opts">${optsLine}<span>${cards.length} carte(s)</span></div>
     <div class="qr-grid" id="qrGrid"></div>
+    <div class="more-row" id="moreRow"></div>
   </div>`;
-
-  const grid = document.getElementById('qrGrid');
-  let focusedEl = null;
-  cards.forEach(c => {
-    const card = document.createElement('div');
-    card.className = 'flashcard' + (qrMastered(c.id) ? ' mastered' : '');
-    card.dataset.cardId = c.id;
-    if(state.qrFocus === c.id){ card.classList.add('flipped'); focusedEl = card; }
-    const info = qrInfo(c.id);
-    const badge = info && info.status ? `<div class="qr-badge ${info.status}">${info.status==='known' ? '✓ su' : '↻ à revoir'}</div>` : '';
-    card.innerHTML = `<div class="inner">
-        <div class="face front">${badge}<div class="lbl">${c.type === 'expression' ? 'Expression' : 'Vocabulaire'}</div><div class="qtext">${c.question}</div><div class="tag">clic pour retourner</div></div>
-        <div class="face back"><div class="lbl">Traduction</div><div class="atext">${c.reponse}</div>
-          <div class="qr-eval"><button class="btn-known" data-known="${c.id}">✓ Su</button><button class="btn-review" data-review="${c.id}">↻ À revoir</button></div>
-        </div>
-      </div>`;
-    card.onclick = (e) => { if(e.target.closest('button')) return; card.classList.toggle('flipped'); };
-    grid.appendChild(card);
-  });
-  if(focusedEl) setTimeout(() => focusedEl.scrollIntoView({block:'center', behavior:'smooth'}), 30);
 
   function refreshProgress(){
     const p = progressFor(cards);
@@ -870,16 +1043,58 @@ function renderListes(){
     }
     refreshProgress();
   }
-  app.querySelectorAll('[data-known]').forEach(b => b.onclick = (e) => { e.stopPropagation(); grade(b, 'known'); });
-  app.querySelectorAll('[data-review]').forEach(b => b.onclick = (e) => { e.stopPropagation(); grade(b, 'review'); });
+  function makeCardEl(c){
+    const card = document.createElement('div');
+    card.className = 'flashcard' + (qrMastered(c.id) ? ' mastered' : '');
+    card.dataset.cardId = c.id;
+    const info = qrInfo(c.id);
+    const badge = info && info.status ? `<div class="qr-badge ${info.status}">${info.status==='known' ? '✓ su' : '↻ à revoir'}</div>` : '';
+    const ref = REF_BY_ID[c.ref_id] || {};
+    const def = ref.definition_en ? `<div class="adef">${esc(ref.definition_en)}</div>` : '';
+    card.innerHTML = `<div class="inner">
+        <div class="face front">${badge}<div class="lbl">${c.type === 'expression' ? 'Expression' : 'Vocabulaire'}</div><div class="qtext">${esc(c.question)}</div><div class="tag">clic pour retourner</div></div>
+        <div class="face back"><div class="lbl">Traduction</div><div class="atext">${esc(c.reponse)}${def}</div>
+          <div class="qr-eval"><button class="btn-known" data-known="${esc(c.id)}">✓ Su</button><button class="btn-review" data-review="${esc(c.id)}">↻ À revoir</button></div>
+        </div>
+      </div>`;
+    card.onclick = (e) => { if(e.target.closest('button')) return; card.classList.toggle('flipped'); };
+    card.querySelector('[data-known]').onclick = (e) => { e.stopPropagation(); grade(e.currentTarget, 'known'); };
+    card.querySelector('[data-review]').onclick = (e) => { e.stopPropagation(); grade(e.currentTarget, 'review'); };
+    return card;
+  }
 
-  const sq = document.getElementById('startQuiz');
-  if(sq) sq.onclick = () => { state.quizScope = isAll ? 'all' : 'chapitre'; state.quizChapId = chap && chap.id; state.quiz = null; state.view = 'quiz'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
-  const rp = document.getElementById('resetProgress');
-  if(rp) rp.onclick = () => { const s = loadQrState(); cards.forEach(c => { delete s[c.id]; }); saveQrState(s); render(); };
-  const ep = document.getElementById('exportProgress'); if(ep) ep.onclick = exportProgress;
+  // Rendu progressif : jusqu'à ~1 400 cartes sur « Toutes les cartes », on n'en pose que 60 à la fois.
+  const grid = document.getElementById('qrGrid');
+  const moreRow = document.getElementById('moreRow');
+  let shown = 0;
+  function addCards(upTo){
+    cards.slice(shown, upTo).forEach(c => grid.appendChild(makeCardEl(c)));
+    shown = Math.min(upTo, cards.length);
+    if(shown < cards.length){
+      moreRow.innerHTML = `<button class="btn-ghost" id="moreBtn">Afficher plus (${cards.length - shown} restantes)</button> <button class="btn-ghost" id="allBtn">Tout afficher</button>`;
+      document.getElementById('moreBtn').onclick = () => addCards(shown + 60);
+      document.getElementById('allBtn').onclick = () => addCards(cards.length);
+    } else {
+      moreRow.innerHTML = '';
+    }
+  }
+  addCards(liste ? cards.length : 60);
+
+  document.getElementById('selTheme').onchange = (e) => { state.listesChapitreId = e.target.value || null; state.listesListe = null; render(); };
+  document.getElementById('selListe').onchange = (e) => { state.listesListe = e.target.value || null; render(); };
+  const qs = document.getElementById('qSize');
+  if(qs) qs.onchange = () => { prefs.size = parseInt(qs.value, 10); savePrefs(prefs); };
+  const qsh = document.getElementById('qShuffle');
+  if(qsh) qsh.onchange = () => { prefs.shuffleList = qsh.checked; savePrefs(prefs); };
+
+  document.getElementById('startQuiz').onclick = () => launchQuiz('new', chapId, liste, false);
+  const rq = document.getElementById('replayQuiz');
+  if(rq) rq.onclick = () => launchQuiz('same', chapId, liste, false);
+  document.getElementById('resetProgress').onclick = () => { const st = loadQrState(); cards.forEach(c => { delete st[c.id]; }); saveQrState(st); render(); };
+  document.getElementById('exportProgress').onclick = exportProgress;
   const ip = document.getElementById('importProgress'); const ipf = document.getElementById('importFile');
-  if(ip && ipf){ ip.onclick = () => ipf.click(); ipf.onchange = () => { if(ipf.files && ipf.files[0]) importProgress(ipf.files[0]); }; }
+  ip.onclick = () => ipf.click();
+  ipf.onchange = () => { if(ipf.files && ipf.files[0]) importProgress(ipf.files[0]); };
 }
 
 // ============================================================
@@ -887,39 +1102,53 @@ function renderListes(){
 // ============================================================
 function renderQuiz(){
   if(!state.quiz){
-    const all = cardsForScope(state.quizScope, state.quizChapId);
-    const deck = shuffle(all.filter(c => !qrMastered(c.id)))
-                 .concat(shuffle(all.filter(c => qrMastered(c.id))))
-                 .slice(0, Math.min(20, all.length));
+    const deck = buildDeck(state.quizMode || 'new');
+    state.quizMode = 'new';
     state.quiz = { deck, i: 0, score: 0, revealed: false };
   }
   const Q = state.quiz;
-  const back = () => { state.quiz = null; state.view = (state.quizScope === 'phrases') ? 'phrases' : 'listes'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+  const phraseDeck = state.quizPhrases || (state.quizListe && !LISTES_CAT.has(state.quizListe));
+  const label = state.quizListe ? ('Liste — ' + state.quizListe)
+              : (state.quizPhrases ? "Phrases pour l'oral" : (chapById(state.quizChapId) ? chapLabel(chapById(state.quizChapId)) : 'Toutes les cartes'));
+  const back = () => {
+    state.quiz = null;
+    if(phraseDeck){ state.view = 'phrases'; }
+    else { state.listesChapitreId = state.quizChapId || null; state.listesListe = state.quizListe || null; state.view = 'listes'; }
+    render(); window.scrollTo({top:0, behavior:'smooth'});
+  };
 
   if(!Q.deck.length || Q.i >= Q.deck.length){
     const total = Q.deck.length;
     app.innerHTML = `<div class="panel"><h1 class="page-title">Interrogation</h1>
+      <p class="fiche-meta">${esc(label)}</p>
       <div class="quiz-result">
         ${total ? `<div class="score">${Q.score} / ${total}</div><p class="progress-label">cartes que vous avez sues</p>`
                 : '<p class="fiche-meta">Aucune carte à réviser dans ce périmètre.</p>'}
         <div class="quiz-actions">
-          <button class="btn-primary" id="quizAgain">Recommencer</button>
+          ${total ? '<button class="btn-primary" id="quizSame">Refaire la même série</button>' : ''}
+          <button class="btn-ghost" id="quizNew">Nouvelle série</button>
           <button class="btn-ghost" id="quizBack">Retour</button>
         </div>
+        ${total ? '<p class="progress-label" style="margin-top:12px;">La série est mémorisée : tu la retrouves aussi plus tard avec « Refaire ma dernière série ».</p>' : ''}
       </div></div>`;
-    const again = document.getElementById('quizAgain'); if(again) again.onclick = () => { state.quiz = null; render(); };
-    const b = document.getElementById('quizBack'); if(b) b.onclick = back;
+    const same = document.getElementById('quizSame'); if(same) same.onclick = () => { state.quiz = null; state.quizMode = 'same'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+    document.getElementById('quizNew').onclick = () => { state.quiz = null; state.quizMode = 'new'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+    document.getElementById('quizBack').onclick = back;
     return;
   }
 
   const c = Q.deck[Q.i];
+  const ref = REF_BY_ID[c.ref_id] || {};
+  const extra = (ref.definition_en ? `<div class="quiz-def">${esc(ref.definition_en)}</div>` : '')
+              + (ref.exemple_en ? `<div class="quiz-def"><em>${esc(ref.exemple_en)}</em></div>` : '');
   app.innerHTML = `<div class="panel">
     <h1 class="page-title">Interrogation</h1>
+    <p class="fiche-meta">${esc(label)}</p>
     <div class="quiz-card">
       <div class="quiz-meta">Carte ${Q.i+1} / ${Q.deck.length} · Score ${Q.score}</div>
-      <div class="quiz-q">${c.question}</div>
+      <div class="quiz-q">${esc(c.question)}</div>
       ${Q.revealed
-        ? `<div class="quiz-a">${c.reponse}</div>
+        ? `<div class="quiz-a">${esc(c.reponse)}${extra}</div>
            <div class="quiz-actions">
              <button class="btn-primary" id="gradeKnown">✓ Je savais</button>
              <button class="btn-ghost" id="gradeReview">↻ À revoir</button>
@@ -931,39 +1160,52 @@ function renderQuiz(){
   const rv = document.getElementById('reveal'); if(rv) rv.onclick = () => { Q.revealed = true; render(); };
   const gk = document.getElementById('gradeKnown'); if(gk) gk.onclick = () => { setQrStatus(c.id,'known'); Q.score++; Q.i++; Q.revealed=false; render(); window.scrollTo({top:0,behavior:'smooth'}); };
   const gr = document.getElementById('gradeReview'); if(gr) gr.onclick = () => { setQrStatus(c.id,'review'); Q.i++; Q.revealed=false; render(); window.scrollTo({top:0,behavior:'smooth'}); };
-  const qb = document.getElementById('quizBack'); if(qb) qb.onclick = back;
+  document.getElementById('quizBack').onclick = back;
 }
 
 // ============================================================
 // PHRASES POUR L'ORAL — groupées par fonction communicative
 // ============================================================
 function renderPhrases(){
-  const groups = {};
-  (DATA.phrases_orales || []).forEach(p => {
-    const key = p.fonction || 'Autres';
-    (groups[key] = groups[key] || []).push(p);
+  const items = DATA.phrases_orales || [];
+  const rank = pa => { const m = /^(I|II|III|IV)\./.exec(pa || ''); return m ? ['I','II','III','IV'].indexOf(m[1]) : 9; };
+  const parties = new Map();
+  items.forEach(p => {
+    const pa = p.partie || 'Autres formules';
+    if(!parties.has(pa)) parties.set(pa, new Map());
+    const f = parties.get(pa); const k = p.fonction || 'Autres';
+    if(!f.has(k)) f.set(k, []);
+    f.get(k).push(p);
   });
-  const fonctions = Object.keys(groups);
+  const order = [...parties.keys()].sort((a, b) => rank(a) - rank(b));
+  const savedN = savedSeriesCards(seriesKey(null, null, true)).length;
+  let body = '';
+  order.forEach(pa => {
+    body += `<h2 class="partie-title">${esc(pa)}</h2>`;
+    parties.get(pa).forEach((arr, f) => {
+      const note = (DATA.listes_notes || {})[f];
+      body += `<details class="doc-refs voc-group phrase-group">
+        <summary><span>${esc(f.charAt(0).toUpperCase() + f.slice(1))} <span class="cnt">${arr.length}</span></span></summary>
+        <div class="voc-group-tools"><button class="btn-ghost" data-quiz-liste="${esc(f)}">S'interroger sur cette fonction</button></div>
+        ${note ? `<div class="voc-gnote">${esc(note)}</div>` : ''}
+        <div class="voc-list">${arr.map(phraseItemHtml).join('')}</div>
+      </details>`;
+    });
+  });
   app.innerHTML = `<div class="panel">
     <h1 class="page-title">Phrases pour l'oral</h1>
-    <p class="fiche-meta">Formulations classées par fonction communicative — utile pour la transition annoncée entre synthèse et argumentation attendue par le jury.</p>
-    <div class="report-row"><button class="btn-primary" id="startPhraseQuiz">S'interroger sur les phrases</button></div>
-    ${fonctions.length ? fonctions.map(f => `
-      <div class="notion-group">
-        <div class="gname">${f}</div>
-        ${groups[f].map(p => `
-          <div class="voc-item">
-            <div class="voc-head">
-              <span class="voc-term" style="font-size:1rem;">${p.phrase_en}</span>
-              <button class="speak-btn" data-speak="${String(p.phrase_en).replace(/"/g,'&quot;')}" title="Écouter">🔊</button>
-            </div>
-            ${p.note ? `<div class="voc-ex">${p.note}</div>` : ''}
-          </div>`).join('')}
-      </div>`).join('') : "<p class=\"fiche-meta\">Aucune phrase ajoutée pour l'instant.</p>"}
+    <p class="fiche-meta">Formulations classées par fonction communicative, avec leur traduction — utile pour annoncer la transition entre synthèse et argumentation, attendue par le jury.</p>
+    <div class="report-row">
+      <button class="btn-primary" id="startPhraseQuiz">S'interroger sur toutes les phrases</button>
+      ${savedN ? `<button class="btn-ghost" id="replayPhraseQuiz">Refaire ma dernière série (${savedN})</button>` : ''}
+      <button class="btn-ghost" id="toggleAll">Déplier / replier tout</button>
+    </div>
+    ${items.length ? body : "<p class=\"fiche-meta\">Aucune phrase ajoutée pour l'instant.</p>"}
   </div>`;
-  wireSpeakButtons();
-  const sp = document.getElementById('startPhraseQuiz');
-  if(sp) sp.onclick = () => { state.quizScope = 'phrases'; state.quizChapId = null; state.quiz = null; state.view = 'quiz'; render(); window.scrollTo({top:0, behavior:'smooth'}); };
+  wireSpeakButtons(); wireGroups();
+  document.getElementById('startPhraseQuiz').onclick = () => launchQuiz('new', null, null, true);
+  const rp = document.getElementById('replayPhraseQuiz');
+  if(rp) rp.onclick = () => launchQuiz('same', null, null, true);
 }
 
 // ============================================================
@@ -1034,8 +1276,9 @@ function renderDocumentation(){
     <div class="partie-block">
       <details class="doc-refs"><summary>Naviguer dans le site</summary><p>Le menu de gauche donne accès au <strong>Programme</strong> (les 7 thèmes) et aux <strong>Cartes de révision</strong>. En haut, les onglets <strong>Phrases pour l'oral</strong>, <strong>Actualité</strong>, <strong>Rappels de base</strong>, <strong>Liens utiles</strong> et <strong>Documentation</strong> (cette page). Le titre « LE PRÉCIS » ramène à l'accueil.</p></details>
       <details class="doc-refs"><summary>Rechercher</summary><p>La barre de recherche en haut affiche, dès 2 caractères, une <strong>liste de résultats classés</strong> : thèmes, vocabulaire, expressions, phrases et rappels de grammaire. Naviguez au clavier (flèches haut/bas, Entrée pour ouvrir, Échap pour fermer) ou cliquez un résultat.</p></details>
-      <details class="doc-refs"><summary>Étudier un thème</summary><p>Chaque thème a quatre onglets : <strong>Synthèse</strong> (le cours rédigé), <strong>Vocabulaire</strong> et <strong>Expressions</strong> (listes consultables, avec prononciation phonétique et bouton 🔊 d'écoute), et <strong>Actualité</strong> (veille rattachée à ce thème).</p></details>
-      <details class="doc-refs"><summary>Réviser avec les cartes (Leitner)</summary><p>Dans <strong>Cartes de révision</strong>, chaque carte se déplie au clic. Auto-évaluez-vous avec <strong>« ✓ Su »</strong> ou <strong>« ↻ À revoir »</strong> : un système de répétition espacée (Leitner) suit votre progression. Le bouton <strong>« S'interroger »</strong> lance un mode quiz. Les <strong>phrases pour l'oral</strong> ont leur propre mode quiz, accessible depuis leur page.</p></details>
+      <details class="doc-refs"><summary>Étudier un thème</summary><p>Chaque thème a quatre onglets : <strong>Synthèse</strong> (le cours rédigé), <strong>Vocabulaire</strong> et <strong>Expressions</strong> (consultables, classés par <strong>liste</strong> de tes fiches, avec la <strong>définition</strong> en anglais, l'exemple, la phonétique et le bouton 🔊), et <strong>Actualité</strong> (veille rattachée à ce thème). Un <strong>« ! » rouge</strong> reprend les points marqués d'un point d'exclamation sur tes fiches ; <strong>« à vérifier »</strong> signale une lecture incertaine.</p></details>
+      <details class="doc-refs"><summary>Réviser avec les cartes (Leitner)</summary><p>Dans <strong>Cartes de révision</strong>, chaque carte se déplie au clic (traduction, et définition quand elle existe). Auto-évaluez-vous avec <strong>« ✓ Su »</strong> ou <strong>« ↻ À revoir »</strong> : un système de répétition espacée (Leitner) suit votre progression. Les cartes se filtrent par <strong>thème</strong> et par <strong>liste</strong> (menus déroulants en haut).</p></details>
+      <details class="doc-refs"><summary>Rejouer la même série de cartes</summary><p>Le bouton <strong>« S'interroger »</strong> lance une série ; <strong>« Refaire ma dernière série »</strong> (ou « Refaire la même série » en fin de quiz) rejoue <em>exactement</em> les mêmes cartes dans le même ordre. La série est mémorisée dans ton navigateur et incluse dans l'export de progression. Sur une <strong>liste</strong>, la série reprend toute la liste dans l'ordre de ta fiche (case « Mélanger l'ordre » pour la brasser) ; hors liste, la taille d'une série se règle (10, 20, 50 ou toutes les cartes). Les <strong>phrases pour l'oral</strong> ont leurs propres séries, par fonction ou toutes ensemble.</p></details>
       <details class="doc-refs"><summary>Écouter la prononciation</summary><p>Le bouton <strong>🔊</strong> à côté d'un mot ou d'une phrase utilise la synthèse vocale du navigateur (<em>Web Speech API</em>) — aucun fichier audio à créer ni héberger. Le résultat dépend du navigateur et du système utilisés.</p></details>
       <details class="doc-refs"><summary>Confort de lecture</summary><p>Le bouton <strong>🌙 / ☀️</strong> (en haut) bascule en <strong>mode sombre</strong>, mémorisé. Sur un thème, <strong>« 🖨 Imprimer / PDF »</strong> imprime le contenu sans le menu. Chaque vue a sa <strong>propre adresse (URL)</strong>, partageable.</p></details>
       <details class="doc-refs"><summary>Sauvegarder sa progression</summary><p>Votre progression est enregistrée dans votre navigateur (indépendamment de Quizlet, si tu exportes aussi le vocabulaire là-bas — les deux suivis ne se synchronisent pas). Dans <strong>Cartes de révision</strong>, tu peux l'<strong>exporter</strong> puis la <strong>réimporter</strong> — utile pour changer d'appareil.</p></details>
@@ -1167,8 +1410,8 @@ function buildMenuTrees(){
   listesEl.querySelectorAll('[data-go-listes]').forEach(a => a.onclick = (e) => {
     e.preventDefault();
     const v = a.dataset.goListes;
-    state.listesScope = (v === 'all') ? 'all' : 'chapitre';
     state.listesChapitreId = (v === 'all') ? null : v;
+    state.listesListe = null;
     state.qrFocus = null;
     state.view = 'listes'; closeMenu(); render(); window.scrollTo({top:0, behavior:'smooth'});
   });
@@ -1186,20 +1429,23 @@ const srEsc = s => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g
 function collectResults(qraw){
   const q = (qraw || '').trim().toLowerCase();
   if(q.length < 2) return [];
-  const score = (t) => { t = (t||'').toLowerCase(); const i = t.indexOf(q); return i < 0 ? -1 : (t.startsWith(q) ? 0 : 1 + i*0.001); };
+  const sc = (t, pen) => { t = (t||'').toLowerCase(); const i = t.indexOf(q); return i < 0 ? -1 : (t.startsWith(q) ? 0 : 1 + i*0.001) + (pen || 0); };
+  const best = arr => { const ok = arr.filter(x => x >= 0); return ok.length ? Math.min.apply(null, ok) : -1; };
   const res = [];
-  DATA.chapitres.forEach(c => { const s = score(c.titre); if(s>=0){
+  DATA.chapitres.forEach(c => { const s = sc(c.titre); if(s>=0){
     res.push({type:'Thème', sc:s, cat:1, title:c.titre, sub:'', go:()=>{ state.chapitreId=c.id; state.view='chapitre'; state.chapTab='synthese'; }}); } });
-  DATA.vocabulaire.forEach(v => { const s = Math.max(score(v.terme_en), score(v.traduction_fr)); if(s>=0){ const c = chapById(v.chapitre_id);
-    res.push({type:'Vocabulaire', sc:s, cat:2, title:v.terme_en, sub:c?chapLabel(c):'', go:()=>{ state.chapitreId=v.chapitre_id; state.view='chapitre'; state.chapTab='vocabulaire'; }}); } });
-  DATA.expressions.forEach(ex => { const s = Math.max(score(ex.expression_en), score(ex.sens_fr)); if(s>=0){ const c = chapById(ex.chapitre_id);
+  DATA.vocabulaire.forEach(v => { const s = best([sc(v.terme_en), sc(v.traduction_fr), sc(v.definition_en, 3)]); if(s>=0){ const c = chapById(v.chapitre_id);
+    res.push({type:'Vocabulaire', sc:s, cat:2, title:v.terme_en, sub:c ? chapLabel(c) : ((v.listes||[])[0] || ''),
+      go:()=>{ if(c){ state.chapitreId=c.id; state.view='chapitre'; state.chapTab='vocabulaire'; }
+               else { state.listesChapitreId=null; state.listesListe=(v.listes||[])[0] || null; state.view='listes'; } }}); } });
+  DATA.expressions.forEach(ex => { const s = best([sc(ex.expression_en), sc(ex.sens_fr)]); if(s>=0){ const c = chapById(ex.chapitre_id);
     res.push({type:'Expression', sc:s, cat:2, title:ex.expression_en, sub:c?chapLabel(c):'', go:()=>{ state.chapitreId=ex.chapitre_id; state.view='chapitre'; state.chapTab='expressions'; }}); } });
-  (DATA.phrases_orales||[]).forEach(p => { const s = score(p.phrase_en); if(s>=0){
+  (DATA.phrases_orales||[]).forEach(p => { const s = best([sc(p.phrase_en), sc(p.traduction_fr)]); if(s>=0){
     res.push({type:'Phrase', sc:s, cat:3, title:p.phrase_en, sub:p.fonction||'', go:()=>{ state.view='phrases'; }}); } });
-  (DATA.rappels_grammaire||[]).forEach(r => { const s = score(r.titre); if(s>=0){
+  (DATA.rappels_grammaire||[]).forEach(r => { const s = sc(r.titre); if(s>=0){
     res.push({type:'Rappel', sc:s, cat:4, title:r.titre, sub:'', go:()=>{ state.view='rappels'; }}); } });
   res.sort((a,b)=> a.sc-b.sc || a.cat-b.cat || a.title.localeCompare(b.title));
-  return res.slice(0, 12);
+  return res.slice(0, 20);
 }
 function renderSearchResults(){
   const q = gs.value;
@@ -1306,6 +1552,9 @@ document.getElementById('themeToggle').addEventListener('click', () => {
 document.addEventListener('click', (e) => {
   if(e.target.closest && e.target.closest('.print-btn')) window.print();
 });
+// Les listes repliées n'apparaîtraient pas à l'impression : on les ouvre le temps d'imprimer.
+window.addEventListener('beforeprint', () => document.querySelectorAll('details.voc-group').forEach(d => { d.dataset.wasOpen = d.open ? '1' : ''; d.open = true; }));
+window.addEventListener('afterprint', () => document.querySelectorAll('details.voc-group').forEach(d => { d.open = !!d.dataset.wasOpen; }));
 
 // ----- Routing : back/forward + URL partagée -----
 window.addEventListener('hashchange', () => {
