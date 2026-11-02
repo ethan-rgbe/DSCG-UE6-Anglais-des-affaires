@@ -30,6 +30,14 @@ def load_json(name):
         return json.load(f)
 
 
+def load_dict(name):
+    path = DATA / name
+    if not path.exists():
+        return {}
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
 def md_to_html(text):
     MD.reset()
     return MD.convert(text or "")
@@ -57,6 +65,7 @@ def main():
     actualite = load_json("actualite.json")
     qr_cartes = load_json("qr_cartes.json")
     liens_utiles = load_json("liens-utiles.json")
+    listes_notes = load_dict("listes-notes.json")
 
     for r in rappels_grammaire:
         r["contenu_html"] = md_to_html(r.get("contenu_md", ""))
@@ -83,6 +92,10 @@ def main():
         pool = {"vocabulaire": vocabulaire, "expression": expressions, "phrase": phrases_orales}.get(ctype, [])
         if ref_id and not any(x.get("id") == ref_id for x in pool):
             warnings.append(f"qr_cartes {c.get('id')} : ref_id {ref_id!r} introuvable dans {ctype}")
+    cartes_refs = {c.get("ref_id") for c in qr_cartes}
+    sans_carte = [x["id"] for x in vocabulaire + phrases_orales if x["id"] not in cartes_refs]
+    if sans_carte:
+        warnings.append(f"{len(sans_carte)} entrée(s) sans carte de révision (ex. {sans_carte[:3]})")
     for cid in cours:
         if cid not in chap_ids:
             warnings.append(f"content/{cid}.md : ne correspond à aucun chapitre_id de chapitres.json")
@@ -103,6 +116,7 @@ def main():
         "actualite": actualite,
         "qr_cartes": qr_cartes,
         "liens_utiles": liens_utiles,
+        "listes_notes": listes_notes,
         "cours": cours,
     }
 
