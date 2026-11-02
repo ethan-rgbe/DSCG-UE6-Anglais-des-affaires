@@ -3,60 +3,1880 @@
     "id": "ph-001",
     "fonction": "transition synthèse → argumentation",
     "phrase_en": "Having outlined the author's main points, I would now like to offer my own perspective on this issue.",
-    "note": "Formule attendue par le jury pour marquer explicitement le passage à l'argumentation."
+    "note": "Formule attendue par le jury pour marquer explicitement le passage à l'argumentation.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-002",
     "fonction": "introduire",
     "phrase_en": "This article, published in [source] on [date], addresses the question of...",
-    "note": "Toujours citer la source et la date de l'article fourni en introduction de la synthèse."
+    "note": "Toujours citer la source et la date de l'article fourni en introduction de la synthèse.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-003",
     "fonction": "nuancer",
     "phrase_en": "While this may be true to some extent, one could also argue that...",
-    "note": "Utile pour éviter une argumentation trop tranchée et montrer une pensée critique."
+    "note": "Utile pour éviter une argumentation trop tranchée et montrer une pensée critique.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-004",
     "fonction": "conclure",
     "phrase_en": "To conclude, I would say that... though this remains a complex and evolving issue.",
-    "note": "Une conclusion ouverte est souvent mieux perçue qu'une affirmation trop catégorique."
+    "note": "Une conclusion ouverte est souvent mieux perçue qu'une affirmation trop catégorique.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-005",
     "fonction": "réagir à une question",
     "phrase_en": "That's an interesting point. If I understand your question correctly, you're asking whether...",
-    "note": "Reformuler la question du jury donne un instant de réflexion supplémentaire."
+    "note": "Reformuler la question du jury donne un instant de réflexion supplémentaire.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-006",
     "fonction": "faire des prévisions",
     "phrase_en": "If present trends continue, industrial output should increase.",
-    "note": "Pour introduire une prévision fondée sur une tendance observée. Variantes : be expected to / be likely to / be forecast to + verbe."
+    "note": "Pour introduire une prévision fondée sur une tendance observée. Variantes : be expected to / be likely to / be forecast to + verbe.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-007",
     "fonction": "faire des prévisions",
     "phrase_en": "According to current estimates, growth is expected to slow down next year.",
-    "note": "Formule d'ouverture pour citer une source ou une estimation avant d'annoncer une prévision."
+    "note": "Formule d'ouverture pour citer une source ou une estimation avant d'annoncer une prévision.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-008",
     "fonction": "demander",
     "phrase_en": "We would be grateful if you could provide more details on this point.",
-    "note": "Formule de politesse pour une demande, transposable à l'oral en entretien professionnel."
+    "note": "Formule de politesse pour une demande, transposable à l'oral en entretien professionnel.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-009",
     "fonction": "remercier",
     "phrase_en": "Thank you for raising this point — we really appreciate your input.",
-    "note": "Adapté des formules de correspondance commerciale (Thank you for.../We appreciated...) pour un usage oral."
+    "note": "Adapté des formules de correspondance commerciale (Thank you for.../We appreciated...) pour un usage oral.",
+    "partie": "Formules complémentaires"
   },
   {
     "id": "ph-010",
     "fonction": "nuancer un désaccord",
     "phrase_en": "We regret that this hasn't been fully addressed, but we remain open to further discussion.",
-    "note": "Inspiré de « We regret to inform you that... » — reconnaître une limite sans fermer le dialogue."
+    "note": "Inspiré de « We regret to inform you that... » — reconnaître une limite sans fermer le dialogue.",
+    "partie": "Formules complémentaires"
+  },
+  {
+    "id": "ph-011",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules neutres)",
+    "phrase_en": "Good morning / afternoon. Today I'm going to present an article about…",
+    "traduction_fr": "Bonjour. Aujourd'hui, je vais vous présenter un article sur…"
+  },
+  {
+    "id": "ph-012",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules neutres)",
+    "phrase_en": "The article I've chosen deals with…",
+    "traduction_fr": "L'article que j'ai choisi traite de…"
+  },
+  {
+    "id": "ph-013",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules neutres)",
+    "phrase_en": "This article addresses the issue of…",
+    "traduction_fr": "Cet article aborde la question de…"
+  },
+  {
+    "id": "ph-014",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules neutres)",
+    "phrase_en": "The topic of my presentation is…",
+    "traduction_fr": "Le sujet de ma présentation est…"
+  },
+  {
+    "id": "ph-015",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules plus abouties)",
+    "phrase_en": "Today, I'd like to discuss an article focusing on…",
+    "traduction_fr": "Aujourd'hui, j'aimerais discuter d'un article centré sur…"
+  },
+  {
+    "id": "ph-016",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules plus abouties)",
+    "phrase_en": "My presentation is based on an article that examines…",
+    "traduction_fr": "Ma présentation s'appuie sur un article qui examine…"
+  },
+  {
+    "id": "ph-017",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules plus abouties)",
+    "phrase_en": "This article raises important questions about…",
+    "traduction_fr": "Cet article soulève d'importantes questions sur…"
+  },
+  {
+    "id": "ph-018",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Ouvrir l'exposé (formules plus abouties)",
+    "phrase_en": "The author explores the challenges related to…",
+    "traduction_fr": "L'auteur explore les défis liés à…"
+  },
+  {
+    "id": "ph-019",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Présenter la source de l'article",
+    "phrase_en": "The article was published in…",
+    "traduction_fr": "L'article a été publié dans…"
+  },
+  {
+    "id": "ph-020",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Présenter la source de l'article",
+    "phrase_en": "It appeared in [publication / newspaper / journal]",
+    "traduction_fr": "Il est paru dans [publication / journal / revue]"
+  },
+  {
+    "id": "ph-021",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Présenter la source de l'article",
+    "phrase_en": "It was written by…",
+    "traduction_fr": "Il a été écrit par…"
+  },
+  {
+    "id": "ph-022",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Présenter la source de l'article",
+    "phrase_en": "It was published on…",
+    "traduction_fr": "Il a été publié le…"
+  },
+  {
+    "id": "ph-023",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Décrire le type d'article",
+    "phrase_en": "It is an analytical / opinion / news / research article",
+    "traduction_fr": "C'est un article analytique / d'opinion / d'actualité / de recherche"
+  },
+  {
+    "id": "ph-024",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Décrire le type d'article",
+    "phrase_en": "The article provides an overview of…",
+    "traduction_fr": "L'article donne un aperçu de…"
+  },
+  {
+    "id": "ph-025",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Décrire le type d'article",
+    "phrase_en": "The article highlights…",
+    "traduction_fr": "L'article met en lumière…"
+  },
+  {
+    "id": "ph-026",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Annoncer le plan de l'exposé",
+    "phrase_en": "I will divide my presentation into three parts…",
+    "traduction_fr": "Je vais diviser ma présentation en trois parties…"
+  },
+  {
+    "id": "ph-027",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Annoncer le plan de l'exposé",
+    "phrase_en": "My presentation is structured as follows…",
+    "traduction_fr": "Ma présentation est structurée comme suit…"
+  },
+  {
+    "id": "ph-028",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Annoncer le plan de l'exposé",
+    "phrase_en": "First, I will summarise the article…",
+    "traduction_fr": "Dans un premier temps, je résumerai l'article…"
+  },
+  {
+    "id": "ph-029",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Annoncer le plan de l'exposé",
+    "phrase_en": "Then, I will analyse…",
+    "traduction_fr": "Ensuite, j'analyserai…"
+  },
+  {
+    "id": "ph-030",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Annoncer le plan de l'exposé",
+    "phrase_en": "Finally, I will discuss…",
+    "traduction_fr": "Enfin, je discuterai…"
+  },
+  {
+    "id": "ph-031",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "The article focuses on…",
+    "traduction_fr": "L'article se concentre sur…"
+  },
+  {
+    "id": "ph-032",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "The main idea is…",
+    "traduction_fr": "L'idée principale est…"
+  },
+  {
+    "id": "ph-033",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "The author argues that…",
+    "traduction_fr": "L'auteur soutient que…"
+  },
+  {
+    "id": "ph-034",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "According to the author…",
+    "traduction_fr": "Selon l'auteur…"
+  },
+  {
+    "id": "ph-035",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "The article points out that…",
+    "traduction_fr": "L'article souligne que…"
+  },
+  {
+    "id": "ph-036",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Résumer l'article",
+    "phrase_en": "The key issue raised is…",
+    "traduction_fr": "La question clé soulevée est…"
+  },
+  {
+    "id": "ph-037",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Citer des données et des faits",
+    "phrase_en": "The article mentions that…",
+    "traduction_fr": "L'article mentionne que…"
+  },
+  {
+    "id": "ph-038",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Citer des données et des faits",
+    "phrase_en": "The author provides evidence showing…",
+    "traduction_fr": "L'auteur fournit des preuves montrant…"
+  },
+  {
+    "id": "ph-039",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Citer des données et des faits",
+    "phrase_en": "Statistics indicate that…",
+    "traduction_fr": "Les statistiques indiquent que…"
+  },
+  {
+    "id": "ph-040",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Interpréter",
+    "phrase_en": "This suggests that…",
+    "traduction_fr": "Cela suggère que…"
+  },
+  {
+    "id": "ph-041",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Interpréter",
+    "phrase_en": "This implies that…",
+    "traduction_fr": "Cela implique que…"
+  },
+  {
+    "id": "ph-042",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Interpréter",
+    "phrase_en": "This can be interpreted as…",
+    "traduction_fr": "Cela peut être interprété comme…"
+  },
+  {
+    "id": "ph-043",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Interpréter",
+    "phrase_en": "One possible explanation is…",
+    "traduction_fr": "Une explication possible est…"
+  },
+  {
+    "id": "ph-044",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Donner son opinion avec prudence",
+    "phrase_en": "In my opinion…",
+    "traduction_fr": "À mon avis…"
+  },
+  {
+    "id": "ph-045",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Donner son opinion avec prudence",
+    "phrase_en": "From my perspective…",
+    "traduction_fr": "De mon point de vue…"
+  },
+  {
+    "id": "ph-046",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Donner son opinion avec prudence",
+    "phrase_en": "It could be argued that…",
+    "traduction_fr": "On pourrait soutenir que…"
+  },
+  {
+    "id": "ph-047",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Donner son opinion avec prudence",
+    "phrase_en": "I would argue that…",
+    "traduction_fr": "Je soutiendrais que…"
+  },
+  {
+    "id": "ph-048",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Donner son opinion avec prudence",
+    "phrase_en": "It seems reasonable to say that…",
+    "traduction_fr": "Il semble raisonnable de dire que…"
+  },
+  {
+    "id": "ph-049",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "Furthermore / Moreover / In addition / Besides",
+    "traduction_fr": "De plus / En outre / De surcroît / D'ailleurs",
+    "note": "Ajouter une information"
+  },
+  {
+    "id": "ph-050",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "First / Secondly / Finally",
+    "traduction_fr": "D'abord / Deuxièmement / Enfin",
+    "note": "Ordonner les idées"
+  },
+  {
+    "id": "ph-051",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "For instance / For example / Such as",
+    "traduction_fr": "Par exemple / Par exemple / Tel que",
+    "note": "Donner des exemples"
+  },
+  {
+    "id": "ph-052",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "However / Nevertheless / On the other hand / In contrast",
+    "traduction_fr": "Cependant / Néanmoins / D'un autre côté / En revanche",
+    "note": "Opposer"
+  },
+  {
+    "id": "ph-053",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "As a result / Consequently / Therefore / This leads to",
+    "traduction_fr": "En conséquence / Par conséquent / Donc / Cela conduit à",
+    "note": "Cause et conséquence"
+  },
+  {
+    "id": "ph-054",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Connecteurs et transitions",
+    "phrase_en": "It is worth noting that… / A key point is…",
+    "traduction_fr": "Il convient de noter que… / Un point clé est…",
+    "note": "Insister"
+  },
+  {
+    "id": "ph-055",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Discuter les implications",
+    "phrase_en": "This may have significant consequences for…",
+    "traduction_fr": "Cela peut avoir des conséquences importantes pour…"
+  },
+  {
+    "id": "ph-056",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Discuter les implications",
+    "phrase_en": "This could impact companies / investors / banks…",
+    "traduction_fr": "Cela pourrait avoir un impact sur les entreprises / investisseurs / banques…"
+  },
+  {
+    "id": "ph-057",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Discuter les implications",
+    "phrase_en": "One major implication is…",
+    "traduction_fr": "Une implication majeure est…"
+  },
+  {
+    "id": "ph-058",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Discuter les implications",
+    "phrase_en": "This raises concerns about…",
+    "traduction_fr": "Cela soulève des inquiétudes quant à…"
+  },
+  {
+    "id": "ph-059",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Discuter les implications",
+    "phrase_en": "This creates opportunities for…",
+    "traduction_fr": "Cela crée des opportunités pour…"
+  },
+  {
+    "id": "ph-060",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Nuancer et équilibrer",
+    "phrase_en": "While it is true that…, it is also important to consider…",
+    "traduction_fr": "S'il est vrai que…, il est aussi important de considérer…"
+  },
+  {
+    "id": "ph-061",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Nuancer et équilibrer",
+    "phrase_en": "Although…, we should not overlook…",
+    "traduction_fr": "Bien que…, nous ne devons pas négliger…"
+  },
+  {
+    "id": "ph-062",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Nuancer et équilibrer",
+    "phrase_en": "The situation is more complex than it appears.",
+    "traduction_fr": "La situation est plus complexe qu'il n'y paraît."
+  },
+  {
+    "id": "ph-063",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Exprimer l'incertitude",
+    "phrase_en": "It is difficult to predict whether…",
+    "traduction_fr": "Il est difficile de prédire si…"
+  },
+  {
+    "id": "ph-064",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Exprimer l'incertitude",
+    "phrase_en": "The outcome remains uncertain.",
+    "traduction_fr": "L'issue reste incertaine."
+  },
+  {
+    "id": "ph-065",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Exprimer l'incertitude",
+    "phrase_en": "There is still debate about…",
+    "traduction_fr": "Le débat est toujours ouvert sur…"
+  },
+  {
+    "id": "ph-066",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Esprit critique",
+    "phrase_en": "This argument may be challenged by…",
+    "traduction_fr": "Cet argument peut être contesté par…"
+  },
+  {
+    "id": "ph-067",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Esprit critique",
+    "phrase_en": "One limitation of this analysis is…",
+    "traduction_fr": "Une limite de cette analyse est…"
+  },
+  {
+    "id": "ph-068",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Esprit critique",
+    "phrase_en": "This perspective ignores…",
+    "traduction_fr": "Cette perspective ignore…"
+  },
+  {
+    "id": "ph-069",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Esprit critique",
+    "phrase_en": "An alternative view would be…",
+    "traduction_fr": "Un autre point de vue serait…"
+  },
+  {
+    "id": "ph-070",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Conclure l'exposé",
+    "phrase_en": "To conclude… / In conclusion… / To sum up…",
+    "traduction_fr": "Pour conclure… / En conclusion… / Pour résumer…"
+  },
+  {
+    "id": "ph-071",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Conclure l'exposé",
+    "phrase_en": "Overall, the article highlights…",
+    "traduction_fr": "Dans l'ensemble, l'article met en évidence…"
+  },
+  {
+    "id": "ph-072",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Conclure l'exposé",
+    "phrase_en": "In summary, the key takeaway is…",
+    "traduction_fr": "En résumé, ce qu'il faut retenir est…"
+  },
+  {
+    "id": "ph-073",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Conclure l'exposé",
+    "phrase_en": "This article underlines the importance of…",
+    "traduction_fr": "Cet article souligne l'importance de…"
+  },
+  {
+    "id": "ph-074",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Terminer l'exposé",
+    "phrase_en": "Thank you for your attention.",
+    "traduction_fr": "Merci de votre attention."
+  },
+  {
+    "id": "ph-075",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Terminer l'exposé",
+    "phrase_en": "Thank you for listening.",
+    "traduction_fr": "Merci de m'avoir écouté."
+  },
+  {
+    "id": "ph-076",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Terminer l'exposé",
+    "phrase_en": "I'll be happy to answer your questions.",
+    "traduction_fr": "Je serai ravi de répondre à vos questions."
+  },
+  {
+    "id": "ph-077",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Clarifier une question",
+    "phrase_en": "If I understand your question correctly…",
+    "traduction_fr": "Si je comprends bien votre question…"
+  },
+  {
+    "id": "ph-078",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Clarifier une question",
+    "phrase_en": "Could you please clarify what you mean by…?",
+    "traduction_fr": "Pourriez-vous préciser ce que vous entendez par… ?"
+  },
+  {
+    "id": "ph-079",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Gagner du temps",
+    "phrase_en": "That's an interesting question.",
+    "traduction_fr": "C'est une question intéressante."
+  },
+  {
+    "id": "ph-080",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Gagner du temps",
+    "phrase_en": "Let me think for a moment.",
+    "traduction_fr": "Laissez-moi réfléchir un instant."
+  },
+  {
+    "id": "ph-081",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Répondre avec professionnalisme",
+    "phrase_en": "I believe that… / It seems that…",
+    "traduction_fr": "Je crois que… / Il semble que…"
+  },
+  {
+    "id": "ph-082",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Être d'accord / en désaccord",
+    "phrase_en": "I agree with this view because…",
+    "traduction_fr": "Je partage ce point de vue parce que…"
+  },
+  {
+    "id": "ph-083",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Être d'accord / en désaccord",
+    "phrase_en": "I see your point, however…",
+    "traduction_fr": "Je comprends votre point de vue, cependant…"
+  },
+  {
+    "id": "ph-084",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Reformuler",
+    "phrase_en": "In other words… / To put it differently…",
+    "traduction_fr": "Autrement dit… / Pour le dire autrement…"
+  },
+  {
+    "id": "ph-085",
+    "partie": "I. Boîte à outils de l'exposé",
+    "fonction": "Clore l'échange",
+    "phrase_en": "Does that answer your question?",
+    "traduction_fr": "Est-ce que cela répond à votre question ?"
+  },
+  {
+    "id": "ph-086",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "to begin with, to start with, as an introduction, in the first place",
+    "traduction_fr": "pour commencer, d'abord, en guise d'introduction, en premier lieu"
+  },
+  {
+    "id": "ph-087",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "first and foremost, for starters, as an appetizer",
+    "traduction_fr": "avant tout, pour commencer, en guise d'amuse-bouche"
+  },
+  {
+    "id": "ph-088",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "what we have here is",
+    "traduction_fr": "ce que nous avons ici, c'est"
+  },
+  {
+    "id": "ph-089",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "the topic/article deals with",
+    "traduction_fr": "le sujet/l'article traite de"
+  },
+  {
+    "id": "ph-090",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "the issue I will be tackling/we need to tackle here is",
+    "traduction_fr": "la question que je vais aborder / que nous devons traiter ici est"
+  },
+  {
+    "id": "ph-091",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "the main questions are",
+    "traduction_fr": "les principales questions sont"
+  },
+  {
+    "id": "ph-092",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "there are several questions (that need) to be answered",
+    "traduction_fr": "plusieurs questions appellent une réponse"
+  },
+  {
+    "id": "ph-093",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "trying to understand the topic, we can state that",
+    "traduction_fr": "en essayant de comprendre le sujet, on peut affirmer que"
+  },
+  {
+    "id": "ph-094",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "we can easily see that",
+    "traduction_fr": "on voit facilement que"
+  },
+  {
+    "id": "ph-095",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "to quickly outline/overview the topic",
+    "traduction_fr": "présenter rapidement le sujet / en donner un aperçu"
+  },
+  {
+    "id": "ph-096",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "to catch a first glimpse of the subject",
+    "traduction_fr": "avoir un premier aperçu du sujet",
+    "important": true
+  },
+  {
+    "id": "ph-097",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "we understand quickly that",
+    "traduction_fr": "on comprend vite que"
+  },
+  {
+    "id": "ph-098",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "let us get straight to the point",
+    "traduction_fr": "allons droit au but"
+  },
+  {
+    "id": "ph-099",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "this article is all about",
+    "traduction_fr": "cet article traite avant tout de"
+  },
+  {
+    "id": "ph-100",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "behind the obvious ideas, we can reflect upon the fact that",
+    "traduction_fr": "derrière les idées évidentes, on peut réfléchir au fait que",
+    "important": true
+  },
+  {
+    "id": "ph-101",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "this topic is more difficult than it seems",
+    "traduction_fr": "ce sujet est plus difficile qu'il n'y paraît"
+  },
+  {
+    "id": "ph-102",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Introduire",
+    "phrase_en": "this seems a bit more mixed up than we might expect",
+    "traduction_fr": "cela semble un peu plus embrouillé que prévu",
+    "important": true
+  },
+  {
+    "id": "ph-103",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "the article consists of, the article is composed of … sections/ideas/arguments",
+    "traduction_fr": "l'article se compose de … sections/idées/arguments"
+  },
+  {
+    "id": "ph-104",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "the author structures/organizes/outlines his words around … main ideas.",
+    "traduction_fr": "l'auteur structure/organise/articule son propos autour de … idées principales",
+    "important": true
+  },
+  {
+    "id": "ph-105",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "first/firstly, first of all, first things first, second/secondly, third/thirdly, lastly/at last/finally",
+    "traduction_fr": "premièrement, tout d'abord, avant toute chose, deuxièmement, troisièmement, enfin / pour finir"
+  },
+  {
+    "id": "ph-106",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "then…, thus…",
+    "traduction_fr": "ensuite…, ainsi…"
+  },
+  {
+    "id": "ph-107",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "besides, moreover, what is more, on top of that, furthermore",
+    "traduction_fr": "d'ailleurs, de plus, en outre, par-dessus le marché, de surcroît"
+  },
+  {
+    "id": "ph-108",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "as well, also, too, similarly",
+    "traduction_fr": "aussi, également, de même, de façon similaire"
+  },
+  {
+    "id": "ph-109",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "by the way, speaking of which",
+    "traduction_fr": "au fait, à ce propos"
+  },
+  {
+    "id": "ph-110",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "at first sight, at a glance",
+    "traduction_fr": "à première vue, au premier coup d'œil",
+    "important": true
+  },
+  {
+    "id": "ph-111",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "on second thoughts, upon reflection",
+    "traduction_fr": "à la réflexion, après réflexion"
+  },
+  {
+    "id": "ph-112",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "on the contrary, on one hand + on the other hand, by/in contrast",
+    "traduction_fr": "au contraire, d'une part + d'autre part, par contraste / en revanche"
+  },
+  {
+    "id": "ph-113",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "anyway, at all events, in any case",
+    "traduction_fr": "de toute façon, en tout cas, quoi qu'il en soit"
+  },
+  {
+    "id": "ph-114",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "actually, as a matter of fact, in fact, in effect",
+    "traduction_fr": "en fait, en réalité, en effet"
+  },
+  {
+    "id": "ph-115",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "in most cases",
+    "traduction_fr": "dans la plupart des cas"
+  },
+  {
+    "id": "ph-116",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "all the same, after all, despite all/everything…",
+    "traduction_fr": "quand même, après tout, malgré tout…"
+  },
+  {
+    "id": "ph-117",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "one way or another",
+    "traduction_fr": "d'une manière ou d'une autre"
+  },
+  {
+    "id": "ph-118",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "all the way",
+    "traduction_fr": "jusqu'au bout"
+  },
+  {
+    "id": "ph-119",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "in this respect",
+    "traduction_fr": "à cet égard",
+    "important": true
+  },
+  {
+    "id": "ph-120",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "to some extent",
+    "traduction_fr": "dans une certaine mesure"
+  },
+  {
+    "id": "ph-121",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "as far as… is concerned, when it comes to…",
+    "traduction_fr": "en ce qui concerne…, quand il s'agit de…",
+    "important": true
+  },
+  {
+    "id": "ph-122",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "from a… point of view",
+    "traduction_fr": "d'un point de vue…"
+  },
+  {
+    "id": "ph-123",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Structurer les idées",
+    "phrase_en": "as opposed to, instead of",
+    "traduction_fr": "par opposition à, au lieu de"
+  },
+  {
+    "id": "ph-124",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "for instance, like, such as, namely, as an example",
+    "traduction_fr": "par exemple, comme, tel que, à savoir, à titre d'exemple"
+  },
+  {
+    "id": "ph-125",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "in other words, to put it simply, basically",
+    "traduction_fr": "autrement dit, pour le dire simplement, en gros"
+  },
+  {
+    "id": "ph-126",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "that is to say",
+    "traduction_fr": "c'est-à-dire"
+  },
+  {
+    "id": "ph-127",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "to be honest, in my (humble) opinion",
+    "traduction_fr": "pour être honnête, à mon (humble) avis"
+  },
+  {
+    "id": "ph-128",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I guess, I reckon, figure that…",
+    "traduction_fr": "je suppose, je crois, j'imagine que…"
+  },
+  {
+    "id": "ph-129",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "my feeling is that…, I have a feeling that…",
+    "traduction_fr": "mon sentiment est que…, j'ai le sentiment que…"
+  },
+  {
+    "id": "ph-130",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I'd rather say that…, I would tend to think that…",
+    "traduction_fr": "je dirais plutôt que…, j'aurais tendance à penser que…"
+  },
+  {
+    "id": "ph-131",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "let me walk you through, let me introduce",
+    "traduction_fr": "laissez-moi vous guider à travers, laissez-moi vous présenter"
+  },
+  {
+    "id": "ph-132",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I will take a stab at, let us take a stab at…",
+    "traduction_fr": "je vais m'y essayer, essayons de…"
+  },
+  {
+    "id": "ph-133",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I tend to agree/disagree, I (don't) think so",
+    "traduction_fr": "j'ai tendance à être d'accord/en désaccord, je (ne) pense (pas)"
+  },
+  {
+    "id": "ph-134",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "we can agree on the fact that…, as you are well aware, obviously we can say that…",
+    "traduction_fr": "nous pouvons nous accorder sur le fait que…, comme vous le savez bien, on peut évidemment dire que…"
+  },
+  {
+    "id": "ph-135",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "that's relevant/irrelevant, that's interesting",
+    "traduction_fr": "c'est pertinent/hors de propos, c'est intéressant"
+  },
+  {
+    "id": "ph-136",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "it does/doesn't make sense",
+    "traduction_fr": "cela a/n'a pas de sens"
+  },
+  {
+    "id": "ph-137",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "that is correct, indeed",
+    "traduction_fr": "c'est exact, en effet"
+  },
+  {
+    "id": "ph-138",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I agree with you 100 %, I couldn't agree more",
+    "traduction_fr": "je suis d'accord à 100 %, je ne pourrais pas être plus d'accord"
+  },
+  {
+    "id": "ph-139",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "it depends",
+    "traduction_fr": "ça dépend"
+  },
+  {
+    "id": "ph-140",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I have no clue, I don't know, no idea, I'm kind of lost",
+    "traduction_fr": "je n'en ai aucune idée, je ne sais pas, aucune idée, je suis un peu perdu"
+  },
+  {
+    "id": "ph-141",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I'm not familiar with the idea of",
+    "traduction_fr": "je ne suis pas familier avec l'idée de"
+  },
+  {
+    "id": "ph-142",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I'm not (so) sure",
+    "traduction_fr": "je ne suis pas (très) sûr"
+  },
+  {
+    "id": "ph-143",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "like it or not",
+    "traduction_fr": "que cela plaise ou non"
+  },
+  {
+    "id": "ph-144",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "you might/may check that…",
+    "traduction_fr": "vous pourriez vérifier que…"
+  },
+  {
+    "id": "ph-145",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "rest assured, don't sweat it",
+    "traduction_fr": "soyez rassuré, ne vous en faites pas"
+  },
+  {
+    "id": "ph-146",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "I might be wrong, correct me if I'm wrong",
+    "traduction_fr": "je me trompe peut-être, corrigez-moi si je me trompe"
+  },
+  {
+    "id": "ph-147",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "have it your (own) way / I respect your point of view, but…",
+    "traduction_fr": "comme vous voulez / je respecte votre point de vue, mais…"
+  },
+  {
+    "id": "ph-148",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "sorry to bother, but …",
+    "traduction_fr": "désolé de vous déranger, mais…"
+  },
+  {
+    "id": "ph-149",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "think about it",
+    "traduction_fr": "pensez-y"
+  },
+  {
+    "id": "ph-150",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "let us take a step back and…",
+    "traduction_fr": "prenons du recul et…"
+  },
+  {
+    "id": "ph-151",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "sorry, I wasn't clear, let me rephrase that",
+    "traduction_fr": "désolé, je n'ai pas été clair, laissez-moi reformuler"
+  },
+  {
+    "id": "ph-152",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "\"same player, shoot again!\"",
+    "traduction_fr": "« le même joueur rejoue ! »"
+  },
+  {
+    "id": "ph-153",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "would you please explain to me … ?",
+    "traduction_fr": "pourriez-vous m'expliquer … ?"
+  },
+  {
+    "id": "ph-154",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Illustrer, expliquer, échanger",
+    "phrase_en": "can you please rephrase your question?",
+    "traduction_fr": "pouvez-vous reformuler votre question ?"
+  },
+  {
+    "id": "ph-155",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "eventually, in the end",
+    "traduction_fr": "finalement, au bout du compte"
+  },
+  {
+    "id": "ph-156",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "in a nutshell, in summary, in conclusion",
+    "traduction_fr": "en un mot, en résumé, en conclusion"
+  },
+  {
+    "id": "ph-157",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "in outline, in essence, to outline my ideas",
+    "traduction_fr": "dans les grandes lignes, en substance, pour exposer l'essentiel de mes idées"
+  },
+  {
+    "id": "ph-158",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "in short, to make a long story short, the long and the short of it",
+    "traduction_fr": "bref, pour faire court, en somme"
+  },
+  {
+    "id": "ph-159",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "to put it briefly, in brief",
+    "traduction_fr": "pour le dire brièvement, en bref"
+  },
+  {
+    "id": "ph-160",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "to summarize, to sum it up",
+    "traduction_fr": "résumer, en résumé"
+  },
+  {
+    "id": "ph-161",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "to provide an overview",
+    "traduction_fr": "donner un aperçu"
+  },
+  {
+    "id": "ph-162",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "all in all, all things considered",
+    "traduction_fr": "tout compte fait, tout bien considéré"
+  },
+  {
+    "id": "ph-163",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "on balance, after considering…",
+    "traduction_fr": "tout bien pesé, après avoir considéré…"
+  },
+  {
+    "id": "ph-164",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "the bottom line is",
+    "traduction_fr": "l'essentiel, c'est que"
+  },
+  {
+    "id": "ph-165",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "what strikes me the most",
+    "traduction_fr": "ce qui me frappe le plus"
+  },
+  {
+    "id": "ph-166",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "the takeaway/insight from… is, my… takeaways/insights on that topic are…",
+    "traduction_fr": "ce qu'il faut retenir de… est, mes… enseignements sur ce sujet sont…"
+  },
+  {
+    "id": "ph-167",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "let me tell you what this is all about",
+    "traduction_fr": "laissez-moi vous dire de quoi il s'agit"
+  },
+  {
+    "id": "ph-168",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "what I want you to remember is",
+    "traduction_fr": "ce que je veux que vous reteniez, c'est"
+  },
+  {
+    "id": "ph-169",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Résumer",
+    "phrase_en": "we may generalize the idea/fact that",
+    "traduction_fr": "on peut généraliser l'idée/le fait que"
+  },
+  {
+    "id": "ph-170",
+    "partie": "II. Fiches d'expressions par fonction",
+    "fonction": "Terminer la présentation",
+    "phrase_en": "Thanks for your attention, feel free to ask anything regarding this presentation!",
+    "traduction_fr": "Merci de votre attention, n'hésitez pas à poser des questions sur cette présentation !"
+  },
+  {
+    "id": "ph-171",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "This text is extracted from",
+    "traduction_fr": "Ce texte est extrait de"
+  },
+  {
+    "id": "ph-172",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "The topic dealt with in the text is about...",
+    "traduction_fr": "Le sujet traité dans le texte porte sur…"
+  },
+  {
+    "id": "ph-173",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "The text deals with...",
+    "traduction_fr": "Le texte traite de…"
+  },
+  {
+    "id": "ph-174",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "As a general rule = in most cases = most of the time",
+    "traduction_fr": "la plupart du temps, en règle générale"
+  },
+  {
+    "id": "ph-175",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "It raises an important issue",
+    "traduction_fr": "cela soulève un problème important"
+  },
+  {
+    "id": "ph-176",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Introduire l'idée générale",
+    "phrase_en": "We may wonder whether",
+    "traduction_fr": "on peut se demander si"
+  },
+  {
+    "id": "ph-177",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter la thèse",
+    "phrase_en": "At first sight, it would seem that",
+    "traduction_fr": "à première vue, cela n'a pas l'air de",
+    "a_verifier": true
+  },
+  {
+    "id": "ph-178",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter la thèse",
+    "phrase_en": "Let's have a look at",
+    "traduction_fr": "regardons d'abord"
+  },
+  {
+    "id": "ph-179",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter l'antithèse",
+    "phrase_en": "As for the question of",
+    "traduction_fr": "quant à la question de"
+  },
+  {
+    "id": "ph-180",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter l'antithèse",
+    "phrase_en": "On the one hand... on the other hand",
+    "traduction_fr": "d'une part... d'autre part"
+  },
+  {
+    "id": "ph-181",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter l'antithèse",
+    "phrase_en": "In fact, it would be more accurate to say that",
+    "traduction_fr": "il serait plus juste de dire"
+  },
+  {
+    "id": "ph-182",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter l'antithèse",
+    "phrase_en": "In spite of = despite",
+    "traduction_fr": "malgré"
+  },
+  {
+    "id": "ph-183",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter l'antithèse",
+    "phrase_en": "However = nevertheless = yet = though",
+    "traduction_fr": "cependant"
+  },
+  {
+    "id": "ph-184",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ordonner ses idées",
+    "phrase_en": "To begin with = first = firstly = first of all = in the first place",
+    "traduction_fr": "d'abord"
+  },
+  {
+    "id": "ph-185",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ordonner ses idées",
+    "phrase_en": "Secondly = in the second place",
+    "traduction_fr": "deuxièmement"
+  },
+  {
+    "id": "ph-186",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ordonner ses idées",
+    "phrase_en": "Thirdly",
+    "traduction_fr": "troisièmement"
+  },
+  {
+    "id": "ph-187",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ordonner ses idées",
+    "phrase_en": "Then = next",
+    "traduction_fr": "ensuite"
+  },
+  {
+    "id": "ph-188",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ordonner ses idées",
+    "phrase_en": "Lastly = finally = eventually",
+    "traduction_fr": "finalement"
+  },
+  {
+    "id": "ph-189",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "From my point of view = in my view = in my opinion = personally",
+    "traduction_fr": "selon moi"
+  },
+  {
+    "id": "ph-190",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "As far as I'm concerned = if you ask me",
+    "traduction_fr": "en ce qui me concerne = si vous voulez mon avis"
+  },
+  {
+    "id": "ph-191",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "It seems to me that",
+    "traduction_fr": "il me semble que"
+  },
+  {
+    "id": "ph-192",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "I have the feeling that",
+    "traduction_fr": "je sens que"
+  },
+  {
+    "id": "ph-193",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "I am well aware that",
+    "traduction_fr": "je suis conscient que"
+  },
+  {
+    "id": "ph-194",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter son point de vue",
+    "phrase_en": "It may be noticed that",
+    "traduction_fr": "on peut noter que"
+  },
+  {
+    "id": "ph-195",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter un autre point de vue",
+    "phrase_en": "As for",
+    "traduction_fr": "quant à"
+  },
+  {
+    "id": "ph-196",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter un autre point de vue",
+    "phrase_en": "Regarding = concerning",
+    "traduction_fr": "concernant"
+  },
+  {
+    "id": "ph-197",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Présenter un autre point de vue",
+    "phrase_en": "As far as ... is concerned = according to ...",
+    "traduction_fr": "selon",
+    "a_verifier": true
+  },
+  {
+    "id": "ph-198",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ajouter une idée supplémentaire",
+    "phrase_en": "Moreover = in addition to that = added to that = what is more",
+    "traduction_fr": "de plus"
+  },
+  {
+    "id": "ph-199",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ajouter une idée supplémentaire",
+    "phrase_en": "Besides",
+    "traduction_fr": "d'ailleurs"
+  },
+  {
+    "id": "ph-200",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ajouter une idée supplémentaire",
+    "phrase_en": "As we have previously seen",
+    "traduction_fr": "selon ce que nous avons vu avant"
+  },
+  {
+    "id": "ph-201",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Ajouter une idée supplémentaire",
+    "phrase_en": "We must also remember that",
+    "traduction_fr": "on doit aussi se rappeler que"
+  },
+  {
+    "id": "ph-202",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Donner des exemples",
+    "phrase_en": "For instance = for example",
+    "traduction_fr": "par exemple"
+  },
+  {
+    "id": "ph-203",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Donner des exemples",
+    "phrase_en": "That is to say",
+    "traduction_fr": "c'est-à-dire"
+  },
+  {
+    "id": "ph-204",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Donner des exemples",
+    "phrase_en": "Let's take the example of",
+    "traduction_fr": "prenons l'exemple de"
+  },
+  {
+    "id": "ph-205",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He talks about",
+    "traduction_fr": "il parle de"
+  },
+  {
+    "id": "ph-206",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He describes = he depicts",
+    "traduction_fr": "il décrit"
+  },
+  {
+    "id": "ph-207",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He refers to",
+    "traduction_fr": "il fait référence à"
+  },
+  {
+    "id": "ph-208",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He explains that/how",
+    "traduction_fr": "il explique que/comment"
+  },
+  {
+    "id": "ph-209",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He draws our attention to the fact that",
+    "traduction_fr": "il attire notre attention sur le fait que"
+  },
+  {
+    "id": "ph-210",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Parler de l'auteur",
+    "phrase_en": "He suggests that",
+    "traduction_fr": "il suggère que"
+  },
+  {
+    "id": "ph-211",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Mettre en valeur ses arguments",
+    "phrase_en": "Actually",
+    "traduction_fr": "en fait"
+  },
+  {
+    "id": "ph-212",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Mettre en valeur ses arguments",
+    "phrase_en": "In fact = as a matter of fact = indeed",
+    "traduction_fr": "en fait, bien sûr"
+  },
+  {
+    "id": "ph-213",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Mettre en valeur ses arguments",
+    "phrase_en": "As everyone knows",
+    "traduction_fr": "comme tout le monde le sait"
+  },
+  {
+    "id": "ph-214",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Mettre en valeur ses arguments",
+    "phrase_en": "We must not forget that",
+    "traduction_fr": "on ne doit pas oublier que"
+  },
+  {
+    "id": "ph-215",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son accord",
+    "phrase_en": "I agree with...",
+    "traduction_fr": "je suis d'accord avec"
+  },
+  {
+    "id": "ph-216",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son accord",
+    "phrase_en": "One must admit that",
+    "traduction_fr": "on doit admettre que"
+  },
+  {
+    "id": "ph-217",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son accord",
+    "phrase_en": "What strikes me is that ...",
+    "traduction_fr": "ce qui me frappe est que"
+  },
+  {
+    "id": "ph-218",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Concéder un point",
+    "phrase_en": "It must be admitted that",
+    "traduction_fr": "on doit admettre que"
+  },
+  {
+    "id": "ph-219",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Concéder un point",
+    "phrase_en": "Up to a certain point",
+    "traduction_fr": "jusqu'à un certain point"
+  },
+  {
+    "id": "ph-220",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Concéder un point",
+    "phrase_en": "It might be said that",
+    "traduction_fr": "on peut dire que"
+  },
+  {
+    "id": "ph-221",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Concéder un point",
+    "phrase_en": "This may be true but",
+    "traduction_fr": "cela est vrai mais"
+  },
+  {
+    "id": "ph-222",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le doute",
+    "phrase_en": "Anyway = anyhow = in any case",
+    "traduction_fr": "de toute façon"
+  },
+  {
+    "id": "ph-223",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le doute",
+    "phrase_en": "It is hard to believe that",
+    "traduction_fr": "il est difficile de croire que"
+  },
+  {
+    "id": "ph-224",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le doute",
+    "phrase_en": "I wonder whether",
+    "traduction_fr": "je me demande si"
+  },
+  {
+    "id": "ph-225",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le doute",
+    "phrase_en": "What I would like to know is why",
+    "traduction_fr": "ce que je voudrais savoir c'est que",
+    "a_verifier": true
+  },
+  {
+    "id": "ph-226",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "I do not see it that way",
+    "traduction_fr": "je ne vois pas la chose comme ça"
+  },
+  {
+    "id": "ph-227",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "Unlike... I think that",
+    "traduction_fr": "contrairement à... je pense que"
+  },
+  {
+    "id": "ph-228",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "Contrary to.. I feel that",
+    "traduction_fr": "contrairement à... je pense que"
+  },
+  {
+    "id": "ph-229",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "It is not justified",
+    "traduction_fr": "cela n'est pas justifié"
+  },
+  {
+    "id": "ph-230",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "On the contrary",
+    "traduction_fr": "au contraire"
+  },
+  {
+    "id": "ph-231",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer son désaccord",
+    "phrase_en": "Instead of v-ing, we should",
+    "traduction_fr": "au lieu de faire... nous devrions"
+  },
+  {
+    "id": "ph-232",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la cause",
+    "phrase_en": "Perhaps it is because",
+    "traduction_fr": "c'est peut-être parce que"
+  },
+  {
+    "id": "ph-233",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la cause",
+    "phrase_en": "This is the reason why",
+    "traduction_fr": "c'est la raison pour laquelle"
+  },
+  {
+    "id": "ph-234",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la cause",
+    "phrase_en": "This could explain why",
+    "traduction_fr": "cela pourrait expliquer que"
+  },
+  {
+    "id": "ph-235",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la cause",
+    "phrase_en": "Due to = since = owing to",
+    "traduction_fr": "comme, puisque"
+  },
+  {
+    "id": "ph-236",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le but",
+    "phrase_en": "His purpose is to",
+    "traduction_fr": "son but est de"
+  },
+  {
+    "id": "ph-237",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le but",
+    "phrase_en": "He aims at",
+    "traduction_fr": "il a pour but de"
+  },
+  {
+    "id": "ph-238",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le but",
+    "phrase_en": "He would like us to x",
+    "traduction_fr": "il veut que nous x"
+  },
+  {
+    "id": "ph-239",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer le but",
+    "phrase_en": "He wants us to say",
+    "traduction_fr": "il veut que nous disions"
+  },
+  {
+    "id": "ph-240",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la conséquence",
+    "phrase_en": "Of course, this implies that",
+    "traduction_fr": "cela implique que"
+  },
+  {
+    "id": "ph-241",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la conséquence",
+    "phrase_en": "As a result = as a consequence",
+    "traduction_fr": "en conséquence"
+  },
+  {
+    "id": "ph-242",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la conséquence",
+    "phrase_en": "Therefore",
+    "traduction_fr": "c'est pourquoi"
+  },
+  {
+    "id": "ph-243",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Exprimer la conséquence",
+    "phrase_en": "Thus = so",
+    "traduction_fr": "ainsi"
+  },
+  {
+    "id": "ph-244",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Comparer",
+    "phrase_en": "By comparison",
+    "traduction_fr": "en comparaison"
+  },
+  {
+    "id": "ph-245",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Comparer",
+    "phrase_en": "Compared with",
+    "traduction_fr": "comparé à"
+  },
+  {
+    "id": "ph-246",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Résumer ses idées pour conclure",
+    "phrase_en": "As a conclusion we can say that.... / To conclude we can say that....",
+    "traduction_fr": "pour conclure, nous pouvons dire que…"
+  },
+  {
+    "id": "ph-247",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Résumer ses idées pour conclure",
+    "phrase_en": "In short = in brief",
+    "traduction_fr": "en bref"
+  },
+  {
+    "id": "ph-248",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Résumer ses idées pour conclure",
+    "phrase_en": "To put it differently",
+    "traduction_fr": "de le dire différemment"
+  },
+  {
+    "id": "ph-249",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Résumer ses idées pour conclure",
+    "phrase_en": "Generally speaking",
+    "traduction_fr": "en général"
+  },
+  {
+    "id": "ph-250",
+    "partie": "III. Prise de parole autour d'un texte",
+    "fonction": "Résumer ses idées pour conclure",
+    "phrase_en": "In most cases",
+    "traduction_fr": "dans la plupart des cas"
+  },
+  {
+    "id": "ph-251",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "It is said that it is mainly a question of",
+    "traduction_fr": "On dit qu'il s'agit principalement de"
+  },
+  {
+    "id": "ph-252",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "One might be inclined to think so, judging by…..",
+    "traduction_fr": "On pourrait être enclin à le penser, à en juger par…"
+  },
+  {
+    "id": "ph-253",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "One of the lessons to be learnt from ……….",
+    "traduction_fr": "L'une des leçons à tirer de …"
+  },
+  {
+    "id": "ph-254",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "One might have thought that ……",
+    "traduction_fr": "On aurait pu penser que…"
+  },
+  {
+    "id": "ph-255",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "This ought to be food for thought…….",
+    "traduction_fr": "Cela devrait donner matière à réflexion…"
+  },
+  {
+    "id": "ph-256",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "It may also be affected by…..",
+    "traduction_fr": "Cela peut aussi être affecté par…"
+  },
+  {
+    "id": "ph-257",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "Be they due to…..",
+    "traduction_fr": "qu'elles soient dues à …"
+  },
+  {
+    "id": "ph-258",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "What is at stake is nothing less than…….",
+    "traduction_fr": "Ce qui est en jeu n'est rien de moins que…"
+  },
+  {
+    "id": "ph-259",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Formules soutenues (fiche brouillon)",
+    "phrase_en": "At large",
+    "traduction_fr": "en général"
+  },
+  {
+    "id": "ph-260",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To make do with",
+    "traduction_fr": "s'accommoder de"
+  },
+  {
+    "id": "ph-261",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To bode well",
+    "traduction_fr": "présager / être de bon augure"
+  },
+  {
+    "id": "ph-262",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To bridge the gap",
+    "traduction_fr": "combler l'écart"
+  },
+  {
+    "id": "ph-263",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To fare better than others",
+    "traduction_fr": "se débrouiller mieux que les autres"
+  },
+  {
+    "id": "ph-264",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To be on its last legs",
+    "traduction_fr": "être sur le point de rendre l'âme / d'être obsolète",
+    "note": "Sur ta fiche : « To bridge its last »",
+    "a_verifier": true
+  },
+  {
+    "id": "ph-265",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "To highlight",
+    "traduction_fr": "souligner"
+  },
+  {
+    "id": "ph-266",
+    "partie": "IV. Fiche brouillon",
+    "fonction": "Vocabulaire à placer (fiche brouillon)",
+    "phrase_en": "Genuine",
+    "traduction_fr": "véritable"
   }
 ]
