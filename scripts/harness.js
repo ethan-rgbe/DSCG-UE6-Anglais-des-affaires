@@ -43,7 +43,7 @@ const path = require('path');
     }
   }
 
-  await page.evaluate(() => { state.view = 'listes'; state.listesScope = 'all'; state.listesChapitreId = null; render(); });
+  await page.evaluate(() => { state.view = 'listes'; state.listesChapitreId = null; state.listesListe = null; render(); });
   await page.waitForTimeout(100);
   const flashcardCount = await page.locator('.flashcard').count();
   record('Cartes Leitner rendues (Listes → toutes)', flashcardCount > 0, `${flashcardCount} carte(s)`);
@@ -59,7 +59,7 @@ const path = require('path');
     record('Notation Leitner (✓ Su)', true);
   }
 
-  await page.evaluate(() => { state.listesScope = 'chapitre'; state.listesChapitreId = 'finance'; render(); });
+  await page.evaluate(() => { state.listesChapitreId = 'finance'; state.listesListe = null; render(); });
   await page.waitForTimeout(100);
   const financeCards = await page.locator('.flashcard').count();
   record('Listes filtrées par thème (finance)', financeCards > 0, `${financeCards} carte(s)`);
@@ -78,7 +78,7 @@ const path = require('path');
 
   await page.evaluate(() => { state.view = 'phrases'; render(); });
   await page.waitForTimeout(100);
-  const phraseGroups = await page.locator('.notion-group').count();
+  const phraseGroups = await page.locator('details.phrase-group').count();
   record('Phrases pour l\'oral groupées par fonction', phraseGroups > 0, `${phraseGroups} groupe(s)`);
   await page.click('#startPhraseQuiz');
   await page.waitForTimeout(100);
@@ -117,6 +117,102 @@ const path = require('path');
 
   const fullText = await page.textContent('body');
   record('Aucun "undefined" visible à l\'écran', !fullText.includes('undefined'));
+
+
+  // ---------- Listes, définitions, séries rejouables ----------
+  const th = await page.evaluate(() => {
+    state.chapitreId = 'finance'; state.chapTab = 'vocabulaire'; state.view = 'chapitre'; render();
+    return { groups: document.querySelectorAll('details.voc-group').length, defs: document.querySelectorAll('.voc-def').length };
+  });
+  record('Thème Finance : listes repliables', th.groups >= 5, `${th.groups} listes`);
+  record('Thème Finance : définitions affichées', th.defs > 20, `${th.defs} définitions`);
+
+  const lst = await page.evaluate(() => {
+    state.view = 'listes'; state.listesChapitreId = null; state.listesListe = 'Banking & Credit'; render();
+    return { cards: document.querySelectorAll('.flashcard').length, expected: LISTES_CAT.get('Banking & Credit').n,
+             adef: document.querySelectorAll('.flashcard .adef').length };
+  });
+  record('Liste « Banking & Credit » : cartes filtrées', lst.cards === lst.expected && lst.cards > 0, `${lst.cards}/${lst.expected}`);
+  record('Définition au dos des cartes', lst.adef > 0, `${lst.adef} cartes`);
+
+  await page.evaluate(() => { state.view = 'listes'; state.listesChapitreId = null; state.listesListe = null; render(); });
+  await page.selectOption('#selTheme', 'compta-audit');
+  const nOpt = await page.locator('#selListe option').count();
+  await page.selectOption('#selListe', { index: 1 });
+  await page.waitForTimeout(80);
+  const cardsSel = await page.locator('.flashcard').count();
+  record('Filtres par menus (thème puis liste)', nOpt > 3 && cardsSel > 0, `${nOpt - 1} listes, ${cardsSel} cartes`);
+
+  const pg = await page.evaluate(() => {
+    state.view = 'listes'; state.listesChapitreId = null; state.listesListe = null; render();
+    return { shown: document.querySelectorAll('.flashcard').length, more: !!document.getElementById('moreBtn'), total: cardsFor(null, null, false).length };
+  });
+  record('Toutes les cartes : rendu progressif', pg.shown === 60 && pg.more, `${pg.shown} sur ${pg.total}`);
+  const t0 = Date.now();
+  await page.click('#allBtn');
+  const allShown = await page.locator('.flashcard').count();
+  record('« Tout afficher »', allShown === pg.total, `${allShown} cartes en ${Date.now() - t0} ms`);
+
+  const ser = await page.evaluate(() => {
+    localStorage.removeItem('dscg_ue6_series');
+    launchQuiz('new', null, null, false); const a = state.quiz.deck.map(c => c.id).join(',');
+    launchQuiz('new', null, null, false); const b = state.quiz.deck.map(c => c.id).join(',');
+    launchQuiz('same', null, null, false); const c = state.quiz.deck.map(c => c.id).join(',');
+    return { differ: a !== b, same: b === c, n: state.quiz.deck.length };
+  });
+  record('Nouvelle série différente de la précédente', ser.differ, `${ser.n} cartes`);
+  record('« Refaire la même série » : mêmes cartes, même ordre', ser.same);
+
+  const lq = await page.evaluate(() => {
+    launchQuiz('new', null, 'Lean Production', false);
+    const ids = state.quiz.deck.map(c => c.id);
+    return { ordre: ids.join() === cardsFor(null, 'Lean Production', false).map(c => c.id).join(), n: ids.length };
+  });
+  record('Quiz d\'une liste : toute la liste, dans l\'ordre', lq.ordre && lq.n > 30, `${lq.n} cartes`);
+
+  const saved1 = await page.evaluate(() => JSON.stringify(loadSeries()['||Lean Production'].ids));
+  await page.reload();
+  await page.click('#splash');
+  await page.waitForTimeout(150);
+  const saved2 = await page.evaluate(() => JSON.stringify(loadSeries()['||Lean Production'].ids));
+  const afterDeck = await page.evaluate(() => state.view === 'quiz' && state.quiz ? state.quiz.deck.map(c => c.id).join() : '');
+  record('Série conservée après rechargement', saved1 === saved2);
+  record('Rechargement sur un quiz : même série reprise', afterDeck === JSON.parse(saved1).join());
+
+  const ph = await page.evaluate(() => {
+    state.quiz = null; state.view = 'phrases'; render();
+    return { groups: document.querySelectorAll('details.phrase-group').length, trad: document.querySelectorAll('.voc-trad').length };
+  });
+  record('Phrases : fonctions repliables', ph.groups > 30, `${ph.groups} fonctions`);
+  record('Phrases : traductions affichées', ph.trad > 200, `${ph.trad} traductions`);
+
+  await page.evaluate(() => { state.view = 'home'; render(); });
+  for (const [q, label] of [['creditworthiness', 'terme'], ['solvabilité', 'traduction'], ['ability to repay', 'définition'], ['Bonjour', 'phrase (traduction)']]) {
+    await page.fill('#globalSearch', q);
+    await page.waitForTimeout(150);
+    const n = await page.locator('.sr-item').count();
+    record(`Recherche par ${label} « ${q} »`, n > 0, `${n} résultat(s)`);
+  }
+  await page.fill('#globalSearch', '');
+
+  const pr = await page.evaluate(() => {
+    state.chapitreId = 'finance'; state.chapTab = 'vocabulaire'; state.view = 'chapitre'; render();
+    window.dispatchEvent(new Event('beforeprint'));
+    const open = [...document.querySelectorAll('details.voc-group')].every(d => d.open);
+    window.dispatchEvent(new Event('afterprint'));
+    return open;
+  });
+  record('Impression : listes dépliées', pr);
+
+  const imp = await page.evaluate(() => {
+    state.chapitreId = 'finance'; state.chapTab = 'vocabulaire'; state.view = 'chapitre'; render();
+    return document.querySelectorAll('.flag-imp').length;
+  });
+  record('Marqueurs « ! » de la fiche affichés', imp > 0, `${imp} point(s)`);
+
+
+  const ord = await page.evaluate(() => cardsFor(null, 'Supply Chain', false).slice(0, 3).map(c => c.question));
+  record('Liste Supply Chain : ordre de la fiche respecté', ord[0] === 'Approved supplier', ord.join(' / '));
 
   await browser.close();
 
