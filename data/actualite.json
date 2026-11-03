@@ -1,43 +1,235 @@
 [
   {
-    "id": "art-387249765a",
+    "id": "art-d2b1600de0",
     "chapitre_id": "finance",
-    "titre": "Average five-year mortgage rate hits 6% for first time in three years",
+    "titre": "Drivers may get compensation offers before car finance saga ends",
     "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-05"
+    "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-03"
   },
   {
-    "id": "art-cab072fea5",
+    "id": "art-3c95547637",
     "chapitre_id": "finance",
-    "titre": "Average five-year fixed mortgage rate hits 6% for first time in three years",
+    "titre": "Car finance compensation payments explained",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-720961d9f7",
+    "chapitre_id": "finance",
+    "titre": "UK’s most polluting power plant could power country’s largest AI datacentre",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-    "date": "2026-10-05"
+    "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+    "date": "2026-11-03"
   },
   {
-    "id": "art-e25ab6f380",
+    "id": "art-5fde059d3d",
     "chapitre_id": "finance",
-    "titre": "From hotel suites to virtual reality, museums turn to licensing deals as costs rise",
+    "titre": "Apple warns of ‘unprecedented’ rise in memory chip prices",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/oct/05/hotel-suites-virtual-reality-museums-licensing-deals-costs-rise",
-    "date": "2026-10-05"
+    "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+    "date": "2026-11-03"
   },
   {
-    "id": "art-f9cb89e489",
+    "id": "art-19b7992fc9",
     "chapitre_id": "finance",
-    "titre": "Brazil’s markets rally as investors bet on Bolsonaro win",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
-    "date": "2026-10-05"
+    "titre": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+    "date": "2026-11-03"
   },
   {
-    "id": "art-061de37377",
+    "id": "art-19309192fe",
     "chapitre_id": "finance",
-    "titre": "Bond turbulence means it’s time for the ECB to put QT on hold",
+    "titre": "British Airways lost my father’s vital life-saving machine",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/03/british-airways-lost-my-fathers-vital-life-saving-machine",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-5b220d1b04",
+    "chapitre_id": "finance",
+    "titre": "What 21 months of Trump have done to America",
     "source": "Financial Times",
-    "url": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
-    "date": "2026-10-05"
+    "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-906d127f48",
+    "chapitre_id": "finance",
+    "titre": "Marshall Wace hit as hedge funds suffer in October’s AI rout",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-a90103c504",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-b4ba3cc585",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK and EU agree deal to remove Brexit checks on food and animal products",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-df452a371d",
+    "chapitre_id": "management-rh",
+    "titre": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-185540b30f",
+    "chapitre_id": "management-rh",
+    "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-62bdbfd0d4",
+    "chapitre_id": "finance",
+    "titre": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-b1475e8e76",
+    "chapitre_id": "relations-internationales",
+    "titre": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-4357af9f73",
+    "chapitre_id": "si-technologies",
+    "titre": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-7daffb2d5d",
+    "chapitre_id": "production-marketing",
+    "titre": "Business Daily",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-ff30951d53",
+    "chapitre_id": "production-marketing",
+    "titre": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-993570a5e9",
+    "chapitre_id": "production-marketing",
+    "titre": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-4eecc54630",
+    "chapitre_id": "production-marketing",
+    "titre": "Snowball fight: Cadbury owner in trademark row over festive chocolate treat",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/02/snowball-fight-cadbury-owner-in-trademark-row-over-festive-chocolate-treat",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-01b3284840",
+    "chapitre_id": "production-marketing",
+    "titre": "'It's a form of terrorism': fridges across Europe hit by suspected cyber-attacks – video",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/video/2026/nov/02/its-a-form-of-terrorism-fridges-across-europe-hit-by-suspected-cyber-attacks-video",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "art-dd60a5a8fd",
+    "chapitre_id": "finance",
+    "titre": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "art-325bf9aefa",
+    "chapitre_id": "finance",
+    "titre": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "art-e54a4be31d",
+    "chapitre_id": "finance",
+    "titre": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/nov/01/anger-over-johannesburgs-run-down-infrastructure-elections",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "art-44e4d2471e",
+    "chapitre_id": "finance",
+    "titre": "A gift to scammers: why you should probably keep your birthday a secret",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "art-0ff71380d5",
+    "chapitre_id": "production-marketing",
+    "titre": "Fashion and tradition: how John Smedley is innovating in a tough market",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "art-76db6580f9",
+    "chapitre_id": "finance",
+    "titre": "‘We were mortgage-free at 45, here’s how you can do it too’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
+    "date": "2026-10-31"
+  },
+  {
+    "id": "art-8b3d7b17de",
+    "chapitre_id": "production-marketing",
+    "titre": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+    "date": "2026-10-31"
+  },
+  {
+    "id": "art-d51bb4b450",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/video/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+    "date": "2026-10-31"
+  },
+  {
+    "id": "art-d6f468599e",
+    "chapitre_id": "finance",
+    "titre": "US tech stocks see sharp falls as AI spending nears $1tn",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-30"
   },
   {
     "id": "art-f1d3da638b",
@@ -112,46 +304,6 @@
     "date": "2026-10-05"
   },
   {
-    "id": "art-b63675aeaa",
-    "chapitre_id": "finance",
-    "titre": "‘They call every week’: the phishing attacks targeting past victims",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims",
-    "date": "2026-10-04"
-  },
-  {
-    "id": "art-a846425053",
-    "chapitre_id": "finance",
-    "titre": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-    "date": "2026-10-04"
-  },
-  {
-    "id": "art-efdbaacf71",
-    "chapitre_id": "finance",
-    "titre": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-    "date": "2026-10-04"
-  },
-  {
-    "id": "art-30ed2e3470",
-    "chapitre_id": "finance",
-    "titre": "Why the IPO market is booming and busting",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
-    "date": "2026-10-04"
-  },
-  {
-    "id": "art-f74289298e",
-    "chapitre_id": "finance",
-    "titre": "China closes hundreds of banks to bolster financial system",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-    "date": "2026-10-04"
-  },
-  {
     "id": "art-016777bedf",
     "chapitre_id": "relations-internationales",
     "titre": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
@@ -192,6 +344,14 @@
     "date": "2026-10-04"
   },
   {
+    "id": "art-e79afe4f2b",
+    "chapitre_id": "production-marketing",
+    "titre": "Are my gen X peers the influencers the world has been waiting for? | Emma Beddington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
+    "date": "2026-10-04"
+  },
+  {
     "id": "art-6fc9996ce9",
     "chapitre_id": "management-rh",
     "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
@@ -216,46 +376,6 @@
     "date": "2026-10-04"
   },
   {
-    "id": "art-e79afe4f2b",
-    "chapitre_id": "production-marketing",
-    "titre": "Are my gen X peers the influencers the world has been waiting for? | Emma Beddington",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
-    "date": "2026-10-04"
-  },
-  {
-    "id": "art-82def4d952",
-    "chapitre_id": "finance",
-    "titre": "New baby bank 'open to everybody'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03"
-  },
-  {
-    "id": "art-79bad6f471",
-    "chapitre_id": "finance",
-    "titre": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
-    "date": "2026-10-03"
-  },
-  {
-    "id": "art-3dc4750742",
-    "chapitre_id": "finance",
-    "titre": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
-    "date": "2026-10-03"
-  },
-  {
-    "id": "art-799299d9c4",
-    "chapitre_id": "finance",
-    "titre": "UAE may halt UK investments after Manchester City guilty verdict",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
-    "date": "2026-10-03"
-  },
-  {
     "id": "art-55bcc68635",
     "chapitre_id": "relations-internationales",
     "titre": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -277,14 +397,6 @@
     "titre": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
-    "date": "2026-10-03"
-  },
-  {
-    "id": "art-f1df2f3bce",
-    "chapitre_id": "management-rh",
-    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
     "date": "2026-10-03"
   },
   {
@@ -312,12 +424,12 @@
     "date": "2026-10-03"
   },
   {
-    "id": "art-17bbf71a3f",
-    "chapitre_id": "finance",
-    "titre": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
+    "id": "art-f1df2f3bce",
+    "chapitre_id": "management-rh",
+    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "date": "2026-10-02"
+    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+    "date": "2026-10-03"
   },
   {
     "id": "art-b284a09678",
@@ -333,14 +445,6 @@
     "titre": "Trump’s short-sighted diesel gamble",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-b1295d8712",
-    "chapitre_id": "relations-internationales",
-    "titre": "Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
     "date": "2026-10-02"
   },
   {
@@ -376,14 +480,6 @@
     "date": "2026-10-02"
   },
   {
-    "id": "art-47338c90f3",
-    "chapitre_id": "management-rh",
-    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02"
-  },
-  {
     "id": "art-cb411b20cb",
     "chapitre_id": "production-marketing",
     "titre": "Diesel prices in NI at highest level since Iran war began",
@@ -392,12 +488,12 @@
     "date": "2026-10-02"
   },
   {
-    "id": "art-be09ed9205",
-    "chapitre_id": "relations-internationales",
-    "titre": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-    "date": "2026-10-01"
+    "id": "art-47338c90f3",
+    "chapitre_id": "management-rh",
+    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02"
   },
   {
     "id": "art-9d74e08c46",
@@ -405,14 +501,6 @@
     "titre": "OpenAI’s agents obscured hacking activity in government site breaches",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/11502a49-5319-4df5-95ea-2d76669c31a6?syn-25a6b1a6=1",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-7775d4ca4a",
-    "chapitre_id": "management-rh",
-    "titre": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
     "date": "2026-10-01"
   },
   {
@@ -432,12 +520,12 @@
     "date": "2026-10-01"
   },
   {
-    "id": "art-bc07f78cc6",
-    "chapitre_id": "relations-internationales",
-    "titre": "Andy Burnham wants to review the UK’s relationship with the EU. What are the options?",
+    "id": "art-7775d4ca4a",
+    "chapitre_id": "management-rh",
+    "titre": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options",
-    "date": "2026-09-30"
+    "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+    "date": "2026-10-01"
   },
   {
     "id": "art-079a25e859",
@@ -464,14 +552,6 @@
     "date": "2026-09-30"
   },
   {
-    "id": "art-18e897b6e2",
-    "chapitre_id": "production-marketing",
-    "titre": "Greggs to cut 740 jobs and close factories",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30"
-  },
-  {
     "id": "art-a20db36fde",
     "chapitre_id": "rse-gouvernance",
     "titre": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
@@ -485,14 +565,6 @@
     "titre": "OpenAI scraps rollout of new model over safety concerns",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-37818405e5",
-    "chapitre_id": "si-technologies",
-    "titre": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
     "date": "2026-09-29"
   },
   {
@@ -512,22 +584,6 @@
     "date": "2026-09-29"
   },
   {
-    "id": "art-f7c6960ffb",
-    "chapitre_id": "production-marketing",
-    "titre": "Huel ad banned for suggesting its products could replace all meals",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29"
-  },
-  {
-    "id": "art-a3b9fe80a6",
-    "chapitre_id": "production-marketing",
-    "titre": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
-    "date": "2026-09-29"
-  },
-  {
     "id": "art-16e2061743",
     "chapitre_id": "rse-gouvernance",
     "titre": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
@@ -541,22 +597,6 @@
     "titre": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "art-82158ad771",
-    "chapitre_id": "production-marketing",
-    "titre": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "art-981543694b",
-    "chapitre_id": "production-marketing",
-    "titre": "What a US diesel export ban could mean for you",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-28"
   },
   {
@@ -576,28 +616,12 @@
     "date": "2026-09-26"
   },
   {
-    "id": "art-d11a6b6af9",
-    "chapitre_id": "production-marketing",
-    "titre": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
-    "date": "2026-09-26"
-  },
-  {
     "id": "art-b124b16b54",
     "chapitre_id": "rse-gouvernance",
     "titre": "London transfer: is it time to kill off the Heathrow Express?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/sep/26/kill-off-heathrow-express-airport-train-third-runway",
     "date": "2026-09-26"
-  },
-  {
-    "id": "art-5484acab59",
-    "chapitre_id": "production-marketing",
-    "titre": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
-    "date": "2026-09-25"
   },
   {
     "id": "art-9147b3991b",
@@ -640,28 +664,12 @@
     "date": "2026-09-23"
   },
   {
-    "id": "art-01acdb8d88",
-    "chapitre_id": "management-rh",
-    "titre": "Keeping billionaires and the taxman happy | Letters",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
-    "date": "2026-09-22"
-  },
-  {
     "id": "art-bf1be6c5fb",
     "chapitre_id": "rse-gouvernance",
     "titre": "‘Worse than the scramble for Oasis tickets’: England’s sustainable farming funds run out in just six hours",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments",
     "date": "2026-09-22"
-  },
-  {
-    "id": "art-37e5956680",
-    "chapitre_id": "management-rh",
-    "titre": "Black Tesla employees accuse company of fostering racial discrimination in major trial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
-    "date": "2026-09-21"
   },
   {
     "id": "art-f19cd11f3f",
@@ -782,14 +790,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
     "date": "2026-08-30"
-  },
-  {
-    "id": "art-dead0a7215",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "A love letter to the A380, the retiring behemoth that takes Qantas travellers back in time | Nick Visser",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/30/qantas-airbus-a380-retirement-a-love-letter",
-    "date": "2026-08-29"
   },
   {
     "id": "art-3da5b68e54",
