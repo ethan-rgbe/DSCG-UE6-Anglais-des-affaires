@@ -1,5 +1,77 @@
 [
   {
+    "id": "art-2e6c6a8a31",
+    "chapitre_id": "finance",
+    "titre": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-0a129b345c",
+    "chapitre_id": "finance",
+    "titre": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-f2806492f5",
+    "chapitre_id": "finance",
+    "titre": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-08cc2b9e5b",
+    "chapitre_id": "finance",
+    "titre": "Trump may have lost but don’t bet Democrats can fix the economy",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-b8f1fb73a0",
+    "chapitre_id": "finance",
+    "titre": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-b7ff119587",
+    "chapitre_id": "finance",
+    "titre": "The datacentre arms race hits pause in south-east Asia",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-1711556ac2",
+    "chapitre_id": "finance",
+    "titre": "How Wall Street’s all-in bet on AI blew up",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-44d1c1e684",
+    "chapitre_id": "production-marketing",
+    "titre": "TikTok accused of helping to promote sex industry to girls",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "art-afacb97b62",
+    "chapitre_id": "production-marketing",
+    "titre": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
+    "date": "2026-11-07"
+  },
+  {
     "id": "art-ec3e64150f",
     "chapitre_id": "finance",
     "titre": "The engine parts that 'fight the laws of the universe'",
@@ -40,11 +112,51 @@
     "date": "2026-11-06"
   },
   {
+    "id": "art-8fc8e90c6b",
+    "chapitre_id": "finance",
+    "titre": "AI stocks climb after trillions wiped from market values",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "art-3f5fe12d28",
+    "chapitre_id": "finance",
+    "titre": "Why the US midterms sparked an AI stock selloff",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "art-445fead938",
+    "chapitre_id": "finance",
+    "titre": "Food bank to close amid rising costs",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-06"
+  },
+  {
     "id": "art-acdc25b9b0",
     "chapitre_id": "relations-internationales",
     "titre": "Donald Trump has taught the world that tariffs are useless",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "art-6668577997",
+    "chapitre_id": "relations-internationales",
+    "titre": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "art-217ffdb699",
+    "chapitre_id": "relations-internationales",
+    "titre": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
     "date": "2026-11-06"
   },
   {
@@ -72,6 +184,14 @@
     "date": "2026-11-06"
   },
   {
+    "id": "art-de567f8ad1",
+    "chapitre_id": "production-marketing",
+    "titre": "Texas v Musk: how southern state Democrats won against the billionaire – explainer",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/video/2026/nov/06/texas-v-musk-how-southern-state-democrats-won-against-the-billionaire-explainer",
+    "date": "2026-11-06"
+  },
+  {
     "id": "art-2577c71326",
     "chapitre_id": "rse-gouvernance",
     "titre": "Is the AI stock bubble finally bursting?",
@@ -88,84 +208,20 @@
     "date": "2026-11-06"
   },
   {
-    "id": "art-2147ff51d9",
-    "chapitre_id": "finance",
-    "titre": "Poundland owner in crunch talks as retailer's collapse looms",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-3907f2874c",
-    "chapitre_id": "finance",
-    "titre": "Faisal Islam: How high will interest rates go?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-ee3c582c3a",
-    "chapitre_id": "finance",
-    "titre": "Three ways the interest rate rise could affect you",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-ee4cb96b54",
-    "chapitre_id": "finance",
-    "titre": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-127db0d325",
-    "chapitre_id": "finance",
-    "titre": "Interest rates hiked to 4% in first increase in over three years",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-4b1ff3c367",
-    "chapitre_id": "finance",
-    "titre": "Welsh aviation firm AerFin bought in £475m deal",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-52c856018d",
-    "chapitre_id": "finance",
-    "titre": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns – business live",
+    "id": "art-52e8608223",
+    "chapitre_id": "management-rh",
+    "titre": "Three men charged in US with using AI to impersonate CEOs and steal millions",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
-    "date": "2026-11-05"
+    "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+    "date": "2026-11-06"
   },
   {
-    "id": "art-536c75ac15",
-    "chapitre_id": "finance",
-    "titre": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+    "id": "art-6d64941928",
+    "chapitre_id": "si-technologies",
+    "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-720b7d9b48",
-    "chapitre_id": "finance",
-    "titre": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-9e0176657c",
-    "chapitre_id": "finance",
-    "titre": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-    "date": "2026-11-05"
+    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+    "date": "2026-11-06"
   },
   {
     "id": "art-5f23d19d21",
@@ -264,19 +320,19 @@
     "date": "2026-11-04"
   },
   {
-    "id": "art-ac851c0f80",
-    "chapitre_id": "si-technologies",
-    "titre": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-    "date": "2026-11-04"
-  },
-  {
     "id": "art-2c1f559e0d",
     "chapitre_id": "management-rh",
     "titre": "Alligator strolls into bagel shop in North Carolina – video",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/world/video/2026/nov/04/alligator-strolls-into-bagel-shop-in-north-carolina-video",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "art-ac851c0f80",
+    "chapitre_id": "si-technologies",
+    "titre": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
     "date": "2026-11-04"
   },
   {
@@ -344,6 +400,22 @@
     "date": "2026-11-03"
   },
   {
+    "id": "art-df452a371d",
+    "chapitre_id": "management-rh",
+    "titre": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-185540b30f",
+    "chapitre_id": "management-rh",
+    "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
+    "date": "2026-11-03"
+  },
+  {
     "id": "art-5d2cdd8508",
     "chapitre_id": "si-technologies",
     "titre": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
@@ -368,51 +440,11 @@
     "date": "2026-11-03"
   },
   {
-    "id": "art-df452a371d",
-    "chapitre_id": "management-rh",
-    "titre": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-185540b30f",
-    "chapitre_id": "management-rh",
-    "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
-    "date": "2026-11-03"
-  },
-  {
     "id": "art-b1475e8e76",
     "chapitre_id": "relations-internationales",
     "titre": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
-    "date": "2026-11-02"
-  },
-  {
-    "id": "art-7daffb2d5d",
-    "chapitre_id": "production-marketing",
-    "titre": "Business Daily",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-02"
-  },
-  {
-    "id": "art-ff30951d53",
-    "chapitre_id": "production-marketing",
-    "titre": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-    "date": "2026-11-02"
-  },
-  {
-    "id": "art-993570a5e9",
-    "chapitre_id": "production-marketing",
-    "titre": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
     "date": "2026-11-02"
   },
   {
@@ -464,28 +496,20 @@
     "date": "2026-10-05"
   },
   {
-    "id": "art-e4c9253e17",
-    "chapitre_id": "relations-internationales",
-    "titre": "British government ‘complacent about food as a national security matter’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
-    "date": "2026-10-05"
-  },
-  {
-    "id": "art-95212baf7f",
-    "chapitre_id": "relations-internationales",
-    "titre": "Russia’s new drive to crush Ukraine",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1",
-    "date": "2026-10-05"
-  },
-  {
     "id": "art-d0c0677e9f",
     "chapitre_id": "si-technologies",
     "titre": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
     "date": "2026-10-05"
+  },
+  {
+    "id": "art-6fc9996ce9",
+    "chapitre_id": "management-rh",
+    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+    "date": "2026-10-04"
   },
   {
     "id": "art-83913d49e9",
@@ -520,14 +544,6 @@
     "date": "2026-10-04"
   },
   {
-    "id": "art-6fc9996ce9",
-    "chapitre_id": "management-rh",
-    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-    "date": "2026-10-04"
-  },
-  {
     "id": "art-9b660e92a9",
     "chapitre_id": "compta-audit",
     "titre": "Ministers explore how to stop regional leaders misusing planned new spending powers",
@@ -544,6 +560,14 @@
     "date": "2026-10-04"
   },
   {
+    "id": "art-f1df2f3bce",
+    "chapitre_id": "management-rh",
+    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+    "date": "2026-10-03"
+  },
+  {
     "id": "art-8f8890a08a",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
@@ -552,12 +576,12 @@
     "date": "2026-10-03"
   },
   {
-    "id": "art-f1df2f3bce",
+    "id": "art-47338c90f3",
     "chapitre_id": "management-rh",
-    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-    "date": "2026-10-03"
+    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02"
   },
   {
     "id": "art-95f895d375",
@@ -581,22 +605,6 @@
     "titre": "We don’t need to panic about AI. We need to hold its creators accountable when things go wrong | John Quiggin",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/oct/02/we-dont-need-to-panic-about-ai-we-need-to-hold-its-creators-accountable",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-b8d1e43a3d",
-    "chapitre_id": "si-technologies",
-    "titre": "‘If you can’t hold it, you don’t own it’: why media fans want to escape algorithms with CDs, DVDs and vinyl",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-    "date": "2026-10-02"
-  },
-  {
-    "id": "art-47338c90f3",
-    "chapitre_id": "management-rh",
-    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02"
   },
   {
@@ -669,14 +677,6 @@
     "titre": "London transfer: is it time to kill off the Heathrow Express?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/uk-news/2026/sep/26/kill-off-heathrow-express-airport-train-third-runway",
-    "date": "2026-09-26"
-  },
-  {
-    "id": "art-7bb4e8af63",
-    "chapitre_id": "management-rh",
-    "titre": "Could an iced coffee freeze you out of the job market?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-26"
   },
   {
