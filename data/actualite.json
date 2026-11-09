@@ -1,10 +1,106 @@
 [
   {
+    "id": "art-5f5cb4ebac",
+    "chapitre_id": "finance",
+    "titre": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-9e88044f20",
+    "chapitre_id": "finance",
+    "titre": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-4be242583a",
+    "chapitre_id": "finance",
+    "titre": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-868109dbac",
+    "chapitre_id": "finance",
+    "titre": "Why has Royal Mail only delivered letters twice in three months?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/09/royal-mail-letter-deliveries-parcels",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-624b1fdcbf",
+    "chapitre_id": "finance",
+    "titre": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-ff160daec8",
+    "chapitre_id": "finance",
+    "titre": "Nvidia shares tumble 7% as it probes alleged Chinese spy scandal",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-76ce0ab14b",
+    "chapitre_id": "finance",
+    "titre": "US stocks rebound after AI rout",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-f6cd54d498",
+    "chapitre_id": "finance",
+    "titre": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-b653c461e3",
+    "chapitre_id": "production-marketing",
+    "titre": "Economic relief is on the way, Democrats say. But what, how and when?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
+    "date": "2026-11-09"
+  },
+  {
     "id": "art-f22d837c2d",
     "chapitre_id": "si-technologies",
     "titre": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "date": "2026-11-08"
+  },
+  {
+    "id": "art-59f54aa8ec",
+    "chapitre_id": "relations-internationales",
+    "titre": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+    "date": "2026-11-08"
+  },
+  {
+    "id": "art-2dc896e1dc",
+    "chapitre_id": "management-rh",
+    "titre": "US employers keep passing rising healthcare costs to workers. There are better options",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
+    "date": "2026-11-08"
+  },
+  {
+    "id": "art-42939d3dc9",
+    "chapitre_id": "compta-audit",
+    "titre": "UK spent £100m on zombie Brexit border inspection posts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
     "date": "2026-11-08"
   },
   {
@@ -88,67 +184,11 @@
     "date": "2026-11-07"
   },
   {
-    "id": "art-ec3e64150f",
-    "chapitre_id": "finance",
-    "titre": "The engine parts that 'fight the laws of the universe'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-c0beb4b560",
-    "chapitre_id": "finance",
-    "titre": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-d38af5d863",
-    "chapitre_id": "finance",
-    "titre": "Global stocks tumble as AI panic grips markets; US adds 165,000 new jobs in October – business live",
+    "id": "art-6d64941928",
+    "chapitre_id": "si-technologies",
+    "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-e6a8be1878",
-    "chapitre_id": "finance",
-    "titre": "UK house prices fall at steepest rate in more than three years",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-fa785fffce",
-    "chapitre_id": "finance",
-    "titre": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-8fc8e90c6b",
-    "chapitre_id": "finance",
-    "titre": "AI stocks climb after trillions wiped from market values",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-3f5fe12d28",
-    "chapitre_id": "finance",
-    "titre": "Why the US midterms sparked an AI stock selloff",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-445fead938",
-    "chapitre_id": "finance",
-    "titre": "Food bank to close amid rising costs",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
     "date": "2026-11-06"
   },
   {
@@ -232,14 +272,6 @@
     "date": "2026-11-06"
   },
   {
-    "id": "art-6d64941928",
-    "chapitre_id": "si-technologies",
-    "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
-    "date": "2026-11-06"
-  },
-  {
     "id": "art-4fe0318c4f",
     "chapitre_id": "production-marketing",
     "titre": "Australia's oldest department store David Jones folds after 188 years",
@@ -296,6 +328,14 @@
     "date": "2026-11-05"
   },
   {
+    "id": "art-ac851c0f80",
+    "chapitre_id": "si-technologies",
+    "titre": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+    "date": "2026-11-04"
+  },
+  {
     "id": "art-0a9b9fa0aa",
     "chapitre_id": "production-marketing",
     "titre": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
@@ -344,12 +384,28 @@
     "date": "2026-11-04"
   },
   {
-    "id": "art-ac851c0f80",
+    "id": "art-5d2cdd8508",
     "chapitre_id": "si-technologies",
-    "titre": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "titre": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-    "date": "2026-11-04"
+    "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-937ab275d0",
+    "chapitre_id": "si-technologies",
+    "titre": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-916a47efc4",
+    "chapitre_id": "si-technologies",
+    "titre": "Why are fridges being hacked and what could be next? - The Latest",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+    "date": "2026-11-03"
   },
   {
     "id": "art-7730f9e1f2",
@@ -357,14 +413,6 @@
     "titre": "Binance battles to save its brand after record $6.3bn crypto hack",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-bfb03de728",
-    "chapitre_id": "production-marketing",
-    "titre": "Protect Poundland from predatory capitalism, MPs tell government",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
     "date": "2026-11-03"
   },
   {
@@ -424,28 +472,12 @@
     "date": "2026-11-03"
   },
   {
-    "id": "art-5d2cdd8508",
+    "id": "art-4357af9f73",
     "chapitre_id": "si-technologies",
-    "titre": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+    "titre": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-937ab275d0",
-    "chapitre_id": "si-technologies",
-    "titre": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-916a47efc4",
-    "chapitre_id": "si-technologies",
-    "titre": "Why are fridges being hacked and what could be next? - The Latest",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
-    "date": "2026-11-03"
+    "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+    "date": "2026-11-02"
   },
   {
     "id": "art-b1475e8e76",
@@ -456,20 +488,20 @@
     "date": "2026-11-02"
   },
   {
-    "id": "art-4357af9f73",
-    "chapitre_id": "si-technologies",
-    "titre": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-    "date": "2026-11-02"
-  },
-  {
     "id": "art-d51bb4b450",
     "chapitre_id": "rse-gouvernance",
     "titre": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/video/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
     "date": "2026-10-31"
+  },
+  {
+    "id": "art-d0c0677e9f",
+    "chapitre_id": "si-technologies",
+    "titre": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+    "date": "2026-10-05"
   },
   {
     "id": "art-f1d3da638b",
@@ -494,30 +526,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
     "date": "2026-10-05"
-  },
-  {
-    "id": "art-38fb7be097",
-    "chapitre_id": "relations-internationales",
-    "titre": "﻿The UK’s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
-    "date": "2026-10-05"
-  },
-  {
-    "id": "art-d0c0677e9f",
-    "chapitre_id": "si-technologies",
-    "titre": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-    "date": "2026-10-05"
-  },
-  {
-    "id": "art-6fc9996ce9",
-    "chapitre_id": "management-rh",
-    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-    "date": "2026-10-04"
   },
   {
     "id": "art-83913d49e9",
@@ -552,6 +560,14 @@
     "date": "2026-10-04"
   },
   {
+    "id": "art-6fc9996ce9",
+    "chapitre_id": "management-rh",
+    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+    "date": "2026-10-04"
+  },
+  {
     "id": "art-9b660e92a9",
     "chapitre_id": "compta-audit",
     "titre": "Ministers explore how to stop regional leaders misusing planned new spending powers",
@@ -568,14 +584,6 @@
     "date": "2026-10-04"
   },
   {
-    "id": "art-f1df2f3bce",
-    "chapitre_id": "management-rh",
-    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-    "date": "2026-10-03"
-  },
-  {
     "id": "art-8f8890a08a",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
@@ -584,12 +592,12 @@
     "date": "2026-10-03"
   },
   {
-    "id": "art-47338c90f3",
+    "id": "art-f1df2f3bce",
     "chapitre_id": "management-rh",
-    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02"
+    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+    "date": "2026-10-03"
   },
   {
     "id": "art-95f895d375",
@@ -605,6 +613,14 @@
     "titre": "OpenAI disclose another hack on government department in Australia",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "art-47338c90f3",
+    "chapitre_id": "management-rh",
+    "titre": "OpenAI fires workers for 'mishandling sensitive information'",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02"
   },
   {
@@ -662,14 +678,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
     "date": "2026-09-28"
-  },
-  {
-    "id": "art-94f71de01c",
-    "chapitre_id": "management-rh",
-    "titre": "Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour",
-    "date": "2026-09-27"
   },
   {
     "id": "art-b124b16b54",
