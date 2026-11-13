@@ -1,5 +1,69 @@
 [
   {
+    "id": "art-4c884d0320",
+    "chapitre_id": "finance",
+    "titre": "‘They’ve cut all entry-level jobs’: unlikely seaside town on frontline of AI threat",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-3089c4bb16",
+    "chapitre_id": "finance",
+    "titre": "Will Jensen Huang sell his $135bn of stock?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-12e7efc71f",
+    "chapitre_id": "finance",
+    "titre": "US Treasuries set for worst week since Trump’s ‘liberation day’",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-c5f13dab1a",
+    "chapitre_id": "relations-internationales",
+    "titre": "Heat pumps: How much heat does your home really need?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-fa758c4e46",
+    "chapitre_id": "relations-internationales",
+    "titre": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-de06bec5ec",
+    "chapitre_id": "relations-internationales",
+    "titre": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-4ba6ba3a8b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "art-0daac84b88",
+    "chapitre_id": "management-rh",
+    "titre": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+    "date": "2026-11-13"
+  },
+  {
     "id": "art-bee007a93f",
     "chapitre_id": "finance",
     "titre": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
@@ -64,6 +128,38 @@
     "date": "2026-11-12"
   },
   {
+    "id": "art-7aad9af5de",
+    "chapitre_id": "finance",
+    "titre": "The Guardian view on venture capitalism: investor profits are no industrial strategy | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-venture-capitalism-investor-profits-are-no-industrial-strategy",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "art-009ee18571",
+    "chapitre_id": "finance",
+    "titre": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "art-0b3b245084",
+    "chapitre_id": "finance",
+    "titre": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "art-033f169386",
+    "chapitre_id": "finance",
+    "titre": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
+    "date": "2026-11-12"
+  },
+  {
     "id": "art-e6d5fed90e",
     "chapitre_id": "production-marketing",
     "titre": "Poundland gets more time to secure a rescue deal as emergency talks continue",
@@ -96,11 +192,35 @@
     "date": "2026-11-12"
   },
   {
+    "id": "art-2e231ca113",
+    "chapitre_id": "production-marketing",
+    "titre": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+    "date": "2026-11-12"
+  },
+  {
     "id": "art-fdb74aa835",
     "chapitre_id": "relations-internationales",
     "titre": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "art-ce619eba8b",
+    "chapitre_id": "relations-internationales",
+    "titre": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "art-4d61f65015",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
     "date": "2026-11-12"
   },
   {
@@ -120,60 +240,12 @@
     "date": "2026-11-12"
   },
   {
-    "id": "art-1cda978ffd",
-    "chapitre_id": "finance",
-    "titre": "Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live",
+    "id": "art-fcc2193357",
+    "chapitre_id": "management-rh",
+    "titre": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-c8dd526043",
-    "chapitre_id": "finance",
-    "titre": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-a85c28bfc3",
-    "chapitre_id": "finance",
-    "titre": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/global-development/2026/nov/11/mo-ibrahim-africa-governance-colonialism-power-development-corruption-buck-stops",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-fc1a063d03",
-    "chapitre_id": "finance",
-    "titre": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-a3264c3795",
-    "chapitre_id": "finance",
-    "titre": "Developing countries in limbo as rich nations delay new climate finance plans",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-e4e6c2d578",
-    "chapitre_id": "finance",
-    "titre": "US tech stocks set to extend rebound",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "art-6ef14878d0",
-    "chapitre_id": "finance",
-    "titre": "Anthropic’s IPO is too important to fail",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
-    "date": "2026-11-11"
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
+    "date": "2026-11-12"
   },
   {
     "id": "art-ebc3e5fcbc",
@@ -272,6 +344,14 @@
     "date": "2026-11-10"
   },
   {
+    "id": "art-5e88919a5f",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+    "date": "2026-11-10"
+  },
+  {
     "id": "art-9caa9b54c5",
     "chapitre_id": "si-technologies",
     "titre": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
@@ -296,14 +376,6 @@
     "date": "2026-11-10"
   },
   {
-    "id": "art-5e88919a5f",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-    "date": "2026-11-10"
-  },
-  {
     "id": "art-e352637e68",
     "chapitre_id": "compta-audit",
     "titre": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
@@ -320,14 +392,6 @@
     "date": "2026-11-09"
   },
   {
-    "id": "art-099785ea17",
-    "chapitre_id": "production-marketing",
-    "titre": "How to get the buzz back on Britain’s high streets | Letters",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/09/how-to-get-the-buzz-back-on-britains-high-streets",
-    "date": "2026-11-09"
-  },
-  {
     "id": "art-911c46eab6",
     "chapitre_id": "relations-internationales",
     "titre": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
@@ -336,19 +400,19 @@
     "date": "2026-11-09"
   },
   {
-    "id": "art-eec41a5bd7",
-    "chapitre_id": "management-rh",
-    "titre": "Boeing to cut about 5% of its commercial plane workforce",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
-    "date": "2026-11-09"
-  },
-  {
     "id": "art-ba436dfdc0",
     "chapitre_id": "rse-gouvernance",
     "titre": "Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "art-eec41a5bd7",
+    "chapitre_id": "management-rh",
+    "titre": "Boeing to cut about 5% of its commercial plane workforce",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
     "date": "2026-11-09"
   },
   {
@@ -408,6 +472,14 @@
     "date": "2026-11-06"
   },
   {
+    "id": "art-2577c71326",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Is the AI stock bubble finally bursting?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
+    "date": "2026-11-06"
+  },
+  {
     "id": "art-6d64941928",
     "chapitre_id": "si-technologies",
     "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
@@ -432,27 +504,11 @@
     "date": "2026-11-06"
   },
   {
-    "id": "art-2577c71326",
+    "id": "art-31049809d2",
     "chapitre_id": "rse-gouvernance",
-    "titre": "Is the AI stock bubble finally bursting?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-5f23d19d21",
-    "chapitre_id": "relations-internationales",
-    "titre": "Pound rises to its highest level since the Brexit referendum",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-a200945598",
-    "chapitre_id": "relations-internationales",
-    "titre": "Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’",
+    "titre": "Lab-grown meat was supposed to save the world. What happened?",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
     "date": "2026-11-05"
   },
   {
@@ -464,19 +520,11 @@
     "date": "2026-11-05"
   },
   {
-    "id": "art-31049809d2",
+    "id": "art-08e26fbfbc",
     "chapitre_id": "rse-gouvernance",
-    "titre": "Lab-grown meat was supposed to save the world. What happened?",
+    "titre": "The Guardian view on EU ‘Made in Europe’ rules: a fatal blow to Brexiter delusions | Editorial",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
-    "date": "2026-11-05"
-  },
-  {
-    "id": "art-0515ad2f27",
-    "chapitre_id": "relations-internationales",
-    "titre": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-eu-made-in-europe-rules-a-fatal-blow-to-brexiter-delusions",
     "date": "2026-11-04"
   },
   {
@@ -496,35 +544,11 @@
     "date": "2026-11-04"
   },
   {
-    "id": "art-08e26fbfbc",
+    "id": "art-aa0d10c680",
     "chapitre_id": "rse-gouvernance",
-    "titre": "The Guardian view on EU ‘Made in Europe’ rules: a fatal blow to Brexiter delusions | Editorial",
+    "titre": "Primark lacks fizz as it approaches its go-it-alone moment",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-eu-made-in-europe-rules-a-fatal-blow-to-brexiter-delusions",
-    "date": "2026-11-04"
-  },
-  {
-    "id": "art-a90103c504",
-    "chapitre_id": "relations-internationales",
-    "titre": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-b4ba3cc585",
-    "chapitre_id": "relations-internationales",
-    "titre": "UK and EU agree deal to remove Brexit checks on food and animal products",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-9d9d5ec001",
-    "chapitre_id": "relations-internationales",
-    "titre": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
     "date": "2026-11-03"
   },
   {
@@ -565,14 +589,6 @@
     "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-aa0d10c680",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Primark lacks fizz as it approaches its go-it-alone moment",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
     "date": "2026-11-03"
   },
   {
@@ -686,22 +702,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02"
-  },
-  {
-    "id": "art-7775d4ca4a",
-    "chapitre_id": "management-rh",
-    "titre": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "art-85e0109e9c",
-    "chapitre_id": "management-rh",
-    "titre": "Prosecco pratfalls and coffee catastrophes: Neets are missing out on formative first-job experiences | Isabel Brooks",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/30/neets-formative-first-job-experiences-hospitality-industry",
-    "date": "2026-09-30"
   },
   {
     "id": "art-a20db36fde",
