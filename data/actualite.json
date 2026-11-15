@@ -1,10 +1,106 @@
 [
   {
+    "id": "art-e4c06b2fe0",
+    "chapitre_id": "finance",
+    "titre": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-a0e17e8eed",
+    "chapitre_id": "finance",
+    "titre": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-bdfd75bbc9",
+    "chapitre_id": "finance",
+    "titre": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-93743783bb",
+    "chapitre_id": "finance",
+    "titre": "Anthropic’s IPO is the next big test for AI",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-e82cc9c0a4",
+    "chapitre_id": "finance",
+    "titre": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-936ae24e14",
+    "chapitre_id": "si-technologies",
+    "titre": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-c3ca630d9b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Pasta, pies and paperwork errors: the reality of Brexit food checks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/15/drivers-delays-brexit-food-checks",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-db28f361ce",
+    "chapitre_id": "relations-internationales",
+    "titre": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-2460d1d60c",
+    "chapitre_id": "management-rh",
+    "titre": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "art-9d07b354d5",
+    "chapitre_id": "management-rh",
+    "titre": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+    "date": "2026-11-15"
+  },
+  {
     "id": "art-dacf9fe2e6",
     "chapitre_id": "finance",
     "titre": "Food bank sees donations drop by 10% each year",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14"
+  },
+  {
+    "id": "art-c45402730d",
+    "chapitre_id": "finance",
+    "titre": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+    "date": "2026-11-14"
+  },
+  {
+    "id": "art-759845822a",
+    "chapitre_id": "finance",
+    "titre": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
     "date": "2026-11-14"
   },
   {
@@ -16,11 +112,35 @@
     "date": "2026-11-14"
   },
   {
+    "id": "art-f0084e16bf",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+    "date": "2026-11-14"
+  },
+  {
     "id": "art-4c532d85e8",
     "chapitre_id": "si-technologies",
     "titre": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+    "date": "2026-11-14"
+  },
+  {
+    "id": "art-3a1f57bc81",
+    "chapitre_id": "si-technologies",
+    "titre": "‘It’s like the wild west’: how AI has rocked the literary world",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+    "date": "2026-11-14"
+  },
+  {
+    "id": "art-f005ff3038",
+    "chapitre_id": "relations-internationales",
+    "titre": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
     "date": "2026-11-14"
   },
   {
@@ -152,59 +272,19 @@
     "date": "2026-11-12"
   },
   {
-    "id": "art-6555c15293",
-    "chapitre_id": "finance",
-    "titre": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
+    "id": "art-f80527b0e0",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
+    "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
     "date": "2026-11-12"
   },
   {
-    "id": "art-b3f30eed13",
-    "chapitre_id": "finance",
-    "titre": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
+    "id": "art-f6ec31bc76",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-a685f82f31",
-    "chapitre_id": "finance",
-    "titre": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-ceb1fb455d",
-    "chapitre_id": "finance",
-    "titre": "‘It is much, much faster’: could China’s battery-swapping e-trucks be the answer to EV range anxiety?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-9ed6bfff6f",
-    "chapitre_id": "finance",
-    "titre": "Jensen Huang resigns as Nvidia chief executive",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-161d0a6b2d",
-    "chapitre_id": "finance",
-    "titre": "France signals support for Spain’s ECB presidential candidate",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-7aad9af5de",
-    "chapitre_id": "finance",
-    "titre": "The Guardian view on venture capitalism: investor profits are no industrial strategy | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-venture-capitalism-investor-profits-are-no-industrial-strategy",
+    "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
     "date": "2026-11-12"
   },
   {
@@ -280,22 +360,6 @@
     "date": "2026-11-12"
   },
   {
-    "id": "art-f80527b0e0",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-f6ec31bc76",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
-    "date": "2026-11-12"
-  },
-  {
     "id": "art-e47b4c641f",
     "chapitre_id": "relations-internationales",
     "titre": "Democracy’s future is at stake in Ukraine",
@@ -360,6 +424,22 @@
     "date": "2026-11-11"
   },
   {
+    "id": "art-5e88919a5f",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+    "date": "2026-11-10"
+  },
+  {
+    "id": "art-9caa9b54c5",
+    "chapitre_id": "si-technologies",
+    "titre": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-10"
+  },
+  {
     "id": "art-42ec1e7471",
     "chapitre_id": "relations-internationales",
     "titre": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
@@ -408,22 +488,6 @@
     "date": "2026-11-10"
   },
   {
-    "id": "art-5e88919a5f",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-    "date": "2026-11-10"
-  },
-  {
-    "id": "art-9caa9b54c5",
-    "chapitre_id": "si-technologies",
-    "titre": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-10"
-  },
-  {
     "id": "art-e352637e68",
     "chapitre_id": "compta-audit",
     "titre": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
@@ -432,11 +496,11 @@
     "date": "2026-11-10"
   },
   {
-    "id": "art-911c46eab6",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+    "id": "art-ba436dfdc0",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
     "date": "2026-11-09"
   },
   {
@@ -448,19 +512,11 @@
     "date": "2026-11-09"
   },
   {
-    "id": "art-ba436dfdc0",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley",
+    "id": "art-f22d837c2d",
+    "chapitre_id": "si-technologies",
+    "titre": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
-    "date": "2026-11-09"
-  },
-  {
-    "id": "art-59f54aa8ec",
-    "chapitre_id": "relations-internationales",
-    "titre": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+    "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
     "date": "2026-11-08"
   },
   {
@@ -472,14 +528,6 @@
     "date": "2026-11-08"
   },
   {
-    "id": "art-f22d837c2d",
-    "chapitre_id": "si-technologies",
-    "titre": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-    "date": "2026-11-08"
-  },
-  {
     "id": "art-42939d3dc9",
     "chapitre_id": "compta-audit",
     "titre": "UK spent £100m on zombie Brexit border inspection posts",
@@ -488,11 +536,19 @@
     "date": "2026-11-08"
   },
   {
-    "id": "art-acdc25b9b0",
-    "chapitre_id": "relations-internationales",
-    "titre": "Donald Trump has taught the world that tariffs are useless",
+    "id": "art-2577c71326",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Is the AI stock bubble finally bursting?",
     "source": "Financial Times",
-    "url": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
+    "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "art-6d64941928",
+    "chapitre_id": "si-technologies",
+    "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
     "date": "2026-11-06"
   },
   {
@@ -512,30 +568,6 @@
     "date": "2026-11-06"
   },
   {
-    "id": "art-2577c71326",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Is the AI stock bubble finally bursting?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-6d64941928",
-    "chapitre_id": "si-technologies",
-    "titre": "Fearing AI disruption, white-collar workers are quitting their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "art-470b77920b",
-    "chapitre_id": "management-rh",
-    "titre": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
-    "date": "2026-11-05"
-  },
-  {
     "id": "art-31049809d2",
     "chapitre_id": "rse-gouvernance",
     "titre": "Lab-grown meat was supposed to save the world. What happened?",
@@ -544,12 +576,12 @@
     "date": "2026-11-05"
   },
   {
-    "id": "art-2c1f559e0d",
+    "id": "art-470b77920b",
     "chapitre_id": "management-rh",
-    "titre": "Alligator strolls into bagel shop in North Carolina – video",
+    "titre": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/video/2026/nov/04/alligator-strolls-into-bagel-shop-in-north-carolina-video",
-    "date": "2026-11-04"
+    "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+    "date": "2026-11-05"
   },
   {
     "id": "art-08e26fbfbc",
@@ -568,20 +600,12 @@
     "date": "2026-11-04"
   },
   {
-    "id": "art-df452a371d",
+    "id": "art-2c1f559e0d",
     "chapitre_id": "management-rh",
-    "titre": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "titre": "Alligator strolls into bagel shop in North Carolina – video",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-    "date": "2026-11-03"
-  },
-  {
-    "id": "art-185540b30f",
-    "chapitre_id": "management-rh",
-    "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
-    "date": "2026-11-03"
+    "url": "https://www.theguardian.com/world/video/2026/nov/04/alligator-strolls-into-bagel-shop-in-north-carolina-video",
+    "date": "2026-11-04"
   },
   {
     "id": "art-aa0d10c680",
@@ -616,6 +640,22 @@
     "date": "2026-11-03"
   },
   {
+    "id": "art-df452a371d",
+    "chapitre_id": "management-rh",
+    "titre": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "art-185540b30f",
+    "chapitre_id": "management-rh",
+    "titre": "Poundland staff could be out of work for years if retailer collapses, founder says",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
+    "date": "2026-11-03"
+  },
+  {
     "id": "art-4357af9f73",
     "chapitre_id": "si-technologies",
     "titre": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
@@ -638,14 +678,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
     "date": "2026-10-05"
-  },
-  {
-    "id": "art-6fc9996ce9",
-    "chapitre_id": "management-rh",
-    "titre": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-    "date": "2026-10-04"
   },
   {
     "id": "art-83913d49e9",
@@ -672,14 +704,6 @@
     "date": "2026-10-04"
   },
   {
-    "id": "art-a517710aa1",
-    "chapitre_id": "si-technologies",
-    "titre": "The AI industry is booming. Women are getting left behind",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-    "date": "2026-10-04"
-  },
-  {
     "id": "art-9b660e92a9",
     "chapitre_id": "compta-audit",
     "titre": "Ministers explore how to stop regional leaders misusing planned new spending powers",
@@ -694,22 +718,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/oct/04/retailers-returns-small-business",
     "date": "2026-10-04"
-  },
-  {
-    "id": "art-f1df2f3bce",
-    "chapitre_id": "management-rh",
-    "titre": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-    "date": "2026-10-03"
-  },
-  {
-    "id": "art-8f8890a08a",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
-    "date": "2026-10-03"
   },
   {
     "id": "art-a20db36fde",
@@ -742,14 +750,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "date": "2026-09-25"
-  },
-  {
-    "id": "art-1bc0c95166",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
-    "date": "2026-09-23"
   },
   {
     "id": "art-8c12ce6064",
