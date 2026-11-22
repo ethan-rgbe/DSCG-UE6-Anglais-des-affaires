@@ -1,5 +1,93 @@
 [
   {
+    "id": "art-9eade04082",
+    "chapitre_id": "finance",
+    "titre": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-9cf5484351",
+    "chapitre_id": "finance",
+    "titre": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-fecd4f0129",
+    "chapitre_id": "finance",
+    "titre": "Did Anthropic and its bankers get a key call wrong after IPO?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-1c4f007e6c",
+    "chapitre_id": "finance",
+    "titre": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-0ea430def4",
+    "chapitre_id": "si-technologies",
+    "titre": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-2606cafd4f",
+    "chapitre_id": "relations-internationales",
+    "titre": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-6dbcad5894",
+    "chapitre_id": "relations-internationales",
+    "titre": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-ec304ffde7",
+    "chapitre_id": "relations-internationales",
+    "titre": "Democrats will seek to unwind Trump’s tax and tariff policies",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-414e7c0b89",
+    "chapitre_id": "production-marketing",
+    "titre": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-634423e927",
+    "chapitre_id": "production-marketing",
+    "titre": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "art-cd078dd643",
+    "chapitre_id": "management-rh",
+    "titre": "CEO of funding agency for UK science and research criticised by union over cuts",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+    "date": "2026-11-22"
+  },
+  {
     "id": "art-0c08a6f395",
     "chapitre_id": "finance",
     "titre": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
@@ -24,6 +112,14 @@
     "date": "2026-11-21"
   },
   {
+    "id": "art-b83a6748f6",
+    "chapitre_id": "finance",
+    "titre": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+    "date": "2026-11-21"
+  },
+  {
     "id": "art-8e797836f2",
     "chapitre_id": "si-technologies",
     "titre": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
@@ -37,6 +133,22 @@
     "titre": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "art-efb1808833",
+    "chapitre_id": "si-technologies",
+    "titre": "Can AI really help spot Black Friday deals? We put it to the test",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "art-3500af305e",
+    "chapitre_id": "si-technologies",
+    "titre": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
     "date": "2026-11-21"
   },
   {
@@ -160,54 +272,6 @@
     "date": "2026-11-20"
   },
   {
-    "id": "art-ca1b4ecb67",
-    "chapitre_id": "finance",
-    "titre": "Anthropic shares tumble as AI giant swept up in tech sell-off",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-56880aa472",
-    "chapitre_id": "finance",
-    "titre": "‘A necessary evil’: how Anthropic pulled off its IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-88f2c87448",
-    "chapitre_id": "finance",
-    "titre": "Anthropic market cap in line with Alphaville’s guess",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-cf8738295f",
-    "chapitre_id": "finance",
-    "titre": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-15f1d8c941",
-    "chapitre_id": "finance",
-    "titre": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-bf9b0897f9",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Pensions: unjust and unsustainable?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-    "date": "2026-11-20"
-  },
-  {
     "id": "art-c1fe6e4cca",
     "chapitre_id": "si-technologies",
     "titre": "Will AI break the internet? | Garrison Lovely",
@@ -296,6 +360,14 @@
     "date": "2026-11-20"
   },
   {
+    "id": "art-1dbd628dcd",
+    "chapitre_id": "relations-internationales",
+    "titre": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+    "date": "2026-11-20"
+  },
+  {
     "id": "art-41a333d608",
     "chapitre_id": "production-marketing",
     "titre": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -336,12 +408,12 @@
     "date": "2026-11-20"
   },
   {
-    "id": "art-edc7b11d3a",
+    "id": "art-bf9b0897f9",
     "chapitre_id": "rse-gouvernance",
-    "titre": "Leftover pumpkins help deliver 1,000th free meal",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19"
+    "titre": "Pensions: unjust and unsustainable?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+    "date": "2026-11-20"
   },
   {
     "id": "art-cffa83add4",
@@ -392,12 +464,12 @@
     "date": "2026-11-19"
   },
   {
-    "id": "art-e566d50826",
+    "id": "art-edc7b11d3a",
     "chapitre_id": "rse-gouvernance",
-    "titre": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-    "date": "2026-11-18"
+    "titre": "Leftover pumpkins help deliver 1,000th free meal",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19"
   },
   {
     "id": "art-f2571879ac",
@@ -440,22 +512,6 @@
     "date": "2026-11-18"
   },
   {
-    "id": "art-deb1e2e2b6",
-    "chapitre_id": "relations-internationales",
-    "titre": "Energy price cap rise: how to switch providers",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
-    "date": "2026-11-18"
-  },
-  {
-    "id": "art-5ecd266f93",
-    "chapitre_id": "relations-internationales",
-    "titre": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
-    "date": "2026-11-18"
-  },
-  {
     "id": "art-6ea189b5c7",
     "chapitre_id": "production-marketing",
     "titre": "David Beckham's perfume, Poundland – and a mighty, mighty stink | Arwa Mahdawi",
@@ -488,20 +544,12 @@
     "date": "2026-11-18"
   },
   {
-    "id": "art-672946f245",
-    "chapitre_id": "relations-internationales",
-    "titre": "How new US chip restrictions on South East Asia will hit China",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "art-bfcaf275b2",
-    "chapitre_id": "relations-internationales",
-    "titre": "US government confirms investigation into tech firm Megaspeed",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17"
+    "id": "art-e566d50826",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+    "date": "2026-11-18"
   },
   {
     "id": "art-f93133de6a",
@@ -528,35 +576,11 @@
     "date": "2026-11-17"
   },
   {
-    "id": "art-6b8a3d787c",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "art-2b570ded2d",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "European football body’s plan to go global leaves Fifa on tenterhooks",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
-    "date": "2026-11-16"
-  },
-  {
     "id": "art-3dc2e0addf",
     "chapitre_id": "si-technologies",
     "titre": "OpenAI sued by California over Hugging Face attack",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "art-7d4307f50c",
-    "chapitre_id": "si-technologies",
-    "titre": "California sues OpenAI over safety concerns after rogue agent hacking",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
     "date": "2026-11-16"
   },
   {
@@ -576,14 +600,6 @@
     "date": "2026-11-16"
   },
   {
-    "id": "art-e5f18ed0c9",
-    "chapitre_id": "production-marketing",
-    "titre": "Coles investigates cyber-attack and apologises to customers",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-    "date": "2026-11-16"
-  },
-  {
     "id": "art-6e9d48136a",
     "chapitre_id": "compta-audit",
     "titre": "Accounting student’s AI cheating sparks South Korean exam furore",
@@ -592,12 +608,20 @@
     "date": "2026-11-16"
   },
   {
-    "id": "art-936ae24e14",
-    "chapitre_id": "si-technologies",
-    "titre": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+    "id": "art-6b8a3d787c",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
-    "date": "2026-11-15"
+    "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "art-2b570ded2d",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "European football body’s plan to go global leaves Fifa on tenterhooks",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+    "date": "2026-11-16"
   },
   {
     "id": "art-2460d1d60c",
@@ -632,22 +656,6 @@
     "date": "2026-11-14"
   },
   {
-    "id": "art-4c532d85e8",
-    "chapitre_id": "si-technologies",
-    "titre": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
-    "date": "2026-11-14"
-  },
-  {
-    "id": "art-1d1ca78fd4",
-    "chapitre_id": "production-marketing",
-    "titre": "Consumer Fight Back",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-14"
-  },
-  {
     "id": "art-0daac84b88",
     "chapitre_id": "management-rh",
     "titre": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
@@ -662,6 +670,14 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
     "date": "2026-11-13"
+  },
+  {
+    "id": "art-fcc2193357",
+    "chapitre_id": "management-rh",
+    "titre": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
+    "date": "2026-11-12"
   },
   {
     "id": "art-f80527b0e0",
@@ -680,22 +696,6 @@
     "date": "2026-11-12"
   },
   {
-    "id": "art-fcc2193357",
-    "chapitre_id": "management-rh",
-    "titre": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "art-5e88919a5f",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-    "date": "2026-11-10"
-  },
-  {
     "id": "art-7fb612869a",
     "chapitre_id": "management-rh",
     "titre": "This small Alaska town is swamped by cruise ship visitors every summer. But what happens when they all go home?",
@@ -704,19 +704,19 @@
     "date": "2026-11-10"
   },
   {
-    "id": "art-71ad979424",
-    "chapitre_id": "management-rh",
-    "titre": "How a chat with ‘auntie’ helped a young worker bag free money in a UK pensions scheme",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/10/uk-pensions-scottish-widows-young-worker",
-    "date": "2026-11-10"
-  },
-  {
     "id": "art-e352637e68",
     "chapitre_id": "compta-audit",
     "titre": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
+    "date": "2026-11-10"
+  },
+  {
+    "id": "art-5e88919a5f",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
     "date": "2026-11-10"
   },
   {
