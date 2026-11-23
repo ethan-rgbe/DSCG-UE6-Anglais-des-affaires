@@ -1,5 +1,149 @@
 [
   {
+    "id": "art-03500cce3b",
+    "chapitre_id": "finance",
+    "titre": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-2bdbc17d3e",
+    "chapitre_id": "finance",
+    "titre": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-2cf0a37d6d",
+    "chapitre_id": "finance",
+    "titre": "Catering giant to switch main share listing to US in further blow to UK",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-ad1a65f858",
+    "chapitre_id": "finance",
+    "titre": "Welfare cuts: What's been happening with Pip and universal credit?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-1008b634a4",
+    "chapitre_id": "finance",
+    "titre": "Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-2f322f0fd1",
+    "chapitre_id": "finance",
+    "titre": "Nvidia shares surge 33% on Jensen Huang‘s return, adding $1tn to company’s value – business live",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-46132fec32",
+    "chapitre_id": "finance",
+    "titre": "Wild stock market swings: will I lose money, and is there anything I can do?",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-bc3461a0e3",
+    "chapitre_id": "finance",
+    "titre": "Capita boss exits and shares crash after civil service pensions failures",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-108921d166",
+    "chapitre_id": "finance",
+    "titre": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-4867726188",
+    "chapitre_id": "finance",
+    "titre": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-261097f540",
+    "chapitre_id": "finance",
+    "titre": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-b51b3d885c",
+    "chapitre_id": "finance",
+    "titre": "Grieving families getting into debt and doing without memorials due to benefit freezes",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-325a364b8f",
+    "chapitre_id": "finance",
+    "titre": "Huang’s return is a triumph of money over morals",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-f2571879ac",
+    "chapitre_id": "si-technologies",
+    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-14ae2dc0b8",
+    "chapitre_id": "relations-internationales",
+    "titre": "Witness History",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-fa4c230e3b",
+    "chapitre_id": "production-marketing",
+    "titre": "Next data accessed in cyber breach",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-4d75135fe6",
+    "chapitre_id": "production-marketing",
+    "titre": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-8fce329df4",
+    "chapitre_id": "management-rh",
+    "titre": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
     "id": "art-9eade04082",
     "chapitre_id": "finance",
     "titre": "Hacks, AI and conspiracy theories: why are we having so many outages?",
@@ -13,22 +157,6 @@
     "titre": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
-    "date": "2026-11-22"
-  },
-  {
-    "id": "art-fecd4f0129",
-    "chapitre_id": "finance",
-    "titre": "Did Anthropic and its bankers get a key call wrong after IPO?",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-    "date": "2026-11-22"
-  },
-  {
-    "id": "art-1c4f007e6c",
-    "chapitre_id": "finance",
-    "titre": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
     "date": "2026-11-22"
   },
   {
@@ -64,6 +192,14 @@
     "date": "2026-11-22"
   },
   {
+    "id": "art-9e0e59e94b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+    "date": "2026-11-22"
+  },
+  {
     "id": "art-414e7c0b89",
     "chapitre_id": "production-marketing",
     "titre": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
@@ -86,38 +222,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
     "date": "2026-11-22"
-  },
-  {
-    "id": "art-0c08a6f395",
-    "chapitre_id": "finance",
-    "titre": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-658056f8a9",
-    "chapitre_id": "finance",
-    "titre": "The dead hand of history weighs on Deutsche Bank",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-4749a04829",
-    "chapitre_id": "finance",
-    "titre": "Navy budget pick has family investments in Trump Jr-linked contractor",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-b83a6748f6",
-    "chapitre_id": "finance",
-    "titre": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
-    "date": "2026-11-21"
   },
   {
     "id": "art-8e797836f2",
@@ -216,62 +320,6 @@
     "date": "2026-11-21"
   },
   {
-    "id": "art-7abcb9e67a",
-    "chapitre_id": "finance",
-    "titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-5b5e77b6ee",
-    "chapitre_id": "finance",
-    "titre": "Should AI be judging our credit worthiness?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-66d772a846",
-    "chapitre_id": "finance",
-    "titre": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-18b5985183",
-    "chapitre_id": "finance",
-    "titre": "Anthropic shares slide as AI sell-off hits global markets - business live",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-79fa21ef1d",
-    "chapitre_id": "finance",
-    "titre": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-281a2874b1",
-    "chapitre_id": "finance",
-    "titre": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-53f2410e3e",
-    "chapitre_id": "finance",
-    "titre": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-    "date": "2026-11-20"
-  },
-  {
     "id": "art-c1fe6e4cca",
     "chapitre_id": "si-technologies",
     "titre": "Will AI break the internet? | Garrison Lovely",
@@ -357,14 +405,6 @@
     "titre": "Andy Burnham and EU leaders call UK-EU reset deal a 'win-win' – video",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/politics/video/2026/nov/20/andy-burnham-and-eu-leaders-call-uk-eu-reset-deal-a-win-win-video",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-1dbd628dcd",
-    "chapitre_id": "relations-internationales",
-    "titre": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
     "date": "2026-11-20"
   },
   {
@@ -472,14 +512,6 @@
     "date": "2026-11-19"
   },
   {
-    "id": "art-f2571879ac",
-    "chapitre_id": "si-technologies",
-    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18"
-  },
-  {
     "id": "art-51e07052da",
     "chapitre_id": "si-technologies",
     "titre": "Security flaw found in Java, world's third-largest programming language",
@@ -501,14 +533,6 @@
     "titre": "US tech outages blamed on rush to fix bugs found by AI",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-    "date": "2026-11-18"
-  },
-  {
-    "id": "art-7f0ebec0fc",
-    "chapitre_id": "relations-internationales",
-    "titre": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
     "date": "2026-11-18"
   },
   {
@@ -581,22 +605,6 @@
     "titre": "OpenAI sued by California over Hugging Face attack",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "art-21d8d76d09",
-    "chapitre_id": "production-marketing",
-    "titre": "Beckham firm sues after fragrance found for sale in discount store",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "art-2c282f8dc8",
-    "chapitre_id": "production-marketing",
-    "titre": "Weakening UK electric vehicle targets would hurt car industry, ministers told",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told",
     "date": "2026-11-16"
   },
   {
@@ -694,14 +702,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
     "date": "2026-11-12"
-  },
-  {
-    "id": "art-7fb612869a",
-    "chapitre_id": "management-rh",
-    "titre": "This small Alaska town is swamped by cruise ship visitors every summer. But what happens when they all go home?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing",
-    "date": "2026-11-10"
   },
   {
     "id": "art-e352637e68",
