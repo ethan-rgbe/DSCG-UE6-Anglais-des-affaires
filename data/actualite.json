@@ -1,8 +1,96 @@
 [
   {
+    "id": "art-2202abb805",
+    "chapitre_id": "finance",
+    "titre": "NHS caterer Compass confirms plan to ditch main London listing for New York",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-7584330b42",
+    "chapitre_id": "finance",
+    "titre": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention – video",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-519716230c",
+    "chapitre_id": "finance",
+    "titre": "Anthropic falls below IPO price as tech rally fades",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-a80b129c68",
+    "chapitre_id": "si-technologies",
+    "titre": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-83c9219e60",
+    "chapitre_id": "si-technologies",
+    "titre": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-9f976c330c",
+    "chapitre_id": "relations-internationales",
+    "titre": "Irish plan offers Burnham breakthrough on Made in Europe",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-42fa90756b",
+    "chapitre_id": "relations-internationales",
+    "titre": "Children of the revolution: how the north of England is defining modern men’s fashion",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/fashion/2026/nov/24/children-of-the-revolution-how-the-north-of-england-is-defining-modern-mens-fashion",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-c967df2cec",
+    "chapitre_id": "relations-internationales",
+    "titre": "Trump readies raft of new tariffs on major economies",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-379006704c",
+    "chapitre_id": "production-marketing",
+    "titre": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-2438464970",
+    "chapitre_id": "production-marketing",
+    "titre": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-ae2e8e2caf",
+    "chapitre_id": "management-rh",
+    "titre": "Trump made up to $15m on Nvidia stock after Huang’s return",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+    "date": "2026-11-24"
+  },
+  {
     "id": "art-03500cce3b",
     "chapitre_id": "finance",
-    "titre": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+    "titre": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-23"
@@ -96,14 +184,6 @@
     "date": "2026-11-23"
   },
   {
-    "id": "art-325a364b8f",
-    "chapitre_id": "finance",
-    "titre": "Huang’s return is a triumph of money over morals",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
-    "date": "2026-11-23"
-  },
-  {
     "id": "art-f2571879ac",
     "chapitre_id": "si-technologies",
     "titre": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -117,6 +197,22 @@
     "titre": "Witness History",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-9763953b50",
+    "chapitre_id": "relations-internationales",
+    "titre": "The Guardian view on Andy Burnham’s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
+    "date": "2026-11-23"
+  },
+  {
+    "id": "art-4e17b3cf39",
+    "chapitre_id": "relations-internationales",
+    "titre": "What tactics will Burnham use to sell his EU plans? – podcast",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
     "date": "2026-11-23"
   },
   {
@@ -142,22 +238,6 @@
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-23"
-  },
-  {
-    "id": "art-9eade04082",
-    "chapitre_id": "finance",
-    "titre": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-    "date": "2026-11-22"
-  },
-  {
-    "id": "art-9cf5484351",
-    "chapitre_id": "finance",
-    "titre": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
-    "date": "2026-11-22"
   },
   {
     "id": "art-0ea430def4",
@@ -368,46 +448,6 @@
     "date": "2026-11-20"
   },
   {
-    "id": "art-767c277986",
-    "chapitre_id": "relations-internationales",
-    "titre": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-4f6023ff12",
-    "chapitre_id": "relations-internationales",
-    "titre": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-e98fbe9c28",
-    "chapitre_id": "relations-internationales",
-    "titre": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-849d571e5e",
-    "chapitre_id": "relations-internationales",
-    "titre": "What impact has Brexit had on the UK and EU economies?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "art-8cc8bf0803",
-    "chapitre_id": "relations-internationales",
-    "titre": "Andy Burnham and EU leaders call UK-EU reset deal a 'win-win' – video",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/video/2026/nov/20/andy-burnham-and-eu-leaders-call-uk-eu-reset-deal-a-win-win-video",
-    "date": "2026-11-20"
-  },
-  {
     "id": "art-41a333d608",
     "chapitre_id": "production-marketing",
     "titre": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -528,14 +568,6 @@
     "date": "2026-11-18"
   },
   {
-    "id": "art-4bb745bf3f",
-    "chapitre_id": "si-technologies",
-    "titre": "US tech outages blamed on rush to fix bugs found by AI",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-    "date": "2026-11-18"
-  },
-  {
     "id": "art-6ea189b5c7",
     "chapitre_id": "production-marketing",
     "titre": "David Beckham's perfume, Poundland – and a mighty, mighty stink | Arwa Mahdawi",
@@ -576,36 +608,12 @@
     "date": "2026-11-18"
   },
   {
-    "id": "art-f93133de6a",
-    "chapitre_id": "production-marketing",
-    "titre": "Ikea ditches plans for new UK stores, blaming high business taxes",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "art-bbd0f183d7",
-    "chapitre_id": "production-marketing",
-    "titre": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-    "date": "2026-11-17"
-  },
-  {
     "id": "art-daa9959cb1",
     "chapitre_id": "management-rh",
     "titre": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
     "date": "2026-11-17"
-  },
-  {
-    "id": "art-3dc2e0addf",
-    "chapitre_id": "si-technologies",
-    "titre": "OpenAI sued by California over Hugging Face attack",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16"
   },
   {
     "id": "art-6e9d48136a",
@@ -678,14 +686,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
     "date": "2026-11-13"
-  },
-  {
-    "id": "art-fcc2193357",
-    "chapitre_id": "management-rh",
-    "titre": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
-    "date": "2026-11-12"
   },
   {
     "id": "art-f80527b0e0",
