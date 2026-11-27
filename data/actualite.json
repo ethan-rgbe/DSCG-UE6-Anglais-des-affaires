@@ -1,5 +1,117 @@
 [
   {
+    "id": "art-5cfd9d09f8",
+    "chapitre_id": "finance",
+    "titre": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-42e852e5bf",
+    "chapitre_id": "finance",
+    "titre": "The food bank helping pet owners with rising bills",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-1b530eb88d",
+    "chapitre_id": "finance",
+    "titre": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-ce395d6dd1",
+    "chapitre_id": "finance",
+    "titre": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-dec6987784",
+    "chapitre_id": "finance",
+    "titre": "Pizza history: AI agent’s cardless purchase is a first for UK",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-53c058822f",
+    "chapitre_id": "finance",
+    "titre": "First principles to cling to when markets convulse",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-408cd74b10",
+    "chapitre_id": "finance",
+    "titre": "Chinese shares soar after Beijing signals more support",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-aeba84282c",
+    "chapitre_id": "finance",
+    "titre": "Warsh’s ‘good family fight’ could turn ugly",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-5384a4da40",
+    "chapitre_id": "finance",
+    "titre": "Chinese households shed billions in consumer debt",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-162ece2e7e",
+    "chapitre_id": "finance",
+    "titre": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-d522e44496",
+    "chapitre_id": "finance",
+    "titre": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-b69603ed7d",
+    "chapitre_id": "production-marketing",
+    "titre": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-14c7502ee3",
+    "chapitre_id": "production-marketing",
+    "titre": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-d6c9782311",
+    "chapitre_id": "production-marketing",
+    "titre": "Too old for soft toys? Tell that to kidults booking up Harrods Jellycat cafe",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+    "date": "2026-11-27"
+  },
+  {
     "id": "art-fe62052673",
     "chapitre_id": "finance",
     "titre": "Millions of people to see average monthly mortgage payments rise by £100",
@@ -29,78 +141,6 @@
     "titre": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-2ce7247b83",
-    "chapitre_id": "finance",
-    "titre": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-5cfd9d09f8",
-    "chapitre_id": "finance",
-    "titre": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-ef8c614634",
-    "chapitre_id": "finance",
-    "titre": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-a2164f3991",
-    "chapitre_id": "finance",
-    "titre": "UK regulator admits error in calculating car finance compensation payments",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-36bf8fc718",
-    "chapitre_id": "finance",
-    "titre": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-a49950ec32",
-    "chapitre_id": "finance",
-    "titre": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-fbef423370",
-    "chapitre_id": "finance",
-    "titre": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-7dc525128d",
-    "chapitre_id": "finance",
-    "titre": "Elon Musk pledges to give two SpaceX shares to every child in the US",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-73fe8543ba",
-    "chapitre_id": "finance",
-    "titre": "Hawkish Fed poised to raise rates despite stock market turmoil",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
     "date": "2026-11-26"
   },
   {
@@ -168,6 +208,14 @@
     "date": "2026-11-26"
   },
   {
+    "id": "art-c331218a77",
+    "chapitre_id": "relations-internationales",
+    "titre": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-26"
+  },
+  {
     "id": "art-8f59fcf158",
     "chapitre_id": "production-marketing",
     "titre": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
@@ -190,22 +238,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
     "date": "2026-11-26"
-  },
-  {
-    "id": "art-04972a25d6",
-    "chapitre_id": "finance",
-    "titre": "Fuel price hike will make life 'almost impossible'",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25"
-  },
-  {
-    "id": "art-dc0c197151",
-    "chapitre_id": "finance",
-    "titre": "Interest rate affect on Guernsey's housing market",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25"
   },
   {
     "id": "art-ae5493d152",
@@ -344,14 +376,6 @@
     "date": "2026-11-24"
   },
   {
-    "id": "art-c967df2cec",
-    "chapitre_id": "relations-internationales",
-    "titre": "Trump readies raft of new tariffs on major economies",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-    "date": "2026-11-24"
-  },
-  {
     "id": "art-379006704c",
     "chapitre_id": "production-marketing",
     "titre": "Channel 4 hit as Unilever switches from TV to influencer marketing",
@@ -480,19 +504,11 @@
     "date": "2026-11-21"
   },
   {
-    "id": "art-3bd1557370",
-    "chapitre_id": "production-marketing",
-    "titre": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+    "id": "art-d057a4ec01",
+    "chapitre_id": "management-rh",
+    "titre": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-900f954ea7",
-    "chapitre_id": "production-marketing",
-    "titre": "The manufacturing of novelty",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+    "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
     "date": "2026-11-21"
   },
   {
@@ -501,14 +517,6 @@
     "titre": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-d057a4ec01",
-    "chapitre_id": "management-rh",
-    "titre": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
     "date": "2026-11-21"
   },
   {
@@ -536,14 +544,6 @@
     "date": "2026-11-20"
   },
   {
-    "id": "art-41a333d608",
-    "chapitre_id": "production-marketing",
-    "titre": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20"
-  },
-  {
     "id": "art-448352dfcd",
     "chapitre_id": "compta-audit",
     "titre": "Nvidia faces US regulator’s probe into its accounting",
@@ -558,14 +558,6 @@
     "source": "Financial Times",
     "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
     "date": "2026-11-20"
-  },
-  {
-    "id": "art-edc7b11d3a",
-    "chapitre_id": "rse-gouvernance",
-    "titre": "Leftover pumpkins help deliver 1,000th free meal",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19"
   },
   {
     "id": "art-2a19c93c43",
@@ -600,20 +592,12 @@
     "date": "2026-11-19"
   },
   {
-    "id": "art-c36c6bd432",
-    "chapitre_id": "compta-audit",
-    "titre": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
-    "date": "2026-11-18"
-  },
-  {
-    "id": "art-e566d50826",
+    "id": "art-edc7b11d3a",
     "chapitre_id": "rse-gouvernance",
-    "titre": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-    "date": "2026-11-18"
+    "titre": "Leftover pumpkins help deliver 1,000th free meal",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19"
   },
   {
     "id": "art-ff3942ae62",
@@ -629,6 +613,22 @@
     "titre": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "art-c36c6bd432",
+    "chapitre_id": "compta-audit",
+    "titre": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "art-e566d50826",
+    "chapitre_id": "rse-gouvernance",
+    "titre": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
     "date": "2026-11-18"
   },
   {
