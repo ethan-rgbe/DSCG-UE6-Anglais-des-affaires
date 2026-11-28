@@ -1,5 +1,77 @@
 [
   {
+    "id": "art-1b1ad11352",
+    "chapitre_id": "finance",
+    "titre": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts believe",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-2fa7919f99",
+    "chapitre_id": "finance",
+    "titre": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-256cd61e1a",
+    "chapitre_id": "finance",
+    "titre": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-8c39e74d33",
+    "chapitre_id": "finance",
+    "titre": "The hill I will die on: Cheques are still the best way to pay for things | Claire Jackson",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/28/the-hill-i-will-die-on-cheques-best-debit-card-chequebook",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-19f3c8bdbc",
+    "chapitre_id": "finance",
+    "titre": "Grand Theft Anthropic: how GTA can inspire a fightback against AI | Alexander Hurst",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-7c5229729a",
+    "chapitre_id": "finance",
+    "titre": "‘The key is pricing realistically’: how to sell your home in a falling market",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-6338b92da0",
+    "chapitre_id": "production-marketing",
+    "titre": "Under the influence: how creator marketing upended advertising",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-a5ee494f9f",
+    "chapitre_id": "production-marketing",
+    "titre": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "art-b283e6c618",
+    "chapitre_id": "relations-internationales",
+    "titre": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+    "date": "2026-11-28"
+  },
+  {
     "id": "art-5cfd9d09f8",
     "chapitre_id": "finance",
     "titre": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
@@ -72,22 +144,6 @@
     "date": "2026-11-27"
   },
   {
-    "id": "art-162ece2e7e",
-    "chapitre_id": "finance",
-    "titre": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
-    "date": "2026-11-27"
-  },
-  {
-    "id": "art-d522e44496",
-    "chapitre_id": "finance",
-    "titre": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
-    "date": "2026-11-27"
-  },
-  {
     "id": "art-b69603ed7d",
     "chapitre_id": "production-marketing",
     "titre": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
@@ -106,41 +162,33 @@
   {
     "id": "art-d6c9782311",
     "chapitre_id": "production-marketing",
-    "titre": "Too old for soft toys? Tell that to kidults booking up Harrods Jellycat cafe",
+    "titre": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
     "date": "2026-11-27"
   },
   {
-    "id": "art-fe62052673",
-    "chapitre_id": "finance",
-    "titre": "Millions of people to see average monthly mortgage payments rise by £100",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-a6cb16310a",
-    "chapitre_id": "finance",
-    "titre": "Norse Atlantic suspends all flights as it faces potential collapse",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-3c95547637",
-    "chapitre_id": "finance",
-    "titre": "Car finance compensation payments explained",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-d7e75c6069",
-    "chapitre_id": "finance",
-    "titre": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+    "id": "art-cbc33bf5ff",
+    "chapitre_id": "management-rh",
+    "titre": "OpenAI countersues Apple for allegedly stealing trade secrets",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "art-8f59fcf158",
+    "chapitre_id": "production-marketing",
+    "titre": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "art-e8a459f161",
+    "chapitre_id": "production-marketing",
+    "titre": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
     "date": "2026-11-26"
   },
   {
@@ -216,28 +264,36 @@
     "date": "2026-11-26"
   },
   {
-    "id": "art-8f59fcf158",
-    "chapitre_id": "production-marketing",
-    "titre": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26"
-  },
-  {
-    "id": "art-e8a459f161",
-    "chapitre_id": "production-marketing",
-    "titre": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
-    "date": "2026-11-26"
-  },
-  {
     "id": "art-14b311d8c9",
     "chapitre_id": "management-rh",
     "titre": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
     "date": "2026-11-26"
+  },
+  {
+    "id": "art-165de24871",
+    "chapitre_id": "production-marketing",
+    "titre": "Why has Poundland collapsed and what happens next?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "art-ff16e47c0d",
+    "chapitre_id": "production-marketing",
+    "titre": "Poundland collapses into administration, putting 12,000 jobs at risk",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "art-0cd7868fa5",
+    "chapitre_id": "production-marketing",
+    "titre": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+    "date": "2026-11-25"
   },
   {
     "id": "art-ae5493d152",
@@ -304,30 +360,6 @@
     "date": "2026-11-25"
   },
   {
-    "id": "art-165de24871",
-    "chapitre_id": "production-marketing",
-    "titre": "Why has Poundland collapsed and what happens next?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25"
-  },
-  {
-    "id": "art-ff16e47c0d",
-    "chapitre_id": "production-marketing",
-    "titre": "Poundland collapses into administration, putting 12,000 jobs at risk",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
-    "date": "2026-11-25"
-  },
-  {
-    "id": "art-0cd7868fa5",
-    "chapitre_id": "production-marketing",
-    "titre": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
-    "date": "2026-11-25"
-  },
-  {
     "id": "art-091d93568e",
     "chapitre_id": "compta-audit",
     "titre": "Share your most outrageous experience when trying to rent a room in the UK",
@@ -342,6 +374,22 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health",
     "date": "2026-11-25"
+  },
+  {
+    "id": "art-379006704c",
+    "chapitre_id": "production-marketing",
+    "titre": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "art-2438464970",
+    "chapitre_id": "production-marketing",
+    "titre": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "source": "The Guardian — Business",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "date": "2026-11-24"
   },
   {
     "id": "art-a80b129c68",
@@ -368,44 +416,12 @@
     "date": "2026-11-24"
   },
   {
-    "id": "art-42fa90756b",
-    "chapitre_id": "relations-internationales",
-    "titre": "Children of the revolution: how the north of England is defining modern men’s fashion",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/fashion/2026/nov/24/children-of-the-revolution-how-the-north-of-england-is-defining-modern-mens-fashion",
-    "date": "2026-11-24"
-  },
-  {
-    "id": "art-379006704c",
-    "chapitre_id": "production-marketing",
-    "titre": "Channel 4 hit as Unilever switches from TV to influencer marketing",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
-    "date": "2026-11-24"
-  },
-  {
-    "id": "art-2438464970",
-    "chapitre_id": "production-marketing",
-    "titre": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-    "date": "2026-11-24"
-  },
-  {
     "id": "art-ae2e8e2caf",
     "chapitre_id": "management-rh",
     "titre": "Trump made up to $15m on Nvidia stock after Huang’s return",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
     "date": "2026-11-24"
-  },
-  {
-    "id": "art-f2571879ac",
-    "chapitre_id": "si-technologies",
-    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
-    "source": "BBC Business",
-    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23"
   },
   {
     "id": "art-fa4c230e3b",
@@ -424,20 +440,20 @@
     "date": "2026-11-23"
   },
   {
+    "id": "art-f2571879ac",
+    "chapitre_id": "si-technologies",
+    "titre": "How important are Nvidia and Jensen Huang to the US economy?",
+    "source": "BBC Business",
+    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
     "id": "art-8fce329df4",
     "chapitre_id": "management-rh",
     "titre": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "source": "BBC Business",
     "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-23"
-  },
-  {
-    "id": "art-0ea430def4",
-    "chapitre_id": "si-technologies",
-    "titre": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
-    "date": "2026-11-22"
   },
   {
     "id": "art-414e7c0b89",
@@ -448,11 +464,11 @@
     "date": "2026-11-22"
   },
   {
-    "id": "art-634423e927",
-    "chapitre_id": "production-marketing",
-    "titre": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+    "id": "art-0ea430def4",
+    "chapitre_id": "si-technologies",
+    "titre": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
     "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
     "date": "2026-11-22"
   },
   {
@@ -493,14 +509,6 @@
     "titre": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-    "date": "2026-11-21"
-  },
-  {
-    "id": "art-1d796e9f46",
-    "chapitre_id": "production-marketing",
-    "titre": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
     "date": "2026-11-21"
   },
   {
@@ -694,14 +702,6 @@
     "source": "The Guardian — Business",
     "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
     "date": "2026-11-14"
-  },
-  {
-    "id": "art-0daac84b88",
-    "chapitre_id": "management-rh",
-    "titre": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-    "source": "The Guardian — Business",
-    "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-    "date": "2026-11-13"
   },
   {
     "id": "art-f80527b0e0",
